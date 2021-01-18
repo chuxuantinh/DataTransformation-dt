@@ -1,0 +1,92 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "title",
+        "creators" : [{
+            "person" : {
+                "givenName" : "fname",
+                "familyName" : "surname",
+                "organizations" : [{
+                    "identifier" : "ou_976546",
+                    "name" : "nameelt",
+                    "address" : "address"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "year-month-day",
+        "datePublishedInPrint" : "year-month-day",
+        "dateAccepted" : "year-month-day",
+        "dateModified" : "year-month-day",
+        "dateSubmitted" : "year-month-day",
+        "event" : {
+            "title" : "",
+            "place" : "",
+            "startDate" : "year-month-day",
+            "endDate" : "year-month-day"
+        },
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "doi",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "link",
+            "volume" : "volumeref",
+            "issue" : "issueref", 
+            "startPage" : "fpage", 
+            "endPage" : "lpage",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : " ",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "ictext",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "abstract"
+        }],
+        "subjects" : [{
+            "type" :"DDC"
+        }],
+        "totalNumberOfPages" : "no-of-pages",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "award-number",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"funder-name"
+                },
+                "fundingProgram" : {
+                    "title" : "",
+                    "identifiers" : [ {
+                        "id" : "",
+                        "type" : "OPEN_AIRE"
+                    } ]
+                }
+            }
+        }]
+    },
+    "files" : [ {
+      "visibility" : "PUBLIC",
+      "content" : "returned_by_staging",
+      "storage" : "INTERNAL_MANAGED",
+      "metadata" : {
+        "title" : "xx.pdf",
+        "contentCategory" : "any-fulltext"
+      }
+    } ]
+}

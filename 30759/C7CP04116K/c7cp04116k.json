@@ -1,0 +1,97 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "On the nanosecond proton dynamics in phosphoric acid–benzimidazole and phosphoric acid–water mixtures",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Jan-Patrick",
+                "familyName" : "Melchior",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute for Solid State Research",
+                    "address" : "Heisenbergstraße 1, 70569 Stuttgart, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Bernhard",
+                "familyName" : "Frick",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institut Laue-Langevin",
+                    "address" : "71, avenue des Martyrs, CS 20156, F-38042 Grenoble, France"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-24",
+        "datePublishedInPrint" : "2017-11-01",
+        "dateAccepted" : "2017-09-21",
+        "dateSubmitted" : "2017-06-19",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cp04116k",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Physical Chemistry Chemical Physics ", 
+            "volume" : "19",
+            "issue" : "42", 
+            "startPage" : "28540", 
+            "endPage" : "28554",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1463-9076",
+                "type" : "ISSN"
+            },{
+                "id" : "1463-9084",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Combining <sup>1</sup>H-NMR, <sup>17</sup>O-NMR, and high-resolution backscattering QENS hydrodynamic and structural proton transport in phosphoric acid is separated. The rate limiting steps for structural proton diffusion in mixtures of acid with Brønsted bases are found to occur below the nanosecond timescale.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "The unique proton conduction mechanism of phosphoric acid is important for the functions of complex phosphate containing biological and technological systems (e.g. phospholipid membranes and polybenzimidazole phosphoric acid membranes for high-temperature PEM fuel cells). In neat phosphoric acid structural proton diffusion, i.e. proton hopping between phosphoric acid molecules, is superimposed onto hydrodynamic diffusion of the molecules in the viscous liquid. In this study we separate the two dynamic contributions on the nanosecond timescale for the model systems phosphoric acid–water and phosphoric acid–benzimidazole. We demonstrate that <sup>1</sup>H NMR dipolar relaxation measurements are controlled by hydrodynamic diffusion for the investigated conditions, while <sup>17</sup>O NMR quadrupolar relaxation measurements reflect local proton displacement as part of structural diffusion. Quasielastic neutron scattering (QENS) applying high resolution backscattering spectroscopy (nBSS) confirms structural proton diffusion measurements using PFG-NMR in phosphoric acid–benzimidazole mixtures at different concentrations. With increasing benzimidazole content proton diffusion coefficients on the nanosecond scale decrease, thus following the trend of reduced hydrogen bond network frustration. The momentum transfer (Q) dependence of the width of the QENS spectra indicates the jump diffusion mechanism and can be scaled to a master plot both for different temperatures and different benzimidazole contents. This indicates a fundamentally unchanged structural proton diffusion process, however, with a lower probability of occurrence for successful intermolecular proton transfer with increasing benzimidazole content. Results of this work enable a better separation of different diffusion processes on short timescales also in more complex phosphoric acid containing systems."
+        }],
+        "subjects" : [{
+            "type" :""
+        }],
+        "totalNumberOfPages" : "15",
+        "projectInfo" : [{
+            "title" :"",
+            "grantIdentifier" : {
+                "id" : "PSUMEA-2 No. 03SF0473",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Bundesministerium für Bildung und Forschung"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CP04116K.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

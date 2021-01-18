@@ -1,0 +1,132 @@
+
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Free radical and RAFT polymerization of vinyl esters in metal–organic-frameworks",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Jongkook",
+                "familyName" : "Hwang",
+                "organizations" : [{
+                    "identifier" : "ou_1863284",
+                    "name" : "Department of Colloid Chemistry, Max-Planck Institute of Colloids and Interfaces",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons210940",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Hui-Chun",
+                "familyName" : "Lee",
+                "organizations" : [{
+                    "identifier" : "ou_1863284",
+                    "name" : "Department of Colloid Chemistry, Max-Planck Institute of Colloids and Interfaces",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons200453",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Markus",
+                "familyName" : "Antonietti",
+                "organizations" : [{
+                    "identifier" : "ou_1863284",
+                    "name" : "Department of Colloid Chemistry, Max-Planck Institute of Colloids and Interfaces",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons1057",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Bernhard V. K. J.",
+                "familyName" : "Schmidt",
+                "organizations" : [{
+                    "identifier" : "ou_1863284",
+                    "name" : "Department of Colloid Chemistry, Max-Planck Institute of Colloids and Interfaces",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons179930",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-05",
+        "datePublishedInPrint" : "2017-10-17",
+        "dateAccepted" : "2017-09-27",
+        "dateSubmitted" : "2017-09-18",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7py01607g",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Polymer Chemistry", 
+            "volume" : "8",
+            "issue" : "40", 
+            "startPage" : "6204", 
+            "endPage" : "6208",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1759-9962",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "In here, the reversible deactivation radical polymerization of vinyl esters inside metal–organic frameworks is presented for the first time.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Free radical and RAFT polymerization of vinyl esters with different molecular dimensions are conducted in the nanochannels of metal–organic-frameworks (MOFs). The combination of MOFs with the RAFT technique enables the synthesis of highly isotactic poly(vinyl ester)s with a controlled molecular weight and narrow molecular weight distribution, and stereocontrolled isotactic-block-atactic vinyl ester block copolymers."
+        }],
+        "totalNumberOfPages" : "5",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Max-Planck-Gesellschaft"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7PY01607G.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

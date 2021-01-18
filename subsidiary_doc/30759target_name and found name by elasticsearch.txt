@@ -1,0 +1,188 @@
+c7cc05669a ./30759\C7CC05669A\c7cc05669a.xml
+target name: Department of Heterogeneous Catalysis  Max Planck Institute for Chemical Energy Conversion  Stiftstrasse 34 36
+Max Planck Institute for Chemical Physics of Solids
+target name: Department of Heterogeneous Catalysis  Max Planck Institute for Chemical Energy Conversion  Stiftstrasse 34 36
+Max Planck Institute for Chemical Physics of Solids
+target name: Department of Heterogeneous Catalysis  Max Planck Institute for Chemical Energy Conversion  Stiftstrasse 34 36
+Max Planck Institute for Chemical Physics of Solids
+target name: Department of Heterogeneous Catalysis  Max Planck Institute for Chemical Energy Conversion  Stiftstrasse 34 36
+Max Planck Institute for Chemical Physics of Solids
+c7ce01229b ./30759\C7CE01229B\c7ce01229b.xml
+target name: College of Marine Science and Biological Engineering  Qingdao University of Science and Technology
+external affa
+target name: Key Laboratory of Marine Chemistry Theory and Technology  Ministry of Education  College of Chemistry and Chemical Engineering  Ocean University of China
+external affa
+target name: College of Chemistry and Environmental Engineering  Baise University
+external affa
+target name: College of Marine Science and Biological Engineering  Qingdao University of Science and Technology
+external affa
+target name: Key Laboratory of Marine Chemistry Theory and Technology  Ministry of Education  College of Chemistry and Chemical Engineering  Ocean University of China
+external affa
+target name: Key Laboratory of Marine Chemistry Theory and Technology  Ministry of Education  College of Chemistry and Chemical Engineering  Ocean University of China
+external affa
+target name: Max Planck Institute for Terrestrial Microbiology & LOEWE Center for Synthetic Microbiology (SYNMIKRO)
+Max Planck Institute for Marine Microbiology
+c7ce01406f ./30759\C7CE01406F\c7ce01406f.xml
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Institute of Inorganic Chemistry and Analytical Chemistry  Johannes Gutenberg University  Mainz
+external affa
+target name: Institute of Physics  Johannes Gutenberg University Mainz
+external affa
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+c7cp03942e ./30759\C7CP03942E\c7cp03942e.xml
+target name: Max Planck Institut für Chemische Energiekonversion
+Max-Planck-Institut für Kohlenforschung
+target name: Laboratorio di Biochimica e Biofisica  Dipartimento di Farmacia e Biotecnologie  FaBiT  Università di Bologna
+external affa
+target name: Max Planck Institut für Chemische Energiekonversion
+Max-Planck-Institut für Kohlenforschung
+target name: Laboratorio di Biochimica e Biofisica  Dipartimento di Farmacia e Biotecnologie  FaBiT  Università di Bologna
+external affa
+target name: Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM)  co Dipartimento di
+Fisica  Università di Bologna
+external affa
+target name: Max Planck Institut für Chemische Energiekonversion
+Max-Planck-Institut für Kohlenforschung
+target name: Department of Physics  Free University Berlin
+external affa
+target name: Max Planck Institut für Chemische Energiekonversion
+Max-Planck-Institut für Kohlenforschung
+c7cp04116k ./30759\C7CP04116K\c7cp04116k.xml
+target name: Max Planck Institute for Solid State Research
+Max Planck Institute for Astronomy
+target name: Institut Laue Langevin
+external affa
+c7cp05445a ./30759\C7CP05445A\c7cp05445a.xml
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Department of Chemistry  Aarhus University
+external affa
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Department of Chemistry  Aarhus University
+external affa
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+c7cp05445a: no projectInfo
+c7cp05897g ./30759\C7CP05897G\c7cp05897g.xml
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Department of Chemical Engineering  University of Washington  105 Benson Hall
+external affa
+target name: Department of Chemical Engineering  University of Washington  105 Benson Hall
+external affa
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Max Planck Institute for Polymer Research
+MPI for Polymer Research
+target name: Department of Chemical Engineering  University of Washington  105 Benson Hall
+external affa
+target name: Department of Chemistry  Aarhus University
+external affa
+c7cp05897g: multiple funders
+c7cy01451a ./30759\C7CY01451A\c7cy01451a.xml
+target name: Max Planck Institut für Kohlenforschung  Kaiser Wilhelm Platz 1
+Max-Planck-Institut für Kohlenforschung
+target name: Max Planck Institut für Kohlenforschung  Kaiser Wilhelm Platz 1
+Max-Planck-Institut für Kohlenforschung
+target name: Max Planck Institut für Kohlenforschung  Kaiser Wilhelm Platz 1
+Max-Planck-Institut für Kohlenforschung
+c7cy01451a: no projectInfo
+c7dt03288a ./30759\C7DT03288A\c7dt03288a.xml
+target name: Max Planck Institute for Solid State Research
+Max Planck Institute for Astronomy
+target name: Max Planck Institute for Solid State Research
+Max Planck Institute for Astronomy
+target name: State Academy of Art and Design
+external affa
+target name: High Resolution Powder Diffraction Beamline (I11)  Diamond Light Source Ltd  Harwell Science and Innovation Campus
+external affa
+target name: Max Planck Institute for Solid State Research
+Max Planck Institute for Astronomy
+c7ee02110k ./30759\C7EE02110K\c7ee02110k.xml
+target name: Max Planck Institute of Colloids and Interfaces  Department of Colloid Chemistry  Research Campus Golm
+Max Planck Institute of Colloids and Interfaces
+target name: Max Planck Institute of Colloids and Interfaces  Department of Colloid Chemistry  Research Campus Golm
+Max Planck Institute of Colloids and Interfaces
+c7ee02110k: no projectInfo
+c7lc00929a ./30759\C7LC00929A\c7lc00929a.xml
+target name: TU Braunschweig  Institute of Microtechnology
+external affa
+target name: Max Planck Institute for Biophysical Chemistry
+MPI for Biophysical Chemistry
+target name: Max Planck Institute for Biophysical Chemistry
+MPI for Biophysical Chemistry
+target name: Max Planck Institute for Biophysical Chemistry
+MPI for Biophysical Chemistry
+target name: TU Braunschweig  Institute of Microtechnology
+external affa
+target name: TU Braunschweig  Institute of Microtechnology
+external affa
+target name: Max Planck Institute for Biophysical Chemistry
+MPI for Biophysical Chemistry
+c7lc00929a: multiple funders
+c7nh00111h ./30759\C7NH00111H\c7nh00111h.xml
+target name: Max Planck Institut für Eisenforschung GmbH
+Max-Planck-Institut für Eisenforschung GmbH
+target name: Max Planck Institut für Eisenforschung GmbH
+Max-Planck-Institut für Eisenforschung GmbH
+target name: Max Planck Institut für Eisenforschung GmbH
+Max-Planck-Institut für Eisenforschung GmbH
+target name: Department of Materials Science and Engineering  NTNU  Norwegian University of Science and Technology
+external affa
+c7nr05301k ./30759\C7NR05301K\c7nr05301k.xml
+target name: Secció de Fisicoquímica  Facultat de Farmàcia i Ciències de l'Alimentació  Universitat de Barcelona
+external affa
+target name: Secció de Fisicoquímica  Facultat de Farmàcia i Ciències de l'Alimentació  Universitat de Barcelona
+external affa
+target name: Grupo de Física de Fluidos y Biocoloides  Departamento de Física Aplicada  Facultad de Ciencias  Universidad de Granada
+external affa
+target name: Max Planck Institute for the Physics of Complex Systems
+Max Planck Institute for the Physics of Complex Systems
+c7nr05301k: no projectInfo
+c7py01607g ./30759\C7PY01607G\c7py01607g.xml
+target name: Department of Colloid Chemistry  Max Planck Institute of Colloids and Interfaces
+Max Planck Institute of Colloids and Interfaces
+target name: Department of Colloid Chemistry  Max Planck Institute of Colloids and Interfaces
+Max Planck Institute of Colloids and Interfaces
+target name: Department of Colloid Chemistry  Max Planck Institute of Colloids and Interfaces
+Max Planck Institute of Colloids and Interfaces
+target name: Department of Colloid Chemistry  Max Planck Institute of Colloids and Interfaces
+Max Planck Institute of Colloids and Interfaces
+c7sm01189j ./30759\C7SM01189J\c7sm01189j.xml
+target name: IRIDIA  CoDE  Université libre de Bruxelles
+external affa
+target name: Département d'Informatique  Université libre de Bruxelles
+external affa
+target name: Physical Intelligence Department  Max Planck Institute for Intelligent Systems
+Dept. Physical Intelligence
+target name: Max Planck ETH Center for Learning Systems
+external affa
+target name: IRIDIA  CoDE  Université libre de Bruxelles
+external affa
+target name: Physical Intelligence Department  Max Planck Institute for Intelligent Systems
+Dept. Physical Intelligence
+target name: Max Planck ETH Center for Learning Systems
+external affa
+c7sm01568b ./30759\C7SM01568B\c7sm01568b.xml
+target name: Department of Physics  Institute for Advanced Studies in Basic Sciences (IASBS)
+external affa
+target name: Department of Physics  Institute for Advanced Studies in Basic Sciences (IASBS)
+external affa
+target name: Department of Physics  Alzahra University
+external affa
+target name: Max Planck Institute for Dynamics and Self Organization
+Max Planck Institute for Dynamics and Self-Organization
+c7sm01568b: no projectInfo

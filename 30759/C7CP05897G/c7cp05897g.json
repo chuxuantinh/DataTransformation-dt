@@ -1,0 +1,188 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "LK peptide side chain dynamics at interfaces are independent of secondary structure",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Michael A.",
+                "familyName" : "Donovan",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, 55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons195559",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Helmut",
+                "familyName" : "Lutz",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, 55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons136770",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Yeneneh Y.",
+                "familyName" : "Yimer",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Chemical Engineering, University of Washington",
+                    "address" : "Seattle, WA 98195, USA"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Jim",
+                "familyName" : "Pfaendtner",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Chemical Engineering, University of Washington",
+                    "address" : "Seattle, WA 98195, USA"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Mischa",
+                "familyName" : "Bonn",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, 55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons47659",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Tobias",
+                "familyName" : "Weidner",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, 55128 Mainz, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Department of Chemical Engineering, University of Washington",
+                    "address" : "Seattle, WA 98195, USA"
+                },{
+                    "identifier" : "",
+                    "name" : "Department of Chemistry, Aarhus University",
+                    "address" : "Langelandsgade 140, 8000 Aarhus C, Denmark"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons79137",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-18",
+        "datePublishedInPrint" : "2017-11-01",
+        "dateAccepted" : "2017-10-02",
+        "dateSubmitted" : "2017-08-29",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cp05897g",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Physical Chemistry Chemical Physics", 
+            "volume" : "19",
+            "issue" : "42", 
+            "startPage" : "28507", 
+            "endPage" : "28511",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1463-9076",
+                "type" : "ISSN"
+            },{
+                "id" : "1463-9084",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Real-time observation of the ultrafast motions of leucine side chains within model peptides at the water–air interface with representative folds – α-helix, 3<sub>10</sub>-helix, β-strand – show that interfacial dynamics are mostly determined by surface interactions.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Protein side chain dynamics are critical for specific protein binding to surfaces and protein-driven surface manipulation. At the same time, it is highly challenging to probe side chain motions specifically at interfaces. One important open question is the degree to which the motions of side chains are dictated by local protein folding or by interactions with the surface. Here, we present a real-time measurement of the orientational dynamics of leucine side chains within leucine–lysine (LK) model peptides at the water–air interface, with three representative peptide folds: α-helix, 3<sub>10</sub>-helix and β-strand. The results, modeled and supported by molecular dynamics simulations, show that the different peptide folds exhibit remarkably similar sub-picosecond orientational side chain dynamics at the air/water interface. This demonstrates that the side chain motional dynamics is decoupled from the local secondary structure."
+        }],
+        "totalNumberOfPages" : "5",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Aarhus Universitets Forskningsfond"
+                }
+            }
+        },{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "WE 4478/4-1",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Deutsche Forschungsgemeinschaft"
+                }
+            }
+        },{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "CBET-1264459",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Directorate for Engineering"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CP05897G.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

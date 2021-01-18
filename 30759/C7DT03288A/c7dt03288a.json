@@ -1,0 +1,128 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "On verdigris, part I: synthesis, crystal structure solution and characterisation of the 1–2–0 phase (Cu<sub>3</sub>(CH<sub>3</sub>COO)<sub>2</sub>(OH)<sub>4</sub>)",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Sebastian",
+                "familyName" : "Bette",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute for Solid State Research",
+                    "address" : "Heisenbergstr. 1, 70569 Stuttgart, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Reinhard K.",
+                "familyName" : "Kremer",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute for Solid State Research",
+                    "address" : "Heisenbergstr. 1, 70569 Stuttgart, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Gerhard",
+                "familyName" : "Eggert",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "State Academy of Art and Design",
+                    "address" : "Am Weißenhof 1, 70191 Stuttgart, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Chiu C.",
+                "familyName" : "Tang",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "High Resolution Powder Diffraction Beamline (I11), Diamond Light Source Ltd",
+                    "address" : "Harwell Science and Innovation Campus, Didcot, Oxfordshire, OX11 0DE, UK"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Robert E.",
+                "familyName" : "Dinnebier",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute for Solid State Research",
+                    "address" : "Heisenbergstr. 1, 70569 Stuttgart, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-18",
+        "dateAccepted" : "2017-10-10",
+        "dateSubmitted" : "2017-09-05",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7dt03288a",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Dalton Transactions", 
+            "volume" : "46",
+            "issue" : "43", 
+            "startPage" : "14847", 
+            "endPage" : "14858",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1477-9226",
+                "type" : "ISSN"
+            },{
+                "id" : "1477-9234",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Cu<sub>3</sub>(CH<sub>3</sub>COO)<sub>2</sub>(OH)<sub>4</sub> a historic blue verdigris pigment phase was synthesised and characterised by its spectroscopic and magnetic properties.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Known synthesis approaches for basic copper(ii) acetates, the main components of historic verdrigis pigments were reinvestigated and revealed to be partially irreproducible. A modification of the reaction conditions led to the successful and reproducible synthesis of the 1–2–0 phase (Cu<sub>3</sub>(CH<sub>3</sub>COO)<sub>2</sub>(OH)<sub>4</sub> = 1Cu(CH<sub>3</sub>COO)<sub>2</sub>·2Cu(OH)<sub>2</sub>·0H<sub>2</sub>O). The phase composition was derived from elemental and thermal analysis and confirmed by the crystal structure solution using synchrotron X-ray powder diffraction (XRPD) data. The 1–2–0 phase crystallises in space group Pbca with lattice parameters of a = 20.9742(1) Å, b = 7.2076(1) Å, and c = 13.1220(1) Å. The crystal structure consists of Cu<sub>2</sub>(CH<sub>3</sub>-COO)<sub>2</sub>(OH)<sub>4/3</sub>(OH)<sub>2/2</sub><sup>1/3−</sup> dimers, which are interconnected by corner sharing Cu(OH)<sub>2/3</sub>(OH)<sub>2/2</sub><sup>1/3+</sup> squares forming layers perpendicular to the a-axis. The deep blue color of the solid originates from a reflectance maximum at 472 nm and from an absorbance maximum at 676 nm that is comparable with other historic blue pigments like azurite or Egyptian blue. IR- and Raman-spectroscopic properties of the solid were investigated as well, which demonstrated that the obtained product is identical with a previously synthesised verdigris phase that was obtained by applying historical procedures. Therefore, our reference data for the title compound will help to improve the understanding of the multiphase mixtures occurring in historic verdigris samples. The magnetic properties of the 1–2–0 phase were also investigated. At low temperatures the magnetic susceptibility is well described by a spin-1/2 Heisenberg chain with uniform antiferromagnetic nearest-neighbour spin exchange coupling of only one of three Cu magnetic moments. Due to the very strong antiferromagnetic coupling of the Cu<sub>2</sub>(CH<sub>3</sub>-COO)<sub>2</sub>(OH)<sub>4/3</sub>(OH)<sub>2/2</sub><sup>1/3−</sup> dimers their contribution to magnetism becomes relevant above ∼140 K, which results in the presence of two distinct temperature regions where Curie–Weiss behaviour of the magnetic susceptibility with different Curie constants and Weiss temperatures is found."
+        }],
+        "totalNumberOfPages" : "12",
+        "projectInfo" : [{
+            "title" :"In search of structure",
+            "grantIdentifier" : {
+                "id" : "EG 137/9-1",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Deutsche Forschungsgemeinschaft"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7DT03288A.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

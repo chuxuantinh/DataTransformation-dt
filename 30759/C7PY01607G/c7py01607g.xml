@@ -1,0 +1,1223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="COM" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tmp="http://www.rsc.org/editing" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7py01607g</ms-id>
+    <doi>10.1039/c7py01607g</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>September</month>
+        <day>18</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>September</month>
+      <day>27</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>PY</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>5</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>PY</link>
+    </journalref>
+    <volumeref>
+      <link>8</link>
+    </volumeref>
+    <issueref>
+      <link>40</link>
+    </issueref>
+    <pubfront>
+      <fpage>6204</fpage>
+      <lpage>6208</lpage>
+      <no-of-pages>5</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>10</month>
+        <day>17</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>PY</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+    <fundgrp>
+      <funder>
+        <funder-name>Max-Planck-Gesellschaft</funder-name>
+        <funder-identifier>10.13039/501100004189</funder-identifier>
+        <award-number>Unassigned</award-number>
+      </funder>
+    </fundgrp>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>Free radical and RAFT polymerization of vinyl esters in metal–organic-frameworks<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available. See DOI: <url>10.1039/c7py01607g</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa">
+        <person orcid="0000-0003-0953-8272" resid="G-6511-2015">
+          <persname>
+            <fname>Jongkook</fname>
+            <surname>Hwang</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person>
+          <persname>
+            <fname>Hui-Chun</fname>
+            <surname>Lee</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person>
+          <persname>
+            <fname>Markus</fname>
+            <surname>Antonietti</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa" role="corres">
+        <person orcid="0000-0002-3580-7053" resid="A-9543-2011">
+          <persname>
+            <fname>Bernhard V. K. J.</fname>
+            <surname>Schmidt</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Department of Colloid Chemistry</nameelt>
+            <nameelt>Max-Planck Institute of Colloids and Interfaces</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Am Mühlenberg 1</addrelt>
+          <city>14476 Potsdam</city>
+          <country>Germany</country>
+        </address>
+        <email>bernhard.schmidt@mpikg.mpg.de</email>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>In here, the reversible deactivation radical polymerization of vinyl esters inside metal–organic frameworks is presented for the first time.</ictext>
+      <icgraphic id="ga" xsrc="c7py01607g-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>Free radical and RAFT polymerization of vinyl esters with different molecular dimensions are conducted in the nanochannels of metal–organic-frameworks (MOFs). The combination of MOFs with the RAFT technique enables the synthesis of highly isotactic poly(vinyl ester)s with a controlled molecular weight and narrow molecular weight distribution, and stereocontrolled isotactic-<it>block</it>-atactic vinyl ester block copolymers.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <p>Poly(vinyl ester)s (PVEs) are an industrially important class of polymers with a broad range of applications such as adhesives, paints and coatings.<citref idrefs="cit1">1</citref> Moreover, PVEs are utilized as precursors for poly(vinyl alcohol)s (PVAs) which attract considerable attention due to their water solubility, non-toxicity and biocompatibility that are suitable for various bio- and medical-applications.<citref idrefs="cit2">2</citref> To meet the growing demand for functional PVEs, the ability to realize precision polymers having the needed properties and structures is an essential prerequisite.</p>
+      <p>Control over the primary structures of PVEs, <it>e.g.</it>, molecular weight (MW) and – less often considered – tacticity, is an essential yet challenging task to control the properties of polymers. Because vinyl esters lack conjugated substituents, their propagating radicals have high reactivity and low stability, resulting often in uncontrollable chain transfer and side reactions. Although a few reversible deactivation radical polymerization (RDRP) techniques including iodine transfer-,<citref idrefs="cit3">3</citref> cobalt mediated-,<citref idrefs="cit4">4</citref> organostibine mediated-,<citref idrefs="cit5">5</citref> iron complex catalyzed-radical polymerization<citref idrefs="cit6">6</citref> and reversible addition fragmentation transfer (RAFT)<citref idrefs="cit7">7</citref> have provided PVEs with relatively controlled MW and polydispersity (<it>Đ</it>), only negligible or no effect on stereostructures was induced. Indeed, the tacticity control of PVEs can only be achieved by using monomers with bulky/polar substituents and adding Lewis acids or fluoroalcohols into the reaction medium.<citref idrefs="cit8">8</citref> Nevertheless, these approaches sometimes require expensive chemicals or specific conditions at a very low temperature (−78 °C) which are not appropriate for most of the RDRP processes, and thus are mostly limited to free radical polymerization, affording on this end polymers with uncontrolled MW and relatively high <it>Đ</it>. In addition, common methods effectively produce syndiotacticity-rich PVEs only. In this context, the development of an efficient method that simultaneously controls the MW, <it>Đ</it> and tacticity – preferably towards isotacticity which is not accessible by conventional methods – of PVEs is relevant.</p>
+      <p>Recently, metal–organic-frameworks, MOFs, crystalline porous materials constructed by joining metal-ion-containing nodes with organic ligands, have shown promise as versatile hosts for controlled polymerization or as polymerization catalysts.<citref idrefs="cit9">9</citref> Their unique structural characteristics such as highly ordered and chemically homogeneous micropores (nanochannels), controllable pore size and pore functionality can provide steric discrimination to promote specific size and shape effects on the monomer arrangements/conformation, possibly enabling the production of vinyl polymers with controlled MW, stereo- and regio-structures, reaction sites, monomer sequence and chain alignment.<citref idrefs="cit10 cit11 cit12 cit13">10,11–13</citref> Despite this remarkable progress, there are still several issues to be addressed. First, the previously described effect of the MOF nanochannels on tacticity was relatively small. <it>e.g.</it>, poly(vinyl acetate) obtained from the MOF shows an increase in mesodiads of only 8% when compared with that of the bulk counterpart.<citref idrefs="cit13">13</citref> Second, the understanding of detailed aspects of polymerization in MOFs (<it>e.g.</it>, effect of the monomer or nanochannel size on polymerization) is still limited. Few systematic studies based on a specific monomer have been reported.<citref idrefs="cit12 cit13">12,13</citref> Third, the polymerization of vinyl monomers in the MOF still remains restricted to free radical polymerization. Although propagating radicals in the MOF are remarkably stabilized and show a living-like characteristic, the inherent drawbacks of free radical polymerization inevitably lead to relatively broad molecular weight distribution (MWD) and limited control over macromolecular architectures or end groups.</p>
+      <p>To overcome these limitations, here we introduce free radical and RAFT polymerization of vinyl esters in the MOF, [Zn<inf>2</inf>(bdc)<inf>2</inf>ted]<inf><it>n</it></inf> (bdc = benzene-1,4-dicarboxylic acid and ted = triethylenediamine),<citref idrefs="cit14">14</citref> which has uniform one-dimensional nanochannels of 7.5 × 7.5 Å<sup>2</sup> along the <it>c</it> axis (<schemref idrefs="sch1">Scheme 1</schemref>). The MOF nanochannel is utilized as a nanoreactor to regulate the stereostructures (<it>i.e.</it>, increase in isotacticity), while RAFT further provides access to PVEs with narrow MWD and controlled molecular architectures. The combination strategy allows the synthesis of highly isotactic PVEs with controllable MW and low <it>Đ</it>, which in turn enables the preparation of stereocontrolled isotactic-<it>b</it>-atactic vinyl ester block copolymers for the first time.</p>
+      <scheme id="sch1" xsrc="c7py01607g-s1.tif">
+        <title>Free radical and RAFT polymerization of vinyl esters in the MOF and sequential preparation of isotactic-<it>b</it>-atactic block copolymers.</title>
+      </scheme>
+      <p>We first studied the monomer size effect on free radical polymerization by using vinyl esters with different molecular dimensions (length × width), <it>i.e.</it>, vinyl acetate (VAc) (5.9 × 4.0 Å<sup>2</sup>), vinyl propionate (VPr) (6.4 × 4.0 Å<sup>2</sup>), and vinyl butyrate (VBu) (6.8 × 4.1 Å<sup>2</sup>). The monomer/AIBN/(RAFT agent) solution was adsorbed in the nanochannels of the MOF by wetness impregnation. The excess monomer external to the MOF was removed under reduced pressure. The monomer loaded MOF (monomer@MOF) was heated at 60 °C for 48 h under a nitrogen atmosphere to form a polymer@MOF composite. Subsequently, the MOF host was decomposed in an aqueous Na<inf>2</inf>EDTA solution to liberate the polymers from the frameworks. The results of <it>f</it>-/<it>r</it>-PVE in the MOF are summarized in <tableref idrefs="tab1">Table 1</tableref>, where <it>f</it> and <it>r</it> denote free radical and RAFT polymerization, respectively.</p>
+      <table-entry id="tab1">
+        <title>Free radical<fnoteref idrefs="tab1fna"></fnoteref> and RAFT<fnoteref idrefs="tab1fnb"></fnoteref> polymerization of vinyl ester in the MOF at 60 °C for 48 h</title>
+        <table>
+          <tgroup cols="6">
+            <colspec align="left" colname="1" colnum="1" colwidth="84.97pt" />
+            <colspec align="left" colname="2" colnum="2" colwidth="110.31pt" />
+            <colspec align="left" colname="3" colnum="3" colwidth="69.05pt" />
+            <colspec align="left" colname="4" colnum="4" colwidth="96.50pt" />
+            <colspec align="left" colname="5" colnum="5" colwidth="47.26pt" />
+            <colspec align="left" colname="6" colnum="6" colwidth="114.14pt" />
+            <thead>
+              <row>
+                <entry>Sample</entry>
+                <entry>Adsorbed monomer<fnoteref idrefs="tab1fnc"></fnoteref> [number per unit cell]</entry>
+                <entry>Conv.<fnoteref idrefs="tab1fnc"></fnoteref> [%]</entry>
+                <entry>
+                  <it>M</it>
+                  <inf>n, SEC</inf> <fnoteref idrefs="tab1fnd"></fnoteref> [g mol<sup>−1</sup>]</entry>
+                <entry>
+                  <it>Đ</it>
+                </entry>
+                <entry>Tacticity, <it>mm</it> : <it>mr</it> : <it>rr</it> (<it>m</it>)<fnoteref idrefs="tab1fne"></fnoteref> [%]</entry>
+              </row>
+            </thead>
+            <tfoot>
+              <row>
+                <entry nameend="6" namest="1">
+                  <footnote id="tab1fna">[AIBN] : [monomer] = 1 : 471 at 60 °C for 48 h.</footnote>
+                  <footnote id="tab1fnb">[AIBN] : [RAFT agent] : [monomer] = 1 : 3 : 471 at 60 °C for 48 h.</footnote>
+                  <footnote id="tab1fnc">Determined by TGA.</footnote>
+                  <footnote id="tab1fnd">Determined by SEC against PS calibration.</footnote>
+                  <footnote id="tab1fne">Determined by <sup>1</sup>H NMR of PVA in dimethyl sulfoxide (DMSO)-<it>d</it><inf>6</inf> at ambient temperature.</footnote>
+                </entry>
+              </row>
+            </tfoot>
+            <tbody>
+              <row>
+                <entry>
+                  <it>f</it>-PVAc in MOF</entry>
+                <entry>3.6</entry>
+                <entry>63</entry>
+                <entry>42 500</entry>
+                <entry>2.17</entry>
+                <entry>30 : 50 : 20 (55)</entry>
+              </row>
+              <row>
+                <entry>
+                  <it>f</it>-PVPr in MOF</entry>
+                <entry>2.8</entry>
+                <entry>43</entry>
+                <entry>20 400</entry>
+                <entry>1.71</entry>
+                <entry>36 : 49 : 15 (61)</entry>
+              </row>
+              <row>
+                <entry>
+                  <it>f</it>-PVBu in MOF</entry>
+                <entry>2.4</entry>
+                <entry>32</entry>
+                <entry>17 500</entry>
+                <entry>1.51</entry>
+                <entry>25 : 49 : 26 (50)</entry>
+              </row>
+              <row>
+                <entry>
+                  <it>r</it>-PVAc in MOF</entry>
+                <entry>3.6</entry>
+                <entry>65</entry>
+                <entry>21 700</entry>
+                <entry>1.25</entry>
+                <entry>30 : 50 : 20 (55)</entry>
+              </row>
+              <row>
+                <entry>
+                  <it>r</it>-PVPr in MOF</entry>
+                <entry>2.8</entry>
+                <entry>47</entry>
+                <entry>14 300</entry>
+                <entry>1.34</entry>
+                <entry>36 : 50 : 14 (61)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </table-entry>
+      <p>The amount of the adsorbed monomer in the MOF decreases slightly with increase of the molecular dimension of the monomer, as determined by thermogravimetric analysis (TGA) (Fig. S1;<fnoteref idrefs="fn1"></fnoteref><tableref idrefs="tab1">Table 1</tableref>). Powder X-ray diffraction patterns of polymer@MOF composites are in good agreement with that of the pristine MOF, indicating that microstructures of the MOF are well-retained without structural deformation during polymerization (Fig. S2a<fnoteref idrefs="fn1"></fnoteref>). The relative peak intensity changed, which results from the introduction of the PVEs in the nanochannels of the MOF.<citref idrefs="cit11 cit15">11,15</citref> To further support the incorporation of PVEs, N<inf>2</inf> gas physisorption experiments were performed for the MOF and polymer@MOF composites (Fig. S2b<fnoteref idrefs="fn1"></fnoteref>). All the isotherms correspond to the Type-I curve with a steep gas uptake at very low <it>P</it>/<it>P</it><inf>0</inf> ∼0.02, suggesting that uniform micropores are dominant. The decrease in the amount of N<inf>2</inf> adsorption and the pore volume of polymer@MOF indicates that the nanochannels of the MOF are partially occupied by the PVEs.<citref idrefs="cit16">16</citref> Such a decrease becomes more noticeable as the monomer size decreases from VBu to VAc, implying that the amount of the encapsulated polymer in the MOF increases in the order of PVBu &lt; PVPr &lt; PVAc, which is consistent with the conversions for the polymerization of VBu (32%), VPr (43%), and VAc (63%).</p>
+      <p>Monomer conversion is strongly affected by monomer size. Only a slight increase in monomer size leads to significant decrease in conversion. Previously, a similar behavior was observed in the polymerization of vinyl monomers in MOFs with different nanochannel sizes (4.3–10.8 Å).<citref idrefs="cit13">13</citref> As the size of the nanochannels narrowed, the polymer yields and conversion decreased because of the reduced monomer mobility in the narrow nanochannels, which was confirmed by solid state nuclear magnetic resonance (NMR) spectroscopy. Likewise, the mobility of the large monomer (<it>i.e.</it>, VBu) is more strongly restricted by the given nanochannels than that of the small monomer (<it>i.e.</it>, VAc), which results in the relatively poor reactivity and low conversion of VBu. For comparison, when a bulkier monomer, vinyl pivalate, was employed for polymerization in the MOF, no polymeric products were obtained possibly due to the poor mobility of the monomer, although the adsorbed amount of monomer per unit cell (∼2 molecules) is sufficient for polymerization.</p>
+      <p>The MWDs become narrower with an increase of monomer size. The <it>Đ</it> decreases markedly from 2.17 for <it>f</it>-PVAc, 1.71 for <it>f</it>-PVPr and 1.51 for <it>f</it>-PVBu, which are much smaller than those prepared in bulk (Table S1<fnoteref idrefs="fn1"></fnoteref>). The conventional free radical polymerizations of vinyl esters underwent uncontrollable chain transfer and termination due to the high reactivity of propagating radicals, which led to extremely broad MWD (Fig. S3<fnoteref idrefs="fn1"></fnoteref>). In contrast, the propagating radicals in the MOF are remarkably stabilized and the termination reactions are largely suppressed because of effective entrapment in the nanochannels.<citref idrefs="cit11 cit12 cit13">11–13</citref> These effects become prominent in the large monomer (VBu), enabling the preparation of <it>f</it>-PVBu with <it>Đ</it> as low as ∼1.5.</p>
+      <p>To further understand the free radical polymerization process in the MOF, the MW dependence on reaction time and thus conversion was investigated. The representative size exclusive chromatography (SEC) profiles of <it>f</it>-PVPr with different reaction times show that the MW has no correlation with conversion in the given nanochannels of the MOF (<figref idrefs="fig1">Fig. 1a</figref>). The MW reaches a high value ∼20 000 g mol<sup>−1</sup> at an early stage of polymerization and remains constant, whereas the conversion increases steadily with reaction time. The primary radicals may be slowly generated in the initiation step and undergo a fast propagation reaction to consume the monomers confined in a compartment (note that the reactant only partially occupies the nanochannels). Thus, an increase of monomer size can lead to a decrease of MW, because of the relatively low monomer loading (<it>i.e.</it>, small compartment) and low mobility of the large monomer in the nanochannels.</p>
+      <figure id="fig1" xsrc="c7py01607g-f1.tif">
+        <title>MWDs (obtained <it>via</it> SEC in THF with PS calibration) of (a) PVPr prepared by free radical polymerization in the MOF and (b) PVPr prepared by RAFT polymerization in the MOF for various reaction times (conversions).</title>
+      </figure>
+      <p>The relation between the monomer size and the stereostructure was studied, where the polymers obtained from the MOF (<tableref idrefs="tab1">Table 1</tableref>) have a higher isotacticity than those obtained from the bulk (Table S1<fnoteref idrefs="fn1"></fnoteref>). The fractions of isotactic (<it>mm</it>)-, heterotactic (<it>mr</it>)- and syndiotactic (<it>rr</it>)-triads in each polymer were determined by <sup>1</sup>H NMR spectroscopy after the saponification of the PVEs to PVAs (<figref idrefs="fig2">Fig. 2a</figref>). Compared with the bulk counterparts, a substantial increase in mesodiads (<it>m</it>) was observed in <it>f</it>-PVAc by 8%, in <it>f</it>-PVPr by 14% and in <it>f</it>-PVBu by 5% (<figref idrefs="fig2">Fig. 2b</figref>). Because there is no specific interaction between nanochannel walls and adsorbed monomers, the change in tacticity mostly depends on the monomer arrangement in a confined space. Polymerization in the confined nanochannels preferably induces the formation of less sterically bulky isotactic moieties,<citref idrefs="cit12 cit13">12,13</citref> because the isotactic polymer has a smaller conformational diameter than its corresponding syndiotactic polymer.<citref idrefs="cit17">17</citref> However, we found that the mesodiad fraction does not always increase with the increasing monomer size, but has a certain maximum value of 61% of <it>f</it>-PVPr in the MOF. Unlike the others, the tacticity change of <it>f</it>-PVBu is very small, probably due to the relatively large steric repulsion among the butyl substituents which could induce the formation of syndiotactic units, compromising the increase of isotactic units induced by nanochannels of the MOF. However, the detailed aspects of such behavior still remain elusive and will be the subject of future work. Notably, polymerization in the MOF is the only way known to increase the isotacticity of PVEs. Previous approaches such as the use of bulky monomers, protic solvents or additives can only afford syndiotactic-rich PVEs so far, <it>e.g.</it>, fluoroalcohols form hydrogen bonds with the carbonyl group of the monomer and increase the effective size of side groups (steric hindrance), thereby inducing syndiotactic-specific polymerization. In that regard, the polymerization of vinyl esters in the MOF is an effective method to control the isotacticity of PVEs and it thus enables the preparation of PVPr with higher isotactic fractions (61% mesodiads).</p>
+      <figure id="fig2" xsrc="c7py01607g-f2.tif">
+        <title>(a) <sup>1</sup>H NMR spectra of PVA (obtained by saponification of the corresponding PVE) in DMSO-<it>d</it><inf>6</inf> at ambient temperature and (b) plots of tacticity change with respect to monomer types used for polymerization in the MOF.</title>
+      </figure>
+      <p>Although free radical polymerization in the MOF allowed the synthesis of PVEs with significant isotacticity, it still lacked control over MW, MWD and molecular architectures. One possible solution to overcome these limitations is the combination of the MOF with RDRP techniques. Among the various RDRP techniques, RAFT was chosen because of its ease of use, versatility, and compatibility with a wide range of monomers. It should be noted that nitroxide mediated polymerization<citref idrefs="cit18">18</citref> and atom transfer radical polymerization (ATRP)<citref idrefs="cit19">19</citref> of vinyl esters have proved to be very difficult. Here, a RAFT agent, (<it>S</it>)-2-(ethyl propionate)-(<it>O</it>-ethyl xanthate), was prepared according to the literature procedures<citref idrefs="cit20">20</citref> (Fig. S4<fnoteref idrefs="fn1"></fnoteref>) and used for mediating the polymerization of vinyl esters in the MOF.</p>
+      <p>The addition of a RAFT agent into the reaction feed of free radical polymerization led to the preparation of isotactic PVAc and PVPr (denoted as <it>r</it>-PVAc/<it>r</it>-PVPr in the MOF) (<tableref idrefs="tab1">Table 1</tableref>). The <sup>1</sup>H NMR spectra of the resulting polymers show characteristic peaks of xanthate end groups (Fig. S5 and S6<fnoteref idrefs="fn1"></fnoteref>). The tacticities of <it>r</it>-PVAc and <it>r</it>-PVPr in the MOF are similar to those of <it>f</it>-PVAc and <it>f</it>-PVPr in the MOF, which strongly suggests that RAFT polymerization mostly proceeds within the nanochannels of the MOF.</p>
+      <p>In sharp contrast to free radical polymerization in the MOF, the MW is determined by monomer conversion (<figref idrefs="fig1">Fig. 1</figref>), which is a clear indication for the controlled characteristic of the RAFT process. For instance, during the RAFT polymerization of VPr in the MOF, the MW increases linearly from 3200 to 7600 to 14 300 g mol<sup>−1</sup>, as the monomer conversion (reaction time) increases from 13% (8 h) to 23% (24 h) to 47% (48 h), while maintaining low <it>Đ</it> at 1.3–1.6 (<figref idrefs="fig1">Fig. 1b</figref>). The conversion is saturated after polymerization for 48 h, which takes two times longer than <it>f</it>-PVPr in the MOF does. It is common that RAFT polymerization is slower than free radical polymerization in bulk and solution partly because of the adduct intermediate radical. We cannot exclude the possibility that the rate of degenerate transfer, <it>i.e.</it>, main equilibrium in the RAFT process (Fig. S7<fnoteref idrefs="fn1"></fnoteref>), can be slowed down by the largely restricted mobility of polymer/radical adducts in the narrow nanochannels. The MWDs of the resulting <it>r</it>-PVAc (1.25) and <it>r</it>-PVPr (1.34) in the MOF are as narrow as those of bulk RAFT counterparts (Fig. S8<fnoteref idrefs="fn1"></fnoteref>), and are significantly narrower than those of <it>f</it>-PVAc (2.17) and <it>f</it>-PVPr (1.71) in MOF (Fig. S3<fnoteref idrefs="fn1"></fnoteref>). All experimental results suggest that the RAFT agent efficiently mediates the controlled polymerization of vinyl ester in the nanochannels of the MOF.</p>
+      <p>One of the main advantages of RAFT is its ability to prepare complex architectures such as block copolymers. Sequential bulk RAFT polymerization with different vinyl esters allowed the synthesis of isotactic (<it>it</it>)-<it>block</it>-atactic (<it>at</it>) vinyl ester block copolymers, which are not accessible otherwise. The chain extension procedure is also important to confirm end group fidelity of the initial block. <it>r</it>-PVPr in the MOF was used as a macro-RAFT agent for chain extension with VAc at 60 °C ([AIBN] : [<it>r</it>-PVPr] : [VAc] = 0.4 : 1 : 2500). SEC traces of the initial <it>it</it>PVPr and final <it>it</it>PVPr-<it>b-at</it>PVAc show a clear shift of MWD from <it>M</it><inf>n</inf> 7600 g mol<sup>−1</sup> (<it>Đ</it> 1.60) to <it>M</it><inf>n</inf> 12 500 g mol<sup>−1</sup> (<it>Đ</it> 1.71), which is slightly deviated from the theoretical value (<it>M</it><inf>n, theo</inf> 19 500 g mol<sup>−1</sup>) (<figref idrefs="fig3">Fig. 3</figref>). However, considering the relatively high monomer to macro-RAFT agent ratio, such deviation is in a reasonable error range. The formation of the block copolymer was further confirmed by the <sup>1</sup>H NMR spectrum, showing the characteristic peaks of two distinct blocks at 2.0–2.1 ppm for PVAc and at 1.0–1.2 ppm for PVPr (Fig. S9<fnoteref idrefs="fn1"></fnoteref>). Although the living characteristics of the presented RAFT polymerization were confirmed by the linear molecular weight increment with conversion and the clear shift of full MWD without bimodalities or tailing after chain extension, it is still elusive whether the RAFT mechanism in the MOF really works in a similar way to conventional RAFT polymerization. The detailed aspects of the RAFT mechanism in the MOF are beyond the scope of the present contribution and are still under investigation.</p>
+      <figure id="fig3" xsrc="c7py01607g-f3.tif">
+        <title>MWDs of the <it>it</it>PVPr macro-RAFT agent and the <it>it</it>PVPr-<it>b-at</it>PVAc block copolymer.</title>
+      </figure>
+      <p>In conclusion, we have demonstrated free radical and RAFT polymerization of various vinyl esters with different monomer dimensions (VAc, VPr, and VBu) in the identical nanochannels of the MOF. Strong correlations between monomer size and polymerization behavior were observed. As the monomer size increased from VAc to VPr to VBu, the conversion, MW, and <it>Đ</it> decreased accordingly. PVPr showed the highest isotacticity (61% mesodiads) among the PVEs. The polymerization system was further combined with the RAFT technique to prepare isotactic PVEs with controllable MW and narrow MWDs. The resulting PVPr was used as a macro-RAFT agent to prepare the stereocontrolled block copolymer, <it>it</it>PVPr-<it>b-at</it>PVAc. The results show that polymerization in the MOF enables simultaneous control over the molecular weight and tacticity of vinyl esters and expands the use of MOF nanochannel-reactors into the area of RDRP techniques for the first time, which might be extended to other types of RDRPs, <it>e.g.</it>, ATRP. Therefore, we believe that the combination of the MOF and RDRP techniques enriches macromolecular engineering tools and opens up new possibilities that enable the preparation of unique macromolecules with tailored microstructures.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>The authors thank the Max Planck Society for funding. The authors acknowledge Marlies Gräwert for SEC measurements. J. H. acknowledges Max Planck Society for a Postdoc scholarship. Open Access funding provided by the Max Planck Society.</p>
+    </ack>
+    <biblist title="Notes and references">
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Harrisson</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Liu</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-N.</fname>
+            <surname>Ollagnier</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Coutelier</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-D.</fname>
+            <surname>Marty</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Destarac</surname>
+          </citauth>
+          <title>Polymers</title>
+          <year>2014</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>1437</fpage>
+            <lpage>1488</lpage>
+          </pages>
+        </journalcit>
+        <citation type="book">
+          <citauth>
+            <fname>H.</fname>
+            <surname>Rinno</surname>
+          </citauth>, in <title>Ullmann's Encyclopedia of Industrial Chemistry</title>, <citpub>Wiley-VCH Verlag GmbH &amp; Co. KGaA</citpub>, <year>2000</year></citation>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>K. Y.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>D. J.</fname>
+            <surname>Mooney</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2001</year>
+          <volumeno>101</volumeno>
+          <pages>
+            <fpage>1869</fpage>
+            <lpage>1880</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>M. C.</fname>
+            <surname>Iovu</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Matyjaszewski</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2003</year>
+          <volumeno>36</volumeno>
+          <pages>
+            <fpage>9346</fpage>
+            <lpage>9354</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Koumura</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Satoh</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Kamigaito</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Okamoto</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2006</year>
+          <volumeno>39</volumeno>
+          <pages>
+            <fpage>4054</fpage>
+            <lpage>4061</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Debuigne</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Caille</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Jérôme</surname>
+          </citauth>
+          <title>Angew. Chem., Int. Ed.</title>
+          <year>2005</year>
+          <volumeno>44</volumeno>
+          <pages>
+            <fpage>1101</fpage>
+            <lpage>1104</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yamago</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Ray</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Iida</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-i.</fname>
+            <surname>Yoshida</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Tada</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Yoshizawa</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Kwak</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Goto</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Fukuda</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2004</year>
+          <volumeno>126</volumeno>
+          <pages>
+            <fpage>13908</fpage>
+            <lpage>13909</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Wakioka</surname>
+          </citauth>
+          <citauth>
+            <fname>K.-Y.</fname>
+            <surname>Baek</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Ando</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Kamigaito</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Sawamoto</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2002</year>
+          <volumeno>35</volumeno>
+          <pages>
+            <fpage>330</fpage>
+            <lpage>333</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>M. H.</fname>
+            <surname>Stenzel</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cummins</surname>
+          </citauth>
+          <citauth>
+            <fname>G. E.</fname>
+            <surname>Roberts</surname>
+          </citauth>
+          <citauth>
+            <fname>T. P.</fname>
+            <surname>Davis</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Vana</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Barner-Kowollik</surname>
+          </citauth>
+          <title>Macromol. Chem. Phys.</title>
+          <year>2003</year>
+          <volumeno>204</volumeno>
+          <pages>
+            <fpage>1160</fpage>
+            <lpage>1168</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>S.-H.</fname>
+            <surname>Shim</surname>
+          </citauth>
+          <citauth>
+            <fname>M.-k.</fname>
+            <surname>Ham</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Huh</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.-K.</fname>
+            <surname>Kwon</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.-J.</fname>
+            <surname>Kwark</surname>
+          </citauth>
+          <title>Polym. Chem.</title>
+          <year>2013</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>5449</fpage>
+            <lpage>5455</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>C. E.</fname>
+            <surname>Lipscomb</surname>
+          </citauth>
+          <citauth>
+            <fname>M. K.</fname>
+            <surname>Mahanthappa</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2009</year>
+          <volumeno>42</volumeno>
+          <pages>
+            <fpage>4571</fpage>
+            <lpage>4579</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Yamada</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Nakano</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Okamoto</surname>
+          </citauth>
+          <title>Polym. J.</title>
+          <year>1998</year>
+          <volumeno>30</volumeno>
+          <pages>
+            <fpage>641</fpage>
+            <lpage>645</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Liu</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Koike</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Okamoto</surname>
+          </citauth>
+          <title>Polymer</title>
+          <year>2004</year>
+          <volumeno>45</volumeno>
+          <pages>
+            <fpage>5491</fpage>
+            <lpage>5495</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Yamada</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Nakano</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Okamoto</surname>
+          </citauth>
+          <title>Polym. J.</title>
+          <year>2000</year>
+          <volumeno>32</volumeno>
+          <pages>
+            <fpage>707</fpage>
+            <lpage>710</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Yamada</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Nakano</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Okamoto</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>1998</year>
+          <volumeno>31</volumeno>
+          <pages>
+            <fpage>7598</fpage>
+            <lpage>7605</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Satoh</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Kamigaito</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2009</year>
+          <volumeno>109</volumeno>
+          <pages>
+            <fpage>5120</fpage>
+            <lpage>5156</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>H.-C.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Antonietti</surname>
+          </citauth>
+          <citauth>
+            <fname>B. V. K. J.</fname>
+            <surname>Schmidt</surname>
+          </citauth>
+          <title>Polym. Chem.</title>
+          <year>2016</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>7199</fpage>
+            <lpage>7203</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kitao</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <title>Chem. Soc. Rev.</title>
+          <year>2017</year>
+          <volumeno>46</volumeno>
+          <pages>
+            <fpage>3108</fpage>
+            <lpage>3133</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Yanai</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <title>Chem. Soc. Rev.</title>
+          <year>2009</year>
+          <volumeno>38</volumeno>
+          <pages>
+            <fpage>1228</fpage>
+            <lpage>1236</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Distefano</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Suzuki</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tsujimoto</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Isoda</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Bracco</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Comotti</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Sozzani</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <title>Nat. Chem.</title>
+          <year>2013</year>
+          <volumeno>5</volumeno>
+          <pages>
+            <fpage>335</fpage>
+            <lpage>341</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>Y.-S.</fname>
+            <surname>Wei</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>P.-Q.</fname>
+            <surname>Liao</surname>
+          </citauth>
+          <citauth>
+            <fname>R.-B.</fname>
+            <surname>Lin</surname>
+          </citauth>
+          <citauth>
+            <fname>T.-Y.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Shao</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>X.-M.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <title>Nat. Commun.</title>
+          <year>2015</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>8348</fpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>I. H.</fname>
+            <surname>Park</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Medishetty</surname>
+          </citauth>
+          <citauth>
+            <fname>H. H.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>C. E.</fname>
+            <surname>Mulijanto</surname>
+          </citauth>
+          <citauth>
+            <fname>H. S.</fname>
+            <surname>Quah</surname>
+          </citauth>
+          <citauth>
+            <fname>S. S.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>J. J.</fname>
+            <surname>Vittal</surname>
+          </citauth>
+          <title>Angew. Chem., Int. Ed.</title>
+          <year>2015</year>
+          <volumeno>54</volumeno>
+          <pages>
+            <fpage>7313</fpage>
+            <lpage>7317</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Medishetty</surname>
+          </citauth>
+          <citauth>
+            <fname>I.-H.</fname>
+            <surname>Park</surname>
+          </citauth>
+          <citauth>
+            <fname>S. S.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>J. J.</fname>
+            <surname>Vittal</surname>
+          </citauth>
+          <title>Chem. Commun.</title>
+          <year>2016</year>
+          <volumeno>52</volumeno>
+          <pages>
+            <fpage>3989</fpage>
+            <lpage>4001</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Horike</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kawamura</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mizuno</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Endo</surname>
+          </citauth>
+          <title>Chem. Commun.</title>
+          <year>2005</year>
+          <pages>
+            <fpage>5968</fpage>
+            <lpage>5970</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Ono</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Hijikata</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2010</year>
+          <volumeno>132</volumeno>
+          <pages>
+            <fpage>4917</fpage>
+            <lpage>4924</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uemura</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Ono</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kitagawa</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2008</year>
+          <volumeno>41</volumeno>
+          <pages>
+            <fpage>87</fpage>
+            <lpage>94</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>D. N.</fname>
+            <surname>Dybtsev</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Chun</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <title>Angew. Chem., Int. Ed.</title>
+          <year>2004</year>
+          <volumeno>43</volumeno>
+          <pages>
+            <fpage>5033</fpage>
+            <lpage>5036</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Moller</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Bein</surname>
+          </citauth>
+          <citauth>
+            <fname>R. X.</fname>
+            <surname>Fischer</surname>
+          </citauth>
+          <title>Chem. Mater.</title>
+          <year>1998</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>1841</fpage>
+            <lpage>1852</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit16">
+        <journalcit>
+          <citauth>
+            <fname>C.-G.</fname>
+            <surname>Wu</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Bein</surname>
+          </citauth>
+          <title>Science</title>
+          <year>1994</year>
+          <pages>
+            <fpage>1013</fpage>
+            <lpage>1015</lpage>
+          </pages>
+        </journalcit>
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Hwang</surname>
+          </citauth>
+          <citauth>
+            <fname>S. H.</fname>
+            <surname>Woo</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Shim</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Jo</surname>
+          </citauth>
+          <citauth>
+            <fname>K. T.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <title>ACS Nano</title>
+          <year>2013</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>1036</fpage>
+            <lpage>1044</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Hunt</surname>
+          </citauth>
+          <citauth>
+            <fname>D.-W.</fname>
+            <surname>Jung</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Shamsheer</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Uyar</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Tonelli</surname>
+          </citauth>
+          <title>Polymer</title>
+          <year>2004</year>
+          <volumeno>45</volumeno>
+          <pages>
+            <fpage>1345</fpage>
+            <lpage>1347</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Nicolas</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Guillaneuf</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Lefay</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Bertin</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Gigmes</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Charleux</surname>
+          </citauth>
+          <title>Prog. Polym. Sci.</title>
+          <year>2013</year>
+          <volumeno>38</volumeno>
+          <pages>
+            <fpage>63</fpage>
+            <lpage>235</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>M. B.</fname>
+            <surname>Gillies</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Matyjaszewski</surname>
+          </citauth>
+          <citauth>
+            <fname>P.-O.</fname>
+            <surname>Norrby</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Pintauer</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Poli</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Richard</surname>
+          </citauth>
+          <title>Macromolecules</title>
+          <year>2003</year>
+          <volumeno>36</volumeno>
+          <pages>
+            <fpage>8551</fpage>
+            <lpage>8559</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>V. K.</fname>
+            <surname>Patel</surname>
+          </citauth>
+          <citauth>
+            <fname>N. K.</fname>
+            <surname>Vishwakarma</surname>
+          </citauth>
+          <citauth>
+            <fname>A. K.</fname>
+            <surname>Mishra</surname>
+          </citauth>
+          <citauth>
+            <fname>C. S.</fname>
+            <surname>Biswas</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Ray</surname>
+          </citauth>
+          <title>J. Appl. Polym. Sci.</title>
+          <year>2012</year>
+          <volumeno>125</volumeno>
+          <pages>
+            <fpage>2946</fpage>
+            <lpage>2955</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+    </biblist>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000042538 0?>

@@ -1,0 +1,107 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Reversible and irreversible aggregation of magnetic liposomes",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Sonia",
+                "familyName" : "García-Jimeno",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Secció de Fisicoquímica, Facultat de Farmàcia i Ciències de l'Alimentació, Universitat de Barcelona",
+                    "address" : "Avda. Joan XXIII 17-31, E-08028, Barcelona, Catalonia, Spain"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Joan",
+                "familyName" : "Estelrich",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Secció de Fisicoquímica, Facultat de Farmàcia i Ciències de l'Alimentació, Universitat de Barcelona",
+                    "address" : "Avda. Joan XXIII 17-31, E-08028, Barcelona, Catalonia, Spain"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "José",
+                "familyName" : "Callejas-Fernández",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Grupo de Física de Fluidos y Biocoloides, Departamento de Física Aplicada, Facultad de Ciencias, Universidad de Granada",
+                    "address" : "E-18071, Granada, Spain"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Sándalo",
+                "familyName" : "Roldán-Vargas",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute for the Physics of Complex Systems",
+                    "address" : "D-01187, Dresden, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons207106",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-03",
+        "datePublishedInPrint" : "2017-10-12",
+        "dateAccepted" : "2017-09-18",
+        "dateSubmitted" : "2017-07-20",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7nr05301k",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Nanoscale", 
+            "volume" : "9",
+            "issue" : "39", 
+            "startPage" : "15131", 
+            "endPage" : "15143",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "2040-3372",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Magnetic vesicles are among the most promising nanodevices used in nanomedical diagnosis and therapy. Here we reveal the complex interaction scenario involved in their aggregation in solution when a controllable external magnetic field is applied.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Understanding stabilization and aggregation in magnetic nanoparticle systems is crucial to optimizing the functionality of these systems in real physiological applications. Here we address this problem for a specific, yet representative, system. We present an experimental and analytical study on the aggregation of superparamagnetic liposomes in suspension in the presence of a controllable external magnetic field. We study the aggregation kinetics and report an intermediate time power law evolution and a long time stationary value for the average aggregate diffusion coefficient, both depending on the magnetic field intensity. We then show that the long time aggregate structure is fractal with a fractal dimension that decreases upon increasing the magnetic field intensity. By scaling arguments we also establish an analytical relation between the aggregate fractal dimension and the power law exponent controlling the aggregation kinetics. This relation is indeed independent on the magnetic field intensity. Despite the superparamagnetic character of our particles, we further prove the existence of a population of surviving aggregates able to maintain their integrity after switching off the external magnetic field. Finally, we suggest a schematic interaction scenario to rationalize the observed coexistence between reversible and irreversible aggregation."
+        }],
+        "totalNumberOfPages" : "13"
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7NR05301K.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

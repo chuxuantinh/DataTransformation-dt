@@ -1,0 +1,149 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Effect of precursor concentration on size evolution of iron oxide nanoparticles",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Hamed",
+                "familyName" : "Sharifi Dehsari",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons199878",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Anielen",
+                "familyName" : "Halda Ribeiro",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, Mainz, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Bora",
+                "familyName" : "Ersöz",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons212955",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Wolfgang",
+                "familyName" : "Tremel",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institute of Inorganic Chemistry and Analytical Chemistry, Johannes Gutenberg University",
+                    "address" : "Mainz, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Gerhard",
+                "familyName" : "Jakob",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institute of Physics, Johannes Gutenberg University",
+                    "address" : "Mainz, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Kamal",
+                "familyName" : "Asadi",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons103158",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-31",
+        "dateAccepted" : "2017-10-16",
+        "dateSubmitted" : "2017-08-01",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7ce01406f",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "CrystEngComm", 
+            "volume" : "19",
+            "issue" : "44", 
+            "startPage" : "6694", 
+            "endPage" : "6702",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1466-8033",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Changing the precursor concentration to tune the iron-oxide nanoparticle size alters the surfactant/precursor ratio and leads to the observation of two size regimes.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Thermal decomposition is a promising route for the synthesis of magnetic nanoparticles. The simplicity of the synthesis method is counterbalanced by the complex chemistry of the system such as precursor decomposition and surfactant–reducing agent interactions. Control over nanoparticle size is achieved by adjusting the reaction parameters, namely, the precursor concentration. The results, however, are conflicting as both an increase and a decrease in nanoparticle size, as a function of increasing concentration, have been reported. Here, we address the issue of size-controlled synthesis via the precursor concentration. We synthesized iron oxide nanoparticles with sizes from 6 nm to 24 nm with narrow size distributions. We show that the size does not monotonically increase with increasing precursor concentration. After an initial increase, the size reaches a maximum and then shows a decrease with increasing precursor concentration. We argue that the observation of two different size regimes is closely related to the critical role of the amount of surfactant. We confirm the effect of surfactant amount on nucleation and growth and explain the observed trend. Furthermore, we show that the nanoparticles show size-dependent but superior superparamagnetic properties at room temperature."
+        }],
+        "totalNumberOfPages" : "9",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "Sofja Kovalevskaja Award",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Alexander von Humboldt-Stiftung"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CE01406F.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

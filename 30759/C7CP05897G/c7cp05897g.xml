@@ -1,0 +1,1831 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="COM" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7cp05897g</ms-id>
+    <doi>10.1039/c7cp05897g</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>August</month>
+        <day>29</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>October</month>
+      <day>2</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>18</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>19</link>
+    </volumeref>
+    <issueref>
+      <link>42</link>
+    </issueref>
+    <pubfront>
+      <fpage>28507</fpage>
+      <lpage>28511</lpage>
+      <no-of-pages>5</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>11</month>
+        <day>1</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+    <fundgrp>
+      <funder>
+        <funder-name>Aarhus Universitets Forskningsfond</funder-name>
+        <funder-identifier>10.13039/501100002739</funder-identifier>
+        <award-number>None</award-number>
+      </funder>
+      <funder>
+        <funder-name>Deutsche Forschungsgemeinschaft</funder-name>
+        <funder-identifier>10.13039/501100001659</funder-identifier>
+        <award-number>WE 4478/4-1</award-number>
+      </funder>
+      <funder>
+        <funder-name>Directorate for Engineering</funder-name>
+        <funder-identifier>10.13039/100000084</funder-identifier>
+        <award-number>CBET-1264459</award-number>
+      </funder>
+    </fundgrp>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>LK peptide side chain dynamics at interfaces are independent of secondary structure<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available: Experimental details, simulation details, and additional modelling. See DOI: <url>10.1039/c7cp05897g</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa">
+        <person orcid="0000-0002-1542-0708">
+          <persname>
+            <fname>Michael A.</fname>
+            <surname>Donovan</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person>
+          <persname>
+            <fname>Helmut</fname>
+            <surname>Lutz</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person>
+          <persname>
+            <fname>Yeneneh Y.</fname>
+            <surname>Yimer</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person orcid="0000-0001-6727-2957">
+          <persname>
+            <fname>Jim</fname>
+            <surname>Pfaendtner</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person orcid="0000-0001-6851-8453">
+          <persname>
+            <fname>Mischa</fname>
+            <surname>Bonn</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa affb affc" role="corres">
+        <person orcid="0000-0002-7083-7004">
+          <persname>
+            <fname>Tobias</fname>
+            <surname>Weidner</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Max Planck Institute for Polymer Research</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Ackermannweg 10</addrelt>
+          <city>55128 Mainz</city>
+          <country>Germany</country>
+        </address>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Department of Chemical Engineering</nameelt>
+            <nameelt>University of Washington</nameelt>
+            <nameelt>105 Benson Hall</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>Seattle</city>
+          <state>WA 98195</state>
+          <country>USA</country>
+        </address>
+      </aff>
+      <aff id="affc">
+        <org>
+          <orgname>
+            <nameelt>Department of Chemistry</nameelt>
+            <nameelt>Aarhus University</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Langelandsgade 140</addrelt>
+          <city>8000 Aarhus C</city>
+          <country>Denmark</country>
+        </address>
+        <email>weidner@chem.au.dk</email>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>Real-time observation of the ultrafast motions of leucine side chains within model peptides at the water–air interface with representative folds – α-helix, 3<inf>10</inf>-helix, β-strand – show that interfacial dynamics are mostly determined by surface interactions.</ictext>
+      <icgraphic id="ga" xsrc="c7cp05897g-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>Protein side chain dynamics are critical for specific protein binding to surfaces and protein-driven surface manipulation. At the same time, it is highly challenging to probe side chain motions specifically at interfaces. One important open question is the degree to which the motions of side chains are dictated by local protein folding or by interactions with the surface. Here, we present a real-time measurement of the orientational dynamics of leucine side chains within leucine–lysine (LK) model peptides at the water–air interface, with three representative peptide folds: α-helix, 3<inf>10</inf>-helix and β-strand. The results, modeled and supported by molecular dynamics simulations, show that the different peptide folds exhibit remarkably similar sub-picosecond orientational side chain dynamics at the air/water interface. This demonstrates that the side chain motional dynamics is decoupled from the local secondary structure.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <p>Proteins are highly dynamic entities, and protein dynamics have direct implications for protein structure and function.<citref idrefs="cit1 cit2">1,2</citref> Side chains play a role in protein driven surface manipulation,<citref idrefs="cit3">3</citref> enzymatic catalysis,<citref idrefs="cit4 cit5">4,5</citref> and in protein-protein interactions.<citref idrefs="cit6">6</citref> In addition, they undergo rotameric transitions<citref idrefs="cit7">7</citref> and perform torsional motions on pico- to nanosecond timescales.<citref idrefs="cit1 cit8 cit9 cit10">1,8–10</citref> Protein side chain dynamics are typically determined <it>via</it> NMR spectroscopy through linewidth measurements where changes in conformational entropy can be inferred.<citref idrefs="cit1 cit11 cit12 cit13 cit14 cit15 cit16 cit17 cit18 cit19">1,11–19</citref> NMR can track changes in a protein's chemical environment upon complexation and has been used to show that, in solution, side chain dynamics of methyl containing residues can provide insights about different local environments within a protein.<citref idrefs="cit6">6</citref> The dynamics are not monitored directly in real time, however, but they are inferred from spectral line shapes.<citref idrefs="cit11 cit20">11,20</citref></p>
+      <p>An advantage of electronic<citref idrefs="cit22 cit23 cit24">22–24</citref> and vibrational<citref idrefs="cit25 cit26">25,26</citref> spectroscopic methods is that they can directly resolve sub-picosecond events and thereby provide direct insight into how protein side chains move.</p>
+      <p>Specifically at interfaces, information about protein side chain dynamics on pico-second timescales has been lacking. Yet side chain motions are particularly important here, since they mediate the contact to the interface and play a role in the recognition of hard and soft tissue.<citref idrefs="cit13 cit27 cit28">13,27,28</citref> The understanding of these dynamic interactions can help unravel key biological processes from biomineralization,<citref idrefs="cit11 cit21">11,21</citref> protein membrane interactions,<citref idrefs="cit29">29</citref> host–guest interactions,<citref idrefs="cit6 cit30">6,30</citref> to the specific protein recognition of mineral surfaces.<citref idrefs="cit31">31</citref></p>
+      <p>One important question is the impact of local folding within proteins on the dynamics of side chains when interacting with surfaces. Here, leucine–lysine (LK) peptides provide an ideal model system. LK peptides are known to form well-defined secondary structures at hydrophobic, hydrophilic and aqueous interfaces based on their hydrophobic periodicity (<schemref idrefs="sch1">Scheme 1</schemref>).<citref idrefs="cit13 cit21 cit32 cit33">13,21,32,33</citref> At the air/water interface, hydrophobic leucine side chains point toward the vapor phase whereas hydrophilic lysines are oriented towards the aqueous phase.<citref idrefs="cit21">21</citref> In this study, we probe leucine dynamics of LKs folding into α helices (LKα14: Ac-LKKLLKLLKKLLKL-OH), β strands (LKβ15: Ac-LKLKLKLKLKLKLKL-OH), and 3<inf>10</inf> helices (LK3<inf>10</inf>: Ac-LLKLLKLLKLLKL-OH). These peptides have been studied extensively as model systems for protein–surface interactions and therefore provide an ideal starting point to explore interfacial protein dynamics.<citref idrefs="cit13 cit21 cit27 cit33 cit34 cit35">13,21,27,33–35</citref></p>
+      <scheme id="sch1" xsrc="c7cp05897g-s1.tif">
+        <title>The secondary structures of LKα14, LK3<inf>10</inf>, and LKβ15 at the air/water interface are dictated by the hydrophobic periodicity of the amino acid sequence. The peptides have been previously shown to bind with the indicated foldings.<citref idrefs="cit21">21</citref> Hydrophobic leucine side chains are exposed to the vapor phase while the hydrophilic lysines remain hydrated in the water phase. The inset shows the geometry of the leucine sites used in this study.</title>
+      </scheme>
+      <p>Previously, interface-specific time-resolved vibrational spectroscopy has helped unveil the orientational dynamics of a monomeric leucine amino acid at the air/water interface. It was shown that the methyl units reoriented diffusively on a time scale of 20 ps with diffusivities of <it>D</it><inf><it>φ</it></inf> = 0.07 rad<sup>2</sup> ps<sup>−1</sup> in the plane of the surface and <it>D</it><inf><it>θ</it></inf> = 0.05 rad<sup>2</sup> ps<sup>−1</sup> out of plane<citref idrefs="cit36">36</citref> (see <schemref idrefs="sch1">Scheme 1</schemref> for definition of angles). Here we report on how the folding of the peptide backbone affects ultrafast motions by following the dynamics of leucine side chains in LK peptides with different folds at the air/water interface using time-and polarization-resolved sum-frequency generation spectroscopy (TPSFG).<citref idrefs="cit37 cit38 cit39">37–39</citref> We quantify the results through the help of numerical modelling and molecular dynamics (MD) simulations.</p>
+      <p>TPSFG is a time resolved variant of surface-sensitive SFG.<citref idrefs="cit40 cit41 cit42 cit43 cit44 cit45 cit46">40–46</citref> In TPSFG, an intense, linearly polarized IR pump pulse partially depletes the vibrational ground state within a sub-ensemble of molecules whose vibrational transition moment is oriented preferentially along the pump polarization direction. Orientational motion and vibrational energy transfer can be followed while the excited vibrational group relaxes back to equilibrium.<citref idrefs="cit37 cit38 cit39">37–39</citref> When the pump polarization is parallel (||) to that of the probe, the signal decays due to both intramolecular vibrational relaxation (IVR) and orientational motions back into the plane (ip) of the surface, whereas when the pump direction is orthogonal (⊥), IVR and out of plane motions (oop) are most efficiently sampled.</p>
+      <p>To verify the interfacial secondary structure for the LK peptides, we have first recorded static ssp (s polarized SF, s polarized Vis, p polarized IR) SFG spectra in the amide-I region. The spectra are shown in <figref idrefs="fig1">Fig. 1a</figref>, and display intense resonances ranging from 1642 cm<sup>−1</sup> for LKα14 to 1655 cm<sup>−1</sup> for LKβ15. These resonance positions are in agreement with published values<citref idrefs="cit47">47</citref> for the target folds.</p>
+      <figure id="fig1" xsrc="c7cp05897g-f1.tif">
+        <title>Static SFG spectra of LKα14, LK310, and LKβ15 adsorbed to the air/D<inf>2</inf>O interface (a) amide-I region using ssp polarization (see text for details) (b) using sps polarization combination in the aliphatic stretching region (see text for details). The profile of the excitation pulse is shown in red.</title>
+      </figure>
+      <p>The time-resolved experiments focus on the leucine methyl C–H resonances. Representative static sps (s polarized SF, p polarized VIS, s polarized IR probe) spectra of the C–H region are shown in <figref idrefs="fig1">Fig. 1b</figref> for 0.1 mg mL<sup>−1</sup> solutions of three different folds of LK peptide adsorbed to the air/D<inf>2</inf>O interface. This polarization combination is chosen based on our previous study with leucine.<citref idrefs="cit36">36</citref> Qualitatively, all three spectra show an intense resonance at 2958 cm<sup>−1</sup> which is assigned to the methyl in-plane asymmetric (AS) stretch.<citref idrefs="cit21">21</citref> It is this AS stretching mode we are predominantly exciting with an intense mid-IR pump pulse which spans the entire aliphatic stretching region (<figref idrefs="fig1">Fig. 1b</figref>). The pump polarization is alternated between s (||) and p (⊥) to generate the traces for the signal near 2958 cm<sup>−1</sup> shown in <figref idrefs="fig2">Fig. 2</figref>. The data in <figref idrefs="fig2">Fig. 2</figref> show the ground state bleach of the methyl AS stretch mode around zero delay between pump and probe followed by subsequent recovery of the signal. The solid lines which follow the recovery of the signal are numerically simulated according to reference<citref idrefs="cit37">37</citref> and will be discussed later in the text.</p>
+      <figure id="fig2" xsrc="c7cp05897g-f2.tif">
+        <title>Transient SFG traces of LKα14, LK310, and LKβ15 adsorbed to the air/D<inf>2</inf>O interface: experimental pump–probe transients of LK peptides adsorbed to the air/D<inf>2</inf>O interface (open circles) along with numerically simulated orientation-dependent dynamic response (solid lines). The corresponding inferred diffusion coefficients <it>D</it><inf><it>θ</it></inf> and <it>D</it><inf><it>φ</it></inf> are summarized in <tableref idrefs="tab1">Table 1</tableref>. Traces are offset for clarity.</title>
+      </figure>
+      <p>For a first approximation of the relaxation times, we can fit the signal recovery rates <it>k</it><inf>(‖,⊥)</inf> = 1/<it>τ</it><inf>(‖,⊥)</inf> with exponential kinetics (see ESI<fnoteref idrefs="fn1"></fnoteref> for fits and further discussion). The results are summarized in <tableref idrefs="tab1">Table 1</tableref>. Importantly, the fits show that the parallel relaxation is significantly faster compared to the perpendicular dynamics, which shows that reorientation must contribute to the measured signals.<citref idrefs="cit39">39</citref></p>
+      <table-entry id="tab1">
+        <title>Vibrational time constants, diffusion rate coefficients and tilt angle information. Error margins are given in parenthesis</title>
+        <table>
+          <tgroup cols="7">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <colspec colname="6" colnum="6" />
+            <colspec colname="7" colnum="7" />
+            <thead>
+              <row>
+                <entry>Peptide</entry>
+                <entry>
+                  <it>τ</it>
+                  <inf>1,‖</inf> (ps)</entry>
+                <entry>
+                  <it>τ</it>
+                  <inf>1,⊥</inf> (ps)</entry>
+                <entry>
+                  <it>T</it>
+                  <stack>
+                    <above>sim</above>
+                    <below>1</below>
+                  </stack> (ps)</entry>
+                <entry>
+                  <it>D</it>
+                  <inf>
+                    <it>φ</it>
+                  </inf> (rad<sup>2</sup> ps<sup>−1</sup>)</entry>
+                <entry>
+                  <it>D</it>
+                  <inf>
+                    <it>θ</it>
+                  </inf> (rad<sup>2</sup> ps<sup>−1</sup>)</entry>
+                <entry>
+                  <it>θ</it>
+                  <inf>0</inf> (degree)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>LKα14</entry>
+                <entry>
+                  <p>2.99</p>
+                  <p>(0.24)</p>
+                </entry>
+                <entry>
+                  <p>4.89</p>
+                  <p>(0.71)</p>
+                </entry>
+                <entry align="char" char=".">3.3</entry>
+                <entry>
+                  <p>0.12</p>
+                  <p>(0.04)</p>
+                </entry>
+                <entry>
+                  <p>0.06</p>
+                  <p>(0.01)</p>
+                </entry>
+                <entry align="char" char=".">62</entry>
+              </row>
+              <row>
+                <entry>LKβ15</entry>
+                <entry>
+                  <p>2.43</p>
+                  <p>(0.29)</p>
+                </entry>
+                <entry>
+                  <p>5.57</p>
+                  <p>(0.59)</p>
+                </entry>
+                <entry align="char" char=".">2.5</entry>
+                <entry>
+                  <p>0.13</p>
+                  <p>(0.02)</p>
+                </entry>
+                <entry>
+                  <p>0.04</p>
+                  <p>(0.01)</p>
+                </entry>
+                <entry align="char" char=".">62</entry>
+              </row>
+              <row>
+                <entry>LK3<inf>10</inf></entry>
+                <entry>
+                  <p>2.08</p>
+                  <p>(0.27)</p>
+                </entry>
+                <entry>
+                  <p>3.63</p>
+                  <p>(0.58)</p>
+                </entry>
+                <entry align="char" char=".">2.2</entry>
+                <entry>
+                  <p>0.13</p>
+                  <p>(0.02)</p>
+                </entry>
+                <entry>
+                  <p>0.05</p>
+                  <p>(0.01)</p>
+                </entry>
+                <entry align="char" char=".">63</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </table-entry>
+      <p>The polarized excitation pulse temporarily changes the symmetry at the surface and transient tensor elements add to the signal.<citref idrefs="cit37">37</citref> This complicates the direct quantitative analysis.</p>
+      <p>In addition, the experimentally measured traces are underdetermined since the signal recovery of the transient data depends on three time constants: the vibrational relaxation time <it>T</it><inf>1</inf>, the in-plane diffusivity <it>D</it><inf><it>φ</it></inf>, and the out-of-plane diffusivity <it>D</it><inf><it>θ</it></inf>.</p>
+      <p>In the limiting case for small angular spread Δ<it>θ</it> (<it>i.e.</it> Δ<it>θ</it> ≪ sin <it>θ</it><inf>0</inf>) and negligible out of plane motion, a convenient way to determine the molecular diffusion directly is to analyze the anisotropy decay (see ESI<fnoteref idrefs="fn1"></fnoteref> for details).<citref idrefs="cit37 cit48">37,48</citref> The in plane diffusivity <it>D</it><inf><it>φ</it></inf> can, in this limiting case, be determined directly by plotting the anisotropy decay between the parallel and perpendicularly pumped traces.<citref idrefs="cit37">37</citref> However, since the present peptide systems allow a broad distribution of side chain conformations and out-of-plane motion it is not <it>a priori</it> apparent that this would be a reliable approach here.</p>
+      <p>We therefore performed molecular dynamics (MD) simulations to track the peptide dynamics and to combine the experimental data with theoretical transients calculated from the MD data.</p>
+      <p>The combination of MD and time resolved SFG has recently been successfully applied to monomeric leucine adsorbed at the air–water interface.<citref idrefs="cit36">36</citref> The method uses MD simulation of the interfacial LK peptide dynamics as a basis for a numerical model<citref idrefs="cit37">37</citref> to calculate the time-resolved SFG response. The numerical model requires information about (i) the static molecular orientation, defined by the mean tilt angle <it>θ</it><inf>0</inf> and the angular spread Δ<it>θ</it>; (ii) the orientational in plane and out of plane diffusivities (<it>D</it><inf><it>φ</it></inf>, <it>D</it><inf><it>θ</it></inf>); and (iii) the vibrational relaxation time <it>T</it><inf>1</inf>.</p>
+      <p>To computationally determine the molecular orientation and the reorientational diffusion of the methyl groups of leucine at the vacuum/water interface, we performed all-atom MD simulations at 298 K. Three separate simulations were performed for a layer of 23 molecules of LKα14, LKβ15, and LK3<inf>10</inf>. Further details about the simulations are presented in the ESI.<fnoteref idrefs="fn1"></fnoteref> Briefly, the peptides were packed as a layer on 8 by 8 nm in between a 6.8 nm thick slab of water and 7 nm of vacuum. To approximate experimental conditions, phosphate ions were added, and the box was neutralized by adding chloride ions. Note that while the simulations can provide, <it>θ</it><inf>0</inf>, Δ<it>θ</it>, <it>D</it><inf><it>φ</it></inf> and <it>D</it><inf><it>θ</it></inf>, it cannot provide <it>T</it><inf>1</inf>. <tableref idrefs="tab1">Table 1</tableref> lists guessed values of <it>T</it><inf>1</inf> defined as <it>T</it><inf>1</inf><sup>sim</sup> which are arrived at by finding the best visual fit to the data (see ESI<fnoteref idrefs="fn1"></fnoteref> Section IV). <it>T</it><inf>1</inf> values determined experimentally are labelled <it>T</it><inf>1</inf> and found in ESI<fnoteref idrefs="fn1"></fnoteref> Table S1.</p>
+      <p>After an equilibration period of 100 ns, 5 ns were simulated with coordinates being written to a trajectory file with a frequency of 4 fs for analysis. As expected for a peptide layer with random in-plane orientation, the azimuthal <it>φ</it> angles showed no predominant orientation for all peptides (see ESI<fnoteref idrefs="fn1"></fnoteref>). The mean tilt angle <it>θ</it><inf>0</inf> and the angular spread Δ<it>θ</it> were obtained from a Gaussian fit (see ESI<fnoteref idrefs="fn1"></fnoteref> for details) to the methyl group distributions shown in <figref idrefs="fig3">Fig. 3</figref>. The mean tilt angles <it>θ</it><inf>0</inf> for the respective α, β, and 3<inf>10</inf> folds where 62°, 62°, and 63° with angular spreads Δ<it>θ</it> of 32°, 39°, and 29°, respectively. This shows that the assumption of the limiting case of only in-plane reorientation is not applicable. The in- and out-of-plane methyl reorientational diffusion coefficients <it>D</it><inf><it>φ</it></inf> and <it>D</it><inf><it>θ</it></inf> were determined by first numerically solving the two-dimensional rotational diffusion equation for a specific set of (<it>D</it><inf><it>φ</it></inf>, <it>D</it><inf><it>θ</it></inf>). Then the square of residuals, <it>χ</it><sup>2</sup>, between the thus calculated results and the simulation derived time-dependent methyl group angle dependent (<it>i.e. f</it>(<it>θ</it>, <it>φ</it>)) population distributions was calculated (<figref idrefs="fig3">Fig. 3b</figref> see ESI<fnoteref idrefs="fn1"></fnoteref> for details). We determined that <it>χ</it><sup>2</sup> for α, and β, and 3<inf>10</inf> peptides exhibit minima for the out-of-plane diffusion <it>D</it><inf><it>θ</it></inf> at respectively 0.06 ± 0.01, 0.04 ± 0.01, and 0.05 ± 0.01 rad<sup>2</sup> ps<sup>−1</sup> and for the in-plane diffusion <it>D</it><inf><it>φ</it></inf> at 0.12 ± 0.04, 0.13 ± 0.02, and 0.13 ± 0.02 rad<sup>2</sup> ps<sup>−1</sup> (<figref idrefs="fig3">Fig. 3a–c</figref>). The simulations thus indicate that leucine methyl groups reorient – on average – at twice the rate in-plane than out-of-plane, but with no significant differences between the respective folds.</p>
+      <figure id="fig3" xsrc="c7cp05897g-f3.tif">
+        <title>Orientational information: contour plots: variation of <it>χ</it><sup>2</sup> with <it>D</it><inf><it>φ</it></inf> and <it>D</it><inf><it>θ</it></inf> for methyl groups of LK peptides at the air–water interface. <it>D</it><inf><it>φ</it></inf> and <it>D</it><inf><it>θ</it></inf> are inferred from the point for which the variance <it>χ</it><sup>2</sup> is at a minimum. Values for all three peptides may be found in <tableref idrefs="tab1">Table 1</tableref>. Far right: Orientation distributions of leucine methyl groups in LK peptides at the air/water interface in black. Gaussian fits are shown with blue line.</title>
+      </figure>
+      <p>The vibrational relaxation times <it>T</it><stack><above>sim</above><below>1</below></stack> used for the numerical simulation<citref idrefs="cit37">37</citref> to produce the traces in <figref idrefs="fig2">Fig. 2</figref> were initially approximated to be close to previously reported values of ∼3 ps for methyl stretching vibrations of long aliphatic chains;<citref idrefs="cit26 cit38 cit49">26,38,49</citref> precise values were subsequently obtained by choosing vibrational relaxation times which give the best visual fit to the experimental data. It is interesting to note, that the α-helix motif showed a slower vibrational relaxation compared to the β-strand and 3<inf>10</inf>-helix. This is, in line with reports by Backus and Stock <it>et al.</it>, who have shown that structural flexibility within peptides in solution enhances vibrational energy transfer.<citref idrefs="cit50 cit51">50,51</citref> Plotting the number of peptide–peptide hydrogen bonds (see ESI<fnoteref idrefs="fn1"></fnoteref>) showed that LKα14 has indeed the largest number of H-bonds.</p>
+      <p>The simulated transient SFG responses for the different peptide folds with orientational parameters obtained from MD are shown as solid lines in <figref idrefs="fig2">Fig. 2</figref>. The obtained theoretical traces capture the signal depletion and recovery in the experimental data very well. The close match between theory and experiment confirms the peptide side chain dynamics obtained from simulation and shows that the methyl reorientation dynamics are, within the error margins, independent of the folding of the peptide backbone.</p>
+      <p>It is interesting to compare dynamics of the leucine side chains within peptides monomeric leucines at the air–water interface. The out of plane dynamics are very similar for the peptide-bound leucine as compared to monomeric leucine, with a diffusivity of <it>ca.</it> 0.06 rad<sup>2</sup> ps<sup>−1</sup> for the peptides and 0.05 rad<sup>2</sup> ps<sup>−1</sup> for the monomers. The in plane diffusivity, however, is sped up by a factor of two with an average diffusivity of 0.12 rad<sup>2</sup> ps<sup>−1</sup> for the peptides and 0.07 rad<sup>2</sup> ps<sup>−1</sup> for the isolated leucine. Likely, the binding geometry and lateral proximity between neighbouring leucines enforced by the peptide backbone leads to more rapid motion within the surface plane. Going to much larger proteins, the reorientational time scales found for the LKs are comparable with methyl groups within the hydrophobic core of globular proteins (5–80 ps) as determined with NMR.<citref idrefs="cit12">12</citref></p>
+    </section>
+    <section>
+      <title>Conclusions</title>
+      <p>Our data show that at the interface the side chain orientational dynamics are independent of the backbone folding. This is surprising in view of the diversity of steric environments side chain groups experience within helical and strand-like folding motifs within peptide monolayers. This independence of backbone structure also means that large, complex proteins with unknown interfacial folding can be studied using time-resolved SFG. While the present study uses model peptides and can only provide a first view of the role of folding for side chain dynamics, the study is a first step understanding this aspect of functional dynamics beyond the traditional structure-function paradigm.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>M. D. acknowledges financial support from the International Max Planck Research School, Cho-Shuen Hsieh, Johannes Franz, and Ruth Livingstone for discussion and for providing the Matlab code to analyze experimental data. T. W. thanks the Deutsche Forschungsgemeinschaft (WE 4478/4-1) and the Aarhus University Research Foundation (AUFF). J. P. acknowledges support from NSF award CBET-1264459 and the Hyak supercomputer system supported in part by UW-IT. Open Access funding provided by the Max Planck Society.</p>
+    </ack>
+    <biblist title="Notes and references">
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Lewandowski</surname>
+          </citauth>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Halse</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Blackledge</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Emsley</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2015</year>
+          <volumeno>348</volumeno>
+          <pages>
+            <fpage>578</fpage>
+            <lpage>581</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>A. B.</fname>
+            <surname>Law</surname>
+          </citauth>
+          <citauth>
+            <fname>P. J.</fname>
+            <surname>Sapienza</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Zuo</surname>
+          </citauth>
+          <citauth>
+            <fname>C. M.</fname>
+            <surname>Petit</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2017</year>
+          <volumeno>139</volumeno>
+          <pages>
+            <fpage>3599</fpage>
+            <lpage>3602</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Dubey</surname>
+          </citauth>
+          <citauth>
+            <fname>N. F.</fname>
+            <surname>Breen</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Ash</surname>
+          </citauth>
+          <citauth>
+            <fname>J. E.</fname>
+            <surname>Baio</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Jaye</surname>
+          </citauth>
+          <citauth>
+            <fname>D. A.</fname>
+            <surname>Fischer</surname>
+          </citauth>
+          <citauth>
+            <fname>G. P.</fname>
+            <surname>Drobny</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2012</year>
+          <volumeno>134</volumeno>
+          <pages>
+            <fpage>8750</fpage>
+            <lpage>8753</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>K. E.</fname>
+            <surname>Bowers</surname>
+          </citauth>
+          <citauth>
+            <fname>C. A.</fname>
+            <surname>Fierke</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>2004</year>
+          <volumeno>43</volumeno>
+          <pages>
+            <fpage>5256</fpage>
+            <lpage>5265</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>C. E.</fname>
+            <surname>Bertrand</surname>
+          </citauth>
+          <citauth>
+            <fname>W.-S.</fname>
+            <surname>Chiang</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Fratini</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Baglioni</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Alatas</surname>
+          </citauth>
+          <citauth>
+            <fname>E. E.</fname>
+            <surname>Alp</surname>
+          </citauth>
+          <citauth>
+            <fname>S.-H.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2013</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>1186</fpage>
+            <lpage>1195</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>A. L.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>S. A.</fname>
+            <surname>Kinnear</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Wand</surname>
+          </citauth>
+          <title>Nat. Struct. Mol. Biol.</title>
+          <year>2000</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>72</fpage>
+            <lpage>77</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Schanda</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Huber</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Boisbouvier</surname>
+          </citauth>
+          <citauth>
+            <fname>B. H.</fname>
+            <surname>Meier</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ernst</surname>
+          </citauth>
+          <title>Angew. Chem., Int. Ed.</title>
+          <year>2011</year>
+          <volumeno>50</volumeno>
+          <pages>
+            <fpage>11005</fpage>
+            <lpage>11009</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>K. A.</fname>
+            <surname>Henzler-Wildman</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Lei</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Thai</surname>
+          </citauth>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Kerns</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Karplus</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Kern</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>2007</year>
+          <volumeno>450</volumeno>
+          <pages>
+            <fpage>913</fpage>
+            <lpage>916</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>O. F.</fname>
+            <surname>Lange</surname>
+          </citauth>
+          <citauth>
+            <fname>N.-A.</fname>
+            <surname>Lakomek</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Farès</surname>
+          </citauth>
+          <citauth>
+            <fname>G. F.</fname>
+            <surname>Schröder</surname>
+          </citauth>
+          <citauth>
+            <fname>K. F. A.</fname>
+            <surname>Walter</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Becker</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Meiler</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Grubmüller</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Griesinger</surname>
+          </citauth>
+          <citauth>
+            <fname>B. L.</fname>
+            <surname>de Groot</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2008</year>
+          <volumeno>320</volumeno>
+          <pages>
+            <fpage>1471</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>R. G.</fname>
+            <surname>Smock</surname>
+          </citauth>
+          <citauth>
+            <fname>L. M.</fname>
+            <surname>Gierasch</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2009</year>
+          <volumeno>324</volumeno>
+          <pages>
+            <fpage>198</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <citation type="book">
+          <citauth>
+            <fname>R.</fname>
+            <surname>Adrienne</surname>
+          </citauth>, <citauth><fname>A.</fname><surname>Jason</surname></citauth>, <citauth><fname>Z.</fname><surname>Ariel</surname></citauth>, <citauth><fname>L. M.</fname><surname>David</surname></citauth>, <citauth><fname>J. G.</fname><surname>Jeffrey</surname></citauth>, <citauth><fname>G.</fname><surname>Gil</surname></citauth> and <citauth><fname>D.</fname><surname>Gary</surname></citauth>, <title>Proteins at Interfaces III State of the Art</title>, <citpub>American Chemical Society</citpub>, <year>2012</year>, vol. 1120, ch. 4, <biblscope>pp. 77–96</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>L. K.</fname>
+            <surname>Nicholson</surname>
+          </citauth>
+          <citauth>
+            <fname>L. E.</fname>
+            <surname>Kay</surname>
+          </citauth>
+          <citauth>
+            <fname>D. M.</fname>
+            <surname>Baldisseri</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Arango</surname>
+          </citauth>
+          <citauth>
+            <fname>P. E.</fname>
+            <surname>Young</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Bax</surname>
+          </citauth>
+          <citauth>
+            <fname>D. A.</fname>
+            <surname>Torchia</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1992</year>
+          <volumeno>31</volumeno>
+          <pages>
+            <fpage>5253</fpage>
+            <lpage>5263</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>N. F.</fname>
+            <surname>Breen</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>G. P.</fname>
+            <surname>Drobny</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2010</year>
+          <volumeno>107</volumeno>
+          <pages>
+            <fpage>13288</fpage>
+            <lpage>13293</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vugmeyster</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Ostrovsky</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Villafranca</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Sharp</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Xu</surname>
+          </citauth>
+          <citauth>
+            <fname>A. S.</fname>
+            <surname>Lipton</surname>
+          </citauth>
+          <citauth>
+            <fname>G. L.</fname>
+            <surname>Hoatson</surname>
+          </citauth>
+          <citauth>
+            <fname>R. L.</fname>
+            <surname>Vold</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>14892</fpage>
+            <lpage>14904</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Fu</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Kasinath</surname>
+          </citauth>
+          <citauth>
+            <fname>V. R.</fname>
+            <surname>Moorman</surname>
+          </citauth>
+          <citauth>
+            <fname>N. V.</fname>
+            <surname>Nucci</surname>
+          </citauth>
+          <citauth>
+            <fname>V. J.</fname>
+            <surname>Hilser</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Wand</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2012</year>
+          <volumeno>134</volumeno>
+          <pages>
+            <fpage>8543</fpage>
+            <lpage>8550</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit16">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Rajitha Rajeshwar</surname>
+          </citauth>
+          <citauth>
+            <fname>J. C.</fname>
+            <surname>Smith</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Krishnan</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2014</year>
+          <volumeno>136</volumeno>
+          <pages>
+            <fpage>8590</fpage>
+            <lpage>8605</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>G. P.</fname>
+            <surname>Lisi</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Loria</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2016</year>
+          <volumeno>116</volumeno>
+          <pages>
+            <fpage>6323</fpage>
+            <lpage>6369</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>T. I.</fname>
+            <surname>Igumenova</surname>
+          </citauth>
+          <citauth>
+            <fname>K. K.</fname>
+            <surname>Frederick</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Wand</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2006</year>
+          <volumeno>106</volumeno>
+          <pages>
+            <fpage>1672</fpage>
+            <lpage>1699</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vugmeyster</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Ostrovsky</surname>
+          </citauth>
+          <citauth>
+            <fname>M. A.</fname>
+            <surname>Clark</surname>
+          </citauth>
+          <citauth>
+            <fname>I. B.</fname>
+            <surname>Falconer</surname>
+          </citauth>
+          <citauth>
+            <fname>G. L.</fname>
+            <surname>Hoatson</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Qiang</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>2016</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>2135</fpage>
+            <lpage>2148</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Columbus</surname>
+          </citauth>
+          <citauth>
+            <fname>W. L.</fname>
+            <surname>Hubbell</surname>
+          </citauth>
+          <title>Trends Biochem. Sci.</title>
+          <year>2002</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>288</fpage>
+            <lpage>295</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit21">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Lutz</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Jaeger</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Berger</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Pfaendtner</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <title>Adv. Mater. Interfaces</title>
+          <year>2015</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>1500282</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit22">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Bredenbeck</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Helbing</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Kumita</surname>
+          </citauth>
+          <citauth>
+            <fname>G. A.</fname>
+            <surname>Woolley</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Hamm</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2005</year>
+          <volumeno>102</volumeno>
+          <pages>
+            <fpage>2379</fpage>
+            <lpage>2384</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Qin</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Zhong</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2016</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>8424</fpage>
+            <lpage>8429</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Cui</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>O. V.</fname>
+            <surname>Prezhdo</surname>
+          </citauth>
+          <title>J. Phys. Chem. Lett.</title>
+          <year>2017</year>
+          <pages>
+            <fpage>1031</fpage>
+            <lpage>1037</lpage>
+          </pages>
+          <link type="doi">10.1021/acs.jpclett.7b00311</link>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>Y. S.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>R. M.</fname>
+            <surname>Hochstrasser</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>8231</fpage>
+            <lpage>8251</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ghosh</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Smits</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Bredenbeck</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Dijkhuizen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>Rev. Sci. Instrum.</title>
+          <year>2008</year>
+          <volumeno>79</volumeno>
+          <pages>
+            <fpage>093907</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>N. F.</fname>
+            <surname>Breen</surname>
+          </citauth>
+          <citauth>
+            <fname>G. P.</fname>
+            <surname>Drobny</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>15423</fpage>
+            <lpage>15426</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>J. L.</fname>
+            <surname>Lorieau</surname>
+          </citauth>
+          <citauth>
+            <fname>L. A.</fname>
+            <surname>Day</surname>
+          </citauth>
+          <citauth>
+            <fname>A. E.</fname>
+            <surname>McDermott</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2008</year>
+          <volumeno>105</volumeno>
+          <pages>
+            <fpage>10366</fpage>
+            <lpage>10371</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>D. K.</fname>
+            <surname>Schach</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Rock</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Franz</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <citauth>
+            <fname>S. H.</fname>
+            <surname>Parekh</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2015</year>
+          <volumeno>137</volumeno>
+          <pages>
+            <fpage>12199</fpage>
+            <lpage>12202</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>P. T.</fname>
+            <surname>Corbett</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Leclaire</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vial</surname>
+          </citauth>
+          <citauth>
+            <fname>K. R.</fname>
+            <surname>West</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-L.</fname>
+            <surname>Wietor</surname>
+          </citauth>
+          <citauth>
+            <fname>J. K. M.</fname>
+            <surname>Sanders</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Otto</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2006</year>
+          <volumeno>106</volumeno>
+          <pages>
+            <fpage>3652</fpage>
+            <lpage>3711</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <citation type="book">
+          <title>Proteins at Interfaces III State of the Art</title>, ed. <editor>T. Horbett</editor>, <editor>J. L. Brash</editor> and <editor>W. Norde</editor>, <citpub>American Chemical Society</citpub>, <year>2012</year>, vol. 1120</citation>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Guiffo-Soh</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Hernández</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.-M.</fname>
+            <surname>Coïc</surname>
+          </citauth>
+          <citauth>
+            <fname>F.-Z.</fname>
+            <surname>Boukhalfa-Heniche</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ghomi</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2007</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>12563</fpage>
+            <lpage>12572</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Roy</surname>
+          </citauth>
+          <citauth>
+            <fname>T. L.</fname>
+            <surname>Naka</surname>
+          </citauth>
+          <citauth>
+            <fname>D. K.</fname>
+            <surname>Hore</surname>
+          </citauth>
+          <title>J. Phys. Chem. C</title>
+          <year>2013</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>24955</fpage>
+            <lpage>24966</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>G. J.</fname>
+            <surname>Holinga</surname>
+          </citauth>
+          <citauth>
+            <fname>R. L.</fname>
+            <surname>York</surname>
+          </citauth>
+          <citauth>
+            <fname>R. M.</fname>
+            <surname>Onorato</surname>
+          </citauth>
+          <citauth>
+            <fname>C. M.</fname>
+            <surname>Thompson</surname>
+          </citauth>
+          <citauth>
+            <fname>N. E.</fname>
+            <surname>Webb</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Yoon</surname>
+          </citauth>
+          <citauth>
+            <fname>G. A.</fname>
+            <surname>Somorjai</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2011</year>
+          <volumeno>133</volumeno>
+          <pages>
+            <fpage>6243</fpage>
+            <lpage>6253</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>D. C.</fname>
+            <surname>Phillips</surname>
+          </citauth>
+          <citauth>
+            <fname>R. L.</fname>
+            <surname>York</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Mermut</surname>
+          </citauth>
+          <citauth>
+            <fname>K. R.</fname>
+            <surname>McCrea</surname>
+          </citauth>
+          <citauth>
+            <fname>R. S.</fname>
+            <surname>Ward</surname>
+          </citauth>
+          <citauth>
+            <fname>G. A.</fname>
+            <surname>Somorjai</surname>
+          </citauth>
+          <title>J. Phys. Chem. C</title>
+          <year>2007</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>255</fpage>
+            <lpage>261</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>M. A.</fname>
+            <surname>Donovan</surname>
+          </citauth>
+          <citauth>
+            <fname>Y. Y.</fname>
+            <surname>Yimer</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Pfaendtner</surname>
+          </citauth>
+          <citauth>
+            <fname>E. H. G.</fname>
+            <surname>Backus</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2016</year>
+          <volumeno>138</volumeno>
+          <pages>
+            <fpage>5226</fpage>
+            <lpage>5229</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <journalcit>
+          <citauth>
+            <fname>H.-K.</fname>
+            <surname>Nienhuys</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>7564</fpage>
+            <lpage>7573</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit38">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yamamoto</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ghosh</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-K.</fname>
+            <surname>Nienhuys</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2010</year>
+          <volumeno>12</volumeno>
+          <pages>
+            <fpage>12909</fpage>
+            <lpage>12918</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit39">
+        <journalcit>
+          <citauth>
+            <fname>C.-S.</fname>
+            <surname>Hsieh</surname>
+          </citauth>
+          <citauth>
+            <fname>R. K.</fname>
+            <surname>Campen</surname>
+          </citauth>
+          <citauth>
+            <fname>A. C.</fname>
+            <surname>Vila Verde</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Bolhuis</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-K.</fname>
+            <surname>Nienhuys</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>2011</year>
+          <volumeno>107</volumeno>
+          <pages>
+            <fpage>116102</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>X. D.</fname>
+            <surname>Zhu</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Suhr</surname>
+          </citauth>
+          <citauth>
+            <fname>Y. R.</fname>
+            <surname>Shen</surname>
+          </citauth>
+          <title>Phys. Rev. B: Condens. Matter Mater. Phys.</title>
+          <year>1987</year>
+          <volumeno>35</volumeno>
+          <pages>
+            <fpage>3047</fpage>
+            <lpage>3050</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Lu</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Gan</surname>
+          </citauth>
+          <citauth>
+            <fname>B.-H.</fname>
+            <surname>Wu</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-F.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2004</year>
+          <volumeno>108</volumeno>
+          <pages>
+            <fpage>7297</fpage>
+            <lpage>7306</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Fang</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Baldelli</surname>
+          </citauth>
+          <title>J. Phys. Chem. Lett.</title>
+          <year>2015</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>1454</fpage>
+            <lpage>1460</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit43">
+        <journalcit>
+          <citauth>
+            <fname>M. R.</fname>
+            <surname>Watry</surname>
+          </citauth>
+          <citauth>
+            <fname>G. L.</fname>
+            <surname>Richmond</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2002</year>
+          <volumeno>106</volumeno>
+          <pages>
+            <fpage>12517</fpage>
+            <lpage>12523</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit44">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Ji</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.-R.</fname>
+            <surname>Shen</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2004</year>
+          <volumeno>120</volumeno>
+          <pages>
+            <fpage>7107</fpage>
+            <lpage>7112</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit45">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Sovago</surname>
+          </citauth>
+          <citauth>
+            <fname>R. K.</fname>
+            <surname>Campen</surname>
+          </citauth>
+          <citauth>
+            <fname>G. W. H.</fname>
+            <surname>Wurpel</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Müller</surname>
+          </citauth>
+          <citauth>
+            <fname>H. J.</fname>
+            <surname>Bakker</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>2008</year>
+          <volumeno>100</volumeno>
+          <pages>
+            <fpage>173901</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit46">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Vinaykin</surname>
+          </citauth>
+          <citauth>
+            <fname>A. V.</fname>
+            <surname>Benderskii</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2013</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>15833</fpage>
+            <lpage>15842</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit47">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Barth</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Zscherp</surname>
+          </citauth>
+          <title>Q. Rev. Biophys.</title>
+          <year>2003</year>
+          <volumeno>35</volumeno>
+          <pages>
+            <fpage>369</fpage>
+            <lpage>430</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit48">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Zimdars</surname>
+          </citauth>
+          <citauth>
+            <fname>J. I.</fname>
+            <surname>Dadap</surname>
+          </citauth>
+          <citauth>
+            <fname>K. B.</fname>
+            <surname>Eisenthal</surname>
+          </citauth>
+          <citauth>
+            <fname>T. F.</fname>
+            <surname>Heinz</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>1999</year>
+          <volumeno>103</volumeno>
+          <pages>
+            <fpage>3425</fpage>
+            <lpage>3433</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit49">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Smits</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ghosh</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Bredenbeck</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yamamoto</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Müller</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <title>New J. Phys.</title>
+          <year>2007</year>
+          <volumeno>9</volumeno>
+          <pages>
+            <fpage>390</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit50">
+        <journalcit>
+          <citauth>
+            <fname>E. H. G.</fname>
+            <surname>Backus</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Bloem</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Pfister</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Moretto</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Crisma</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Toniolo</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Hamm</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>13405</fpage>
+            <lpage>13409</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit51">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Buchenberg</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Schaudinnus</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Gerhard</surname>
+          </citauth>
+          <title>J. Chem. Theory Comput.</title>
+          <year>2015</year>
+          <volumeno>11</volumeno>
+          <pages>
+            <fpage>1330</fpage>
+            <lpage>1336</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+    </biblist>
+    <compoundgrp>
+    </compoundgrp>
+    <annotationgrp>
+    </annotationgrp>
+    <datagrp>
+    </datagrp>
+    <resourcegrp>
+    </resourcegrp>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000051677 0?>

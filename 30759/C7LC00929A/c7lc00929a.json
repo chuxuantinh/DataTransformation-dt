@@ -1,0 +1,180 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Asymmetric nanofluidic grating detector for differential refractive index measurement and biosensing",
+        "creators" : [{
+            "person" : {
+                "givenName" : "F.",
+                "familyName" : "Purr",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institute of Microtechnology, TU Braunschweig",
+                    "address" : "38124 Braunschweig, Germany"
+                },{
+                    "identifier" : "ou_1497750",
+                    "name" : "Max Planck Institute for Biophysical Chemistry",
+                    "address" : "37077 Göttingen, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons212720",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "M.",
+                "familyName" : "Bassu",
+                "organizations" : [{
+                    "identifier" : "ou_1497750",
+                    "name" : "Max Planck Institute for Biophysical Chemistry",
+                    "address" : "37077 Göttingen, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons136253",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "R. D.",
+                "familyName" : "Lowe",
+                "organizations" : [{
+                    "identifier" : "ou_1497750",
+                    "name" : "Max Planck Institute for Biophysical Chemistry",
+                    "address" : "37077 Göttingen, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons86810",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "B.",
+                "familyName" : "Thürmann",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institute of Microtechnology, TU Braunschweig",
+                    "address" : "38124 Braunschweig, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "A.",
+                "familyName" : "Dietzel",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Institute of Microtechnology, TU Braunschweig",
+                    "address" : "38124 Braunschweig, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "T. P.",
+                "familyName" : "Burg",
+                "organizations" : [{
+                    "identifier" : "ou_1497750",
+                    "name" : "Max Planck Institute for Biophysical Chemistry",
+                    "address" : "37077 Göttingen, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons14912",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "CORRES?AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-11-01",
+        "dateAccepted" : "2017-10-23",
+        "dateSubmitted" : "2017-08-30",
+        "genre" : "eg. ARTICLE, POSTER",
+        "identifiers" : [{
+            "id" : "10.1039/c7lc00929a",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Lab on a Chip",  
+            "volume" : "17",
+            "issue" : "24", 
+            "startPage" : "4265", 
+            "endPage" : "4272",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1473-0197",
+                "type" : "ISSN"
+            },{
+                "id" : "1473-0189",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "An asymmetric nanofluidic grating is shown to enable simple, robust, and fully differential measurements of refractive index or of surface-adsorbed layers of biomolecules through interferometry.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Measuring small changes in refractive index can provide both sensitive and contactless information on molecule concentration or process conditions for a wide range of applications. However, refractive index measurements are easily perturbed by non-specific background signals, such as temperature changes or non-specific binding. Here, we present an optofluidic device for measuring refractive index with direct background subtraction within a single measurement. The device is comprised of two interdigitated arrays of nanofluidic channels designed to form an optical grating. Optical path differences between the two sets of channels can be measured directly via an intensity ratio within the diffraction pattern that forms when the grating is illuminated by a collimated laser beam. Our results show that no calibration or biasing is required if the unit cell of the grating is designed with an appropriate built-in asymmetry. In proof-of-concept experiments we attained a noise level equivalent to ∼10<sup>−5</sup> refractive index units (30 Hz sampling rate, 4 min measurement interval). Furthermore, we show that the accumulation of biomolecules on the surface of the nanochannels can be measured in real-time. Because of its simplicity and robustness, we expect that this inherently differential measurement concept will find many applications in ultra-low volume analytical systems, biosensors, and portable devices."
+        }],
+        "totalNumberOfPages" : "8",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "331737",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"FP7 People: Marie-Curie Actions",
+                    "identifiers" : [ {
+                        "id" : "",
+                        "type" : "OPEN_AIRE"
+                    } ]
+                }
+            }
+        },{
+            "title" : "",
+            "grantIdentifier" : {
+                "id" : "KF3085602MD3, KF3259501MD3",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" : "Bundesministerium für Wirtschaft und Energie",
+                    "identifiers" : [ {
+                        "id" : "",
+                        "type" : "OPEN_AIRE"
+                    } ]
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7LC00929A.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

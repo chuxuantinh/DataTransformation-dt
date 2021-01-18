@@ -1,0 +1,2827 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7cp03942e</ms-id>
+    <doi>10.1039/c7cp03942e</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>June</month>
+        <day>13</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>September</month>
+      <day>25</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>16</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>19</link>
+    </volumeref>
+    <issueref>
+      <link>41</link>
+    </issueref>
+    <pubfront>
+      <fpage>28388</fpage>
+      <lpage>28400</lpage>
+      <no-of-pages>13</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>10</month>
+        <day>25</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+    <fundgrp>
+      <funder>
+        <funder-name>Deutsche Forschungsgemeinschaft</funder-name>
+        <funder-identifier>10.13039/501100001659</funder-identifier>
+        <award-number>EXC 1069</award-number>
+      </funder>
+    </fundgrp>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>Local water sensing: water exchange in bacterial photosynthetic reaction centers embedded in a trehalose glass studied using multiresonance EPR<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available. See DOI: <url>10.1039/c7cp03942e</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa">
+        <person>
+          <persname>
+            <fname>Anna</fname>
+            <surname>Nalepa</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person>
+          <persname>
+            <fname>Marco</fname>
+            <surname>Malferrari</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person orcid="0000-0001-7059-5327">
+          <persname>
+            <fname>Wolfgang</fname>
+            <surname>Lubitz</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb affc">
+        <person orcid="0000-0002-9576-1480">
+          <persname>
+            <fname>Giovanni</fname>
+            <surname>Venturoli</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa affd">
+        <person>
+          <persname>
+            <fname>Klaus</fname>
+            <surname>Möbius</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa" role="corres">
+        <person orcid="0000-0002-6505-9412">
+          <persname>
+            <fname>Anton</fname>
+            <surname>Savitsky</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Max-Planck-Institut für Chemische Energiekonversion</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Stiftstrasse 34-36</addrelt>
+          <city>D-45470 Mülheim an der Ruhr</city>
+          <country>Germany</country>
+        </address>
+        <email>anton.savitsky@cec.mpg.de</email>
+        <fax>+49-208-3063951</fax>
+        <phone>+49-208-3063555</phone>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Laboratorio di Biochimica e Biofisica</nameelt>
+            <nameelt>Dipartimento di Farmacia e Biotecnologie</nameelt>
+            <nameelt>FaBiT</nameelt>
+            <nameelt>Università di Bologna</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>via Irnerio 42</addrelt>
+          <city>I-40126 Bologna</city>
+          <country>Italy</country>
+        </address>
+      </aff>
+      <aff id="affc">
+        <org>
+          <orgname>
+            <nameelt>Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM)</nameelt>
+            <nameelt>c/o Dipartimento di Fisica</nameelt>
+            <nameelt>Università di Bologna</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>via Irnerio 46</addrelt>
+          <city>I-40126 Bologna</city>
+          <country>Italy</country>
+        </address>
+      </aff>
+      <aff id="affd">
+        <org>
+          <orgname>
+            <nameelt>Department of Physics</nameelt>
+            <nameelt>Free University Berlin</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Arnimallee 14</addrelt>
+          <city>D-14195 Berlin</city>
+          <country>Germany</country>
+        </address>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>Pulsed EPR spectroscopies and isotope labeled water are applied to detect and quantify the local water in a bacterial reaction center embedded into a trehalose glass.</ictext>
+      <icgraphic id="ga" xsrc="c7cp03942e-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>Using isotope labeled water (D<inf>2</inf>O and H<inf>2</inf><sup>17</sup>O) and pulsed W-band (94 GHz) high-field multiresonance EPR spectroscopies, such as ELDOR-detected NMR and ENDOR, the biologically important question of detection and quantification of local water in proteins is addressed. A bacterial reaction center (bRC) from <it>Rhodobacter sphaeroides</it> R26 embedded into a trehalose glass matrix is used as a model system. The bRC hosts the two native radical cofactor ions <ugraphic display="inline" id="ugt1" xsrc="c7cp03942e-t1.tif" /> (primary electron donor) and <ugraphic display="inline" id="ugt2" xsrc="c7cp03942e-t2.tif" /> (primary electron acceptor) as well as an artificial nitroxide spin label site-specifically attached to the surface of the H-protein domain. The three paramagnetic reporter groups have distinctly different local environments. They serve as local probes to detect water molecules <it>via</it> magnetic interactions (electron–nuclear hyperfine and quadrupole) with either deuterons or <sup>17</sup>O nuclei. bRCs were equilibrated in an atmosphere of different relative humidities allowing us to control precisely the hydration levels of the protein. We show that by using oxygen-17 labeled water quantitative conclusions can be made in contrast to using D<inf>2</inf>O which suffers from proton–deuterium exchange processes in the protein. From the experiments we also conclude that dry trehalose operates as an anhydrobiotic protein stabilizer in line with the “anchorage hypothesis” of bio-protection. It predicts selective changes in the first solvation shell of the protein upon trehalose–matrix dehydration with subsequent changes in the hydrogen-bonding network. Changes in hydrogen-bonding patterns usually have an impact on the global function of a biological system.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <title>Introduction</title>
+      <p>Water plays an important, if not essential role in the chemistry of life on earth. In particular, it governs the internal dynamics of biological macromolecules, such as proteins. Unrestricted dynamics on a specific time scale is a crucial requirement for the specific biological activity of proteins, including enzyme activity, macromolecular recognition, ligand binding and participation in electron and proton transfer processes. Under physiological conditions these macromolecules fluctuate between different conformational states.<citref idrefs="cit1">1</citref> Their dynamics span an enormous time range, <it>i.e.</it>, from sub-picosecond to tens of microseconds, and include a multitude of stochastic local and collective motions, from bond vibrations to domain motions. Despite significant efforts made over the past few decades, our microscopic understanding of protein dynamics remains rather limited.<citref idrefs="cit2 cit3 cit4">2–4</citref></p>
+      <p>In biological systems water is usually divided into three distinctly different classes: (i) internal water molecules that are hydrogen-bonded to specific amino-acid residues in a water pocket or are mobile along inner-protein channels, they are often of key importance for protein function;<citref idrefs="cit5 cit6 cit7">5–7</citref> (ii) surface water molecules in the hydration shell of the protein at the solute–solvent interface, and (iii) bulk water molecules randomly distributed in the protein matrix. Water molecules in the protein hydration layer have restricted dynamics with respect to water molecules in the bulk as shown using different experimental methods which probe different dynamic ranges of molecular motion, <it>i.e.</it> Nuclear Magnetic Resonance (NMR),<citref idrefs="cit8 cit9 cit10 cit11">8–11</citref> Dielectric Spectroscopy in the microwave region,<citref idrefs="cit12">12</citref> Terahertz Absorption Spectroscopy,<citref idrefs="cit13 cit14">13,14</citref> Infrared Spectroscopy (IR),<citref idrefs="cit15 cit16">15,16</citref> and Neutron Spectroscopy.<citref idrefs="cit1">1</citref> Additionally, powerful extensions of molecular dynamics simulation techniques have been recently employed to unravel solvation dynamics of large molecules.<citref idrefs="cit13 cit17 cit18 cit19">13,17–19</citref> At physiological temperatures solvated proteins fluctuate between a multitude of conformational sub-states in a rugged energy landscape that is hierarchically organized in energy tiers.<citref idrefs="cit20 cit21">20,21</citref> For most proteins cooled below the glass-transition temperature (typically around 200 K) their biological function is blocked due to restricted conformational motion. The “freezing out” of conformational dynamics by lowering the temperature is thus a common strategy for studying function-dynamics relationships in proteins.</p>
+      <p>However, freezing proteins in the presence of a cryoprotectant (used to minimize freezing damage by ice crystals) is problematic because it aggravates disentanglement of the influences of solvent and temperature on the protein dynamics. An elegant alternative approach is to embed the protein into amorphous matrices formed by disaccharides like trehalose.<citref idrefs="cit22 cit23">22,23</citref> This allows preservation of the native protein fold during extensive protein dehydration, even at temperatures well above room temperature. In nature, the extraordinary bio-protective capabilities of disaccharide glasses are exploited by specific organisms, which are able to survive extreme conditions of temperature and dehydration by entering a state of reversibly arrested metabolic activity, called <it>anhydrobiosis</it> or <it>cryptobiosis</it>.<citref idrefs="cit24">24</citref> Extensive spectroscopic work, exploiting neutron scattering,<citref idrefs="cit25 cit26">25,26</citref> Raman,<citref idrefs="cit27">27</citref> optical laser-flash,<citref idrefs="cit28">28</citref> FTIR,<citref idrefs="cit29">29</citref> and EPR (Electron Paramagnetic Resonance),<citref idrefs="cit30">30</citref> on different proteins incorporated into trehalose glasses revealed a tight protein–matrix dynamic coupling at a low water content, implying that the protein dynamics is controlled by that of the water–trehalose matrix coating the protein surface.<citref idrefs="cit25 cit26 cit27 cit28 cit29 cit30 cit31">25–31</citref> At room temperature, the stepwise dehydration of the trehalose matrix results in increasingly inhibited dynamics of the embedded protein. This was observed in both small globular proteins like myoglobin<citref idrefs="cit22 cit25">22,25</citref> and large membrane proteins like bacterial photosynthetic reaction centers<citref idrefs="cit23 cit32">23,32</citref> and photosystem I<citref idrefs="cit33">33</citref> of oxygenic photosynthesis.</p>
+      <p>Trehalose is the most efficient sugar for bio-protection against extreme dehydration and osmotic stress. The exact mechanistic details of the trehalose efficiency are not clear yet (for a recent review see <citref idrefs="cit34" position="baseline">ref. 34</citref>), but likely involve an interplay between several factors that include its extraordinarily high glass-transition temperature (385 K),<citref idrefs="cit35">35</citref> its polymorphism adopting several crystalline and amorphous states,<citref idrefs="cit36">36</citref> its distinct propensity for hydrogen-bonding and the pronounced rigidity of its dehydrated glass matrix.<citref idrefs="cit37">37</citref></p>
+      <p>In this work, we apply pulsed multi-resonance EPR techniques, such as the double-resonance extensions ENDOR (electron–nuclear double resonance) and EDNMR (ELDOR-detected NMR), at a high microwave (mw) frequency (W-band, 94 GHz) and a correspondingly high magnetic Zeeman field (3.4 T). Both techniques are extremely powerful for measuring small electron–nuclear hyperfine couplings even in large low-symmetry biomolecules. They allow us to quantify the accessibility of local water at various sites in bacterial photosynthetic reaction centers (bRCs) from <it>Rhodobacter</it> (<it>Rb.</it>) <it>sphaeroides</it> R26 that were embedded in trehalose glasses at distinct hydration levels. The advantage of EPR spectroscopy in comparison with other techniques such as THz spectroscopy and IR spectroscopy is that site-specific information on local water of the solvation layer can be obtained with a minimum of assumptions in the spectral analysis. Employing isotope labeled water provides the necessary contrast from internal non-exchangeable water molecules.</p>
+      <p>A bRC is an integral membrane protein that catalyzes the initial photochemical processes to convert light energy into chemical free energy.<citref idrefs="cit38 cit39 cit40">38–40</citref> The three protein subunits, L, M, and H, host several cofactors<citref idrefs="cit41">41</citref> sequentially involved in light-driven electron transfer. The two bacteriochlorophyll <it>a</it> (BChl <it>a</it>) molecules near the periplasmic side of the membrane form the “special pair” P<inf>865</inf>. After photo-excitation to its singlet state, the subsequent electron transfer proceeds <it>via</it> the protein branch A<citref idrefs="cit38">38</citref> to the Q<inf>A</inf> acceptor (see <figref idrefs="fig1">Fig. 1</figref>). In the present study, the secondary electron transfer <ugraphic display="inline" id="ugt3" xsrc="c7cp03942e-t3.tif" /> is blocked by using the inhibitor stigmatellin.<citref idrefs="cit42">42</citref></p>
+      <figure id="fig1" xsrc="c7cp03942e-f1.tif">
+        <title>(a) X-ray structural model of the bRC from <it>Rb. sphaeroides</it> R26<citref idrefs="cit43">43</citref> with the protein subunits embedding the electron-transfer cofactors P<inf>865</inf> (the “special pair” donor), two BChls, two BPhes (bacteriopheophytin <it>a</it>), two ubiquinone-10 acceptors (Q<inf>A</inf> and Q<inf>B</inf>) and a non-heme iron Fe<sup>2+</sup>. The paramagnetic Fe<sup>2+</sup> cofactor can be replaced by diamagnetic Zn<sup>2+</sup>. Q<inf>A</inf> and Q<inf>B</inf> form the primary and secondary electron acceptor, respectively. Here, the quinone Q<inf>B</inf> is replaced by stigmatellin to block electron-transfer from <ugraphic display="inline" id="ugt4" xsrc="c7cp03942e-t4.tif" /> to Q<inf>B</inf>. (b) Molecular surface representation of the bRC from <it>Rb. sphaeroides</it> R26 with indicated primary electron donor P<inf>865</inf> (in blue), primary electron acceptor Q<inf>A</inf> (in red) and the nitroxide spin label MTSSL attached to Cys156 in the H protein subunit (in green). Strongly bound water molecules within 1 nm radius of each paramagnetic center are shown as cyan colored spheres, as evaluated from the X-ray structure of highest resolution presently available<citref idrefs="cit44">44</citref> (pdb: <url url="http://xlink.rsc.org/?pdb=2J8C">2J8C</url>).</title>
+      </figure>
+      <p>Using EPR spectroscopy one can measure the electron Zeeman and electron–nuclear hyperfine interactions and thereby probe the unpaired electron spin density distribution in the transient ionic radical states, <ugraphic display="inline" id="ugt5" xsrc="c7cp03942e-t5.tif" /> and <ugraphic display="inline" id="ugt6" xsrc="c7cp03942e-t6.tif" />, that are created during light-induced charge separation. These paramagnetic states have been thoroughly characterized previously using both cw (continuous wave) and pulsed EPR, for review see <citref idrefs="cit45 cit46" position="baseline">ref. 45 and 46</citref>. P<inf>865</inf> and Q<inf>A</inf> are located close to the periplasmic and cytoplasmic sides of the membrane, respectively, and are thus well suited to be used to study local water accessibility in the protein near its surface. In the bRC preparation of this work, with no cytochrome present and electron transfer from <ugraphic display="inline" id="ugt7" xsrc="c7cp03942e-t7.tif" /> to Q<inf>B</inf> blocked, the charge-separated state <ugraphic display="inline" id="ugt8" xsrc="c7cp03942e-t8.tif" /> recombines to P<inf>865</inf>Q<inf>A</inf> within 100 ms by direct electron tunneling.<citref idrefs="cit38">38</citref> Hence, continuous illumination generates a steady-state EPR signal of the <ugraphic display="inline" id="ugt9" xsrc="c7cp03942e-t9.tif" /> state that rapidly decays once the light is switched off, see Fig. S1 in the ESI.<fnoteref idrefs="fn1"></fnoteref> The W-band EPR spectra of both <ugraphic display="inline" id="ugt10" xsrc="c7cp03942e-t10.tif" /> and <ugraphic display="inline" id="ugt11" xsrc="c7cp03942e-t11.tif" /> reveal rhombic <it>g</it>-tensors<citref idrefs="cit47 cit48">47,48</citref> resulting in characteristic line shapes, see <figref idrefs="fig2">Fig. 2a</figref>.</p>
+      <figure id="fig2" xsrc="c7cp03942e-f2.tif">
+        <title>(a) Top: Simulated rigid limit W-band EPR absorption spectra of <ugraphic display="inline" id="ugt14" xsrc="c7cp03942e-t14.tif" /> (blue trace) and <ugraphic display="inline" id="ugt15" xsrc="c7cp03942e-t15.tif" /> (red trace), the radical-ion states of the primary donor and acceptor. For the simulation, previously reported magnetic parameter values were used.<citref idrefs="cit47 cit48">47,48</citref> Bottom: simulated rigid limit W-band EPR absorption spectrum of the nitroxide radical R1 (green trace). The magnetic parameter values used for the spectrum simulation were previously reported for a nitroxide dissolved in a water/glycerol mixture.<citref idrefs="cit52">52</citref> (b) Chemical structures of the pyrroline type nitroxide radical R1 and the disaccharide trehalose.</title>
+      </figure>
+      <p>The native bRC contains five cysteine residues which are buried within the protein domains except for cysteine 156 which is moderately solvent exposed in subunit H. This residue can be site-specifically spin labeled with an external paramagnetic probe molecule. We used MTSSL (1-oxyl-2,2,5,5-tetramethylpyrroline-3-methyl-methanethiosulphonate) as the spin label.<citref idrefs="cit49 cit50">49,50</citref> The nitroxide spin label<citref idrefs="cit51">51</citref> provides a third paramagnetic probe within the bRC in addition to the “natural” radical ions <ugraphic display="inline" id="ugt12" xsrc="c7cp03942e-t12.tif" /> and <ugraphic display="inline" id="ugt13" xsrc="c7cp03942e-t13.tif" />. Due to the protein 3D structure the “artificial” nitroxide spin label experienced a water accessibility very different from that of the native cofactors, P<inf>865</inf> and Q<inf>A</inf>, see <figref idrefs="fig1">Fig. 1b</figref>.</p>
+      <p>Even under high-field (W-band) conditions, the close similarity of the <it>g</it>-tensor components results in strong overlap of the EPR spectra of <ugraphic display="inline" id="ugt16" xsrc="c7cp03942e-t16.tif" />, <ugraphic display="inline" id="ugt17" xsrc="c7cp03942e-t17.tif" /> and nitroxide spin labels embedded in their protein matrix environment. For the present study, this dictates the necessity of two variants of bRC protein preparations to be investigated independently: (i) the nitroxide-labeled bRC, (ii) the bRC with the Fe<sup>2+</sup> cofactor replaced by diamagnetic Zn<sup>2+</sup> to enable resolved EPR detection of both native cofactors, <ugraphic display="inline" id="ugt18" xsrc="c7cp03942e-t18.tif" /> and <ugraphic display="inline" id="ugt19" xsrc="c7cp03942e-t19.tif" />, without stranding because of excessive line broadening by paramagnetic Fe<sup>2+</sup>.<citref idrefs="cit53">53</citref></p>
+      <p>The effect of bRC coatings on a trehalose glass matrix has been thoroughly studied previously using laser-flash optical and EPR spectroscopies.<citref idrefs="cit23 cit28 cit30 cit32 cit54">23,28,30,32,54</citref> In bRCs, the coating with trehalose affects the electron-transfer step between the primary and secondary quinone acceptors<citref idrefs="cit32">32</citref> which is a conformationally gated process.<citref idrefs="cit55">55</citref> The trehalose matrix also influences the lifetime of the charge-separated radical-pair state, <ugraphic display="inline" id="ugt20" xsrc="c7cp03942e-t20.tif" />. Upon progressive dehydration of the trehalose matrix, the kinetics of <ugraphic display="inline" id="ugt21" xsrc="c7cp03942e-t21.tif" /> charge recombination becomes faster and exhibits widely distributed rate constants.<citref idrefs="cit23 cit28 cit54 cit56">23,28,54,56</citref> Thus, it mimics at room temperature the bRC recombination kinetics observed at cryogenic temperatures in the water–glycerol system when frozen in the dark.<citref idrefs="cit57 cit58">57,58</citref></p>
+      <p>A reasonable explanation for this matrix effect is the stronger dynamic coupling between sugar and protein <it>via</it> hydrogen-bonding networks in a dehydrated trehalose matrix. It blocks the fluctuations between conformational substates of the bRC,<citref idrefs="cit28">28</citref> as put forward in the “anchorage hypothesis”.<citref idrefs="cit31">31</citref> Two relative hydration levels, <it>r</it>, were chosen in this work that result in a different extent of slaving the protein dynamics to the embedding sugar matrix: (i) <it>r</it> = 11% for which the protein dynamics is arrested on the time scale of seconds,<citref idrefs="cit54">54</citref> and (ii) <it>r</it> = 74% for which the dynamics is only mildly retarded as compared to solution.<citref idrefs="cit59">59</citref></p>
+      <p>Using EDNMR we aim to probe directly if the dehydration of the trehalose matrix results in a changed hydration level of the inner protein core surrounding the native cofactors, <ugraphic display="inline" id="ugt22" xsrc="c7cp03942e-t22.tif" /> and <ugraphic display="inline" id="ugt23" xsrc="c7cp03942e-t23.tif" />, and of the protein surface at the labeled site of cysteine 156. To trace the exchange of water between the sugar matrix and the protein, the use of isotope labeled water is essential, with regard to both deuterium and oxygen-17.</p>
+      <p>Our recent studies<citref idrefs="cit59 cit60">59,60</citref> showed that the molecular organization of the <it>trehalose</it> matrix is such that in the dehydrated state it forms a homogenous amorphous matrix. Therefore, in the present work the samples were always prepared by dehydration first before the process of rehydration was studied.</p>
+      <p>The present paper is organized as follows: before reporting on the ultimate subject of this study, the water exchange in bRCs embedded in the trehalose matrix of different water (D<inf>2</inf>O) contents, we have to characterize the molecular organization of the trehalose matrix without proteins at different hydration levels. Only with this information at hand meaningful conclusions can be drawn on prevailing trehalose–protein interaction mechanisms as mediated by surrounding water molecules. Hence, (i) we start with a careful EPR characterization of the trehalose matrix prepared at relevant relative D<inf>2</inf>O humidity levels in the absence of bRCs. (ii) Subsequently, the influence of bRC trehalose coatings at different regions of the protein complex on the water accessibility of the distinctly different binding sites of the three spin probes, the surface-localized nitroxide radical as well as the inner-protein localized native cofactor radical ions <ugraphic display="inline" id="ugt24" xsrc="c7cp03942e-t24.tif" /> and <ugraphic display="inline" id="ugt25" xsrc="c7cp03942e-t25.tif" />, is compared for the relative D<inf>2</inf>O humidity levels, <it>r</it> = 11% and <it>r</it> = 74%. To this end, the rehydration timescale of the trehalose film is determined at these three binding sites by comparing the deuterium resonance signal intensity in the respective W-band EDNMR recordings. We end the present paper with the H<inf>2</inf><sup>17</sup>O water-accessibility results obtained by W-band EDNMR and Davies ENDOR on nitroxide spin labeled bRC/trehalose samples in which <sup>17</sup>O is used as a nuclear spin probe instead of <sup>2</sup>H. The respective advantages of both approaches are highlighted.</p>
+    </section>
+    <section>
+      <title>Materials and methods</title>
+      <subsect1>
+        <title>Chemicals</title>
+        <p>LDAO (<it>N</it>,<it>N</it>-dimethyldodecylamine <it>N</it>-oxide) solution (≈30% in H<inf>2</inf>O) was purchased from Fluka. Trehalose (α-<scp>d</scp>-glucopyranosyl α-<scp>d</scp>-glucopyranoside), stigmatellin, lithium chloride, potassium carbonate and sodium chloride salts were obtained from Sigma-Aldrich. The isotope enriched water D<inf>2</inf>O (99.9% D) and H<inf>2</inf><sup>17</sup>O (90% <sup>17</sup>O) were from Aldrich and Nukem Isotopes, respectively. The protonated nitroxide radical 3-hydroxymethyl-2,2,5,5-tetramethylpyrrolin-1-oxyl (abbreviated as R1 throughout the text) used as a spin probe was synthesized as described previously.<citref idrefs="cit61">61</citref> The nitroxide spin label 1-oxyl-2,2,5,5-tetramethylpyrroline-3-methyl-methanethiosulphonate (MTSSL) was purchased from Toronto Research Chemicals.</p>
+      </subsect1>
+      <subsect1>
+        <title>Sample preparation</title>
+        <p>The reaction centers from the photosynthetic purple bacterium <it>Rb. sphaeroides</it> R26 were purified according to a previously published protocol, using LDAO as a detergent.<citref idrefs="cit62">62</citref> Two protein preparations were investigated: (i) the site-specifically nitroxide-labeled variant (SL-bRC) obtained by labeling the native cysteine H156 with MTS;<citref idrefs="cit63">63</citref> (ii) the unlabeled bRC protein variant with the non-heme Fe<sup>2+</sup> replaced by diamagnetic Zn<sup>2+</sup>,<citref idrefs="cit64">64</citref> (Zn-bRC).</p>
+        <p>Both Fe<sup>2+</sup>- and Zn<sup>2+</sup>-containing bRC preparations were concentrated to 335 μM and supplemented with stigmatellin, a potent inhibitor of the <ugraphic display="inline" id="ugt26" xsrc="c7cp03942e-t26.tif" />-to-Q<inf>B</inf> electron transfer.<citref idrefs="cit42">42</citref> By removal of the iron in Zn-bRCs and replacement of Q<inf>B</inf> by stigmatellin fast spin relaxation of the <ugraphic display="inline" id="ugt27" xsrc="c7cp03942e-t27.tif" /> radical anion by high-spin Fe<sup>2+</sup> (<it>S</it> = 2) is avoided as well as unwanted formation of the semiquinone biradical <ugraphic display="inline" id="ugt28" xsrc="c7cp03942e-t28.tif" /> in a subsequent electron-transfer step occurring in wild-type bRCs. Hence, the charge-separated primary donor–acceptor radical pair, <ugraphic display="inline" id="ugt29" xsrc="c7cp03942e-t29.tif" />, is exclusively formed upon illumination and its transient lifetime and spin dynamics are not shortened by spin interactions with nearby Fe<sup>2+</sup> and consecutive secondary electron transfer.</p>
+        <p>The bRC/trehalose glassy samples for EPR measurements were prepared as described previously.<citref idrefs="cit30">30</citref> An amount of 25 μL of the concentrated (335 μM) bRC solution was mixed with 25 μL of 1.67 M trehalose dissolved in 10 mM Tris/HCl buffer containing 0.025% LDAO. This results in a sugar/bRC molar ratio of 5 × 10<sup>3</sup>. The bRC/trehalose solution was layered on an optical glass and dried in a desiccator under N<inf>2</inf> flow to form a film at room temperature. The desired glassy sample was obtained after 4 h of gas flux. Subsequently, the samples were transferred into a sealed box where further dehydration of the sample occurred <it>via</it> controlled exposition to an atmosphere of low relative humidity over a saturated aqueous salt solution at room temperature using H<inf>2</inf>O with natural isotope abundance. This isopiestic method of controlled sample dehydration has been employed successfully both in EPR<citref idrefs="cit30">30</citref> and IR<citref idrefs="cit65 cit66 cit67">65–67</citref> studies on bRC/trehalose glasses and bRC films dehydrated in the absence of sugar. For measurements on samples equilibrated to the desired relative humidity with either D<inf>2</inf>O or H<inf>2</inf><sup>17</sup>O vapor, the saturated solutions of an adequate salt<citref idrefs="cit68">68</citref> were prepared using the respective isotope-labeled water at room temperature. The slight change in vapor pressure due to the use of D<inf>2</inf>O instead of H<inf>2</inf>O is negligible for our purpose.<citref idrefs="cit69">69</citref> The dehydrated bRC/trehalose films containing about 0.5 mM of protein were then crumbled into small flakes and inserted into the W-band sample quartz capillaries (i.d. 0.6 mm). In the present study two specific hydration levels of bRC/trehalose glasses were obtained when using LiCl (<it>r</it> = 11%) or NaCl (<it>r</it> = 74%) saturated solutions.<citref idrefs="cit68">68</citref> Throughout the text, the type of water vapor used in the equilibration procedure is indicated in brackets following the value of <it>r</it>, <it>e.g.</it>, 11% (LiCl/D<inf>2</inf>O) corresponds to equilibration at <it>r</it> = 11% using a saturated LiCl solution in D<inf>2</inf>O.</p>
+        <p>The R1 nitroxide/trehalose glasses were prepared in an analogous way, except for using a higher nitroxide concentration (≈1 mM) and omitting the detergent in the starting trehalose solution. Two independent preparations were used for two EPR experiments in order to prove the consistency of the obtained data.</p>
+      </subsect1>
+      <subsect1>
+        <title>EPR experiments</title>
+        <p>The pulsed W-band EPR experiments were performed at either 60 K (for SL-bRCs and R1) or 130 K (for Zn-bRCs) on a modified Bruker Elexsys E680 spectrometer operating at about 94 GHz.<citref idrefs="cit70">70</citref> The samples were frozen in the dark and then transferred into the pre-cooled EPR cryostat. For sample illumination, laser light was guided to the cavity through a quartz fiber. The primary electron transfer was initiated by singlet photo-excitation of P<inf>865</inf> at a wavelength of 695 nm using a cw diode laser. The 2-pulse field-swept EPR spectra were acquired using the Hahn-echo pulse sequence <it>t</it><inf>p</inf>–<it>τ</it>–2<it>t</it><inf>p</inf>–<it>τ</it>–echo. The pulse length <it>t</it><inf>p</inf> of the π/2 mw pulse was generally set to 56 ns for probing the nitroxide radical and to 24 ns for probing the <ugraphic display="inline" id="ugt30" xsrc="c7cp03942e-t30.tif" /> and <ugraphic display="inline" id="ugt31" xsrc="c7cp03942e-t31.tif" /> radical ions.</p>
+        <p>The EDNMR experiments employed two-pulse Hahn-echo detection at mw frequency <it>ν</it><inf>1</inf> that is matched to the cavity resonance frequency. The required high-turning angle (HTA) mw pulse was applied at frequency <it>ν</it><inf>2</inf>. The EDNMR spectra were acquired by continuously sweeping <it>ν</it><inf>2</inf> at a fixed magnetic field, usually in steps of 70 kHz. The <it>ν</it><inf>2</inf> frequency-sweep range was adjusted individually, depending on the resonance signal of interest. The width of the central “blind spot”, which occurs when <it>ν</it><inf>2</inf> approaches <it>ν</it><inf>1</inf>, was used to measure the mw field amplitude, <it>ω</it><inf>1</inf>, at frequency <it>ν</it><inf>1</inf> of the detection pulse sequence, as described in <citref idrefs="cit70" position="baseline">ref. 70</citref>. The HTA pulse length and mw field amplitude were optimized for the respective nucleus of interest. For details of the mw pulse scheme settings, see the ESI.<fnoteref idrefs="fn1"></fnoteref> Similar to ENDOR, in the EDNMR spectra the hyperfine or/and quadrupole coupled proton or deuterium nuclei yield signals centered at the nuclear Zeeman frequency <it>ν</it><inf>n</inf>(H) or <it>ν</it><inf>n</inf>(D), split by the hyperfine or quadrupole coupling constant.</p>
+        <p>EDNMR spectra were processed as described previously.<citref idrefs="cit70">70</citref> In short, the spectra were inverted and normalized with respect to the central blind-spot depth. The blind spot was subsequently fitted by using either a Lorentzian line shape or a cubic spline and subtracted (see Fig. S2 in the ESI<fnoteref idrefs="fn1"></fnoteref>). The resulting EDNMR signals have intensities between 0 and 1. Since the information content for weakly coupled D and <sup>17</sup>O signals is equivalent for left-hand (<it>ν</it><inf>2</inf> &lt; <it>ν</it><inf>1</inf>) and right-hand (<it>ν</it><inf>2</inf> &gt; <it>ν</it><inf>1</inf>) sides of the EDNMR spectra,<citref idrefs="cit71">71</citref> only signals with Δ<it>ν</it> = (<it>ν</it><inf>2</inf> − <it>ν</it><inf>1</inf>) &gt; 0 are shown.</p>
+        <p>ENDOR spectra were recorded using the Mims ENDOR pulse sequence, <it>t</it><inf>p</inf>–<it>τ</it>–<it>t</it><inf>p</inf>–<it>t</it><inf>rf</inf>–<it>T</it>–<it>t</it><inf>p</inf>–<it>τ</it>–echo, for deuterium or the Davies ENDOR pulse sequence, <it>t</it><inf>inv</inf>–<it>t</it><inf>rf</inf>–<it>T</it>–<it>t</it><inf>p</inf>–<it>τ</it>–2<it>t</it><inf>p</inf>–<it>τ</it>–echo, for <sup>17</sup>O nuclei. A <it>τ</it> value of 320 ns was chosen for Mims ENDOR. The length of the selective π pulse, <it>t</it><inf>inv</inf>, in Davies ENDOR was set to 300 ns. The radio frequency pulse lengths, <it>t</it><inf>rf</inf>, of 35 μs and 23 μs were used for <sup>2</sup>H and <sup>17</sup>O ENDOR, respectively.</p>
+      </subsect1>
+    </section>
+    <section>
+      <title>Results</title>
+      <subsect1>
+        <title>The water exchange characteristics of the trehalose glass</title>
+        <p>We start the Results section with the EPR characterization of the trehalose glass at different humidity levels in the absence of protein. In previous studies we have shown<citref idrefs="cit66">66</citref> that rehydration of a dry protein film (LiCl, <it>r</it> = 11%) by exposure to a high-humidity atmosphere of a saturated salt solution (NaCl, <it>r</it> = 74%) prepared in D<inf>2</inf>O is an efficient method for H<inf>2</inf>O/D<inf>2</inf>O exchange in proteins. Here, we use an analogous approach to study the exchange of residual water within the trehalose glass kept at low humidity, in the absence of bRCs. The admixture of a nitroxide spin probe during the preparation of the sugar glass results in homogenously dispersed nitroxide radicals in the homogeneous trehalose glass after dehydration.<citref idrefs="cit59">59</citref> Therefore, we first studied the extent and timescale of water exchange between the atmosphere of defined relative humidity and residual water retained within the dehydrated sugar. The D<inf>2</inf>O content within the trehalose matrix was determined using W-band EDNMR monitoring the amplitude of the deuterium NMR signal associated with the nitroxide EPR spectrum. <figref idrefs="fig3">Fig. 3a</figref> shows the EDNMR spectra recorded at the <it>g</it><inf><it>zz</it></inf>, <it>M</it><inf>I</inf> = 0 spectral position of the nitroxide EPR spectrum for a series of R1/trehalose glasses that had been equilibrated at <it>r</it> = 11% (LiCl/D<inf>2</inf>O) for the indicated period of time. The deuterium NMR line is centered at <it>ν</it><inf>n</inf>(D) = 21.9 MHz which is the deuterium Larmor frequency at 3.35 T. This signal is absent in the control trehalose sample (LiCl in H<inf>2</inf>O), and appears in all nitroxide/trehalose glasses equilibrated with LiCl in D<inf>2</inf>O, including the glass with the shortest tested equilibration time of 3 hours (see Table S1 in the ESI<fnoteref idrefs="fn1"></fnoteref>). In addition to the deuterium line, much broader signals in the 30–55 MHz frequency range are always present which are ascribed to the NMR responses from internal nitrogen <sup>14</sup>N nuclei of the radical.<citref idrefs="cit70 cit72">70,72</citref> The strong overlap of <sup>14</sup>N signals with the line centered at <it>ν</it><inf>n</inf>(D) for spectral positions in the <it>g</it><inf><it>xx</it></inf>–<it>g</it><inf><it>yy</it></inf> region of the nitroxide EPR spectrum (see Fig. S2 in the ESI<fnoteref idrefs="fn1"></fnoteref>) dictates the choice of the <it>g</it><inf><it>zz</it></inf>, <it>M</it><inf>I</inf> = 0 spectral position for optimum EDNMR detection.</p>
+        <figure id="fig3" xsrc="c7cp03942e-f3.tif">
+          <title>(a) W-band EDNMR spectra recorded for R1/trehalose glasses at 60 K. The glasses were equilibrated with a saturated LiCl/D<inf>2</inf>O solution for the indicated time. The red trace corresponds to the R1/trehalose glass prepared in D<inf>2</inf>O. The spectra were recorded at the field position indicated in (b) by the green arrow. (b) Echo-detected field-swept W-band EPR spectrum of the nitroxide radical R1 embedded in trehalose glass. (c) Intensity of the deuterium EDNMR line as a function of equilibration time. The red dashed line corresponds to the deuterium line intensity evaluated for R1/trehalose glass prepared in D<inf>2</inf>O. The error margins are determined by data analysis from two independent series of measurements. (d) W-band Mims ENDOR spectra recorded for R1/trehalose glasses at 60 K. The glasses were equilibrated with a saturated LiCl/D<inf>2</inf>O solution for the indicated time. The red trace corresponds to R1/trehalose glass prepared directly in D<inf>2</inf>O. The spectra were recorded at the field position indicated in (b) by the blue arrow.</title>
+        </figure>
+        <p>The intensity of the D line in EDNMR recordings continuously increases during the first 40 hours of equilibration until reaching a plateau after 3 days with a D-line intensity of 0.07 ± 0.01, see <figref idrefs="fig3">Fig. 3c</figref> and Table S1 in the ESI.<fnoteref idrefs="fn1"></fnoteref> The deuterium signal originates mainly from D<inf>2</inf>O, but presumably also from exchangeable hydroxyl groups within the trehalose molecule<citref idrefs="cit73 cit74">73,74</citref> which would add intensity to the deuterium line in the EDNMR spectrum. Therefore, we included, as a reference, the nitroxide/trehalose glass prepared under identical conditions but using D<inf>2</inf>O as the solvent. Such a preparation procedure allows for fast exchange of hydroxyl groups in the trehalose molecules. In this sample the intensity of the deuterium signal in the EDNMR spectrum is two times larger, see <figref idrefs="fig3">Fig. 3a</figref>. This suggests that in the dehydrated sugar glass the exchange of hydroxyl groups in trehalose molecules is slower compared to liquid solution. Thus, the exchanged hydroxyl groups do not contribute significantly to the deuterium signal intensity in the EDNMR spectrum on the equilibration timescale employed. The observed signal can be ascribed to D<inf>2</inf>O molecules, proving that the exchange of residual water retained in the trehalose takes place at a constant low relative humidity level. The exchange process occurs in spite of the high rigidity of the trehalose glass at <it>r</it> = 11% (which corresponds to only 0.52 ± 0.03 water per trehalose molecule<citref idrefs="cit59">59</citref>). The equilibration process is, however, slower as compared to rehydration from <it>r</it> = 11% to <it>r</it> = 74%, see Fig. S4 in the ESI.<fnoteref idrefs="fn1"></fnoteref> In the latter case the new hydration level is reached within 24 hours as compared to 48 hours at <it>r</it> = 11%.</p>
+        <p>From quantum-chemical calculations and EPR observations it is known that nitroxide radicals form H-bonds with nearby hydrogen donor groups.<citref idrefs="cit70 cit75 cit76 cit77">70,75–77</citref> Hence, the deuterium line in the EDNMR spectrum is assigned to either the deuterated water molecules directly coordinated to nitroxide radicals and/or to D<inf>2</inf>O molecules beyond the first solvation shell. The coordinated water molecules yield an EDNMR signal centered at the nuclear Zeeman frequency <it>ν</it><inf>n</inf>(D) split by the hyperfine, <it>A</it>, and quadrupole coupling constants (nuclear spin of deuterium <it>I</it> = 1). The distant water molecules would exhibit small, unresolved hyperfine couplings that merge to a Gaussian line centered at <it>ν</it><inf>n</inf>(D), the so called “matrix line”. This means that in the weak-coupling regime (<it>A</it> &lt; 2·|<it>ν</it><inf>n</inf>(D)|), the spectral contributions from both coordinated and distant water molecules are centered at <it>ν</it><inf>n</inf>(D) overlapping partially. However, in all our EDNMR spectra the signal at <it>ν</it><inf>n</inf>(D) could satisfactorily be fitted to a Gaussian line shape with a full width at half maximum (FWHM) of <it>ca.</it> 1.1 MHz (at a 1.2 μs echo integration window) – with no hint of additional structure or splitting.</p>
+        <p>To obtain additional information whether both coordinated and distant water molecules contribute, W-band Mims ENDOR spectra were recorded. This technique has proven to be useful for the detection of narrow spectral line shapes.<citref idrefs="cit78">78</citref><figref idrefs="fig3">Fig. 3d</figref> shows Mims ENDOR spectra recorded after different equilibration times for the R1/trehalose glass at <it>r</it> = 11% (LiCl/D<inf>2</inf>O), analogous to the above EDNMR recordings. The ENDOR spectra were taken at the magnetic field position in the <it>g</it><inf><it>xx</it></inf>–<it>g</it><inf><it>yy</it></inf> EPR spectral range where the largest hyperfine coupling is expected in the case of planar H-bonded nitroxide complexes. After 6 hours of equilibration, both the distant and H-bonded deuterium signals are seen in the ENDOR spectrum (bottom trace in <figref idrefs="fig3">Fig. 3d</figref>). The hyperfine coupling at this field position is 1.8 ± 0.3 MHz, but the lines are relatively broad and the quadrupole splitting from deuterium is not resolved. The rigidity of the dry trehalose glass is likely to prevent structural relaxation to the energetically most favorable H-bond geometry, resulting in broader ENDOR lines. In the course of equilibration, the signal intensity of the matrix line increases as compared to hyperfine-coupled deuterium, especially between 6 and 27 hours of equilibration, but the overall spectral changes are negligible. The fact that no change in the ENDOR line shape occurs between 2, 3 or 7 days suggests that equilibration is complete. This is in line with the results from our EDNMR experiments.</p>
+        <p>For the trehalose glass prepared directly in D<inf>2</inf>O the ENDOR line shape does not change. The same H-bond donor group, <it>i.e.</it>, the hydroxyl group of water and trehalose is likely to have a similar hyperfine coupling constant. The only difference is a slightly broader matrix line which is explained by the larger number of deuterium nuclei in the vicinity of the spin probe. These originate from exchanged hydroxyl protons in the trehalose molecule.</p>
+        <p>Overall, the lack of changes in the coupled deuterium signal strongly suggests that the structural organization of dry amorphous trehalose (<it>r</it> = 11%) does not change at the molecular level in the course of rehydration equilibration. This is in contrast to rehydration of the trehalose glass at <it>r</it> = 74% (NaCl/D<inf>2</inf>O), see Fig. S3 and S5 in the ESI.<fnoteref idrefs="fn1"></fnoteref> The structural reorganization and partial polycrystallization of trehalose films at <it>r</it> = 74% result in nitroxide molecules preferentially located in water-rich domains.<citref idrefs="cit59">59</citref> The increased plasticity of the rehydrated trehalose sugar allows for relaxation to an optimum geometry of nitroxide H-bonds with the surrounding water molecules. As a result, the hyperfine coupled deuterium lines in the ENDOR spectra are narrower and the quadrupole splitting is partially resolved, see Fig. S5 in the ESI.<fnoteref idrefs="fn1"></fnoteref> Additionally, <sup>14</sup>N EDNMR experiments reveal an increased fraction of nitroxide hydrogen bonded to two water molecules upon prolonged rehydration, see Fig. S3 and Table S2 in the ESI.<fnoteref idrefs="fn1"></fnoteref></p>
+      </subsect1>
+      <subsect1>
+        <title>Water accessibility of the SL-bRC/trehalose glass at different hydration levels as probed by the surface-exposed nitroxide spin label</title>
+        <p>To probe water accessibility in the protein hydration shell we used the MTS spin label site-specifically attached to the native cysteine residue H156 in the H subunit of the bRC, see <figref idrefs="fig1">Fig. 1b</figref>. Unlike the L and M protein subunits that interact with the lipid bilayer and detergent, the H subunit is exposed to the aqueous environment and residue H156 is free from lipid/detergent interactions.<citref idrefs="cit79">79</citref> Therefore, the nitroxide spin probe reports on local water accessibility and its changes whenever the hydration level of the sugar matrix is changed. <figref idrefs="fig4">Fig. 4a</figref> shows the W-band EDNMR spectra recorded for SL-bRC/trehalose glasses equilibrated at <it>r</it> = 11% (LiCl/D<inf>2</inf>O) or rehydrated to <it>r</it> = 74% (NaCl/D<inf>2</inf>O). At both hydration levels the Gaussian line centered at the deuterium Larmor frequency <it>ν</it><inf>n</inf>(D) is seen in the EDNMR spectrum. At <it>r</it> = 74%, it has a normalized intensity of 0.21. For the dry protein/sugar glass at <it>r</it> = 11%, the intensity of the deuterium line is lower than for <it>r</it> = 74%, but only by a factor of 2, see <tableref idrefs="tab1">Table 1</tableref>. The deuterium line is expected to contain contributions from both directly coordinated and distant deuterium nuclei, similar to the case of nitroxide/trehalose films (see above). In fact, the W-band ENDOR spectra reveal the presence of coordinated and distant water molecules at both protein/sugar hydration levels, see <figref idrefs="fig4">Fig. 4b</figref>. The hyperfine coupling of deuterium hydrogen-bonded to the nitroxide in spin-labeled bRCs is, to within experimental accuracy, identical at both hydration levels, and similar to the one measured for free nitroxide radicals dispersed in the trehalose matrix at <it>r</it> = 11%.</p>
+        <figure id="fig4" xsrc="c7cp03942e-f4.tif">
+          <title>(a) W-band EDNMR spectra of SL-bRC/trehalose glasses equilibrated at <it>r</it> = 11% (LiCl/D<inf>2</inf>O) and <it>r</it> = 74% (NaCl/D<inf>2</inf>O) (red and black traces, respectively). The orange and grey traces show the corresponding EDNMR spectra of the samples subsequently re-equilibrated at <it>r</it> = 11% (LiCl/H<inf>2</inf>O). The spectra were recorded at the <it>g</it><inf><it>zz</it></inf>, <it>M</it><inf>I</inf> = 0 spectral field position at 60 K indicated by the green arrow in <figref idrefs="fig3">Fig. 3b</figref>. Note that the spectra are shown in a frequency range different from that of <figref idrefs="fig3">Fig. 3a</figref>. (b) W-band Mims ENDOR spectra of SL-bRC/trehalose glasses equilibrated at <it>r</it> = 11% (LiCl/D<inf>2</inf>O) and <it>r</it> = 74% (NaCl/D<inf>2</inf>O). The spectra were recorded at the magnetic field position indicated in <figref idrefs="fig3">Fig. 3b</figref> with the blue arrow.</title>
+        </figure>
+        <table-entry id="tab1">
+          <title>Intensity of the EDNMR D-line peak for the SL-bRC embedded in the trehalose glasses equilibrated at different relative humidity levels</title>
+          <table>
+            <tgroup cols="5">
+              <colspec colname="1" colnum="1" />
+              <colspec colname="2" colnum="2" />
+              <colspec colname="3" colnum="3" />
+              <colspec colname="4" colnum="4" />
+              <colspec colname="5" colnum="5" />
+              <tbody>
+                <row>
+                  <entry>Equilibrated to</entry>
+                  <entry>
+                    <it>r</it> = 11% (D<inf>2</inf>O) from <it>r</it> = 11% (H<inf>2</inf>O)</entry>
+                  <entry>
+                    <it>r</it> = 74% (D<inf>2</inf>O) from <it>r</it> = 11% (H<inf>2</inf>O)</entry>
+                  <entry>
+                    <it>r</it> = 11% (H<inf>2</inf>O) from <it>r</it> = 11% (D<inf>2</inf>O)</entry>
+                  <entry>
+                    <it>r</it> = 11% (H<inf>2</inf>O) from <it>r</it> = 74% (D<inf>2</inf>O)</entry>
+                </row>
+                <row>
+                  <entry nameend="5" namest="1">
+                  </entry>
+                </row>
+                <row>
+                  <entry>D-line EDNMR intensity</entry>
+                  <entry align="char" char="xb1">0.097 ± 0.003</entry>
+                  <entry align="char" char="xb1">0.21 ± 0.08</entry>
+                  <entry align="char" char="xb1">0.037 ± 0.01</entry>
+                  <entry align="char" char="xb1">0.107 ± 0.006</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </table-entry>
+        <p>The protein environment introduces additional complexity since the H/D exchange in amino acid residues on the protein surface is likely to add intensity to the deuterium line. This contribution is probably the reason for the only-a-factor-of-two difference in deuterium line intensity in the EDNMR spectra of SL-bRC/trehalose films at <it>r</it> = 11% and 74%. At both hydration levels, the water present in the embedding sugar clearly exchanges with the first solvation shell of the protein. To support this notion, SL-bRC/trehalose glasses at <it>r</it> = 74% (NaCl/D<inf>2</inf>O) and 11% (LiCl/D<inf>2</inf>O) were subsequently re-equilibrated at <it>r</it> = 11% (LiCl/H<inf>2</inf>O). The intensity of the D line significantly decreased in both cases (see the gray and orange traces in <figref idrefs="fig4">Fig. 4a</figref> and <tableref idrefs="tab1">Table 1</tableref>). The reason for the slower equilibration kinetics (not shown) and the presence of a residual D signal might originate in the kinetic isotope effect, but will not be further addressed in this work.</p>
+      </subsect1>
+      <subsect1>
+        <title>Water accessibility of Zn-bRC/trehalose glasses at different hydration levels as probed by inner-protein donor and acceptor radical ions</title>
+        <p>In analogy to the surface-localized nitroxide label in the SL-bRC/trehalose glass, the solvent exchange within protein sites occupied by two internal paramagnetic probes, <ugraphic display="inline" id="ugt32" xsrc="c7cp03942e-t32.tif" /> and <ugraphic display="inline" id="ugt33" xsrc="c7cp03942e-t33.tif" />, was studied in protein/trehalose glasses at two hydration levels. First, we report the results for <ugraphic display="inline" id="ugt34" xsrc="c7cp03942e-t34.tif" /> as a spin probe. <figref idrefs="fig5">Fig. 5a</figref> shows the W-band EDNMR spectra recorded at the maximum of the <ugraphic display="inline" id="ugt35" xsrc="c7cp03942e-t35.tif" /> echo-detected EPR spectrum of Zn-bRCs in frozen D<inf>2</inf>O solution and embedded in trehalose glasses equilibrated at <it>r</it> = 74% (NaCl/D<inf>2</inf>O) and <it>r</it> = 11% (LiCl/D<inf>2</inf>O) for 72 hours. Prolonged equilibration (150 hours) does not cause any spectral changes indicating that the equilibration process is completed on the same time scale as in the trehalose glass without protein. The spectra are identical except for different line intensities.</p>
+        <figure id="fig5" xsrc="c7cp03942e-f5.tif">
+          <title>(a) W-band EDNMR spectra recorded at the field position of maximum signal intensity of the <ugraphic display="inline" id="ugt36" xsrc="c7cp03942e-t36.tif" /> EPR spectrum (marked by the black arrow in b). (b) The sum of EPR absorption spectra of <ugraphic display="inline" id="ugt37" xsrc="c7cp03942e-t37.tif" /> and <ugraphic display="inline" id="ugt38" xsrc="c7cp03942e-t38.tif" /> ionic states of cofactors (black trace). The simulated spectra corresponding to <ugraphic display="inline" id="ugt39" xsrc="c7cp03942e-t39.tif" /> only (red trace) or <ugraphic display="inline" id="ugt40" xsrc="c7cp03942e-t40.tif" /> only (blue trace) are also shown. (c) W-band ENDOR spectra of Zn-bRCs in solution dissolved in Tris/HCl buffer prepared in D<inf>2</inf>O, and for Zn-bRC/trehalose glass equilibrated at <it>r</it> = 74% (NaCl/D<inf>2</inf>O) recorded at the field position indicated by the black arrow in (b). (d) W-band EDNMR spectra of Zn-bRCs dissolved in Tris/HCl buffer prepared in D<inf>2</inf>O recorded at field positions indicated by the green and blue arrows in (b). The asterisks indicate <sup>14</sup>N double quantum lines.</title>
+        </figure>
+        <p>The first spectral feature of interest is the broad line centered at the <sup>14</sup>N Larmor frequency (10.4 MHz). It stems from the peptide nitrogen NH of Ala M260 and/or the imidazole nitrogen N<sup><it>δ</it>(1)</sup>–H of His M219 in close proximity to the two carbonyl oxygens of Q<inf>A</inf>.<citref idrefs="cit80 cit81">80,81</citref> An additional signal is observed that is composed of a pair of lines centered at 2·<it>ν</it><inf>n</inf>(<sup>14</sup>N), <it>i.e.</it>, 20.8 MHz at the present magnetic field, and split by twice the hyperfine coupling. It originates from double-quantum nitrogen transitions and, due to their lower probability, it has a significantly lower intensity.<citref idrefs="cit71">71</citref> The next signal of interest centered at the deuterium Larmor frequency (21.9 MHz) is evident in the EDNMR spectra of Zn-bRCs in frozen D<inf>2</inf>O solution or Zn-bRC/trehalose rehydrated at <it>r</it> = 74% (NaCl/D<inf>2</inf>O). The intensity of the deuterium line in Zn-bRCs in the rehydrated trehalose glass and in frozen D<inf>2</inf>O solution is approximately the same. Clearly, the diffusion of water within the protein embedded in the rehydrated trehalose glass is not hampered in comparison to that of the protein in solution. Interestingly, in the case of the dry protein/trehalose glass (<it>r</it> = 11%, LiCl/D<inf>2</inf>O), the deuterium line is also observed, although its intensity is only ≈1/10 of that in frozen solution. This shows that the retarded conformational flexibility of the protein, resulting from trehalose coating, does not prevent the exchange of water molecules between the protein interior and the surrounding trehalose matrix. Moreover, the water exchange between the trehalose matrix and protein takes place on the same time scale as the water exchange between trehalose and the vapor atmosphere.</p>
+        <p>The large EDNMR linewidth of 2.4 ± 0.1 MHz (FWHM) does not allow us to draw conclusions on the origin of the D signal. <figref idrefs="fig5">Fig. 5c</figref> shows the comparison between the ENDOR spectra of Zn-bRCs equilibrated at <it>r</it> = 74% and in frozen D<inf>2</inf>O solution. Narrow ENDOR lines are observed in both cases.</p>
+        <p>The narrow ENDOR lines originate from hydrogen-bonded deuterium in well-defined geometry of the binding site. The ENDOR spectrum of <ugraphic display="inline" id="ugt41" xsrc="c7cp03942e-t41.tif" /> can be analyzed in more detail than that of the nitroxide radical in a rigid matrix. At the chosen EPR field position of <ugraphic display="inline" id="ugt42" xsrc="c7cp03942e-t42.tif" /> the powder-like deuterium ENDOR spectrum is expected to consist of sharp features corresponding to parallel and perpendicular components of an axially symmetric hyperfine tensor. Two pairs of ENDOR lines are therefore seen, each of which is additionally split into a doublet due to the nuclear quadrupole interaction with deuterium. The hyperfine and quadrupole coupling constants for <ugraphic display="inline" id="ugt43" xsrc="c7cp03942e-t43.tif" /> in the Zn-bRC/trehalose glass equilibrated at <it>r</it> = 74% (NaCl/D<inf>2</inf>O) are the same as in the frozen D<inf>2</inf>O solution, <it>i.e.</it>, they originate from the same type of coupled deuterium. Additionally, field-frequency swept W-band Mims ENDOR spectra were recorded across the <ugraphic display="inline" id="ugt44" xsrc="c7cp03942e-t44.tif" /> EPR spectrum of this sample (see Fig. S6 in the ESI<fnoteref idrefs="fn1"></fnoteref>). Indeed, a well-defined dipolar ENDOR pattern is seen, suggesting a well-defined geometry of the hydrogen bond between the quinone and a H-bond donor of the binding site. From earlier ENDOR experiments of the Feher group<citref idrefs="cit80 cit81">80,81</citref> it is known that <ugraphic display="inline" id="ugt45" xsrc="c7cp03942e-t45.tif" /> is stabilized in the protein pocket by two H-bonds between the quinone oxygens and protein residues Ala (M260) and His (M219). Notably, previous EPR and FTIR studies have shown that hydrogen bonds to the oxygens of quinone carbonyls are not equivalent.<citref idrefs="cit80 cit82 cit83 cit84">80,82–84</citref> This allowed selectively deuterating one of the H-bonds to Q<inf>A</inf> and extracting hyperfine and quadrupole coupling values for each of the deuterons.<citref idrefs="cit80 cit81">80,81</citref> And from our earlier FTIR and W-band EPR work we know that embedding the bRC into the trehalose glass has no influence on the geometry of H-bonds stabilizing Q<inf>A</inf> in the protein matrix.<citref idrefs="cit30">30</citref></p>
+        <p>The comparison of the hyperfine/quadrupole values of this work with those reported earlier<citref idrefs="cit80">80</citref> reveals that the observed ENDOR and EDNMR lines are most likely due to deuterons on O<inf>1</inf> (Ala), see Table S3 in the ESI.<fnoteref idrefs="fn1"></fnoteref> At first sight, it is surprising that no matrix water is observed in the ENDOR spectra of both frozen-solution and hydrated bRCs at <it>r</it> = 74% (NaCl/D<inf>2</inf>O). This finding is, however, in accordance with the high-resolution X-ray structure of bRCs that reveals the closest water cluster, consisting of 10 water molecules, is located only in distances between 0.5 and 1.2 nm from Q<inf>A</inf>.<citref idrefs="cit44">44</citref></p>
+        <p>Next, we report the results for <ugraphic display="inline" id="ugt46" xsrc="c7cp03942e-t46.tif" /> as a spin probe. <figref idrefs="fig5">Fig. 5d</figref> shows the W-band EDNMR spectra of Zn-bRCs in frozen D<inf>2</inf>O solution, recorded at the maximum of the <ugraphic display="inline" id="ugt47" xsrc="c7cp03942e-t47.tif" /> EPR intensity and close to the <it>g</it><inf><it>zz</it></inf> spectral position. In this spectral region there is no overlap of the <ugraphic display="inline" id="ugt48" xsrc="c7cp03942e-t48.tif" /> and <ugraphic display="inline" id="ugt49" xsrc="c7cp03942e-t49.tif" /> spectra. The broad line at 10.4 MHz, seen in both spectra, originates from <sup>14</sup>N nuclei of the bacteriochlorophyll special-pair dimer<citref idrefs="cit85">85</citref> and, possibly, from more distant amino acids located in its vicinity. The line pair centered at 2·<it>ν</it><inf>n</inf>(<sup>14</sup>N) and split by 6.4 MHz, <it>i.e.</it>, twice the hyperfine coupling constant, stems from <sup>14</sup>N double-quantum transitions.<citref idrefs="cit71 cit85">71,85</citref> The high-frequency line of this pair partially overlaps with the deuterium line at 21.8 MHz, as can be seen in the EDNMR spectrum recorded at the maximum of the <ugraphic display="inline" id="ugt50" xsrc="c7cp03942e-t50.tif" /> EPR intensity. However, the EDNMR spectrum recorded at the shoulder of the <ugraphic display="inline" id="ugt51" xsrc="c7cp03942e-t51.tif" /> EPR spectrum shows only double-quantum <sup>14</sup>N lines but no deuterium lines. This finding can be rationalized on the basis of the high-resolution X-ray structure of bRCs which reveals several water molecules with long occupancy times in the close vicinity of P<inf>865</inf>.<citref idrefs="cit44">44</citref> These water molecules were ascribed to play a role in the primary electron transfer steps.<citref idrefs="cit86">86</citref> The lack of a distinct deuterium signal in the EDNMR spectrum can be explained by the aromaticity of the spin probe <ugraphic display="inline" id="ugt52" xsrc="c7cp03942e-t52.tif" />: there is an extended π-electron delocalization of unpaired spin density over the radical cation state <ugraphic display="inline" id="ugt53" xsrc="c7cp03942e-t53.tif" />.<citref idrefs="cit87 cit88">87,88</citref> This results in only a small π-electron spin density at any given nuclear position within the bacteriochlorophyll macrocyclic framework and, thus, in unresolved hyperfine coupling constants in frozen-solution samples (in contrast to liquid–solution <ugraphic display="inline" id="ugt54" xsrc="c7cp03942e-t54.tif" /> samples).<citref idrefs="cit87">87</citref></p>
+      </subsect1>
+      <subsect1>
+        <title>W-band EDNMR and Davies ENDOR on SL-bRC/trehalose equilibrated with H<inf>2</inf><sup>17</sup>O</title>
+        <p>We end the Results section of the present paper with the preliminary H<inf>2</inf><sup>17</sup>O water-accessibility results obtained by W-band EDNMR and Davies ENDOR on nitroxide spin labeled bRC/trehalose/water samples in which <sup>17</sup>O is used as a nuclear spin probe of water molecules instead of D. In SL-bRC/trehalose glasses equilibrated with saturated solutions of salt dissolved in D<inf>2</inf>O, unwanted H/D exchange takes place. As a result, only a qualitative comparison of local water accessibility at different sugar hydration levels could be made. To avoid unwanted H/D exchange and detect exclusively isotope-labeled water molecules, equilibration with salts prepared in H<inf>2</inf><sup>17</sup>O solution was performed. <figref idrefs="fig6">Fig. 6a</figref> shows <sup>17</sup>O EDNMR spectra recorded for SL-bRC/trehalose equilibrated at <it>r</it> = 11% (LiCl/H<inf>2</inf><sup>17</sup>O) and <it>r</it> = 74% (NaCl/H<inf>2</inf><sup>17</sup>O). In both spectra, a line centered at the <sup>17</sup>O nuclear Larmor frequency <it>ν</it><inf>n</inf>(<sup>17</sup>O) = 19.4 MHz and <sup>14</sup>N lines from the nitroxide nitrogen were observed.</p>
+        <figure id="fig6" xsrc="c7cp03942e-f6.tif">
+          <title>(a) W-band EDNMR spectra of SL-bRC/trehalose glass samples equilibrated for 70 hours at <it>r</it> = 74% (NaCl/H<inf>2</inf><sup>17</sup>O) black trace; <it>r</it> = 11% (LiCl/H<inf>2</inf><sup>17</sup>O) magenta trace; and <it>r</it> = 11% (LiCl/H<inf>2</inf>O) red trace. The spectra were recorded at the same nitroxide spectral position (<it>g</it><inf><it>zz</it></inf>, <it>M</it><inf>I</inf> = 0) indicated in <figref idrefs="fig3">Fig. 3b</figref> by the green arrow. EDNMR spectra are shown for Δ<it>ν</it> &lt; 0 to obtain a better separation between <sup>17</sup>O and <sup>14</sup>N signal contributions (see Fig. S2b in ESI<fnoteref idrefs="fn1"></fnoteref>). (b) The <sup>17</sup>O EDNMR spectra of <it>r</it> = 74% (NaCl/H<inf>2</inf><sup>17</sup>O) (black trace) and <it>r</it> = 11% (LiCl/H<inf>2</inf><sup>17</sup>O) (magenta trace) samples. The gray dashed lines show the best fit simulation of experimental recordings to a Gaussian line. (c) Microwave field amplitude dependence of the <sup>17</sup>O EDNMR spectra of SL-bRC/trehalose glasses equilibrated for three days at <it>r</it> = 11% (LiCl/H<inf>2</inf><sup>17</sup>O). The black spectra were recorded using a HTA pulse length of <it>t</it><inf>HTA</inf> = 20 μs. The blue trace shows the EDNMR spectrum acquired with <it>t</it><inf>HTA</inf> = 7 μs. The green line shows the Davies ENDOR spectrum recorded at the same spectral position.</title>
+        </figure>
+        <p>The <sup>17</sup>O line intensity at <it>r</it> = 11% is 6 ± 2 times smaller than that at <it>r</it> = 74% (intensities of 0.017 ± 0.005 and 0.11 ± 0.03, respectively). The difference in the water content is more pronounced than in the case of D<inf>2</inf>O equilibration where H/D exchange contributes to the D line intensity. At the 11% hydration level, the EDNMR signal is likely to originate from distant <sup>17</sup>O nuclei, as judged from the Gaussian line shape. But because of the low signal-to-noise ratio of the spectrum, the presence of coupled <sup>17</sup>O nuclei cannot be excluded. At the 74% hydration level, the <sup>17</sup>O line in the EDNMR spectrum is not described any more by a Gaussian line shape as is the case of the deuterium line. Rather, resolved lines from matrix and hyperfine-coupled <sup>17</sup>O nuclei can be discerned (see the upper trace in <figref idrefs="fig6">Fig. 6b</figref>).</p>
+        <p>It has been previously shown that by measuring the power dependence of EDNMR lines the different chemical environments of the nucleus of interest can be revealed.<citref idrefs="cit89">89</citref> A similar approach was employed here to achieve a better distinction between hyperfine/quadrupole coupled and distant <sup>17</sup>O nuclei. The coupled nuclei exhibit significantly larger hyperfine/quadrupole interactions with the unpaired electron spin of the nitroxide and, therefore, have intrinsically a larger transition probability for an EDNMR response, <it>i.e.</it>, can be driven by a lower amplitude of the HTA mw pulse.<citref idrefs="cit89">89</citref> The distant nuclei, on the other hand, have a much smaller hyperfine interaction with the unpaired electron spin and, thus, a high-amplitude HTA pulse is required to drive their transitions. <figref idrefs="fig6">Fig. 6c</figref> shows EDNMR spectra recorded for SL-RC/trehalose at <it>r</it> = 74% (H<inf>2</inf><sup>17</sup>O) with variable mw field amplitudes. At the highest mw field amplitude used, the intensity of the <sup>17</sup>O EDNMR line is about 0.1, and both distant and coupled <sup>17</sup>O nuclei are detected. When decreasing the mw field amplitude the overall signal intensity decreases, but the matrix <sup>17</sup>O line is affected to a larger extent. To suppress the matrix line almost completely, a two times lower mw field amplitude and shorter HTA pulse length were used, see the blue trace in <figref idrefs="fig6">Fig. 6c</figref>.</p>
+        <p>Subsequently, W-band Davies ENDOR measurements were performed to confirm the <sup>17</sup>O hyperfine coupling constant as extracted from the EDNMR spectrum, see green trace in <figref idrefs="fig6">Fig. 6c</figref>. In Davies ENDOR exclusively coupled water is probed since the signal from distant <sup>17</sup>O nuclei is suppressed because of the blind spot at <it>ν</it><inf>n</inf>(<sup>17</sup>O).<citref idrefs="cit78">78</citref> The presence of the <sup>17</sup>O line in the EDNMR spectrum of the dehydrated protein/trehalose glass (<it>r</it> = 11%) unambiguously shows that, despite extensive dehydration and the high rigidity of the trehalose, the water retained in the trehalose sugar and the water on the protein surface can exchange.</p>
+      </subsect1>
+    </section>
+    <section>
+      <title>Discussion and conclusions</title>
+      <p>In this work we compared the water accessibility at three protein sites within the reaction center from the purple bacterium <it>Rb. sphaeroides</it> R26 that hosts the two native radical cofactor ions <ugraphic display="inline" id="ugt55" xsrc="c7cp03942e-t55.tif" /> and <ugraphic display="inline" id="ugt56" xsrc="c7cp03942e-t56.tif" /> and an artificial nitroxide spin label attached site-specifically at cysteine H156 near the protein surface of the H domain. The three paramagnetic reporter groups have distinctly different local environments in the protein and can probe different types of water molecules, internal water, bulk water and surface water. The native cofactors buried within the protein report on strongly bound internal water and on bulk water in pools and/or channels, the nitroxide radical is surface attached and reports on the first and second solvation shell of the protein.</p>
+      <p>The bRCs were embedded into a trehalose glass and equilibrated in an atmosphere of either low (<it>r</it> = 11%) or high (<it>r</it> = 74%) relative humidity. The resulting sugar matrix has very different properties: at low humidity and the corresponding low hydration level the protein–matrix system is rigid with only 0.5 water molecules per sugar molecule; at higher humidity and hydration level the sugar matrix is less rigid and contains more water molecules as potential partners for hydrogen bonding to the protein and to the sugar matrix. Different hydration levels, therefore, affect the protein dynamics differently: at <it>r</it> = 11%, the dynamics is blocked,<citref idrefs="cit54 cit59 cit60">54,59,60</citref> at least on the timescale of <ugraphic display="inline" id="ugt57" xsrc="c7cp03942e-t57.tif" /> charge recombination, but is not affected at <it>r</it> = 74%. Such an effect of the dry trehalose matrix, to accomplish inhibition of internal protein dynamics and, thereby, leading to bio-protection of proteins against thermal denaturation, reflects a strong “slaving” of the protein dynamics to that of the embedding matrix.<citref idrefs="cit20 cit21">20,21</citref> The detailed molecular mechanism of bio-protection is still unclear and leaves open questions, for instance: why does the hydration of different embedding disaccharide sugars like trehalose or sucrose have a strongly different effect on the solvation shell of the protein and on the dynamics of the water molecules inside the protein?<citref idrefs="cit59">59</citref></p>
+      <p>Several existing hypotheses (to some extent complementary and not mutually exclusive) try to explain the remarkable trehalose efficacy in bio-protection by predicting different changes in the first solvation shell of the protein upon dehydration. The “water replacement hypothesis”<citref idrefs="cit90">90</citref> states that upon drying the hydrogen-bond interaction of polar groups at the protein interface to water is replaced by hydrogen bonds to the trehalose sugar by which the protein structure is strongly stabilized. The “preferential hydration hypothesis”,<citref idrefs="cit91">91</citref> on the other hand, states that water molecules become entrapped at the interface between the glassy sugar matrix and the protein surface. The “high viscosity hypothesis”<citref idrefs="cit92">92</citref> assumes that the inhibition of dynamic processes responsible for protein denaturation is mainly due to the high viscosity of the dried disaccharide matrix impeding diffusion. In an attempt to generalize the above models by incorporating some of their features, the “anchorage hypothesis”<citref idrefs="cit31">31</citref> has been proposed stating that hindering of protein dynamics is caused by a tight anchoring of the protein surface to the rigid matrix through the formation of an extended H-bond network. According to this view, the disaccharide matrix locks the protein surface either directly (as assumed in the water replacement hypothesis) or through bridging residual water molecules at the protein–matrix interface, thus preventing large-scale protein internal motions. To differentiate experimentally between these hypotheses, a sensitive spectroscopic method capable of direct water detection in a site-specific manner was needed.</p>
+      <p>In the present work, pulsed high-field EPR techniques such as W-band ELDOR-detected NMR and ENDOR were used to unravel hydration–dehydration processes of bRC protein preparations embedded in trehalose matrices with controlled <sup>2</sup>H and <sup>17</sup>O isotope-labeled water contents. Specifically, the EDNMR method proved to be exceptionally sensitive in detecting hyperfine-coupled deuterium or <sup>17</sup>O nuclei originating from D<inf>2</inf>O or H<inf>2</inf><sup>17</sup>O water, respectively, which were introduced into the sugar matrix in a controlled fashion by means of the isopiestic technique.</p>
+      <p>In trehalose-embedded SL-bRCs both EDNMR and ENDOR spectra show that water molecules, detected by a nitroxide spin label attached to the bRC surface, are retained in the first and second solvation shell, even under extensively drying conditions (<it>r</it> = 11%) which block the internal protein dynamics. Additionally, surface water molecules probed in SL-bRCs by the nitroxide radical, as well as inner water molecules probed in Zn-bRCs in the vicinity of the <ugraphic display="inline" id="ugt58" xsrc="c7cp03942e-t58.tif" /> cofactor ion, exchange with water that is in equilibrium with the trehalose matrix. These observations strongly argue against the “water replacement hypothesis” <it>sensu stricto</it>, which assumes that the sugar binds directly to the polar groups of the protein surface, serving as a “water substitute” upon removal of the hydration shell.</p>
+      <p>As reported in the Results section, for SL-bRCs the ratio of <sup>17</sup>O EDNMR line intensities for the hydrated state (<it>r</it> = 74%) to the dehydrated state (<it>r</it> = 11%) is 6 ± 2 reflecting the number of distant water molecules in the vicinity of the nitroxide spin label. This ratio is close to the H<inf>2</inf>O/trehalose molar ratios of both hydration states of 4.7 ± 0.2 as reported for the pure trehalose matrix.<citref idrefs="cit59">59</citref> Thus, the scaling of the <sup>17</sup>O signal intensity follows the changes in the overall water content in the trehalose matrix. This fact is in quantitative conflict with the “water replacement hypothesis”. At the same time, the above observation weakens the applicability of the “preferential hydration hypothesis”, because it does not give evidence for a preferential hydration of the protein surface in comparison with the average hydration of the whole sugar matrix. Thus, our findings appear to be consistent with the “anchorage hypothesis” assumption that the trehalose matrix immobilizes the protein by locking its surface through direct H-bonds between exposed protein residues and sugar molecules, as well as through indirect H-bonds mediated by bridging water molecules of the residual hydration shell. Clearly, a quantification of direct protein–trehalose <it>versus</it> water-mediated protein–matrix contacts would require the investigation of a large number of site-specifically nitroxide-labeled sites distributed over the protein surface, which was beyond the scope of the present work.</p>
+      <p>The exchange of protons to deuterons that are H-bonded to oxygens in the quinone <ugraphic display="inline" id="ugt59" xsrc="c7cp03942e-t59.tif" /> even at a low hydration level is a surprising finding. Clearly, while progressive dehydration effectively blocks large-scale protein motions, the residual protein mobility still allows for exchange of stronger-bound water that is retained within the protein – and for eventual H/D exchange at the Q<inf>A</inf> binding site.</p>
+      <p>While the spectral sensitivity of EDNMR relative to ENDOR is higher by up to several orders of magnitude, thus making it the method of choice, the limited resolution of deuterium EDNMR using D<inf>2</inf>O poses a disadvantage for local water sensing in a <it>quantitative</it> manner. However, deuterium EDNMR is well-suited for <it>qualitative</it> studies, like those presented here to determine the sugar rehydration kinetics for which no differentiation between coupled and distant water is necessary. When quantitative information on the different types of water in proteins is required, <sup>17</sup>O EDNMR using H<inf>2</inf><sup>17</sup>O can be used instead, taking advantage of the high sensitivity of the method and the possibility to resolve coupled from distant <sup>17</sup>O contributions. In this respect, W-band EDNMR in conjunction with D and /or <sup>17</sup>O isotope labeling is indeed a very strong methodology for local water sensing.</p>
+      <p>As to the significance of such studies we want to emphasize that hydration water plays a crucial role in protein dynamics and structural relaxation on all time scales. Analysis suggests that changes in the amount of hydration water affect not only the protein's energy landscape but also significantly influence structural fluctuations between conformational substates – thereby controlling the biological function. To understand the functional difference between surface-bound water and bulk water is a key issue for understanding and controlling biological macromolecules, including proteins, DNA and RNA, right up to controlling anhydrobiotic food preservation and storage in dehydrated trehalose matrices at room temperature. Water is just far more than merely a solvent. Changes in water-mediated hydrogen-bonding patterns usually have a crucial impact on the global function of a biological system.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>This work was supported by the Max-Planck-Gesellschaft and the Cluster of Excellence RESOLV (EXC 1069) funded by the Deutsche Forschungsgemeinschaft (DFG). M. M. and G. V. acknowledge financial support from MIUR of Italy (RFO2014). K. M. gratefully acknowledges sustaining support from the Free University Berlin. Open Access funding provided by the Max Planck Society.</p>
+    </ack>
+    <biblist>
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Khodadadi</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2017</year>
+          <volumeno>1861</volumeno>
+          <pages>
+            <fpage>3546</fpage>
+            <lpage>3552</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Henzler-Wildman</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Kern</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>2007</year>
+          <volumeno>450</volumeno>
+          <pages>
+            <fpage>964</fpage>
+            <lpage>972</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Frauenfelder</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Berendzen</surname>
+          </citauth>
+          <citauth>
+            <fname>P. W.</fname>
+            <surname>Fenimore</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Jansson</surname>
+          </citauth>
+          <citauth>
+            <fname>B. H.</fname>
+            <surname>McMahon</surname>
+          </citauth>
+          <citauth>
+            <fname>I. R.</fname>
+            <surname>Stroe</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Swenson</surname>
+          </citauth>
+          <citauth>
+            <fname>R. D.</fname>
+            <surname>Young</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2009</year>
+          <volumeno>106</volumeno>
+          <pages>
+            <fpage>5129</fpage>
+            <lpage>5134</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Khodadadi</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2015</year>
+          <volumeno>11</volumeno>
+          <pages>
+            <fpage>4984</fpage>
+            <lpage>4998</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>U.</fname>
+            <surname>Ermler</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Fritzsch</surname>
+          </citauth>
+          <citauth>
+            <fname>S. K.</fname>
+            <surname>Buchanan</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Michel</surname>
+          </citauth>
+          <title>Structure</title>
+          <year>1994</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>925</fpage>
+            <lpage>936</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Baciou</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Michel</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1995</year>
+          <volumeno>34</volumeno>
+          <pages>
+            <fpage>7967</fpage>
+            <lpage>7972</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Umena</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Kawakami</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Shen</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Kamiya</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>2011</year>
+          <volumeno>473</volumeno>
+          <pages>
+            <fpage>55</fpage>
+            <lpage>65</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>R. G.</fname>
+            <surname>Bryant</surname>
+          </citauth>
+          <title>C. R. Phys.</title>
+          <year>2010</year>
+          <volumeno>11</volumeno>
+          <pages>
+            <fpage>128</fpage>
+            <lpage>135</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Halle</surname>
+          </citauth>
+          <title>Philos. Trans. R. Soc. London, Ser. B</title>
+          <year>2004</year>
+          <volumeno>359</volumeno>
+          <pages>
+            <fpage>1207</fpage>
+            <lpage>1223</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>N. V.</fname>
+            <surname>Nucci</surname>
+          </citauth>
+          <citauth>
+            <fname>M. S.</fname>
+            <surname>Pometun</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Wand</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2011</year>
+          <volumeno>133</volumeno>
+          <pages>
+            <fpage>12326</fpage>
+            <lpage>12329</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>N. V.</fname>
+            <surname>Nucci</surname>
+          </citauth>
+          <citauth>
+            <fname>M. S.</fname>
+            <surname>Pometun</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Wand</surname>
+          </citauth>
+          <title>Nat. Struct. Mol. Biol.</title>
+          <year>2011</year>
+          <volumeno>18</volumeno>
+          <pages>
+            <fpage>245</fpage>
+            <lpage>315</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Yokoyama</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kamei</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Minami</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Suzuki</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2001</year>
+          <volumeno>105</volumeno>
+          <pages>
+            <fpage>12622</fpage>
+            <lpage>12627</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>V. C.</fname>
+            <surname>Nibali</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Havenith</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2014</year>
+          <volumeno>136</volumeno>
+          <pages>
+            <fpage>12800</fpage>
+            <lpage>12807</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>A. I.</fname>
+            <surname>McIntosh</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Yang</surname>
+          </citauth>
+          <citauth>
+            <fname>S. M.</fname>
+            <surname>Goldup</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Watkinson</surname>
+          </citauth>
+          <citauth>
+            <fname>R. S.</fname>
+            <surname>Donnan</surname>
+          </citauth>
+          <title>Chem. Soc. Rev.</title>
+          <year>2012</year>
+          <volumeno>41</volumeno>
+          <pages>
+            <fpage>2072</fpage>
+            <lpage>2082</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <journalcit>
+          <citauth>
+            <fname>A. C.</fname>
+            <surname>Fogarty</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Laage</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2014</year>
+          <volumeno>118</volumeno>
+          <pages>
+            <fpage>7715</fpage>
+            <lpage>7729</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit16">
+        <journalcit>
+          <citauth>
+            <fname>J. T.</fname>
+            <surname>King</surname>
+          </citauth>
+          <citauth>
+            <fname>K. J.</fname>
+            <surname>Kubarych</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2012</year>
+          <volumeno>134</volumeno>
+          <pages>
+            <fpage>18705</fpage>
+            <lpage>18712</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Laage</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Stirnemann</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Sterpone</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Rey</surname>
+          </citauth>
+          <citauth>
+            <fname>J. T.</fname>
+            <surname>Hynes</surname>
+          </citauth>
+          <title>Annu. Rev. Phys. Chem.</title>
+          <year>2011</year>
+          <volumeno>62</volumeno>
+          <pages>
+            <fpage>395</fpage>
+            <lpage>416</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>D. M.</fname>
+            <surname>Leitner</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Gruebele</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Havenith</surname>
+          </citauth>
+          <title>HFSP J.</title>
+          <year>2008</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>314</fpage>
+            <lpage>323</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>H. J.</fname>
+            <surname>Bakker</surname>
+          </citauth>
+          <citauth>
+            <fname>J. L.</fname>
+            <surname>Skinner</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2010</year>
+          <volumeno>110</volumeno>
+          <pages>
+            <fpage>1498</fpage>
+            <lpage>1517</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Frauenfelder</surname>
+          </citauth>
+          <citauth>
+            <fname>S. G.</fname>
+            <surname>Sligar</surname>
+          </citauth>
+          <citauth>
+            <fname>P. G.</fname>
+            <surname>Wolynes</surname>
+          </citauth>
+          <title>Science</title>
+          <year>1991</year>
+          <volumeno>254</volumeno>
+          <pages>
+            <fpage>1598</fpage>
+            <lpage>1603</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit21">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Frauenfelder</surname>
+          </citauth>
+          <citauth>
+            <fname>P. W.</fname>
+            <surname>Fenimore</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>B. H.</fname>
+            <surname>McMahon</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2006</year>
+          <volumeno>103</volumeno>
+          <pages>
+            <fpage>15469</fpage>
+            <lpage>15472</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit22">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Galajda</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Vitrano</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Gassmann</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ostermann</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Parak</surname>
+          </citauth>
+          <title>Eur. Biophys. J.</title>
+          <year>1998</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>173</fpage>
+            <lpage>176</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Palazzo</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mallardi</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hochkoeppler</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>2002</year>
+          <volumeno>82</volumeno>
+          <pages>
+            <fpage>558</fpage>
+            <lpage>568</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Clegg</surname>
+          </citauth>
+          <title>Comp. Biochem. Physiol., Part B: Biochem. Mol. Biol.</title>
+          <year>2001</year>
+          <volumeno>128</volumeno>
+          <pages>
+            <fpage>613</fpage>
+            <lpage>624</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ferrand</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Vitrano</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Zaccai</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>1999</year>
+          <volumeno>76</volumeno>
+          <pages>
+            <fpage>1043</fpage>
+            <lpage>1047</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Caliskan</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Mechtani</surname>
+          </citauth>
+          <citauth>
+            <fname>J. H.</fname>
+            <surname>Roh</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Kisliuk</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Azzam</surname>
+          </citauth>
+          <citauth>
+            <fname>M. T.</fname>
+            <surname>Cicerone</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Lin-Gibson</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Peral</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>2004</year>
+          <volumeno>121</volumeno>
+          <pages>
+            <fpage>1978</fpage>
+            <lpage>1983</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Caliskan</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Kisliuk</surname>
+          </citauth>
+          <citauth>
+            <fname>A. M.</fname>
+            <surname>Tsai</surname>
+          </citauth>
+          <citauth>
+            <fname>C. L.</fname>
+            <surname>Soles</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>2003</year>
+          <volumeno>118</volumeno>
+          <pages>
+            <fpage>4230</fpage>
+            <lpage>4236</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Dezi</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mallardi</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Palazzo</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2008</year>
+          <volumeno>130</volumeno>
+          <pages>
+            <fpage>10240</fpage>
+            <lpage>10246</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Giuffrida</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Cottone</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Librizzi</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2003</year>
+          <volumeno>107</volumeno>
+          <pages>
+            <fpage>13211</fpage>
+            <lpage>13217</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2010</year>
+          <volumeno>114</volumeno>
+          <pages>
+            <fpage>12729</fpage>
+            <lpage>12743</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Cottone</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Giuffrida</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Palazzo</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Viappiani</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2005</year>
+          <volumeno>1749</volumeno>
+          <pages>
+            <fpage>252</fpage>
+            <lpage>281</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Palazzo</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mallardi</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>2003</year>
+          <volumeno>85</volumeno>
+          <pages>
+            <fpage>2760</fpage>
+            <lpage>2775</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>M. D.</fname>
+            <surname>Mamedov</surname>
+          </citauth>
+          <citauth>
+            <fname>G. E.</fname>
+            <surname>Milanovsky</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>A. Yu.</fname>
+            <surname>Semenov</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2016</year>
+          <volumeno>1857</volumeno>
+          <pages>
+            <fpage>1440</fpage>
+            <lpage>1454</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Cottone</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Cupane</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Emanuele</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Giuffrida</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Levantino</surname>
+          </citauth>
+          <title>Curr. Org. Chem.</title>
+          <year>2015</year>
+          <volumeno>19</volumeno>
+          <pages>
+            <fpage>1684</fpage>
+            <lpage>1706</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>J. L.</fname>
+            <surname>Green</surname>
+          </citauth>
+          <citauth>
+            <fname>C. A.</fname>
+            <surname>Angell</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>1989</year>
+          <volumeno>93</volumeno>
+          <pages>
+            <fpage>2880</fpage>
+            <lpage>2882</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Sussich</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Skopec</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Brady</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Cesaro</surname>
+          </citauth>
+          <title>Carbohydr. Res.</title>
+          <year>2001</year>
+          <volumeno>334</volumeno>
+          <pages>
+            <fpage>165</fpage>
+            <lpage>176</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Lerbret</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Bordat</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Affouard</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Descamps</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Migliardo</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2005</year>
+          <volumeno>109</volumeno>
+          <pages>
+            <fpage>11046</fpage>
+            <lpage>11057</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit38">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Allen</surname>
+          </citauth>
+          <citauth>
+            <fname>M. Y.</fname>
+            <surname>Okamura</surname>
+          </citauth>
+          <citauth>
+            <fname>D. C.</fname>
+            <surname>Rees</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1989</year>
+          <volumeno>339</volumeno>
+          <pages>
+            <fpage>111</fpage>
+            <lpage>116</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit39">
+        <journalcit>
+          <citauth>
+            <fname>M. M.</fname>
+            <surname>Leonova</surname>
+          </citauth>
+          <citauth>
+            <fname>T. Y.</fname>
+            <surname>Fufina</surname>
+          </citauth>
+          <citauth>
+            <fname>L. G.</fname>
+            <surname>Vasilieva</surname>
+          </citauth>
+          <citauth>
+            <fname>V. A.</fname>
+            <surname>Shuvalov</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>2011</year>
+          <volumeno>76</volumeno>
+          <pages>
+            <fpage>1465</fpage>
+            <lpage>1483</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>T. L.</fname>
+            <surname>Olson</surname>
+          </citauth>
+          <citauth>
+            <fname>J. C.</fname>
+            <surname>Williams</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Allen</surname>
+          </citauth>
+          <title>Photosynth. Res.</title>
+          <year>2014</year>
+          <volumeno>120</volumeno>
+          <pages>
+            <fpage>87</fpage>
+            <lpage>98</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Allen</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <citauth>
+            <fname>T. O.</fname>
+            <surname>Yeates</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Komiya</surname>
+          </citauth>
+          <citauth>
+            <fname>D. C.</fname>
+            <surname>Rees</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>1987</year>
+          <volumeno>84</volumeno>
+          <pages>
+            <fpage>5730</fpage>
+            <lpage>5734</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <citation type="book">
+          <citauth>
+            <fname>K. M.</fname>
+            <surname>Giangiacomo</surname>
+          </citauth>, <citauth><fname>D. E.</fname><surname>Robertson</surname></citauth>, <citauth><fname>M. R.</fname><surname>Gunner</surname></citauth> and <citauth><fname>P. L.</fname><surname>Dutton</surname></citauth>, in <title>Progress in Photosynthesis Research</title>, ed. <editor>J. Biggins</editor>, <citpub>Springer Netherlands</citpub>, <pubplace>Dodrecht</pubplace>, <year>1987</year>, <biblscope>pp. 409–412</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit43">
+        <journalcit>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Chirino</surname>
+          </citauth>
+          <citauth>
+            <fname>E. J.</fname>
+            <surname>Lous</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Huber</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Allen</surname>
+          </citauth>
+          <citauth>
+            <fname>C. C.</fname>
+            <surname>Schenck</surname>
+          </citauth>
+          <citauth>
+            <fname>M. L.</fname>
+            <surname>Paddock</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <citauth>
+            <fname>D. C.</fname>
+            <surname>Rees</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1994</year>
+          <volumeno>33</volumeno>
+          <pages>
+            <fpage>4584</fpage>
+            <lpage>4593</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit44">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Koepke</surname>
+          </citauth>
+          <citauth>
+            <fname>E. M.</fname>
+            <surname>Krammer</surname>
+          </citauth>
+          <citauth>
+            <fname>A. R.</fname>
+            <surname>Klingen</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Sebban</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Ullmann</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Fritzsch</surname>
+          </citauth>
+          <title>J. Mol. Biol.</title>
+          <year>2007</year>
+          <volumeno>371</volumeno>
+          <pages>
+            <fpage>396</fpage>
+            <lpage>409</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit45">
+        <journalcit>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Appl. Magn. Reson.</title>
+          <year>1999</year>
+          <volumeno>17</volumeno>
+          <pages>
+            <fpage>1</fpage>
+            <lpage>48</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit46">
+        <citation type="book">
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth> and <citauth><fname>A.</fname><surname>Savitsky</surname></citauth>, <title>High-Field EPR Spectroscopy on Proteins
+and their Model Systems: Characterization of Transient Paramagnetic States</title>, <citpub>RSC Publishing</citpub>, <pubplace>London</pubplace>, <year>2009</year></citation>
+      </citgroup>
+      <citgroup id="cit47">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Klette</surname>
+          </citauth>
+          <citauth>
+            <fname>J. T.</fname>
+            <surname>Törring</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Plato</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Bönigk</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>1993</year>
+          <volumeno>97</volumeno>
+          <pages>
+            <fpage>2015</fpage>
+            <lpage>2020</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit48">
+        <journalcit>
+          <citauth>
+            <fname>R. A.</fname>
+            <surname>Isaacson</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Lendzian</surname>
+          </citauth>
+          <citauth>
+            <fname>E. C.</fname>
+            <surname>Abresch</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>1995</year>
+          <volumeno>69</volumeno>
+          <pages>
+            <fpage>311</fpage>
+            <lpage>322</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit49">
+        <citation type="book">
+          <citauth>
+            <fname>G. I.</fname>
+            <surname>Likhtenshtein</surname>
+          </citauth>, <citauth><fname>J.</fname><surname>Yamauchi</surname></citauth>, <citauth><fname>S. i.</fname><surname>Nakatsuji</surname></citauth>, <citauth><fname>A. I.</fname><surname>Smirnov</surname></citauth> and <citauth><fname>R.</fname><surname>Tamura</surname></citauth>, <title>Nitroxides: Applications in Chemistry, Biomedicine and Materials Science</title>, <citpub>Wiley-VCH</citpub>, <pubplace>Weinheim</pubplace>, <year>2008</year></citation>
+      </citgroup>
+      <citgroup id="cit50">
+        <citation type="book">
+          <citauth>
+            <fname>W. L.</fname>
+            <surname>Hubbell</surname>
+          </citauth>, in <title>Membrane protein structure: experimental approaches</title>, ed. <editor>S. H. White</editor>, <citpub>Oxford University Press</citpub>, <pubplace>London</pubplace>, <year>1994</year>, <biblscope>pp. 224–248</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit51">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gajula</surname>
+          </citauth>
+          <citauth>
+            <fname>I. V.</fname>
+            <surname>Borovykh</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Beier</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Shkuropatova</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <citauth>
+            <fname>H. J.</fname>
+            <surname>Steinhoff</surname>
+          </citauth>
+          <title>Appl. Magn. Reson.</title>
+          <year>2007</year>
+          <volumeno>31</volumeno>
+          <pages>
+            <fpage>167</fpage>
+            <lpage>178</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit52">
+        <journalcit>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Bordignon</surname>
+          </citauth>
+          <citauth>
+            <fname>A. I.</fname>
+            <surname>Nalepa</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Braun</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Jeschke</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>13797</fpage>
+            <lpage>13806</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit53">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <citauth>
+            <fname>M. Y.</fname>
+            <surname>Okamura</surname>
+          </citauth>
+          <title>Appl. Magn. Reson.</title>
+          <year>1999</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>63</fpage>
+            <lpage>100</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit54">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>13600</fpage>
+            <lpage>13618</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit55">
+        <journalcit>
+          <citauth>
+            <fname>M. S.</fname>
+            <surname>Graige</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <citauth>
+            <fname>M. Y.</fname>
+            <surname>Okamura</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>1998</year>
+          <volumeno>95</volumeno>
+          <pages>
+            <fpage>11679</fpage>
+            <lpage>11684</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit56">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Palazzo</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mallardi</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Cordone</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2004</year>
+          <volumeno>1658</volumeno>
+          <pages>
+            <fpage>50</fpage>
+            <lpage>57</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit57">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Kleinfeld</surname>
+          </citauth>
+          <citauth>
+            <fname>M. Y.</fname>
+            <surname>Okamura</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1984</year>
+          <volumeno>23</volumeno>
+          <pages>
+            <fpage>5780</fpage>
+            <lpage>5786</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit58">
+        <journalcit>
+          <citauth>
+            <fname>B. H.</fname>
+            <surname>McMahon</surname>
+          </citauth>
+          <citauth>
+            <fname>J. D.</fname>
+            <surname>Muller</surname>
+          </citauth>
+          <citauth>
+            <fname>C. A.</fname>
+            <surname>Wraight</surname>
+          </citauth>
+          <citauth>
+            <fname>G. U.</fname>
+            <surname>Nienhaus</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>1998</year>
+          <volumeno>74</volumeno>
+          <pages>
+            <fpage>2567</fpage>
+            <lpage>2587</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit59">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Nalepa</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2014</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>9831</fpage>
+            <lpage>9848</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit60">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>J. Phys. Chem. Lett.</title>
+          <year>2016</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>4871</fpage>
+            <lpage>4877</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit61">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>A. A.</fname>
+            <surname>Dubinskii</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Plato</surname>
+          </citauth>
+          <citauth>
+            <fname>Y. A.</fname>
+            <surname>Grishin</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Zimmermann</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2008</year>
+          <volumeno>112</volumeno>
+          <pages>
+            <fpage>9079</fpage>
+            <lpage>9090</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit62">
+        <journalcit>
+          <citauth>
+            <fname>K. A.</fname>
+            <surname>Gray</surname>
+          </citauth>
+          <citauth>
+            <fname>J. W.</fname>
+            <surname>Farchaus</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Wachtveitl</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Breton</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Oesterhelt</surname>
+          </citauth>
+          <title>EMBO J.</title>
+          <year>1990</year>
+          <volumeno>9</volumeno>
+          <pages>
+            <fpage>2061</fpage>
+            <lpage>2070</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit63">
+        <journalcit>
+          <citauth>
+            <fname>I. V.</fname>
+            <surname>Borovykh</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Ceola</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gajula</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <citauth>
+            <fname>H. J.</fname>
+            <surname>Steinhoff</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Huber</surname>
+          </citauth>
+          <title>J. Magn. Reson.</title>
+          <year>2006</year>
+          <volumeno>180</volumeno>
+          <pages>
+            <fpage>178</fpage>
+            <lpage>185</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit64">
+        <journalcit>
+          <citauth>
+            <fname>L. M.</fname>
+            <surname>Utschig</surname>
+          </citauth>
+          <citauth>
+            <fname>S. R.</fname>
+            <surname>Greenfield</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Tang</surname>
+          </citauth>
+          <citauth>
+            <fname>P. D.</fname>
+            <surname>Laible</surname>
+          </citauth>
+          <citauth>
+            <fname>M. C.</fname>
+            <surname>Thurnauer</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1997</year>
+          <volumeno>36</volumeno>
+          <pages>
+            <fpage>8548</fpage>
+            <lpage>8558</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit65">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2011</year>
+          <volumeno>115</volumeno>
+          <pages>
+            <fpage>14732</fpage>
+            <lpage>14750</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit66">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mezzetti</surname>
+          </citauth>
+          <title>Spectrosc. Int. J.</title>
+          <year>2012</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>337</fpage>
+            <lpage>342</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit67">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Malferrari</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Mezzetti</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Francia</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Venturoli</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2013</year>
+          <volumeno>1827</volumeno>
+          <pages>
+            <fpage>328</fpage>
+            <lpage>339</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit68">
+        <journalcit>
+          <citauth>
+            <fname>L. B.</fname>
+            <surname>Rockland</surname>
+          </citauth>
+          <title>Anal. Chem.</title>
+          <year>1960</year>
+          <volumeno>32</volumeno>
+          <pages>
+            <fpage>1375</fpage>
+            <lpage>1376</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit69">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Kou</surname>
+          </citauth>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Schmidt</surname>
+          </citauth>
+          <title>Food Chem.</title>
+          <year>1999</year>
+          <volumeno>66</volumeno>
+          <pages>
+            <fpage>253</fpage>
+            <lpage>255</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit70">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Nalepa</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <title>J. Magn. Reson.</title>
+          <year>2014</year>
+          <volumeno>242</volumeno>
+          <pages>
+            <fpage>203</fpage>
+            <lpage>213</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit71">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Cox</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Nalepa</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <title>J. Magn. Reson.</title>
+          <year>2017</year>
+          <volumeno>280</volumeno>
+          <pages>
+            <fpage>63</fpage>
+            <lpage>78</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit72">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Jeschke</surname>
+          </citauth>
+          <citauth>
+            <fname>H. W.</fname>
+            <surname>Spiess</surname>
+          </citauth>
+          <title>Chem. Phys. Lett.</title>
+          <year>1998</year>
+          <volumeno>293</volumeno>
+          <pages>
+            <fpage>9</fpage>
+            <lpage>18</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit73">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Karger</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-D.</fname>
+            <surname>Lüdemann</surname>
+          </citauth>
+          <title>Z. Naturforsch., C: J. Biosci.</title>
+          <year>1991</year>
+          <volumeno>46</volumeno>
+          <pages>
+            <fpage>313</fpage>
+            <lpage>317</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit74">
+        <journalcit>
+          <citauth>
+            <fname>M. U. A.</fname>
+            <surname>Ahlqvist</surname>
+          </citauth>
+          <citauth>
+            <fname>L. S.</fname>
+            <surname>Taylor</surname>
+          </citauth>
+          <title>J. Pharm. Sci.</title>
+          <year>2002</year>
+          <volumeno>91</volumeno>
+          <pages>
+            <fpage>690</fpage>
+            <lpage>698</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit75">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Pavone</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Sillanpaa</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Cimino</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Crescenzi</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Barone</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2006</year>
+          <volumeno>110</volumeno>
+          <pages>
+            <fpage>16189</fpage>
+            <lpage>16192</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit76">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <citauth>
+            <fname>R. T. L.</fname>
+            <surname>Herbonnet</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Klare</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Nalepa</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Rickert</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Stellinga</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Urban</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <citauth>
+            <fname>H. J.</fname>
+            <surname>Steinhoff</surname>
+          </citauth>
+          <citauth>
+            <fname>E. J. J.</fname>
+            <surname>Groenen</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2014</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>15910</fpage>
+            <lpage>15916</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit77">
+        <journalcit>
+          <citauth>
+            <fname>T. I.</fname>
+            <surname>Smirnova</surname>
+          </citauth>
+          <citauth>
+            <fname>A. I.</fname>
+            <surname>Smirnov</surname>
+          </citauth>
+          <citauth>
+            <fname>S. V.</fname>
+            <surname>Paschenko</surname>
+          </citauth>
+          <citauth>
+            <fname>O. G.</fname>
+            <surname>Poluektov</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2007</year>
+          <volumeno>129</volumeno>
+          <pages>
+            <fpage>3476</fpage>
+            <lpage>3477</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit78">
+        <citation type="book">
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schweiger</surname>
+          </citauth> and <citauth><fname>G.</fname><surname>Jeschke</surname></citauth>, <title>Principles of pulse electron paramagnetic resonance</title>, <citpub>Oxford University Press</citpub>, <pubplace>Oxford</pubplace>, <year>2001</year></citation>
+      </citgroup>
+      <citgroup id="cit79">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Roth</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Arnoux</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ducruix</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Reisshusson</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1991</year>
+          <volumeno>30</volumeno>
+          <pages>
+            <fpage>9403</fpage>
+            <lpage>9413</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit80">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Flores</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Isaacson</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Abresch</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Calvo</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>2006</year>
+          <volumeno>90</volumeno>
+          <pages>
+            <fpage>3356</fpage>
+            <lpage>3362</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit81">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Flores</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Isaacson</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Abresch</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Calvo</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Biophys. J.</title>
+          <year>2007</year>
+          <volumeno>92</volumeno>
+          <pages>
+            <fpage>671</fpage>
+            <lpage>682</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit82">
+        <journalcit>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Vandenbrink</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Spoyalov</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <citauth>
+            <fname>W. B. S.</fname>
+            <surname>Vanliemt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Raap</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Lugtenburg</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Hoff</surname>
+          </citauth>
+          <title>FEBS Lett.</title>
+          <year>1994</year>
+          <volumeno>353</volumeno>
+          <pages>
+            <fpage>273</fpage>
+            <lpage>276</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit83">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Breton</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Boullais</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Burie</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Nabedryk</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Mioskowski</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1994</year>
+          <volumeno>33</volumeno>
+          <pages>
+            <fpage>14378</fpage>
+            <lpage>14386</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit84">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Brudler</surname>
+          </citauth>
+          <citauth>
+            <fname>H. J. M.</fname>
+            <surname>de Groot</surname>
+          </citauth>
+          <citauth>
+            <fname>W. B. S.</fname>
+            <surname>Vanliemt</surname>
+          </citauth>
+          <citauth>
+            <fname>W. F.</fname>
+            <surname>Steggerda</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Esmeijer</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Hoff</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Lugtenburg</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Gerwert</surname>
+          </citauth>
+          <title>EMBO J.</title>
+          <year>1994</year>
+          <volumeno>13</volumeno>
+          <pages>
+            <fpage>5523</fpage>
+            <lpage>5530</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit85">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Käss</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Rautter</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Bönigk</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Höfer</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>1995</year>
+          <volumeno>99</volumeno>
+          <pages>
+            <fpage>436</fpage>
+            <lpage>448</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit86">
+        <journalcit>
+          <citauth>
+            <fname>A. Y.</fname>
+            <surname>Borisov</surname>
+          </citauth>
+          <citauth>
+            <fname>M. V.</fname>
+            <surname>Fok</surname>
+          </citauth>
+          <title>Biochem. Mol. Biol. Int.</title>
+          <year>1999</year>
+          <volumeno>47</volumeno>
+          <pages>
+            <fpage>117</fpage>
+            <lpage>125</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit87">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Lendzian</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Huber</surname>
+          </citauth>
+          <citauth>
+            <fname>R. A.</fname>
+            <surname>Isaacson</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Endeward</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Plato</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Bönigk</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Möbius</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Feher</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>1993</year>
+          <volumeno>1183</volumeno>
+          <pages>
+            <fpage>139</fpage>
+            <lpage>160</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit88">
+        <citation type="book">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Plato</surname>
+          </citauth>, <citauth><fname>K.</fname><surname>Möbius</surname></citauth> and <citauth><fname>W.</fname><surname>Lubitz</surname></citauth>, in <title>Chlorophylls</title>, ed. <editor>H. Scheer</editor>, <citpub>CRC Press</citpub>, <pubplace>Boca Raton, Florida</pubplace>, <year>1991</year>, <biblscope>pp. 1015–1046</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit89">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Cox</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lubitz</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Savitsky</surname>
+          </citauth>
+          <title>Mol. Phys.</title>
+          <year>2013</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>2788</fpage>
+            <lpage>2808</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit90">
+        <journalcit>
+          <citauth>
+            <fname>J. F.</fname>
+            <surname>Carpenter</surname>
+          </citauth>
+          <citauth>
+            <fname>J. H.</fname>
+            <surname>Crowe</surname>
+          </citauth>
+          <title>Biochemistry</title>
+          <year>1989</year>
+          <volumeno>28</volumeno>
+          <pages>
+            <fpage>3916</fpage>
+            <lpage>3922</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit91">
+        <journalcit>
+          <citauth>
+            <fname>P. S.</fname>
+            <surname>Belton</surname>
+          </citauth>
+          <citauth>
+            <fname>A. M.</fname>
+            <surname>Gil</surname>
+          </citauth>
+          <title>Biopolymers</title>
+          <year>1994</year>
+          <volumeno>34</volumeno>
+          <pages>
+            <fpage>957</fpage>
+            <lpage>961</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit92">
+        <journalcit>
+          <citauth>
+            <fname>J. G.</fname>
+            <surname>Sampedro</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Uribe</surname>
+          </citauth>
+          <title>Mol. Cell. Biochem.</title>
+          <year>2004</year>
+          <volumeno>256</volumeno>
+          <pages>
+            <fpage>319</fpage>
+            <lpage>327</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+    </biblist>
+    <compoundgrp>
+    </compoundgrp>
+    <annotationgrp>
+    </annotationgrp>
+    <datagrp>
+    </datagrp>
+    <resourcegrp>
+    </resourcegrp>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000118223 0?>

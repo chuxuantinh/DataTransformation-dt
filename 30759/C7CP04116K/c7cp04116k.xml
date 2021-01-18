@@ -1,0 +1,2001 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7cp04116k</ms-id>
+    <doi>10.1039/c7cp04116k</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>June</month>
+        <day>19</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>September</month>
+      <day>21</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>24</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>19</link>
+    </volumeref>
+    <issueref>
+      <link>42</link>
+    </issueref>
+    <pubfront>
+      <fpage>28540</fpage>
+      <lpage>28554</lpage>
+      <no-of-pages>15</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>11</month>
+        <day>1</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+    <fundgrp>
+      <funder>
+        <funder-name>Bundesministerium für Bildung und Forschung</funder-name>
+        <funder-identifier>10.13039/501100002347</funder-identifier>
+        <award-number>PSUMEA-2 No. 03SF0473</award-number>
+      </funder>
+    </fundgrp>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>On the nanosecond proton dynamics in phosphoric acid–benzimidazole and phosphoric acid–water mixtures<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available. See DOI: <url>10.1039/c7cp04116k</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa" role="corres">
+        <person orcid="0000-0003-0630-2352">
+          <persname>
+            <fname>Jan-Patrick</fname>
+            <surname>Melchior<fnoteref idrefs="fn2"></fnoteref><footnote id="fn2">Current address: Oak Ridge National Laboratory, 1 Bethel Valley Road, Oak Ridge, TN 37831, USA. E-mail: melchiorj@ornl.gov</footnote></surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person orcid="0000-0001-8570-4549">
+          <persname>
+            <fname>Bernhard</fname>
+            <surname>Frick</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Max Planck Institute for Solid State Research</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Heisenbergstraße 1</addrelt>
+          <city>70569 Stuttgart</city>
+          <country>Germany</country>
+        </address>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Institut Laue-Langevin</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>71, avenue des Martyrs</addrelt>
+          <addrelt>CS 20156</addrelt>
+          <city>F-38042 Grenoble</city>
+          <country>France</country>
+        </address>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>Combining <sup>1</sup>H-NMR, <sup>17</sup>O-NMR, and high-resolution backscattering QENS hydrodynamic and structural proton transport in phosphoric acid is separated. The rate limiting steps for structural proton diffusion in mixtures of acid with Brønsted bases are found to occur below the nanosecond timescale.</ictext>
+      <icgraphic id="ga" xsrc="c7cp04116k-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>The unique proton conduction mechanism of phosphoric acid is important for the functions of complex phosphate containing biological and technological systems (<it>e.g.</it> phospholipid membranes and polybenzimidazole phosphoric acid membranes for high-temperature PEM fuel cells). In neat phosphoric acid structural proton diffusion, <it>i.e.</it> proton hopping between phosphoric acid molecules, is superimposed onto hydrodynamic diffusion of the molecules in the viscous liquid. In this study we separate the two dynamic contributions on the nanosecond timescale for the model systems phosphoric acid–water and phosphoric acid–benzimidazole. We demonstrate that <sup>1</sup>H NMR dipolar relaxation measurements are controlled by hydrodynamic diffusion for the investigated conditions, while <sup>17</sup>O NMR quadrupolar relaxation measurements reflect local proton displacement as part of structural diffusion. Quasielastic neutron scattering (QENS) applying high resolution backscattering spectroscopy (nBSS) confirms structural proton diffusion measurements using PFG-NMR in phosphoric acid–benzimidazole mixtures at different concentrations. With increasing benzimidazole content proton diffusion coefficients on the nanosecond scale decrease, thus following the trend of reduced hydrogen bond network frustration. The momentum transfer (<it>Q</it>) dependence of the width of the QENS spectra indicates the jump diffusion mechanism and can be scaled to a master plot both for different temperatures and different benzimidazole contents. This indicates a fundamentally unchanged structural proton diffusion process, however, with a lower probability of occurrence for successful intermolecular proton transfer with increasing benzimidazole content. Results of this work enable a better separation of different diffusion processes on short timescales also in more complex phosphoric acid containing systems.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <title>Introduction</title>
+      <p>Neat nominally dry phosphoric acid (H<inf>3</inf>PO<inf>4</inf>, PA) in the liquid state is the compound with the highest intrinsic proton conductivity<citref idrefs="cit1">1</citref> due to its unique structural proton diffusion mechanism, <it>i.e.</it>, fast proton transfer between different phosphate species.<citref idrefs="cit2 cit3 cit4 cit5 cit6">2–6</citref> The proton transport properties of phosphoric acid and more complex phosphate containing systems are important in biology<citref idrefs="cit7 cit8 cit9 cit10">7–10</citref> and technology.<citref idrefs="cit11 cit12 cit13 cit14 cit15 cit16">11–16</citref> Prominent examples are proton transport along the aqueous cytoplasmic side of phospholipid membranes,<citref idrefs="cit7 cit8">7,8</citref> phosphorylation of polyphosphates (<it>e.g.</it> adenosine diphosphate) in the metabolism of living organisms,<citref idrefs="cit9 cit10">9,10</citref> and the conduction behavior of phosphoric acid containing membranes for application in fuel cells<citref idrefs="cit6 cit11 cit12 cit13 cit14">6,11–14</citref> and electrochemical hydrogen pumping.<citref idrefs="cit16">16</citref></p>
+      <p>Structural diffusion of protons is also known to occur in other hydrogen bonded liquids, <it>e.g.</it>, in water<citref idrefs="cit17 cit18">17,18</citref> and diverse molten heterocycles such as imidazole,<citref idrefs="cit19 cit20">19,20</citref> but phosphoric acid's structural diffusion mechanism constitutes a special case. Phenomenologically, phosphoric acid shows the highest intrinsic proton conductivity, with a high contribution of up to 97% by structural proton diffusion to the acid's overall conductivity.<citref idrefs="cit2 cit5">2,5</citref> Remarkably, this conductivity does not increase with the addition of any base or acid<citref idrefs="cit6 cit21 cit22 cit23 cit24">6,21–24</citref> as observed for water and heterocycles. In contrast, except for the addition of water,<citref idrefs="cit5 cit25 cit26 cit27 cit28">5,25–28</citref> the addition of bases, and to a lesser extent acids, reduces the proton conductivity of phosphoric acid.</p>
+      <p>Structural diffusion in neat phosphoric acid is actually facilitated by the rapid intermolecular proton transfer and hydrogen bond formation reactions within a highly viscous environment.<citref idrefs="cit27 cit29">27,29</citref> Both proton transfer and hydrogen bond formation reactions are a consequence of the acid's frustrated hydrogen bond network (there is a severe imbalance of potential proton donors and acceptors) and the strength of its highly polarizable hydrogen bonds.<citref idrefs="cit4">4</citref> The recently proposed mechanism explains in a natural way phosphoric acid's high conductivity, its reduction through additives,<citref idrefs="cit5 cit6 cit23">5,6,23</citref> and the striking observation that decreasing viscosity goes along with decreasing proton conductivity for the series of phosphorous oxoacids: phosphoric acid (H<inf>3</inf>PO<inf>4</inf>)–phosphonic acid (H<inf>3</inf>PO<inf>3</inf>)–phosphinic acid (H<inf>3</inf>PO<inf>2</inf>).<citref idrefs="cit30">30</citref> This observation is at odds with the so-called Walden rule,<citref idrefs="cit31">31</citref> relating viscosity and equivalent conductivity. It therefore questions viscosity arguments to explain conductivity trends in phosphoric acid based systems<citref idrefs="cit32">32</citref> and underlines the peculiar nature of proton conductivity in neat phosphoric acid.</p>
+      <p>On the picosecond scale details of the structural proton diffusion mechanism have recently been investigated through <it>ab initio</it> MD simulations<citref idrefs="cit4 cit23 cit33 cit34">4,23,33,34</citref> for neat acid and for mixtures of acid with the Brønsted base imidazole (see <figref idrefs="fig1">Fig. 1</figref>). It was shown that reduced frustration and density of the hydrogen bonded network negatively affect structural proton diffusion coefficients. Structural conductivity results only through fast proton exchange between phosphoric acid molecules, but not through the much slower exchange with any other molecule, <it>e.g.</it> (benz)imidazole.<citref idrefs="cit5 cit6">5,6</citref> In our recent work on proton dynamics on the millisecond scale, where the model system phosphoric acid–benzimidazole is discussed in light of the application of polybenzimidazole phosphoric acid (PBI-PA) membranes in high-temperature PEM fuel cells, the predictions from picosecond timescale MD simulations were confirmed in that the activation energy of structural proton transport is unaffected by reduced frustration. Previous studies on the nanosecond and millisecond dynamics of protons in phosphoric acid containing systems (PBI-PA membranes,<citref idrefs="cit22 cit35 cit36 cit37">22,35–37</citref> phosphoric acid water mixtures<citref idrefs="cit25 cit38">25,38</citref>), however, show contradictory results with a large variety of reported activation energies. Yet, none of the reported references attempt the discrimination between hydrodynamic and structural contributions to the proton dynamics. Activation energies obtained from <sup>1</sup>H <it>T</it><inf>1</inf>-relaxation measurements at different water contents,<citref idrefs="cit25">25</citref> for example, deviate from activation energies of <sup>1</sup>H pulsed field gradient (PFG)-NMR diffusion measurements (millisecond scale) and from activation energies obtained from conductivity measurements.<citref idrefs="cit5 cit25 cit39">5,25,39</citref> Previous quasielastic neutron scattering (QENS) experiments applying backscattering<citref idrefs="cit2 cit40 cit41">2,40,41</citref> provided only model based activation energies, <it>e.g.</it>, applying a jump diffusion model. This technique was so far used to obtain spatial information on proton dynamics by fixing diffusion coefficients in the said model to values obtained through PFG-NMR.</p>
+      <figure id="fig1" xsrc="c7cp04116k-f1.tif">
+        <title>Experimental timescales of measurement techniques for proton dynamics of phosphoric acid in the literature and in this study. Here proton dynamics is measured on the nanosecond scale in neat phosphoric acid and mixtures with water or benzimidazole. In the literature <it>ab initio</it> molecular dynamics (CPMD) simulations are described for neat phosphoric acid,<citref idrefs="cit4">4</citref> neat di-phosphoric acid,<citref idrefs="cit34">34</citref> 1 : 1 mixtures of phosphoric acid and water,<citref idrefs="cit33">33</citref> and 1 : 2 mixtures of phosphoric acid and imidazole.<citref idrefs="cit23">23</citref> QENS measurements of neat phosphoric acid are previously reported on different spectrometers<citref idrefs="cit2 cit40 cit41">2,40,41</citref> and are compared and re-evaluated here. PFG-NMR measurements for pure phosphoric acid and phosphoric acid water mixtures can be found in our recent work<citref idrefs="cit5">5</citref> and earlier publications.<citref idrefs="cit2 cit25 cit38">2,25,38</citref> PFG-NMR and <sup>1</sup>H NMR lineshape analysis of exchange on the millisecond scale in phosphoric acid–benzimidazole mixtures are shown in our recent work.<citref idrefs="cit6">6</citref></title>
+      </figure>
+      <p>In the present study, with the model systems phosphoric acid–water and phosphoric acid–benzimidazole, we distinguish between structural diffusion and hydrodynamic diffusion on the nanosecond timescale exploiting the different underlying physics of the techniques <sup>17</sup>O relaxation NMR,<citref idrefs="cit42">42</citref><sup>1</sup>H relaxation NMR, and high resolution neutron backscattering spectroscopy (nBSS).<citref idrefs="cit43 cit44">43,44</citref> These techniques are reviewed in more detail in the methodology and results sections. Implications on how proton transport in phosphoric acid and more complex phosphate containing systems is affected by additives are presented in the discussion section.</p>
+    </section>
+    <section>
+      <title>Methodology</title>
+      <subsect1>
+        <title>NMR relaxometry</title>
+        <p>Relaxation of the nuclear magnetization in NMR is due to fluctuations in the strength of the local magnetic field at the nucleus. The local magnetic field is governed by a number of direct or indirect interactions between different nuclei, nuclei and electrons, electric field gradients, or the applied magnetic field <it>B</it><inf>0</inf>.<citref idrefs="cit45">45</citref> Fluctuations in the strength of the field are then a result of fluctuations in either the coupling constants of such interactions or the distances of interacting nuclei, <it>i.e.</it> motion of nuclei with respect to each other which can be described by a pair- (for two interacting nuclei) or auto-correlation function with a thermally activated correlation time <it>τ</it><inf>c</inf>.</p>
+        <p>For <it>s</it> = 1/2 nucleus <sup>1</sup>H the dominating interaction causing relaxation is often the direct dipole dipole interaction. Correlation times <it>τ</it><inf>c</inf> for a local motion can be calculated from relaxation rates through the Bloembergen–Purcell–Pound (BPP) theory.<citref idrefs="cit46">46</citref></p>
+        <p>For the <it>s</it> = 5/2 nucleus <sup>17</sup>O the dominating interaction causing relaxation is the quadrupolar interaction of the nucleus quadrupolar moment with the electric field gradient caused by electronic anisotropy of the atomic shell.<citref idrefs="cit42 cit47 cit48">42,47,48</citref> In water<citref idrefs="cit49 cit50">49,50</citref> and H<inf>3</inf>PO<inf>4</inf> fluctuations of the electric field gradient mainly control the relaxation times. Here such fluctuations are caused by displacements of protons in the vicinity of the oxygen molecules, <it>i.e.</it>, transfer of protons inside a hydrogen bond connecting two oxygen atoms. Historically the first proton transfer rates between water molecules have been obtained exploiting this effect.<citref idrefs="cit49 cit50">49,50</citref> Furthermore, H<inf>2</inf>O and H<inf>3</inf>PO<inf>4</inf> oxygen resonances can be clearly separated in <sup>17</sup>O NMR experiments enabling independent relaxation measurements with generally fast relaxation rates. From such measurements at different temperatures activation energies of the displacement of protons with respect to oxygen for H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O can be calculated.</p>
+      </subsect1>
+      <subsect1>
+        <title>Quasielastic neutron scattering (QENS)</title>
+        <p>QENS experiments yield information on the time and space self-correlation of scattering particles in cases where the incoherent scattering of the investigated system dominates as here. This renders additional information on the distances and geometry of proton dynamics through the momentum transfer (<it>Q</it>) dependence of the quasi elastic line broadening of the energy spectra and the <it>Q</it>-dependence of the intensities.<citref idrefs="cit43 cit51">43,51</citref> The technique is predominately sensitive to the motion of H-atoms in phosphorus oxoacids<citref idrefs="cit41">41</citref> on timescales intermediate to existing simulations for H<inf>3</inf>PO<inf>4</inf><citref idrefs="cit4 cit23">4,23</citref> and the existing PFG-NMR measurements.<citref idrefs="cit2 cit5 cit6 cit25">2,5,6,25</citref> In phosphate containing systems QENS has <it>e.g.</it> recently been used to study the proton diffusion in solid CsH<inf>2</inf>PO<inf>4</inf>,<citref idrefs="cit52">52</citref> the electrode reaction of phosphoric acid fuel cells<citref idrefs="cit53">53</citref> and neat phosphoric acid from solid to melt.<citref idrefs="cit2 cit40 cit41">2,40,41</citref> For CsH<inf>2</inf>PO<inf>4</inf> it was pointed out by Ishikawa <it>et al.</it> that <sup>1</sup>H NMR relaxation, <sup>1</sup>H PFG-NMR and QENS assess different aspects of proton dynamics in phosphates.<citref idrefs="cit52">52</citref> Establishing a similar systematics for the liquid system we extend and partially re-measure previously published data for phosphoric acid which were recorded by high resolution nBSS on IN16 at the ILL,<citref idrefs="cit41">41</citref> re-evaluate the old data and compare them to new data recorded on the nBSS spectrometer IN16B. In contrast to previous studies<citref idrefs="cit2 cit41">2,41</citref> our present QENS data are analyzed without model constraint, <it>i.e.</it>, we obtain diffusion coefficients, which are not <it>a priori</it> fixed to values obtained through PFG-NMR on the millisecond scale.<citref idrefs="cit2 cit41">2,41</citref></p>
+      </subsect1>
+    </section>
+    <section>
+      <title>Experimental</title>
+      <subsect1>
+        <title>Sample preparation</title>
+        <p>Samples have been prepared as described in our previous publications on transport in phosphoric acid water mixtures and phosphoric acid benzimidazole mixtures.<citref idrefs="cit5 cit6">5,6</citref> Water contents are in the following given with respect to P<inf>2</inf>O<inf>5</inf> as <it>λ</it> = [H<inf>2</inf>O]/[P<inf>2</inf>O<inf>5</inf>] (with <it>λ</it> = 3 corresponding to H<inf>3</inf>PO<inf>4</inf>·0H<inf>2</inf>O or 100 wt% H<inf>3</inf>PO<inf>4</inf> (aq.)).</p>
+        <p>For phosphoric acid water mixtures, samples with phosphoric acid contents between 85 and 99 wt% H<inf>3</inf>PO<inf>4</inf> (aq.) (<it>λ</it> = 4.92–3.1) were prepared by adding corresponding amounts of bi-distilled water to nominally dry crystalline phosphoric acid as obtained by centrifuging crystalline phosphoric acid (Aldrich, &gt;99.999%).<citref idrefs="cit2 cit5 cit54">2,5,54</citref> For higher water contents 85 wt% H<inf>3</inf>PO<inf>4</inf> (aq.) (Merck VLS selectipur) was diluted with bi-distilled water. All concentrations were controlled and verified by acid/base titration using a 877 plus Titrino by Metrohm.</p>
+        <p>
+          <sup>17</sup>O enriched samples for PFG-NMR measurements were prepared inside NMR tubes by adding 10% <sup>17</sup>O enriched water (Enritech NW 17–20 Batch 179501) to nominally dry phosphoric acid. Samples had to be equilibrated for up to one month in order to ensure a homogeneous distribution of the <sup>17</sup>O tracer over aqueous and phosphate species. This long equilibration time is controlled by the rate of the condensation/hydrolysis reaction which actually increases with increasing water content.</p>
+        <p>For phosphoric acid (benz)imidazole mixtures, nominally dry phosphoric and dry benzimidazole (Fluka, purum &gt;98%) or imidazole (Merck, &gt;99%) powder were respectively mixed by weight in a glovebox under dry nitrogen atmosphere and slight heating (50–80 °C) in sealed glass vials. In the following the samples are named according to the molar ratio of phosphoric acid (PA) to benzimidazole (BI) or imidazole (Imi), <it>e.g.</it> 3 mol H<inf>3</inf>PO<inf>4</inf> per 1 mol BI is named 3PA1BI, 6 mol H<inf>3</inf>PO<inf>4</inf> per 1 mol BI is named 6PA1BI, <it>etc.</it> (see also <citref idrefs="cit6" position="baseline">ref. 6</citref>). The resulting viscous liquids were either filled in a homemade aluminium QENS sample holder (see the ESI<fnoteref idrefs="fn1"></fnoteref>) lined with 25 μm Teflon foil, or in a 5 mm NMR tube with a screw lid (Deutero Duran S300). Dead volume above the NMR sample was filled with a glass filler and the tube was closed with its lid inside the nitrogen atmosphere and subsequently heat sealed outside the glove box.</p>
+      </subsect1>
+      <subsect1>
+        <title>NMR</title>
+        <p>
+          <sup>1</sup>H and <sup>17</sup>O NMR measurements have been performed using a Bruker Avance III 400 spectrometer equipped with a diff60 gradient probe and a Bruker temperature control unit at a magnetic field of 9.4 T corresponding to a proton resonance frequency of 400 MHz. Spin–lattice <it>T</it><inf>1</inf> relaxation measurements have been performed using an inversion recovery pulse sequence. <sup>1</sup>H NMR spin lattice <it>T</it><inf>1</inf> relaxation times were recorded in the temperature range <it>T</it> = −30 to 160 °C. Short <sup>17</sup>O NMR <it>T</it><inf>1</inf> relaxation times could only be recorded at high temperatures (<it>T</it> &gt; 100 °C).</p>
+        <p>As <sup>1</sup>H nuclear magnetic spin–lattice <it>T</it><inf>1</inf> relaxation is dominated by homonuclear interactions<citref idrefs="cit25 cit52">25,52</citref> temperature dependent <sup>1</sup>H relaxation rates have been evaluated by the BPP equation<citref idrefs="cit46">46</citref><equation id="eqn1"><no>1</no><ugraphic display="displayed" id="ugt1" xsrc="c7cp04116k-t1.tif" /></equation>such that, with the Larmor frequency <it>ω</it><inf>0</inf>, the correlation time <it>τ</it><inf>c</inf> of the local dynamics involving the pair correlation of <sup>1</sup>H nuclei was exerted. A single maximum of 1/<it>T</it><inf>1</inf><it>versus</it> the inverse temperature was found for all investigated samples. At the maximum <it>τ</it><inf>c</inf> = 0.63/<it>ω</it><inf>0</inf> the factor <it>A</it> valid for all temperatures was obtained, as to calculate <it>τ</it><inf>c</inf> for the whole temperature range through <eqnref idrefs="eqn1">eqn (1)</eqnref>. Here we report correlation times for neat nominally dry phosphoric acid and for mixtures of the acid with imidazole and benzimidazole.</p>
+        <p>For temperature dependent <sup>17</sup>O <it>T</it><inf>1</inf> relaxation rates no extrema in 1/<it>T</it><inf>1</inf> can be found at the used magnetic field (9.4 T). H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O resonances are clearly separated and temperature relaxation rates are obtained independently for both resonances and for <sup>17</sup>O enriched and non-enriched samples at different water contents.</p>
+      </subsect1>
+      <subsect1>
+        <title>QENS</title>
+        <p>QENS experiments were carried out on two nBSS instruments at the Institute Max von Laue–Paul Langevin, Grenoble, the high resolution backscattering instrument IN16B<citref idrefs="cit55 cit56">55,56</citref> and its predecessor IN16<citref idrefs="cit44">44</citref> (previously published data<citref idrefs="cit41">41</citref>). Both instruments have a very high energy resolution below 1 μeV even for large momentum transfer <it>Q</it> (<it>Q</it><inf>max</inf> ∼ 1.9 Å<sup>−1</sup>). IN16 had a narrower energy transfer range of ±15 μeV compared to IN16B which also has an order of magnitude increased neutron flux in comparison to its predecessor, enabling faster measurements with higher neutron count statistics and a slightly higher energy resolution (0.75 μeV). With its extended energy transfer range of ±30 μeV and improved signal to noise ratio the spectra recorded on IN16B allow for a more detailed analysis than the previously recorded spectra on IN16.</p>
+        <p>Nominally dry samples were filled in flat sample holders containing a 25 μm Teflon liner as described above. The holders were placed in a standard ILL orange cryofurnace and measured on IN16B in its initial configuration with the Si(111) monochromator and 6 old IN16 large angle analysers in backscattering (6.271 Å). The flat samples of thickness 0.45 mm (total scattering probability for perpendicular orientation &lt;13%) were oriented in transmission geometry with the slab direction towards the scattering angle of 135°. For all spectral data standard corrections for background scattering of the instrument and the sample holder containing a Teflon liner and for absorption and self-shielding were applied using the LAMP software.<citref idrefs="cit57 cit58">57,58</citref> A similarly treated vanadium reference was used to correct for detector and analyser sensitivity. In addition the data were subsequently normalized to the integral over the elastic peak using a low temperature run of the same sample. More details concerning the data correction can be found in the ESI.<fnoteref idrefs="fn1"></fnoteref></p>
+        <p>Spectra were then fitted in LAMP in different ways applying simple model functions convoluted with the experimental resolution function. In previous studies of phosphoric acid at different temperatures it was already noted that scattering data (IN16) can be described by a broad background and a single Lorentzian peak.<citref idrefs="cit41">41</citref> We apply here the same fit model to all samples: a single Lorentzian peak adding a flat background (model ‘LorBg’, where the background accounts for fast motions outside of the instrumental window). Different fit models with additional elastic or Lorentzian components are compared for neat phosphoric acid in the ESI.<fnoteref idrefs="fn1"></fnoteref></p>
+        <p>The model ‘LorBg’ describes the experimental data of PA quite well. For the other samples fits with ‘LorBg’ are not of the same quality at the lower temperatures, but still acceptable (see ESI<fnoteref idrefs="fn1"></fnoteref>). We argue that the ‘LorBg’ model captures the average spectral relaxation time for all temperatures, detectors and samples and it shows the least correlation among different fit parameters. Therefore we restrict here the discussion mainly to the ‘LorBg’ model and plan for a more refined evaluation of the neutron data in a future publication combining nBSS and TOF data. The resulting fit parameters are summarized in the ESI<fnoteref idrefs="fn1"></fnoteref> and the <it>Q</it>-dependence of the fitted linewidth for all samples and temperatures is discussed in the following.</p>
+        <p>For continuous (Fickian) diffusion the HWHM of the Lorentzian follows a HWHM ∼ <it>DQ</it><citref idrefs="cit2">2</citref> law, <it>i.e.</it> a straight line is obtained plotting HWHM <it>versus Q</it><sup>2</sup> with the diffusion coefficient proportional to its slope for low values of <it>Q</it>. At higher <it>Q</it> values the continuous diffusion approximation is no longer valid and the width of the QENS spectra depends on details of short range proton motion. The HWHM thus can often be described by jump models, which approach the limiting behavior ∼<it>DQ</it><sup>2</sup> at low <it>Q</it> and a <it>Q</it>-independent <ugraphic display="inline" id="ugt2" xsrc="c7cp04116k-t2.tif" /> plateau at high <it>Q</it>, where <it>τ</it> is the residence time in between jumps.</p>
+        <p>For a random motion with distinct jump length distributions (<it>ρ</it>(<it>r</it>)) and correlation time <it>τ</it> a number of models exist which describe the HWHM at large <it>Q</it> in a slightly different way.<citref idrefs="cit51 cit59 cit60">51,59,60</citref> For example, Hall and Ross<citref idrefs="cit61">61</citref> showed the dependence of HWHM on <it>Q</it> for a symmetric Gaussian distribution of jump length to be<equation id="eqn2"><no>2</no><ugraphic display="displayed" id="ugt3" xsrc="c7cp04116k-t3.tif" /></equation>and Singwi and Sjölander<citref idrefs="cit62">62</citref> implicitly using an asymmetric distribution <ugraphic display="inline" id="ugt4" xsrc="c7cp04116k-t4.tif" /> of jump length <it>r</it> around an expectation value <it>r</it><inf>0</inf> showed the dependence to be<equation id="eqn3"><no>3</no><ugraphic display="displayed" id="ugt5" xsrc="c7cp04116k-t5.tif" /></equation>where both models approach the abovementioned limits at low and high <it>Q</it>.</p>
+        <p>The Singwi–Sjölander model has been used in earlier work to obtain <it>τ</it> with diffusion coefficients fixed to values obtained in PFG-NMR. This approach is often applied because the <it>Q</it>-values in the <it>n</it>-scattering experiment typically do not reach very low <it>Q</it> values (&gt;0.1 Å<sup>−1</sup>) and also because the observed linewidth at small <it>Q</it> is susceptible to broadening by multiple scattering. In the present study diffusion coefficients <it>D</it> are obtained through a free fit of a HWHM ∼ <it>DQ</it><sup>2</sup> law at low <it>Q</it>, motivated by the new interpretation of NMR data as discussed here. We comment on the jump diffusion models<citref idrefs="cit59 cit62">59,62</citref> and investigate a series of different model systems including neat phosphoric acid and mixtures with benzimidazole at a few temperatures from which we deduce the activation energy for <it>D</it>(<it>T</it>). A similar activation energy is also obtained in a model independent approach by a temperature scaling of the linewidth over a wider <it>Q</it>-range. We comment on which aspects of proton dynamics are accessed in QENS of phosphoric acid based systems on nBSS.</p>
+      </subsect1>
+    </section>
+    <section>
+      <title>Results</title>
+      <p>To separate different dynamic processes present in phosphoric acid on the nanosecond timescale a number of model systems are investigated for which the millisecond timescale proton dynamics has already been reported. The model systems include mixtures of phosphoric acid at different water contents and nominally dry phosphoric acid mixtures with Brønsted bases imidazole, benzimidazole, or bisbenzimidazole (<figref idrefs="fig2">Fig. 2</figref>).<citref idrefs="cit5 cit6">5,6</citref> The choice of additives allows for general conclusions but is also directly related to the application of phosphoric acid containing systems, <it>i.e.</it>, phosphoric acid soaked polybenzimidazole membranes as fuel cell electrolytes in high-temperature PEM fuel cells.<citref idrefs="cit11 cit12 cit13 cit15 cit16">11–13,15,16</citref> The performance of such fuel cells is known to depend on the ratio of phosphoric acid to polybenzimidazole and the humidification, <it>i.e.</it>, the water content, of anode and cathode stream. Those performance changes are related to differences in the membrane's water permeability,<citref idrefs="cit63">63</citref> proton conductivity,<citref idrefs="cit11">11</citref> electroosmotic water drag<citref idrefs="cit64">64</citref> and, especially under dry conditions, acid redistribution<citref idrefs="cit65">65</citref> in the membrane. In light of the fuel cell application the interactions of phosphoric acid with water and the Brønsted bases benzimidazole and imidazole have been investigated in our recent works.<citref idrefs="cit5 cit6">5,6</citref> The common feature of the model systems is that protonation of the additives reduces the frustration in the acid's hydrogen bonded network, resulting in a reduction of the measured values for structural diffusion on the millisecond timescale.<citref idrefs="cit5 cit6">5,6</citref> Here data for the nanosecond dynamics obtained through a selection of measurement techniques (<sup>1</sup>H relaxation NMR, <sup>17</sup>O relaxation NMR, high resolution backscattering QENS) are presented.</p>
+      <figure id="fig2" xsrc="c7cp04116k-f2.tif">
+        <title>Chemical structure of (a) imidazole, (b) benzimidazole, and (c) bisbenzimidazole used as additives to phosphoric acid to investigate the influence of reduced frustration of the acid's hydrogen bond network.</title>
+      </figure>
+      <subsect1>
+        <title>
+          <sup>1</sup>H NMR <it>T</it><inf>1</inf> relaxation measurements</title>
+        <p>
+          <sup>1</sup>H nuclear magnetic relaxation in phosphoric acid based systems is governed by the motion of protons relative to each other and temperature dependent measurements of spin–lattice <it>T</it><inf>1</inf> relaxation times can be used to obtain the correlation time <it>τ</it><inf>c</inf> of that local Brownian motion.<citref idrefs="cit46">46</citref> Jeffrey <it>et al.</it> indicate a correlation between viscosity and <sup>2</sup>H spin–lattice relaxation times in D<inf>3</inf>PO<inf>4</inf> containing gels<citref idrefs="cit66">66</citref> and a clear relation of relaxation rates to viscosity and hydrodynamic diffusion has been shown for ionic liquid electrolytes.<citref idrefs="cit67">67</citref> To obtain the relation of <sup>1</sup>H spin–lattice <it>T</it><inf>1</inf> relaxation times to the nanosecond timescale dynamics of phosphoric acid further considerations and data from different measurement techniques are necessary. This is due to the acid's additional intrinsic fast proton exchange and other difficulties inherent to the relaxation measurements, <it>i.e.</it>, multiple relaxation routes, <it>etc.</it><citref idrefs="cit52">52</citref> In the following we argue that fast proton exchange as part of structural diffusion occurs at rates much too fast to considerably influence relaxation at the used magnetic field and temperatures and show the relation of <sup>1</sup>H NMR <it>T</it><inf>1</inf> relaxation and hydrodynamic diffusion.</p>
+        <p>For H<inf>3</inf>PO<inf>4</inf> at different water contents close to the nominally dry case <sup>1</sup>H NMR spin–spin <it>T</it><inf>1</inf> relaxation measurements with a distinct BPP-type temperature dependence of the <it>T</it><inf>1</inf> relaxation rates that allow for calculation of correlation times <it>τ</it><inf>c</inf> have already been reported by Aihara <it>et al.</it><citref idrefs="cit25">25</citref> The authors report a slight increase of the activation energy of <it>τ</it><inf>c</inf> towards lower nominal water contents and different activation energies for lower and higher temperatures. Spin–spin (<it>T</it><inf>2</inf>) relaxation related linewidth measurements for phosphoric acid at different water contents, on the other hand, have mostly been discussed in terms of vitrification.<citref idrefs="cit39 cit68 cit69">39,68,69</citref> For technical polybenzimidazole–phosphoric acid membranes both <sup>1</sup>H spin–lattice (<it>T</it><inf>1</inf>) relaxation measurements and spin–spin (<it>T</it><inf>2</inf>) relaxation related linewidth measurements are reported in the literature, but are more ambiguous to evaluate<citref idrefs="cit22 cit35 cit36 cit37 cit70">22,35–37,70</citref> than such measurements conducted on model systems with more controlled composition. In the membranes chemical effects of benzimidazole on relaxation and/or dynamics overlap with the effects of water on relaxation. Water contents in the hygroscopic membranes, actually, are notoriously difficult to control and the membranes’ water uptake depends on the used polymer and the often unclear ratio of phosphoric acid to benzimidazole groups.<citref idrefs="cit6">6</citref> Despite the large body of work dealing with a vast number of different chemistries of the polymer backbone of polybenzimidazole–phosphoric acid membranes and the known dependence of the membranes’ conductivity on relative humidity<citref idrefs="cit11">11</citref> there is no consensus in the literature to investigate and compare membranes at specific water contents. To our knowledge, no work treats membranes containing nominally dry phosphoric acid, which is most likely due to the described challenges in controlling such conditions for variable polymer architectures and PA contents.</p>
+        <p>Here we present temperature dependent <sup>1</sup>H spin–lattice relaxation rates and corresponding correlation times <it>τ</it><inf>c</inf> for phosphoric acid–benzimidazole and phosphoric acid–imidazole mixtures (<figref idrefs="fig3 fig4">Fig. 3 and 4</figref>) with a controlled water content (nominally dry) in comparison to the neat acid. All relaxation times have been obtained through an inversion recovery sequence with a single exponential recovery of the magnetization with time. A maximum in 1/<it>T</it><inf>1</inf><it>versus</it> temperature is found for all samples and correlation times <it>τ</it><inf>c</inf> are calculated therefrom through the BPP method. A slight upturn of ln(<it>τ</it><inf>c</inf>) from a linear dependence in 1/<it>T</it> is reported at high temperatures, similar to that observed by Aihara <it>et al.</it><citref idrefs="cit25">25</citref> This deviation from Arrhenius behavior is often associated with the fragile glass transition. In the case of phosphoric acid, however, temperature dependent changes in composition (a higher molar fraction of water) can also lead to the observed deviations from Arrhenius behavior. Viscosity is reduced disproportionately through increased condensation of phosphoric acid molecules (2H<inf>3</inf>PO<inf>4</inf> ⇄ H<inf>4</inf>P<inf>2</inf>O<inf>7</inf> + H<inf>2</inf>O) at higher temperatures<citref idrefs="cit5">5</citref> and the therefore increased molar fraction of water. Water possibly also provides an additional relaxation route for magnetization. At low temperatures when the acid is supercooled and compositions in terms of molar fractions of water are often “frozen in”,<citref idrefs="cit29">29</citref> deviations from Arrhenius behavior can indeed not be seen and low temperature data are suggested to be more reliable for obtaining activation energies.</p>
+        <figure id="fig3" xsrc="c7cp04116k-f3.tif">
+          <title>(a) <sup>1</sup>H <it>T</it><inf>1</inf> relaxation rates for neat H<inf>3</inf>PO<inf>4</inf> and nominally dry mixtures of phosphoric acid with imidazole (6PA1Imi, 3PA1Imi) and (b) the correlation times calculated therefrom through the BPP method. The activation energy of approximately 0.255 eV is almost identical for all samples. Sections of the temperature range where the samples have been cooled below the melting point of crystalline H<inf>3</inf>PO<inf>4</inf> are marked by an arrow.</title>
+        </figure>
+        <figure id="fig4" xsrc="c7cp04116k-f4.tif">
+          <title>(a) <sup>1</sup>H <it>T</it><inf>1</inf> relaxation rates for neat H<inf>3</inf>PO<inf>4</inf> and nominally dry mixtures of phosphoric acid with benzimidazole (9PA1BI, 6PA1BI, 3PA1BI) and (b) the correlation times calculated therefrom through the BPP method. The activation energy is almost identical for all samples, with noted deviations at high temperatures (see the text). Sections of the temperature range where the samples have been cooled below the melting point of crystalline H<inf>3</inf>PO<inf>4</inf> are marked. Deviations from Arrhenius behavior in <it>τ</it><inf>c</inf> are due to increasing concentration of condensation products and contributions to <it>T</it><inf>1</inf> from exchange of protons between phosphoric acid and benzimidazole.<citref idrefs="cit71">71</citref></title>
+        </figure>
+        <p>For mixtures of phosphoric acid with imidazole the activation energy from <it>T</it><inf>1</inf> relaxation of phosphoric acid's <sup>1</sup>H resonance stays unchanged and deviations from the Arrhenius behavior of <it>τ</it><inf>c</inf> occur at higher temperatures. The explanation for that shift lies in the lower molar fraction of the condensation product water in the sample containing (benz)imidazole, which reduces condensation through reduction of the hydrogen bonded network's frustration by deprotonation of the acid.<citref idrefs="cit6">6</citref></p>
+        <p>For mixtures of phosphoric acid with benzimidazole the activation energy from <it>T</it><inf>1</inf> relaxation of phosphoric acid's <sup>1</sup>H resonance also stays unchanged. However, there is a considerable decrease in viscosity and <it>T</it><inf>1</inf> data at high temperatures slightly deviate from the BPP behavior. Those deviations are a consequence of the exchange of protons between phosphoric acid and benzimidazole on the millisecond timescale which we have reported previously.<citref idrefs="cit6">6</citref> This exchange on the millisecond scale, however, does not affect the correlation times of proton dynamics inside phosphoric acid as it is on a completely different timescale (millisecond regime) than the dynamics causing relaxation in the used magnetic field (nanosecond regime). Since the exchange occurs on the same timescale as the relaxation rates themselves the increase in 1/<it>T</it><inf>1</inf> at higher temperatures is a mere artifact in the relaxation rate brought about through combination of relaxation of protons as part of benzimidazole and as part of phosphoric acid.<citref idrefs="cit71">71</citref> Nevertheless, it is possible to evaluate relaxation data with the BPP model in a given temperature range and extrapolate undisturbed phosphoric acid relaxation rates from the data set.</p>
+        <p>Interestingly, the temperature dependence of these extrapolated data for the correlation times <it>τ</it><inf>c</inf> again reveals virtually unchanged activation energies for the dynamic process. Through comparison with <sup>31</sup>P diffusion data (see <figref idrefs="fig5">Fig. 5</figref>), we ascertain that this process is indeed associated with hydrodynamic diffusion rather than fast structural proton diffusion. A close relation between the correlation times <it>τ</it><inf>c</inf> and the hydrodynamic diffusion coefficients (<sup>31</sup>P diffusion data), as it was previously shown to exist in ionic liquids,<citref idrefs="cit67">67</citref> is indeed reported for neat phosphoric acid and PA-(benz)imidazole systems with low (benz)imidazole contents. For those samples hydrodynamic diffusion on the millisecond scale and the nanosecond correlation times from <sup>1</sup>H relaxation measurements not only exhibit the same temperature dependence, but also the dynamics are reduced by exactly the same factors upon addition of (benz)imidazole—the two dynamic data sets scale with a power law with an exponent of almost one (see <figref idrefs="fig5">Fig. 5</figref>). This shows that as in some ionic liquids <sup>1</sup>H <it>T</it><inf>1</inf> relaxation indeed is associated with the hydrodynamic diffusion of the molecules<citref idrefs="cit67">67</citref> rather than structural proton diffusion, as sometimes assumed in the literature. It needs to be emphasized, though, that this relation strictly only holds for low benzimidazole contents and for imidazole, which has similar diffusion coefficients to the phosphate species. For a high benzimidazole content the influence of benzimidazole both on relaxation and on diffusion coefficients leads to deviations. It should also be pointed out that the strong correlation between <it>τ</it><inf>c</inf> from <it>T</it><inf>1</inf> relaxation measurements and hydrodynamic phosphate diffusion does not extend to a correlation between <it>T</it><inf>2</inf> relaxation and viscosity. Temperature dependent <it>T</it><inf>2</inf> relaxation and viscosity measurements are established methods to obtain the glass transition temperature. As pointed out by multiple authors the techniques, however, yield deviating results for the case of H<inf>3</inf>PO<inf>4</inf>.<citref idrefs="cit39 cit68 cit69">39,68,69</citref></p>
+        <figure id="fig5" xsrc="c7cp04116k-f5.tif">
+          <title>Double logarithmic plot of <it>ortho</it>-phosphoric acid diffusion coefficients as measured by <sup>31</sup>P PFG NMR<citref idrefs="cit5 cit6 cit72">5,6,72</citref><it>versus</it> correlation times from <sup>1</sup>H relaxation NMR at the respective same temperature for phosphoric acid and phosphoric acid-(benz)imidazole mixtures.<citref idrefs="cit25">25</citref> The exponent ∼1 indicates fundamental similarity of the underlying dynamic process, <it>i.e.</it>, <sup>1</sup>H relaxometry accesses the dynamic modes on the nanosecond scale which are related to hydrodynamic diffusion measured through <sup>31</sup>P PFG NMR on the millisecond scale (see the text).</title>
+        </figure>
+      </subsect1>
+      <subsect1>
+        <title>
+          <sup>17</sup>O NMR <it>T</it><inf>1</inf> relaxation measurements</title>
+        <p>To assess structural diffusion on the nanosecond scale more clearly <sup>17</sup>O NMR relaxation measurements are used. Having shown that <sup>1</sup>H NMR dipole relaxation is related to hydrodynamic diffusion, it is important to emphasize that <sup>17</sup>O NMR relaxation occurs through a different route, <it>i.e.</it>, fluctuations in the strength of the quadrupolar interaction (see Experimental). Such fluctuations are caused through distortions of the electric field gradient, highly dependent on the hydrogen bonds around the <sup>17</sup>O nucleus.<citref idrefs="cit42 cit47 cit48">42,47,48</citref> Displacements of hydrogen atoms bound to oxygen therefore are the dominant reason for relaxation of <sup>17</sup>O nuclear magnetization,<citref idrefs="cit49 cit50">49,50</citref> which is therefore highly dependent on the proton transfer events that are part of structural diffusion.</p>
+        <p>H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O resonances in the <sup>17</sup>O NMR spectra of phosphoric acid water mixtures are separated (<figref idrefs="fig6">Fig. 6a</figref>) and allow for an individual and temperature dependent analysis of relaxation rates, <it>i.e.</it>, the analysis of proton displacement in the vicinity of H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O oxygen atoms (<figref idrefs="fig6">Fig. 6b</figref>). Measurements of H<inf>2</inf>O <sup>17</sup>O NMR relaxation rates in non-<sup>17</sup>O-enriched samples are, however, limited to water contents higher than <it>λ</it> = [H<inf>2</inf>O]/[P<inf>2</inf>O<inf>5</inf>] = 4, as the signal intensity otherwise becomes too low. Nevertheless, a clear trend in activation energies obtained from temperature dependent relaxation measurements is apparent (<figref idrefs="fig6">Fig. 6b</figref>). The activation energy of H<inf>2</inf>O <sup>17</sup>O NMR relaxation goes through a pronounced maximum between <it>λ</it> = 4 (H<inf>3</inf>PO<inf>4</inf>·0.5H<inf>2</inf>O) and <it>λ</it> = 4.5 (H<inf>3</inf>PO<inf>4</inf>·0.75H<inf>2</inf>O), but is virtually identical to the H<inf>3</inf>PO<inf>4</inf><sup>17</sup>O relaxation rate's activation energy for <it>λ</it> &gt; 5 (H<inf>3</inf>PO<inf>4</inf>·1H<inf>2</inf>O). The plateau of activation energies reported below <it>λ</it> = 4 (H<inf>3</inf>PO<inf>4</inf>·0.5H<inf>2</inf>O), on the other hand, corresponds to the activation energy found for structural diffusion of protons on the millisecond scale in nominally dry phosphoric acid.<citref idrefs="cit5">5</citref> The direct measurement of the activation energy of proton displacement between two phosphoric acid molecules through <sup>17</sup>O NMR thus also confirms the validity of the methods through which the diffusion coefficients of structural proton diffusion on the millisecond scale were obtained in our previous works.<citref idrefs="cit5 cit6">5,6</citref> It can be inferred that no other effects than those directly affecting the proton transfer reaction interfere with structural diffusion, <it>i.e.</it> effects on longer timescales than those investigated here.</p>
+        <figure id="fig6" xsrc="c7cp04116k-f6.tif">
+          <title>(a) <sup>17</sup>O NMR spectrum showing the resonances of H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O and (b) the activation energies as obtained from the resonances with respect to relaxation rates at different water contents <it>λ</it> = [H<inf>2</inf>O]/[P<inf>2</inf>O<inf>5</inf>]. The activation energies of H<inf>3</inf>PO<inf>4</inf><sup>17</sup>O relaxation reach a plateau at low water contents at <it>E</it><inf>A</inf> ∼ 0.218 eV which roughly corresponds to the activation energy of millisecond structural diffusion<citref idrefs="cit5">5</citref> and at water contents higher than <it>λ</it> = 5 for which H<inf>3</inf>PO<inf>4</inf>–H<inf>3</inf>PO<inf>4</inf> structure diffusion is no longer present. Water <sup>17</sup>O relaxation activation energy goes through a pronounced maximum at medium water contents (see the text).</title>
+        </figure>
+        <p>It has previously been shown that structural diffusion breaks down with increasing water contents in phosphoric acid–water.<citref idrefs="cit5">5</citref> The decoupling of activation energies of H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O <sup>17</sup>O relaxation in <figref idrefs="fig6">Fig. 6b</figref> shows that, indeed, no relevant fast exchange of protons takes place between H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O. Proton displacement from H<inf>2</inf>O has a much higher activation energy at intermediate water contents, for which more H<inf>3</inf>PO<inf>4</inf> molecules than water molecules are accessible. At water contents higher than <it>λ</it> = 5 (1H<inf>2</inf>O·1H<inf>3</inf>PO<inf>4</inf>) hydrodynamic diffusion governs activation energies of <sup>17</sup>O NMR relaxation for both H<inf>2</inf>O and H<inf>3</inf>PO<inf>4</inf> and the activation energies equalize again.</p>
+      </subsect1>
+      <subsect1>
+        <title>Quasielastic neutron scattering (QENS)</title>
+        <p>The discussed NMR techniques provide information on activation energy or correlation times, but do not contain spatial information on the diffusion process of protons. To obtain additional spatial information especially on the structural diffusion process of protons in nominally dry H<inf>3</inf>PO<inf>4</inf> quasielastic neutron scattering data have previously been recorded using different backscattering spectrometers.<citref idrefs="cit2 cit41">2,41</citref> In those works line-broadening is reported, which could at higher temperatures be described by a single Lorentzian function.</p>
+        <p>In this work QENS spectra are recorded at the IN16B backscattering spectrometer at the ILL in Grenoble for different mixtures of phosphoric acid and benzimidazole or bisbenzimidazole (see <figref idrefs="fig2">Fig. 2</figref>). In particular mixtures of phosphoric acid with benzimidazole (3PA1BI, 6PA1BI) and bisbenzimidazole (6PA1BisBI) are investigated over a temperature range <it>T</it> = 300 K to <it>T</it> = 430 K. Those systems are chosen as the Brønsted base benzimidazole is fully protonated by the acid and both hydrodynamic and structural proton diffusion are reduced.<citref idrefs="cit6">6</citref> Additionally, it has already been shown that benzimidazole and phosphoric acid exchange protons with average residence times in the millisecond regime,<citref idrefs="cit6">6</citref> which is out of range for nBSS and therefore should show up as an additional elastic signal. This is in contrast to phosphoric acid water mixtures for which the degree of protonation of water changes with water concentration and for which hydrodynamic proton diffusion is actually increased through highly mobile aqueous species and weaker hydrogen bonds.<citref idrefs="cit5">5</citref> All existing neutron scattering studies of polybenzimidazole–phosphoric acid membranes have been conducted at unspecified high water contents<citref idrefs="cit73 cit74">73,74</citref> for which a considerable contribution of phosphoric acid's structural diffusion process can no longer be expected and which exceeds the water contents of operating high-temperature PEM fuel cells.<citref idrefs="cit5 cit6">5,6</citref></p>
+        <p>Despite slow hydrodynamic diffusion of phosphate species being visible in <sup>31</sup>P PFG-NMR measurements no major contribution from slow proton motion is seen in the QENS spectra of PA, which would show up as an additional elastic signal, except if being convoluted with a faster type of motion. The reason is that proton dynamics is in fact ‘decoupled’ from the hydrodynamic motion of the phosphate species as all protons contribute to structural diffusion through very fast exchange of protons between the slowly diffusing phosphate species. The consequences of that fast exchange for measurements of the nanosecond scale proton dynamics is discussed in this study. Delicate details of dynamics of the hydrogen bonded network and thus of single proton jumps are, however, beyond the scope of this study.</p>
+        <p>All data were fitted with different simple models as mentioned in the Experimental section and the results are discussed in the ESI.<fnoteref idrefs="fn1"></fnoteref> For neat PA the simplest model ‘LorBg’, a single Lorentzian plus a flat background, describes the data pretty well, as can be judged from the figures in the ESI.<fnoteref idrefs="fn1"></fnoteref> There the total fit curves for ‘LorBg’-fits at different temperatures (<it>T</it> = 339 K: Fig. SI-QENS 1; <it>T</it> = 386 K: Fig. SI-QENS 3, ESI<fnoteref idrefs="fn1"></fnoteref>) are shown in conjunction with fit components for individual detectors (<it>T</it> = 339 K: Fig. SI-QENS 2; <it>T</it> = 386 K: Fig. SI-QENS 5, ESI<fnoteref idrefs="fn1"></fnoteref>). For 6PA1BI the fits with ‘LorBg’ are still acceptable, but not quite as good at all detectors. For higher BI contents the discrepancy between the simple ‘LorBg’ fit and the QENS spectra increases further, which we take as a sign of the expected appearance of a slower dynamic component related to BI dynamics (see the ESI<fnoteref idrefs="fn1"></fnoteref>).</p>
+        <p>Independent of a specific diffusion model the FWHM data resulting from the ‘LorBg’ fits for PA are tested in a plot of its log(FWHM) <it>versus</it> log(<it>Q</it><sup>2</sup>). From such plots it becomes evident that the FWHM increase with <it>Q</it> is nearly parallel at different temperatures. Thus, a masterplot can be constructed through multiplication of FWHM(<it>T</it>) for different temperatures with a <it>Q</it>-independent scaling factor (<figref idrefs="fig7">Fig. 7</figref>). The scaling factors are calculated from a <it>Q</it>-average of the FWHM data in the low-<it>Q</it> region (0.19 &lt; <it>Q</it> &lt; 0.58 Å<sup>−1</sup>) with <it>T</it><inf>ref</inf> = 423 K as reference temperature. Except for unreliable data points at high Q for the highest temperature <it>T</it> = 423 K, where FWHM is as wide as the instrument energy window, there is good data superposition in all the <it>Q</it>-range, <it>i.e.</it> all scaled FWHM values fall on the same master curve. The <it>Q</it>-dependence of this master curve shows the characteristics of a jump model with the FWHM at the lowest <it>Q</it>-values following a ∼<it>DQ</it><sup>2</sup> behavior and the FWHM at high <it>Q</it> becomes virtually <it>Q</it>-independent. We take the mastercurve as a proof that the same single dynamic process on the nanosecond time scale is probed by IN16B for all investigated temperatures. This observation is in line with the initial reasoning (see above) that contributions of hydrodynamic phosphate diffusion will not show up in the QENS spectra due to the ‘decoupling’ of fast proton motion from its hydrodynamic background already on the nanosecond timescale of IN16B.</p>
+        <figure id="fig7" xsrc="c7cp04116k-f7.tif">
+          <title>Master plot for the FWHM <it>versus Q</it><sup>2</sup> resulting from ‘LorBg’ fits of neat phosphoric acid. The FWHM values for different temperatures have been multiplied with a <it>Q</it> independent scaling factor (see the inset) to match the FWHM data for the reference temperature <it>T</it><inf>ref</inf> = 423 K (see text).</title>
+        </figure>
+        <p>The activation energy for the single continuous dynamic process can be derived when plotting the shift factors against the inverse temperature and fitting an Arrhenius temperature dependence (inset to <figref idrefs="fig7">Fig. 7</figref>) results in an activation energy of <it>E</it><inf>A</inf> ∼ 0.21 eV. This value varies slightly with the temperature range taken into account for the fit and with the <it>Q</it>-range for which an average of FWHM is chosen for calculating the scaling factors. From the variation in the activation energy values based on scaling factors for different <it>Q</it>-ranges a systematic error of 0.03 eV is calculated (see the ESI<fnoteref idrefs="fn1"></fnoteref>).</p>
+        <p>Similar master plots are possible for all other samples and are reported in the ESI.<fnoteref idrefs="fn1"></fnoteref> For phosphoric acid–benzimidazole mixtures the scaled FWHM for low temperatures and for low <it>Q</it> values do not exactly match the master curve. This is possibly due to additional dynamic processes in the assessed energy window, which seem to contribute more strongly at low temperatures. The additional contribution at lower <it>T</it> most likely stems from the protons of the (bis)benzimidazole molecules and indeed increases with the benzimidazole content. The contribution of BI in the spectra, however, could so far not be isolated through the fit models discussed in the Experimental section and in the ESI.<fnoteref idrefs="fn1"></fnoteref> This is partly due to the large background which includes fast processes present in neat PA and the mixtures and needs to be further investigated through measurements on shorter timescales. In the meantime the dominating dynamic process found in both PA and the mixtures is discussed, taking into account that artefacts of the dynamics of benzimidazole can affect the accuracy of the data analysis for mixtures with a high benzimidazole content. Indeed, for the most viscous sample 3PA1BI (see ESI<fnoteref idrefs="fn1"></fnoteref>), the activation energy found from the scaling factor (<it>E</it><inf>A</inf> = 0.29 ± 0.03 eV) deviates strongly from that for neat PA. For the samples 6PA1BI (<it>E</it><inf>A</inf> = 0.21 ± 0.05 eV) and 6PA1bisBI (<it>E</it><inf>A</inf> = 0.23 ± 0.01 eV) the same trend is visible with increasing errors and deviations from the activation energy found for neat PA.</p>
+        <p>Interestingly, a combined master plot of high temperature FWHM data <it>versus Q</it><sup>2</sup> of all samples (<figref idrefs="fig8">Fig. 8</figref>) can be produced. Much in the same way as shown in <figref idrefs="fig9">Fig. 9</figref> for a single sample the FWHM data of different samples can be scaled to the reference data set of PA at <it>T</it> = 423 K to fall on one single master curve. This reveals that the dynamic process, probed for neat PA, is not fundamentally altered by the addition of benzimidazole. From this master-plot we can conclude that the addition of benzimidazole simply reduces the dynamics of the measured process. The inset of <figref idrefs="fig8">Fig. 8</figref> shows the respective scaling factors as a function of benzimidazole content expressed through the ratio of phosphoric acid per mol benzimidazole ([H<inf>3</inf>PO<inf>4</inf>]/[BI]).</p>
+        <figure id="fig8" xsrc="c7cp04116k-f8.tif">
+          <title>Master plot of shifted FWHM resulting from ‘LorBg’ fits of neat phosphoric acid (black), 6PA1BI (red), 3PA1BI (blue) and 6PA1bisBI (orange). FWHM has been shifted by a constant factor for each BI content (see inset) for clarity only high temperatures are shown.</title>
+        </figure>
+        <figure id="fig9" xsrc="c7cp04116k-f9.tif">
+          <title>Half-Width-at-Half-Maximum (HWHM) of quasielastic scattering peaks of H<inf>3</inf>PO<inf>4</inf> (PA) <it>versus</it> momentum transfer <it>Q</it><sup>2</sup> at different temperatures. Orange lines indicate a fit of the <it>DQ</it><sup>2</sup>, black lines a Singwi–Sjölander model (SS) fit and red lines a Hall-Ross (HR) fit.</title>
+        </figure>
+        <p>The <it>Q</it>-dependence of the line broadening is investigated in more detail by fitting the jump diffusion models described above. Again fit parameters from the ‘LorBg’ fits are analysed and some examples of the half-width-at-half-maximum (HWHM) <it>versus</it> the momentum transfer squared (<it>Q</it><sup>2</sup>) are plotted for PA in <figref idrefs="fig9">Fig. 9</figref> and for 6PA1BI in <figref idrefs="fig10">Fig. 10</figref> (for a complete overview, see the ESI<fnoteref idrefs="fn1"></fnoteref>). The data sets are compared to HR and SS jump diffusion models and a HWHM ∼ <it>DQ</it><sup>2</sup> law. While the jump diffusion models fit the low <it>Q</it> range HWHM reasonably well, the models deviate at high <it>Q</it> values and depending on the model reach slightly different plateau values for HWHM. However, as already discussed, at high <it>Q</it> and high temperatures the respective HWHM values also reach the maximum energy transfer window of IN16B and a possible correlation with the fitted flat background has to be taken into account. Therefore data for PA and 6PA1BI in the high <it>Q</it> regime must be assessed carefully as their <it>Q</it> dependence is prone to artefacts. Considering this we cannot conclude if the SS- or HR-model agrees better with the data. In the following we compare the diffusion coefficients obtained through the HWHM ∼ <it>DQ</it><sup>2</sup> law fits to the HWHM belonging to the first 4 <it>Q</it> values with the NMR diffusion data. At low <it>Q</it>, and especially at low temperatures interestingly, neither the total proton diffusion coefficient, nor the hydrodynamic diffusion coefficient from our own PFG-NMR measurements<citref idrefs="cit5 cit6">5,6</citref> describe the HWHM's <it>Q</it>-dependence through a <it>DQ</it><sup>2</sup> law.</p>
+        <figure id="fig10" xsrc="c7cp04116k-f10.tif">
+          <title>Half-Width-at-Half-Maximum (HWHM) of quasielastic scattering peaks of 6PA1BI <it>versus</it> momentum transfer <it>Q</it><sup>2</sup> at different temperatures. Orange lines indicate a fit of the <it>DQ</it><sup>2</sup>, black lines a Singwi–Sjölander model (SS) fit and red lines a Hall-Ross (HR) fit.</title>
+        </figure>
+        <p>The temperature dependence of diffusion coefficients obtained by QENS through fits of the HWHM ∼ <it>DQ</it><sup>2</sup> law and fits of the two different jump diffusion models are virtually identical. The activation energy for the diffusion coefficients differs only slightly within the error bars from that of the scaling factors for the master plot (see <figref idrefs="fig7">Fig. 7</figref>). Interestingly, it is also virtually identical to the temperature dependence of structural diffusion as calculated from PFG-NMR (<figref idrefs="fig11">Fig. 11</figref>) for neat phosphoric acid and for 6PA1BI. The activation energies are furthermore virtually identical to that of the proton displacement around oxygen as obtained through <sup>17</sup>O relaxation NMR (see <figref idrefs="fig5">Fig. 5b</figref>). This indicates that the three techniques assess the same dynamic process, <it>i.e.</it>, proton structural diffusion.</p>
+        <figure id="fig11" xsrc="c7cp04116k-f11.tif">
+          <title>Temperature dependent diffusion coefficients as obtained from QENS through <it>Q</it><sup>2</sup> – proportionality fitting at low <it>Q</it> in comparison to structural and hydrodynamic proton diffusion<citref idrefs="cit5 cit6">5,6</citref> from NMR for (a) for neat H<inf>3</inf>PO<inf>4</inf> and (b) 6 mol H<inf>3</inf>PO<inf>4</inf> per 1 mol BI. The temperature dependences the scaling factors is added as grey line. Diffusion data for neat H<inf>3</inf>PO<inf>4</inf> include measurements at IN16B (larger black points) and reevaluated data from previous IN16 (gray points) measurements.<citref idrefs="cit41">41</citref> The temperature dependence of diffusion coefficients obtained through QENS is virtually identical to that of structural diffusion coefficients calculated from different PFG-NMR measurements and very much different from the temperature dependence of hydrodynamic proton diffusion coefficients (see text).</title>
+        </figure>
+      </subsect1>
+    </section>
+    <section>
+      <title>Discussion</title>
+      <p>In this study, dynamics on the nanosecond timescale has been investigated for different model systems containing phosphoric acid and water or phosphoric acid and the Brønsted base benzimidazole, thus further bridging the gap between experimental studies of proton dynamics on the millisecond timescale and <it>ab initio</it> molecular dynamics simulations of the sub-picosecond dynamics. In recent millisecond timescale studies structural diffusion coefficients were separated from the hydrodynamic background through investigation of the individual contributions of different phosphate species, water and the benzimidazole to proton diffusion and conductivity.<citref idrefs="cit5 cit6">5,6</citref> The general effect that the contribution of structural diffusion to conductivity decreases with increasing temperature<citref idrefs="cit7">7</citref> was explicitly shown. The contribution of vehicle conductivity increases with temperature for phosphoric acid which also explains the reported higher isotope (hydrogen/deuterium) effects on conductivity at very low temperatures.<citref idrefs="cit75">75</citref> Here it is shown how through the choice of measuring technique different aspects of the dynamic processes can also be identified on the nanosecond timescale. In detail, structural diffusion, <it>i.e.</it>, fast intermolecular proton transfer, was investigated using <sup>17</sup>O NMR relaxation measurements at different water contents and using backscattering quasielastic neutron scattering at different levels of the benzimidazole content in phosphoric acid benzimidazole mixtures. Aspects of hydrodynamic diffusion on the nanosecond scale, on the other hand, have been investigated using <sup>1</sup>H NMR relaxation measurements (see <figref idrefs="fig12">Fig. 12</figref>).</p>
+      <figure id="fig12" xsrc="c7cp04116k-f12.tif">
+        <title>Activation energy obtained through different techniques separating structural and hydrodynamic diffusion. In our previous work<citref idrefs="cit6">6</citref> structural and hydrodynamic diffusion have been separated on the millisecond timescale through a combination of PFG-NMR measurements of <sup>31</sup>P, <sup>1</sup>H and <sup>17</sup>O (see text). The activation energies obtained through QENS and <sup>17</sup>O NMR <it>T</it><inf>1</inf> relaxation measurements of proton dynamics on the nanosecond timescale are virtually identical to those of millisecond scale structural diffusion coefficients obtained through PFG NMR.<citref idrefs="cit6">6</citref> The activation energy obtained from <sup>1</sup>H <it>T</it><inf>1</inf> relaxation measurements (nanosecond timescale), on the other hand, is similar to that obtained from hydrodynamic diffusion coefficients on the millisecond scale.</title>
+      </figure>
+      <p>Correlation times obtained through <sup>1</sup>H-NMR relaxation measurements are fundamentally related to the hydrodynamic transport of <it>ortho</it>-phosphoric acid molecules measured on the millisecond timescale using <sup>31</sup>P-PFG-NMR. This explains the previously reported differences in the temperature dependence of <sup>1</sup>H-PFG-NMR measurements and the relaxation measurements. The two techniques in fact measure different dynamical processes for the same magnetic field and temperature range. While the diffusion coefficients obtained through <sup>1</sup>H-PFG-NMR contain long range hydrodynamic contributions of the host molecules and contributions of intermolecular proton transfer (structural diffusion), intermolecular proton transport is too fast to considerably affect the <sup>1</sup>H-NMR relaxation. The <sup>1</sup>H-NMR relaxation process is dominated by local reorientations of the molecules which are a prerequisite for long range hydrodynamic transport. For the data shown in <figref idrefs="fig5">Fig. 5</figref>, the hydrodynamic diffusion of phosphoric acid molecules on the millisecond scale and the nanosecond correlation times from <sup>1</sup>H relaxation measurements, the dynamics is indeed reduced by the same factors upon addition of (benz)imidazole with virtually identical activation energies for the nanosecond and millisecond dynamics. At a higher benzimidazole content, however, interactions with the benzimidazole molecules influence the relaxation of phosphoric acid protons considerably, which makes it difficult to isolate their exact dynamics from such measurements.</p>
+      <p>Relaxation in <sup>17</sup>O-NMR, on the other hand, is dominantly quadrupolar and therefore sensitive to displacements of protons around the oxygen ions of both H<inf>3</inf>PO<inf>4</inf> and H<inf>2</inf>O in phosphoric acid with different water contents P<inf>2</inf>O<inf>5</inf>·<it>λ</it>H<inf>2</inf>O. The measurements confirm that the activation energy for proton displacement around H<inf>3</inf>PO<inf>4</inf> is the same as that of effective structural diffusion calculated on the millisecond timescale and that of the diffusion coefficients directly measured using QENS (see <figref idrefs="fig12">Fig. 12</figref>). It is furthermore shown that the activation energy of displacing protons from H<inf>3</inf>PO<inf>4</inf> oxygens and H<inf>2</inf>O oxygens is not identical at increased water contents (<it>λ</it> ∼ 4.5) and that with further increasing water content intermolecular proton transfer becomes negligible. This observation is in accordance with the breakdown of structural conductivity described in our recent publication,<citref idrefs="cit5">5</citref> which had already been assigned to weakening of the hydrogen bonds and a general decrease of frustration in the hydrogen bonded network through deprotonation of H<inf>3</inf>PO<inf>4</inf>.<citref idrefs="cit6">6</citref></p>
+      <p>The measurement principles of QENS are in stark contrast to that of the NMR techniques. While in earlier PFG-NMR measurements the diffusion of different chemical species is distinguished and the relaxation NMR in this study assesses different aspects of dynamics independent of spatial assignments, the QENS signal contains contributions from all protons, and provides direct spatial information and the principal possibility of distinguishing different types of dynamic processes. The QENS timescale in this study (nanosecond range) does, however, not reach the sub-picosecond timescale on which proton transfer events occur according to recent <it>ab initio</it> simulations<citref idrefs="cit4 cit23 cit34">4,23,34</citref> and our yet unpublished neutron TOF data. The dynamic process visible in the nanosecond window can therefore not be related to a single proton transfer event between two phosphates. On the nanosecond timescale protons, on average, have already undergone multiple such transfer events resulting in a proton diffusion coefficient which is already decoupled from the much slower hydrodynamic diffusion of the phosphate species and means that the hydrodynamic diffusion of the phosphate species does not contribute to the QENS signal on the nanosecond scale.</p>
+      <p>The application of a jump diffusion model to QENS linewidth data, assuming a single proton transfer event, in earlier works resulted in a far too high proton “jump length” (290 pm),<citref idrefs="cit2 cit40">2,40</citref> well above the measured distances between two phosphoric acid molecules (260 pm)<citref idrefs="cit76">76</citref> and far above the distance of two proton sites found in simulations as the average jump length of a proton within a hydrogen bond connecting two phosphoric acid molecules (63 pm).<citref idrefs="cit33">33</citref> More recently the state of the art quasi elastic neutron scattering investigations of neat phosphoric acid from the solid to the melt conducted on the IN16 spectrometer at the Institute Laue Langevin temperature reported temperature dependence of this jump length (110–360 pm).<citref idrefs="cit41">41</citref> In all cases the diffusion coefficients used to deduce the jump length in the literature were those of direct <sup>1</sup>H-PFG-NMR, which are measured on the millisecond scale and contain contributions from both hydrodynamic and structural diffusion.</p>
+      <p>In this study, QENS data are analyzed self-consistently and independent of input parameters from other measurement techniques. Through high resolution backscattering QENS it is shown that indeed different dynamic processes contribute to the QENS spectra previously reported for neat H<inf>3</inf>PO<inf>4</inf> and for phosphoric acid–benzimidazole mixtures. Especially fast processes present in both the neat acid and the mixtures cause a broad background, that needs to be analyzed in conjunction with QENS measurements of those faster timescales. For phosphoric acid–benzimidazole mixtures also the slow hydrodynamic diffusion of benzimidazole<citref idrefs="cit6">6</citref> influences the QENS spectra. The respective ratios at which the different dynamic processes contribute to the QENS signal depend on the dynamic window of the spectrometer and the differences in the respective dynamic processes that in turn are temperature dependent. The influence of benzimidazole diffusion makes it harder to isolate the phosphoric acid dynamics for high benzimidazole containing mixtures. However, through a model free approach (see <figref idrefs="fig7">Fig. 7</figref>) it is shown that in the energy range of IN16B a single process dominates the QENS spectra for neat phosphoric acid at all recorded temperatures and that the same process dominates the QENS spectra for phosphoric acid–benzimidazole mixtures especially at higher temperatures.</p>
+      <p>The process dominating the QENS spectra has been identified through comparison of activation energies as proton structural diffusion and it is confirmed that <sup>17</sup>O spin–lattice relaxation measurements, PFG-NMR and QENS actually assess different aspects of the same structural diffusion process. Analysis of the QENS linewidth in the <it>Q</it> range and temperature range where a single dynamic process dominates the signal shows that the structural diffusion process does not fundamentally change through addition of benzimidazole. Addition of benzimidazole rather reduces the linewidth of the quasielastic peak with a scaling factor constant for each benzimidazole content (inset <figref idrefs="fig8">Fig. 8</figref>). Consequently, the respective diffusion coefficients for nanosecond structural diffusion are reduced with increasing benzimidazole content (<figref idrefs="fig12">Fig. 12</figref>).</p>
+      <p>Diffusion coefficients for nanosecond proton dynamics and the model independent scaling factors, actually, confirm trends reported for the structural diffusion coefficients calculated from earlier PFG-NMR measurements. In those PFG-NMR measurements the influence of benzimidazole on the measurements has been corrected for and the obtained structural diffusion coefficients are also reduced upon addition of benzimidazole while their activation energy remains identical. In combination with the new nanosecond timescale data these results imply that the mechanism of structural proton transport is neither changed through the additive, nor that any influences on structural proton diffusion exist on timescales higher than the nanosecond regime. The data reported in this work confirm that intermolecular proton transport and all rate limiting steps of structural diffusion take place on the picosecond timescale, as found in <it>ab initio</it> molecular dynamics simulations. The general decrease of the diffusion coefficients, <it>i.e.</it>, a decrease of the entropic prefactor, for structural proton diffusion according to the simulations is associated with a decreased probability of formation of protonic defects (autodissociation). Such defects are a consequence of frustrated protons (<it>i.e.</it>, protons covalently bound to an oxygen atom, which are at the same time in a hydrogen bond to another molecule, hence reducing the charge density at the oxygen and hydrogen site). The frustrated protons react with oxygens along polarized chains of phosphate species connected through strong hydrogen bonds. Such chains form through thermally activated polarization fluctuations. This fluctuation means rattling of hydrogen atoms between different phosphate molecules. Successful transfer of a hydrogen atom, however, additionally relies on the depolarization of the chain through the described reaction with the frustrated protons. As a consequence of this sequence of events charges are separated at opposite sides of the chain in that one phosphoric acid molecule is deprived of a hydrogen atom (H<inf>2</inf>PO<inf>4</inf><sup>−</sup>) and the other one contains additional hydrogen (H<inf>4</inf>PO<inf>4</inf><sup>+</sup>). With a reduced density of frustrated protons the probability of occurrence for a successful proton transfer event naturally is reduced. On higher timescales (<it>i.e.</it> nanosecond and millisecond) this results in reduced diffusion coefficients in comparison to the neat acids.</p>
+      <p>The difference in diffusion coefficients of 3PA1BI and 6PA1BisBi, which have the same number of imidazole molecules, either indicates an additional minute effect of viscosity or it is indicative of different accessibility, or basicity of nitrogen sites of benzimidazole in comparison to those of bisbenzimidazole. Such aspects, relating to the configuration of the larger molecules, are important for the design of polybenzimidazole membranes and are actually subject of computational studies of bisbenzimidazole in different configurations.<citref idrefs="cit77">77</citref> Further experimental studies of the difference of bisbenzimidazole and benzimidazole in phosphoric acid are necessary but beyond the scope of this work.</p>
+    </section>
+    <section>
+      <title>Conclusions</title>
+      <p>In this study it is argued which dynamic processes on the nanosecond timescale dominate the results of <sup>17</sup>O NMR relaxation, <sup>1</sup>H NMR relaxation, and high resolution backscattering quasi elastic neutron scattering (QENS) in phosphoric acid containing systems. <sup>1</sup>H NMR relaxation rates are dominated by hydrodynamic diffusion at the applied magnetic field and in the investigated temperature range, as structural diffusion is indeed too fast to considerably affect the dipolar relaxation of the protons. Relaxation times are increasingly affected by other effects than pure hydrodynamic diffusion of the phosphates with increasing benzimidazole content in benzimidazole phosphoric acid mixtures. <sup>17</sup>O NMR relaxation rates, on the other hand, provide access to the activation energies of proton displacement as part of structural diffusion, as the nuclei's quadrupolar relaxation is dominated by short range fluctuations of its electric field gradient caused through changes of covalent oxygen proton bonds to hydrogen bonds. The extracted activation energies show that structural diffusion in phosphoric acid water mixtures takes place solely between phosphoric acid molecules. In fact structural diffusion breaks down towards increasing water contents, confirming the result of recent combined electrochemical transference, impedance, and NMR diffusion studies.<citref idrefs="cit5">5</citref> High resolution backscattering QENS measurements of phosphoric acid return a signal for scattering at all protons but quasielastic line broadening is dominated by the fast proton exchange as part of structural diffusion as this proton dynamics is decoupled from the hydrodynamic diffusion of the phosphate species. At low temperatures and high benzimidazole contents in benzimidazole phosphoric acid mixtures the average broadening becomes increasingly affected by scattering at benzimidazole's protons, which do not take part in the structural proton diffusion process. Nevertheless, this technique enables a direct measurement of the influence of benzimidazole's proton acceptor sites on structural diffusion, structural diffusion coefficients and its activation energy on the nanosecond scale. For mixtures of nominally dry phosphoric acid and the Brønsted base benzimidazole it was found that with increasing base content the structural proton diffusion coefficients are reduced while the activation energy for this process in phosphoric acid remains unaltered. The overall decrease of structural proton diffusion has been explained in a recent <it>ab initio</it> molecular dynamics simulation as a result of a reduced density of frustrated hydrogen bonds that reduces the probability of occurrence of successful proton transfer reactions on the picosecond scale.<citref idrefs="cit23">23</citref> Our recent experimental studies confirmed reduced frustration through addition of (benz)imidazole and showed reduced structural diffusion coefficients on the millisecond timescale, as well as, reduced conductivity as a consequence.<citref idrefs="cit6">6</citref> The present work connects the two previous studies and indicates that all effects leading to reduced structural proton dynamics are already present on the nanosecond timescale and all influences of Brønsted bases on structural proton dynamics of phosphoric acid (as present in technologically important polybenzimidazole phosphoric acid membranes) are those reported in the simulation work.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>We thank Klaus-Dieter Kreuer for initiating the project, valuable discussions, and reading the manuscript. We acknowledge continuous interest and financial support by Prof. J. Maier. JPM highly acknowledges discussions about NMR relaxation with Günter Majer. We thank Alexander Gulledge and Brian Benicewicz (University of South Carolina) for providing the bisbenzimidazole. We further thank Michael G. Marino and Andreas Wohlfarth for assistance with sample preparation and Markus Appel for technical support in conducting the QENS experiments. JPM kindly acknowledges financial support from the Bundesministerium für Bildung und Forschung and Energie Baden Württemberg EnBW (project PSUMEA-2 No. 03SF0473).</p>
+    </ack>
+    <biblist>
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Paddison</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Spohr</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Schuster</surname>
+          </citauth>
+          <title>Chem. Rev.</title>
+          <year>2004</year>
+          <volumeno>104</volumeno>
+          <pages>
+            <fpage>4637</fpage>
+            <lpage>4678</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Dippel</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>J. C.</fname>
+            <surname>Lassègues</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Rodriguez</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>1993</year>
+          <volumeno>61</volumeno>
+          <pages>
+            <fpage>41</fpage>
+            <lpage>46</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>N. N.</fname>
+            <surname>Greenwood</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Thompson</surname>
+          </citauth>
+          <title>J. Chem. Soc.</title>
+          <year>1959</year>
+          <pages>
+            <fpage>3864</fpage>
+            <lpage>3867</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Tuckerman</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bester</surname>
+          </citauth>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Paddison</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Nat. Chem.</title>
+          <year>2012</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>461</fpage>
+            <lpage>466</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Melchior</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Maier</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2017</year>
+          <volumeno>19</volumeno>
+          <pages>
+            <fpage>587</fpage>
+            <lpage>600</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Melchior</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Majer</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2017</year>
+          <volumeno>19</volumeno>
+          <pages>
+            <fpage>601</fpage>
+            <lpage>612</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Chem. Mater.</title>
+          <year>1996</year>
+          <volumeno>8</volumeno>
+          <pages>
+            <fpage>610</fpage>
+            <lpage>641</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Heberle</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Riesle</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Thiedmann</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Oesterhelt</surname>
+          </citauth>
+          <citauth>
+            <fname>N. A.</fname>
+            <surname>Dencher</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1994</year>
+          <volumeno>370</volumeno>
+          <pages>
+            <fpage>379</fpage>
+            <lpage>382</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>F. H.</fname>
+            <surname>Westheimer</surname>
+          </citauth>
+          <title>Science</title>
+          <year>1987</year>
+          <volumeno>235</volumeno>
+          <pages>
+            <fpage>1173</fpage>
+            <lpage>1178</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>M. W.</fname>
+            <surname>Bowler</surname>
+          </citauth>
+          <citauth>
+            <fname>M. J.</fname>
+            <surname>Cliff</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Waltho</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Blackburn</surname>
+          </citauth>
+          <title>New J. Chem.</title>
+          <year>2010</year>
+          <volumeno>34</volumeno>
+          <pages>
+            <fpage>784</fpage>
+            <lpage>794</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Wainright</surname>
+          </citauth>
+          <citauth>
+            <fname>J. T.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Weng</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Litt</surname>
+          </citauth>
+          <title>J. Electrochem. Soc.</title>
+          <year>1995</year>
+          <volumeno>142</volumeno>
+          <pages>
+            <fpage>L121</fpage>
+            <lpage>L123</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>J. O.</fname>
+            <surname>Jensen</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <citauth>
+            <fname>N. J.</fname>
+            <surname>Bjerrum</surname>
+          </citauth>
+          <title>Prog. Polym. Sci.</title>
+          <year>2009</year>
+          <volumeno>34</volumeno>
+          <pages>
+            <fpage>449</fpage>
+            <lpage>477</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <citation type="book">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Molleo</surname>
+          </citauth>, <citauth><fname>T.</fname><surname>Schmidt</surname></citauth> and <citauth><fname>B.</fname><surname>Benicewicz</surname></citauth>, in <title>Fuel Cells</title>, ed. <editor>K. D. Kreuer</editor>, <citpub>Springer New York</citpub>, <year>2013</year>, <biblscope>pp. 391–431</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Quartarone</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Angioni</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Mustarelli</surname>
+          </citauth>
+          <title>Materials</title>
+          <year>2017</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>687</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <citation type="book">
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Li</surname>
+          </citauth>, <citauth><fname>D.</fname><surname>Aili</surname></citauth>, <citauth><fname>H. A.</fname><surname>Hjuler</surname></citauth> and <citauth><fname>J. O.</fname><surname>Jensen</surname></citauth>, <title>High Temperature Polymer Electrolyte Membrane Fuel Cells – Approaches, Status, and Perspectives</title>, <citpub>Springer International Publishing</citpub>, <pubplace>Cham, Heidelberg, New York, Dordrecht, London</pubplace>, <year>2016</year></citation>
+      </citgroup>
+      <citgroup id="cit16">
+        <citation type="book">
+          <citauth>
+            <fname>K.</fname>
+            <surname>Fishel</surname>
+          </citauth>, <citauth><fname>G.</fname><surname>Qian</surname></citauth>, <citauth><fname>G.</fname><surname>Eisman</surname></citauth> and <citauth><fname>B. C.</fname><surname>Benicewicz</surname></citauth>, in <title>High Temperature Polymer Electrolyte Fuel Cells – Approaches, Status, and Perspectives</title>, ed. <editor>J. O. Jensen</editor>, <editor>H. A. Hjuler</editor> and <editor>Q. Li</editor>, <citpub>Springer International Publishing</citpub>, <pubplace>Cham, Heidelberg, New York, Dordrecht, London</pubplace>, <year>2016</year>, ch. 24, <biblscope>pp. 527–540</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Agmon</surname>
+          </citauth>
+          <title>Chem. Phys. Lett.</title>
+          <year>1995</year>
+          <volumeno>244</volumeno>
+          <pages>
+            <fpage>456</fpage>
+            <lpage>462</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tuckerman</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Laasonen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Sprik</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Parrinello</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>1995</year>
+          <volumeno>103</volumeno>
+          <pages>
+            <fpage>150</fpage>
+            <lpage>161</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Fuchs</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ise</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Spaeth</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Maier</surname>
+          </citauth>
+          <title>Electrochim. Acta</title>
+          <year>1998</year>
+          <volumeno>43</volumeno>
+          <pages>
+            <fpage>1281</fpage>
+            <lpage>1288</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Münch</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Silvestri</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Maier</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Seifert</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2001</year>
+          <volumeno>145</volumeno>
+          <pages>
+            <fpage>437</fpage>
+            <lpage>443</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit21">
+        <journalcit>
+          <citauth>
+            <fname>R. A.</fname>
+            <surname>Munson</surname>
+          </citauth>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Lazarus</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>1967</year>
+          <volumeno>71</volumeno>
+          <pages>
+            <fpage>3245</fpage>
+            <lpage>3248</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit22">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schechter</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2002</year>
+          <volumeno>147</volumeno>
+          <pages>
+            <fpage>181</fpage>
+            <lpage>187</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Tuckerman</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Melchior</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bester</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2013</year>
+          <volumeno>252</volumeno>
+          <pages>
+            <fpage>34</fpage>
+            <lpage>39</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Bozkurt</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ise</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>W. H.</fname>
+            <surname>Meyer</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Wegner</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>1999</year>
+          <volumeno>125</volumeno>
+          <pages>
+            <fpage>225</fpage>
+            <lpage>233</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Aihara</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Sonai</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Hattori</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Hayamizu</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2006</year>
+          <volumeno>110</volumeno>
+          <pages>
+            <fpage>24999</fpage>
+            <lpage>25006</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>D.-T.</fname>
+            <surname>Chin</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Chang</surname>
+          </citauth>
+          <title>J. Appl. Electrochem.</title>
+          <year>1989</year>
+          <volumeno>19</volumeno>
+          <pages>
+            <fpage>95</fpage>
+            <lpage>99</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>D. I.</fname>
+            <surname>MacDonald</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Boyack</surname>
+          </citauth>
+          <title>J. Chem. Eng. Data</title>
+          <year>1969</year>
+          <volumeno>14</volumeno>
+          <pages>
+            <fpage>380</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Smith</surname>
+          </citauth>
+          <citauth>
+            <fname>A. W. C.</fname>
+            <surname>Menzies</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>1909</year>
+          <volumeno>31</volumeno>
+          <pages>
+            <fpage>1191</fpage>
+            <lpage>1194</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>R. A.</fname>
+            <surname>Munson</surname>
+          </citauth>
+          <title>J. Phys. Chem.</title>
+          <year>1964</year>
+          <volumeno>68</volumeno>
+          <pages>
+            <fpage>3374</fpage>
+            <lpage>3377</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>
+          <citauth>
+            <fname>C. C.</fname>
+            <surname>de Araujo</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2012</year>
+          <volumeno>212</volumeno>
+          <pages>
+            <fpage>6</fpage>
+            <lpage>9</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Walden</surname>
+          </citauth>
+          <title>Z. Phys. Chem.</title>
+          <year>1906</year>
+          <volumeno>55</volumeno>
+          <pages>
+            <fpage>207</fpage>
+            <lpage>249</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>Y. L.</fname>
+            <surname>Ma</surname>
+          </citauth>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Wainright</surname>
+          </citauth>
+          <citauth>
+            <fname>M. H.</fname>
+            <surname>Litt</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <title>J. Electrochem. Soc.</title>
+          <year>2004</year>
+          <volumeno>151</volumeno>
+          <pages>
+            <fpage>A8</fpage>
+            <lpage>A16</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <citation type="thesis">
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>, PhD thesis, <citpub>Universität Stuttgart</citpub>, <year>2012</year></citation>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>R. A.</fname>
+            <surname>Krueger</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Melchior</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bester</surname>
+          </citauth>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>15866</fpage>
+            <lpage>15875</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schechter</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Wainright</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Ray</surname>
+          </citauth>
+          <title>J. Electrochem. Soc.</title>
+          <year>2009</year>
+          <volumeno>156</volumeno>
+          <pages>
+            <fpage>B283</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>J. R. P.</fname>
+            <surname>Jayakody</surname>
+          </citauth>
+          <citauth>
+            <fname>S. H.</fname>
+            <surname>Chung</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Durantino</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Xiao</surname>
+          </citauth>
+          <citauth>
+            <fname>B. C.</fname>
+            <surname>Benicewicz</surname>
+          </citauth>
+          <citauth>
+            <fname>S. G.</fname>
+            <surname>Greenbaum</surname>
+          </citauth>
+          <title>J. Electrochem. Soc.</title>
+          <year>2007</year>
+          <volumeno>154</volumeno>
+          <pages>
+            <fpage>B242</fpage>
+            <lpage>B246</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Suarez</surname>
+          </citauth>
+          <citauth>
+            <fname>N. K. A. C.</fname>
+            <surname>Kodiweera</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Stallworth</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yu</surname>
+          </citauth>
+          <citauth>
+            <fname>S. G.</fname>
+            <surname>Greenbaum</surname>
+          </citauth>
+          <citauth>
+            <fname>B. C.</fname>
+            <surname>Benicewicz</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2012</year>
+          <volumeno>116</volumeno>
+          <pages>
+            <fpage>12545</fpage>
+            <lpage>12551</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit38">
+        <journalcit>
+          <citauth>
+            <fname>S. H.</fname>
+            <surname>Chung</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Bajue</surname>
+          </citauth>
+          <citauth>
+            <fname>S. G.</fname>
+            <surname>Greenbaum</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2000</year>
+          <volumeno>112</volumeno>
+          <pages>
+            <fpage>8515</fpage>
+            <lpage>8521</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit39">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>N. A.</fname>
+            <surname>Lane</surname>
+          </citauth>
+          <citauth>
+            <fname>C.-N.</fname>
+            <surname>Sun</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Fan</surname>
+          </citauth>
+          <citauth>
+            <fname>T. A.</fname>
+            <surname>Zawodzinski</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2013</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>8003</fpage>
+            <lpage>8009</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>J.-C.</fname>
+            <surname>Lassègues</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Cavagnat</surname>
+          </citauth>
+          <title>Phys. B</title>
+          <year>1992</year>
+          <volumeno>180–181</volumeno>
+          <pages>
+            <fpage>645</fpage>
+            <lpage>650</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Frick</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Vilčiauskas</surname>
+          </citauth>
+          <citauth>
+            <fname>P. P.</fname>
+            <surname>Deen</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Lyonnard</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2013</year>
+          <volumeno>252</volumeno>
+          <pages>
+            <fpage>26</fpage>
+            <lpage>33</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <journalcit>
+          <citauth>
+            <fname>I. P.</fname>
+            <surname>Gerothanassis</surname>
+          </citauth>
+          <citauth>
+            <fname>C. G.</fname>
+            <surname>Tsanaktsidis</surname>
+          </citauth>
+          <title>Concepts Magn. Reson.</title>
+          <year>1996</year>
+          <volumeno>8</volumeno>
+          <pages>
+            <fpage>63</fpage>
+            <lpage>74</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit43">
+        <citation type="book">
+          <citauth>
+            <fname>B.</fname>
+            <surname>Frick</surname>
+          </citauth> and <citauth><fname>D.</fname><surname>Neumann</surname></citauth>, in <title>Neutrons in Soft Matter</title>, ed. <editor>T. Imae</editor>, <editor>T. Kanaya</editor>, <editor>M. Furusaka</editor> and <editor>N. Torikai</editor>, <citpub>John Wiley &amp; Sons, Inc</citpub>., <pubplace>Hoboken, NJ, USA</pubplace>, <year>2011</year>, ch. 7, <biblscope>pp. 183–202</biblscope><link type="doi">10.1002/9780470933886.ch7</link></citation>
+      </citgroup>
+      <citgroup id="cit44">
+        <citation type="book">
+          <citauth>
+            <fname>B.</fname>
+            <surname>Frick</surname>
+          </citauth>, in <title>Neutron and X-Ray Spectroscopy</title>, ed. <editor>F. Hippert</editor>, <editor>E. Geissler</editor>, <editor>J. L. Hodeau</editor>, <editor>E. Lelièvre-Berna</editor> and <editor>J.-R. Regnard</editor>, <citpub>Springer Netherlands</citpub>, <year>2006</year>, <biblscope>pp. 483–527</biblscope><link type="doi">10.1007/1-4020-3337-0</link></citation>
+      </citgroup>
+      <citgroup id="cit45">
+        <citation type="book">
+          <citauth>
+            <fname>M. H.</fname>
+            <surname>Levitt</surname>
+          </citauth>, <title>Spin Dynamics: Basics of Nuclear Magnetic Resonance</title>, <citpub>John Wiley &amp; Sons Ltd</citpub>, <pubplace>Chichester</pubplace>, 2nd edn, <year>2007</year></citation>
+      </citgroup>
+      <citgroup id="cit46">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Bloembergen</surname>
+          </citauth>
+          <citauth>
+            <fname>E. M.</fname>
+            <surname>Purcell</surname>
+          </citauth>
+          <citauth>
+            <fname>R. V.</fname>
+            <surname>Pound</surname>
+          </citauth>
+          <title>Phys. Rev.</title>
+          <year>1948</year>
+          <volumeno>73</volumeno>
+          <pages>
+            <fpage>679</fpage>
+            <lpage>712</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit47">
+        <journalcit>
+          <citauth>
+            <fname>I. P.</fname>
+            <surname>Gerothanassis</surname>
+          </citauth>
+          <title>Prog. Nucl. Magn. Reson. Spectrosc.</title>
+          <year>2010</year>
+          <volumeno>56</volumeno>
+          <pages>
+            <fpage>95</fpage>
+            <lpage>197</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit48">
+        <journalcit>
+          <citauth>
+            <fname>I. P.</fname>
+            <surname>Gerothanassis</surname>
+          </citauth>
+          <title>Prog. Nucl. Magn. Reson. Spectrosc.</title>
+          <year>2010</year>
+          <volumeno>57</volumeno>
+          <pages>
+            <fpage>1</fpage>
+            <lpage>110</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit49">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Meiboom</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>1961</year>
+          <volumeno>34</volumeno>
+          <pages>
+            <fpage>375</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit50">
+        <journalcit>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Luz</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Meiboom</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>1964</year>
+          <volumeno>86</volumeno>
+          <pages>
+            <fpage>4768</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit51">
+        <citation type="book">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bée</surname>
+          </citauth>, <title>Quasielastic Neutron Scattering</title>, <citpub>Adam Hilger</citpub>, <year>1988</year></citation>
+      </citgroup>
+      <citgroup id="cit52">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ishikawa</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Maekawa</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Yamamura</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Kawakita</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Shibata</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Kawai</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2008</year>
+          <volumeno>179</volumeno>
+          <pages>
+            <fpage>2345</fpage>
+            <lpage>2349</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit53">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Khaneft</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Holderer</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Ivanova</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lüke</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Kentzinger</surname>
+          </citauth>
+          <citauth>
+            <fname>M. S.</fname>
+            <surname>Appavou</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Zorn</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lehnert</surname>
+          </citauth>
+          <title>Fuel Cells</title>
+          <year>2016</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>406</fpage>
+            <lpage>413</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit54">
+        <journalcit>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Weppner</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Rabenau</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>1981</year>
+          <volumeno>3–4</volumeno>
+          <pages>
+            <fpage>353</fpage>
+            <lpage>358</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit55">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Frick</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Mamontov</surname>
+          </citauth>
+          <citauth>
+            <fname>L. V.</fname>
+            <surname>Eijck</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Seydel</surname>
+          </citauth>
+          <title>Z. Phys. Chem.</title>
+          <year>2010</year>
+          <volumeno>224</volumeno>
+          <pages>
+            <fpage>33</fpage>
+            <lpage>60</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit56">
+        <citation type="other">
+          <citauth>
+            <fname>J.-P.</fname>
+            <surname>Melchior</surname>
+          </citauth> and <citauth><fname>B.</fname><surname>Frick</surname></citauth>, <year>2013</year>, <link type="doi">10.5291/ILL-DATA.9-11-1631</link></citation>
+      </citgroup>
+      <citgroup id="cit57">
+        <citation type="other">LAMP, the Large Array Manipulation Program, <url url="http://www.ill.eu/data_treat/lamp/the-lamp-book/">http://www.ill.eu/data_treat/lamp/the-lamp-book/</url></citation>
+      </citgroup>
+      <citgroup id="cit58">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Richard</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ferrand</surname>
+          </citauth>
+          <citauth>
+            <fname>G. J.</fname>
+            <surname>Kearley</surname>
+          </citauth>
+          <title>J. Neutron Res.</title>
+          <year>1996</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>33</fpage>
+            <lpage>39</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit59">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Jobic</surname>
+          </citauth>
+          <citauth>
+            <fname>D. N.</fname>
+            <surname>Theodorou</surname>
+          </citauth>
+          <title>Microporous Mesoporous Mater.</title>
+          <year>2007</year>
+          <volumeno>102</volumeno>
+          <pages>
+            <fpage>21</fpage>
+            <lpage>50</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit60">
+        <citation type="book">
+          <citauth>
+            <fname>H.</fname>
+            <surname>Jobic</surname>
+          </citauth>, in <title>Recent Advances in Gas Separation by Microporous Ceramic Membranes, Membrane Science and Technology</title>, ed. <editor>N. K. Kanellopoulos</editor>, <citpub>Elsevier</citpub>, <year>2000</year>, vol. 6, <biblscope>pp. 109–137</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit61">
+        <journalcit>
+          <citauth>
+            <fname>P. L.</fname>
+            <surname>Hall</surname>
+          </citauth>
+          <citauth>
+            <fname>D. K.</fname>
+            <surname>Ross</surname>
+          </citauth>
+          <title>Mol. Phys.</title>
+          <year>1981</year>
+          <volumeno>42</volumeno>
+          <pages>
+            <fpage>673</fpage>
+            <lpage>682</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit62">
+        <journalcit>
+          <citauth>
+            <fname>K. S.</fname>
+            <surname>Singwi</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Sjölander</surname>
+          </citauth>
+          <title>Phys. Rev.</title>
+          <year>1960</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>863</fpage>
+            <lpage>871</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit63">
+        <journalcit>
+          <citauth>
+            <fname>U.</fname>
+            <surname>Reimer</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Ehlert</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Janssen</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lehnert</surname>
+          </citauth>
+          <title>Int. J. Hydrogen Energy</title>
+          <year>2016</year>
+          <volumeno>41</volumeno>
+          <pages>
+            <fpage>1837</fpage>
+            <lpage>1845</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit64">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Weng</surname>
+          </citauth>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Wainright</surname>
+          </citauth>
+          <citauth>
+            <fname>U.</fname>
+            <surname>Landau</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <title>J. Electrochem. Soc.</title>
+          <year>1996</year>
+          <volumeno>143</volumeno>
+          <pages>
+            <fpage>1260</fpage>
+            <lpage>1263</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit65">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Becker</surname>
+          </citauth>
+          <citauth>
+            <fname>L. N.</fname>
+            <surname>Cleemann</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Aili</surname>
+          </citauth>
+          <citauth>
+            <fname>J. O.</fname>
+            <surname>Jensen.</surname>
+          </citauth>
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <title>Electrochem. Commun.</title>
+          <year>2017</year>
+          <volumeno>82</volumeno>
+          <pages>
+            <fpage>21</fpage>
+            <lpage>24</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit66">
+        <journalcit>
+          <citauth>
+            <fname>K. R.</fname>
+            <surname>Jeffrey</surname>
+          </citauth>
+          <citauth>
+            <fname>G. Z.</fname>
+            <surname>Zukowska</surname>
+          </citauth>
+          <citauth>
+            <fname>J. R.</fname>
+            <surname>Stevens</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2003</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>2422</fpage>
+            <lpage>2431</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit67">
+        <citation type="book">
+          <citauth>
+            <fname>K.</fname>
+            <surname>Hayamizu</surname>
+          </citauth>, in <title>Ionic Liquids – Classes and Properties</title>, ed. <editor>S. T. Handy</editor>, <citpub>InTech</citpub>, <year>2011</year>, ch. 10, <biblscope>pp. 209–236</biblscope><link type="doi">10.5772/24099</link></citation>
+      </citgroup>
+      <citgroup id="cit68">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Ellis</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1976</year>
+          <volumeno>263</volumeno>
+          <pages>
+            <fpage>674</fpage>
+            <lpage>676</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit69">
+        <journalcit>
+          <citauth>
+            <fname>H. R.</fname>
+            <surname>Corti</surname>
+          </citauth>
+          <citauth>
+            <fname>F. J.</fname>
+            <surname>Nores-Pondal</surname>
+          </citauth>
+          <citauth>
+            <fname>C. A.</fname>
+            <surname>Angell</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2011</year>
+          <volumeno>13</volumeno>
+          <pages>
+            <fpage>19741</fpage>
+            <lpage>19748</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit70">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Wasmus</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Valeriu</surname>
+          </citauth>
+          <citauth>
+            <fname>G. D.</fname>
+            <surname>Mateescu</surname>
+          </citauth>
+          <citauth>
+            <fname>D. A.</fname>
+            <surname>Tryk</surname>
+          </citauth>
+          <citauth>
+            <fname>R. F.</fname>
+            <surname>Savinell</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>1995</year>
+          <volumeno>80</volumeno>
+          <pages>
+            <fpage>87</fpage>
+            <lpage>92</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit71">
+        <citation type="book">
+          <citauth>
+            <fname>D. E.</fname>
+            <surname>Woessner</surname>
+          </citauth>, in <title>Enceclopedia of Nuclear Magnetic Resonance</title>, ed. <editor>D. M. Grant</editor> and <editor>R. K. Harris</editor>, <citpub>John Wiley &amp; Sons, Ltd</citpub>, <year>2007</year>, <biblscope>pp. 4018–4028</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit72">
+        <journalcit>
+          <citauth>
+            <fname>K. D.</fname>
+            <surname>Kreuer</surname>
+          </citauth>
+          <title>Solid State Ionics</title>
+          <year>2000</year>
+          <volumeno>136–137</volumeno>
+          <pages>
+            <fpage>149</fpage>
+            <lpage>160</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit73">
+        <journalcit>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Holderer</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Ivanova</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Hopfenmüller</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Zamponi</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Maier</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Majerus</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lehnert</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Monkenbusch</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Zorn</surname>
+          </citauth>
+          <title>Int. J. Hydrogen Energy</title>
+          <year>2014</year>
+          <volumeno>39</volumeno>
+          <pages>
+            <fpage>21657</fpage>
+            <lpage>21662</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit74">
+        <journalcit>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Ivanova</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lüke</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Majerus</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Krutyeva</surname>
+          </citauth>
+          <citauth>
+            <fname>N. K.</fname>
+            <surname>Szekely</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Pyckhout-Hintzen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.-S.</fname>
+            <surname>Appavou</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Monkenbusch</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Zorn</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Lehnert</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Holderer</surname>
+          </citauth>
+          <title>J. Membr. Sci.</title>
+          <year>2017</year>
+          <volumeno>533</volumeno>
+          <pages>
+            <fpage>342</fpage>
+            <lpage>350</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit75">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Heres</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>P. J.</fname>
+            <surname>Griffin</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Gainaru</surname>
+          </citauth>
+          <citauth>
+            <fname>A. P.</fname>
+            <surname>Sokolov</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>2016</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>156001</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit76">
+        <journalcit>
+          <citauth>
+            <fname>R. H.</fname>
+            <surname>Tromp</surname>
+          </citauth>
+          <citauth>
+            <fname>S. H.</fname>
+            <surname>Spieser</surname>
+          </citauth>
+          <citauth>
+            <fname>G. W.</fname>
+            <surname>Neilson</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>1999</year>
+          <volumeno>110</volumeno>
+          <pages>
+            <fpage>2145</fpage>
+            <lpage>2150</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit77">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Shirata</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kawauchi</surname>
+          </citauth>
+          <title>J. Phys. Chem. B</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>592</fpage>
+            <lpage>603</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+    </biblist>
+    <compoundgrp>
+    </compoundgrp>
+    <annotationgrp>
+    </annotationgrp>
+    <datagrp>
+    </datagrp>
+    <resourcegrp>
+    </resourcegrp>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000113906 0?>

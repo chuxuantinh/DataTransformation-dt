@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+<art-admin>
+<ms-id>c7sm01568b</ms-id>
+<doi>10.1039/c7sm01568b</doi>
+<received>
+<date><year>2017</year><month>August</month><day>4</day></date>
+</received>
+<date role="accepted"><year>2017</year><month>September</month><day>27</day></date>
+</art-admin>
+
+
+<published type="web"><journalref><link>SM</link></journalref><volumeref><link>Unassigned</link></volumeref><issueref><link>Advance Articles</link></issueref><pubfront><fpage></fpage><lpage></lpage><no-of-pages></no-of-pages><date><year>2017</year><month>October</month><day>23</day></date></pubfront></published><published type="print"><journalref><link>SM</link></journalref><volumeref><link></link></volumeref><issueref><link></link></issueref><pubfront><fpage></fpage><lpage></lpage><no-of-pages></no-of-pages><date><year>Unassigned</year><month>Unassigned</month><day>Unassigned</day></date></pubfront></published><published type="subsyear"><journalref><link>SM</link></journalref><volumeref><link></link></volumeref><issueref><link></link></issueref><pubfront><fpage></fpage><lpage></lpage><no-of-pages></no-of-pages><date><year>2017</year><month>Unassigned</month><day>Unassigned</day></date></pubfront></published><art-front>
+<titlegrp>
+<title>Modelling of <it>Dictyostelium discoideum</it> movement in a linear gradient of chemoattractant</title>
+</titlegrp>
+<authgrp>
+<author aff="affa"><person><persname><fname>Zahra</fname><surname>Eidi</surname></persname></person></author>
+<author aff="affa" role="corres"><person orcid="0000-0002-6503-0900"><persname><fname>Farshid</fname><surname>Mohammad-Rafiee</surname></persname></person></author>
+<author aff="affb"><person orcid="0000-0002-2524-5237"><persname><fname>Mohammad</fname><surname>Khorrami</surname></persname></person></author>
+<author aff="affc" role="corres"><person><persname><fname>Azam</fname><surname>Gholami</surname></persname></person></author>
+<aff id="affa"><org><orgname><nameelt>Department of Physics</nameelt><nameelt>Institute for Advanced Studies in Basic Sciences (IASBS)</nameelt></orgname></org><address><city>Zanjan 45137-66731</city><country>Iran</country></address><email>farshid@iasbs.ac.ir</email></aff>
+<aff id="affb"><org><orgname><nameelt>Department of Physics</nameelt><nameelt>Alzahra University</nameelt></orgname></org><address><city>Tehran</city><country>Iran</country></address></aff>
+<aff id="affc"><org><orgname><nameelt>Max Planck Institute for Dynamics and Self-Organization</nameelt></orgname></org><address><city>Göttingen</city><country>Germany</country></address><email>azam.gholami@ds.mpg.de</email></aff>
+</authgrp>
+<art-toc-entry>
+<ictext>We present a position-dependent advection–diffusion model that quantitatively describes the statistical features of the chemotactic motion of <it>D. discoideum</it>.</ictext>
+<icgraphic id="ga" xsrc="c7sm01568b-ga.tif"/></art-toc-entry>
+<abstract><p>Chemotaxis is a ubiquitous biological phenomenon in which cells detect a spatial gradient of chemoattractant, and then move towards the source. Here we present a position-dependent advection–diffusion model that quantitatively describes the statistical features of the chemotactic motion of the social amoeba <it>Dictyostelium discoideum</it> in a linear gradient of cAMP (cyclic adenosine monophosphate). We fit the model to experimental trajectories that are recorded in a microfluidic setup with stationary cAMP gradients and extract the diffusion and drift coefficients in the gradient direction. Our analysis shows that for the majority of gradients, both coefficients decrease over time and become negative as the cells crawl up the gradient. The extracted model parameters also show that besides the expected drift in the direction of the chemoattractant gradient, we observe a nonlinear dependency of the corresponding variance on time, which can be explained by the model. Furthermore, the results of the model show that the non-linear term in the mean squared displacement of the cell trajectories can dominate the linear term on large time scales.</p></abstract>
+</art-front>
+<art-body>
+<section><no>I.</no><title>Introduction</title>
+<p><it>Dictyostelium discoideum</it> (<it>D.d.</it>) is a well-established model organism for cellular motility. Chemotactic competent <it>D.d.</it> cells are highly motile and exhibit fast amoeboid movements with a velocity of 10–20 μm min<sup>−1</sup> on glass substrates.<citref idrefs="cit1 cit2 cit3">1–3</citref> The chemotactic cell motion is highly organized over a length scale significantly larger than the size of a single cell (∼10 μm). When nutrients are depleted, <it>D.d.</it> cells secrete a chemical called cAMP (cyclic adenosine monophosphate) that has an attractive effect on the cells themselves. Cells sense gradients of cAMP and direct their chemotactic movements towards regions of higher concentration of cAMP.<citref idrefs="cit4">4</citref> When chemotactic attraction prevails over diffusion, the chemotaxis can trigger a self-accelerating process until aggregation takes place. As a result, 10<sup>5</sup>–10<sup>6</sup> cells stream towards the aggregation centers and eventually transform into millimeter long slugs and ultimately form fruiting bodies bearing spores for long-term survival and long-range dispersal.<citref idrefs="cit5">5</citref></p>
+<p>Different mathematical models incorporate chemotaxis in different ways; however, a common mechanism is to assume that chemotaxis biases the otherwise random motion of crawling cells along the concentration gradients of chemoattractants.<citref idrefs="cit6">6</citref> The random cell movement is commonly described as a diffusion and the directional movement along the chemical gradient is incorporated as a combination of diffusion and advection. In the simplest model, the diffusion coefficient and the drift velocity of the cells are assumed to be constant. However, in general, these coefficients depend on both the absolute concentration and the gradient of the chemical.<citref idrefs="cit7 cit8 cit9 cit10">7–10</citref> The advection–diffusion equation has been previously used to describe the aggregation phase of <it>D.d.</it> cells where the chemotactic force pulls the amoebas towards the aggregation centers. For example, a model of slime mold aggregation has been introduced by Patlak<citref idrefs="cit6">6</citref> and Keller<citref idrefs="cit10">10</citref> in the form of two coupled differential equations. The first equation is an advection–diffusion equation describing the evolution of the concentration of amobae and the second equation is a diffusion equation with terms of source and degradation describing the evolution of the concentration of the signaling molecule. The original form of the Keller–Segel model would allow the diffusion coefficient and the drift velocity to depend on the cAMP concentration and on the concentration of the amoeba. The case that these coefficients depend on the chemical cencentration but not on the cell density has been considered by Othmer and Stevens.<citref idrefs="cit11">11</citref> This leads to ordinary mean field Fokker–Planck equations for cell density with space and time dependent coefficients.<citref idrefs="cit12">12</citref> On the other hand, if we assume that the diffusion coefficient and the drift velocity of the cells depend on their concentration and on the concentration of the secreted chemical, the original Keller–Segel model takes the form of a generalized mean field Fokker–Planck equation.</p>
+<p>The statistical characteristics of trajectories of motile <it>D.d.</it> cells have been the subject of several recent studies. These include experiments to characterize chemotactic cell movement in homogeneous and inhomogeneous chemical cues,<citref idrefs="cit7 cit8 cit13 cit14 cit15 cit16 cit17 cit18">7,8,13–18</citref> and parallel theoretical modeling to reproduce statistical features of the experimental observations.<citref idrefs="cit7 cit16 cit17 cit18 cit19">7,16–19</citref> Recently, Li <it>et al.</it> have presented an experimental study of the individual cells in a homogeneous medium.<citref idrefs="cit18">18</citref> They have proposed a generalized Langevin equation for the velocity of individuals. Their data-driven modeling showed a “programmed” periodic motion around a persistent direction of motion on short time scales and ordinary diffusive behavior on long time scales. Moreover, it is also well known that a cAMP gradient induces a bias of the position where pseudopodia emerge.<citref idrefs="cit15">15</citref> The measured probabilities of pseudopod directions were used to obtain an analytical model for chemotaxis of cell populations.<citref idrefs="cit16">16</citref> The prediction of the model is similar to the measured chemotactic index of wild-type cells as well as the mutants. Besides, although it is well-known that the directed movement of the <it>D.d.</it> cells in response to the chemoattractant cAMP depends both on the absolute value of the local concentration (chemokinesis) and its gradient (chemotaxis), the exact dependency is not well understood.</p>
+<p>In this study, we aim to extract the concentration dependencies of the diffusion and drift coefficients in the Fokker–Planck equation (with respect to cell density), by analyzing the experimental trajectories of motile <it>D.d.</it> cells in <citref idrefs="cit7 cit8 cit13" position="baseline">ref. 7, 8 and 13</citref>. We assume that these coefficients depend on both the local cAMP concentration (the so-called midpoint concentration) and its gradient. The experiments are performed in a microfluidic device (see Section II.B) that generates linear stable gradients between the two inlet concentrations <it>C</it><inf>max</inf> and <it>C</it><inf>min</inf>. As the cells crawl up the gradient, the average background concentration they experience increases. These experiments systematically explore different steepnesses and cover a wide range of gradients, at which chemotactic behavior is observed. In these experiments, an external flow removes the naturally produced cAMP secreted by the cells to avoid cell–cell signaling. This is completely different from an aggregation process where the cell density is much higher and the cells signal each other. We start our analysis by assuming linear dependencies for the diffusion coefficient and the drift velocity of the cells along the width of the microfluidic setup, where a linear gradient is established. We then use the experimental cell trajectories to deduce the coefficients of these linear dependencies at different cAMP gradients.</p>
+</section>
+<section><no>II.</no><title>Experiments</title>
+<subsect1><no>A.</no><title>Cell culture</title>
+<p>All experiments were performed by M. Theves<citref idrefs="cit7 cit8 cit13">7,8,13</citref> with <it>Dictyostelium discoideum</it> AX3 wild type cells. Cells were grown in HL5 medium (7 g L<sup>−1</sup> yeast extract, 14 g L<sup>−1</sup> peptone, 0.5 g L<sup>−1</sup> potassium dihydrogen phosphate, 0.5 g L<sup>−1</sup> disodium hydrogen phosphate, 13.5 g L<sup>−1</sup> glucose, ForMedium Ltd, UK). Cells were starved in shaking suspension of phosphate buffer (pH 6.0, 15 mM KH<inf>2</inf>PO<inf>4</inf>, 1 mM Na<inf>2</inf>HPO<inf>4</inf>) at a density of 2 × 10<sup>6</sup> cells per mL for 5:30 hours. After one hour of starvation, the cells were exposed to periodic pulses of cAMP for the remaining time of starvation. The pulses had a concentration of 50 nM and were delivered with a period of 6 minutes.</p>
+</subsect1>
+<subsect1><no>B.</no><title>Microfluidics</title>
+<p>A microfluidic gradient mixer<citref idrefs="cit17 cit20">17,20</citref> with given dimensions (width = 525 μm, height = 50 μm) was used to establish a stable linear gradient over a region of 350 μm × 50 μm × 3000 μm in size (see <figref idrefs="fig1">Fig. 1</figref>). The gradients were generated using a pyramidal microfluidic network that provides well-defined concentration profiles with high temporal stability. Throughout the experiment, a constant flow is provided by syringe pumps. The flow provides a constant supply of oxygen and removes all substances released by the cells. This prevents cells from signaling each other, which would perturb the concentration gradient and bias the chemotactic motion. Running at an adjustable average flow velocity of <it>v̄</it> = 320 μm s<sup>−1</sup>, the gradient is linear and stable within <it>d</it> = 350 μm in the middle of the channel. Above a lower threshold of ∇<it>C</it><inf>thresh</inf> ∼ 10<sup>−3</sup> nM μm<sup>−1</sup> cells started to show a directional response. It is important to note, that all gradients have been established by mixing a phosphate buffer solution at one inlet, <it>C</it><inf>min</inf> = 0, together with a solution of cAMP and phosphate buffer <it>C</it><inf>max</inf> on the opposing inlet. Therefore the gradient<equation id="eqn1"><no>1</no>
+<eqntext display="displayed">∇<it>C</it> = <it>C</it><inf>max</inf> − <it>C</it><inf>min</inf> = Δ<it>C</it>/<it>d</it></eqntext>
+</equation>always ranges from zero to this maximum concentration. Due to boundary effects, the profile is distorted near the walls. All cell trajectories within this non-linear area were excluded from statistics. Moreover, given the dimension of the channel and the dynamic viscosity of the flowing phosphate buffer (<it>η</it> = 10<sup>−3</sup> Pa s), one can calculate the shear stress applied on the cells at the imposed mean flow velocity of <it>v̄</it> = 320 μm s<sup>−1</sup> to be <it>σ</it> = 0.038 Pa. According to the literature, mechanosensing in <it>D.d.</it> cells has been observed above a threshold of <it>σ</it> = 0.5 Pa.<citref idrefs="cit21">21</citref> We are thus approximately one order of magnitude below the regime where flow induced shear stress would bias the motion of chemotactic cells.</p>
+<figure id="fig1" xsrc="c7sm01568b-f1.tif"><title>(a) Microfludic gradient mixer for chemotaxis experiments: two different concentrations flowed into the channel inlets undergo steps of diffusive mixing at each branch to form a linear stable gradient in the area of observation. (b and c) Line profile of fluorescein intensity inside the gradient mixer perpendicular to the flow direction, (d) differential interference contrast (DIC) image, showing the cell population being exposed to the gradient. Only cell trajectories within the region of interest (blue box) are considered for statistics. Moreover, bin 1 corresponds to the area with the highest, and bin 3 to the one with the lowest average midpoint concentration experienced by the cells. This figure is used by the permission of M. Theves from his master's thesis.<citref idrefs="cit13">13</citref></title></figure>
+</subsect1>
+<subsect1><no>C.</no><title>Cell tracking</title>
+<p>Differential interference contrast (DIC) images were recorded for 180 min, with time resolution of 10 s and spatial resolution of 1024 × 1024 pixel (1 pixel = 0.6409 μm), and processed using Mathworks MATLAB 7.5 with the Image Processing Toolbox.<citref idrefs="cit7 cit8 cit13">7,8,13</citref> All the image processing steps were carried out by M. Theves <it>et al.</it> The images were binarized to distinguish the cells from the background and possible optical artifacts. The cell centroids in each binarized frame were identified. To produce cell trajectories one had to link these locations together in time and space. To achieve this, a customized version of the MATLAB cell tracking algorithm written by Crocker and Grier<citref idrefs="cit22">22</citref> was used. This tracking process consisted of calculating and minimizing the sum over the squared displacements of all possible links between the cell positions in two subsequent frames. Interestingly, an analysis of the broken trajectories has shown that more than 90 percent of the cells were lost due to a sudden jump in the cell location or because two cells ran into each other and their center of mass in the binarized image became indistinguishable. In this case, the tracks will end and new ones will start, once the cells separate again. Tracks may also end when the segmentation program loses a cell due to image quality problems. Once the cell is detected again, a new track will start. These different scenarios result in a distribution of tracks of different length with most of them shorter than the total measurement time. They also result in the number of trajectories (<it>e.g.</it> 582 trajectories in <figref idrefs="fig2">Fig. 2</figref>) being much greater than the number of cells (∼40 cells at <it>t</it> = 0) in the experiment. Note that during an experimental recording, the number of cells is not constant with time as most of the fast cells move out of the region of interest or new cells enter the field of view. Finally, it is important to note that since the cells begin responding to the cAMP at different time points, or as the cells collide and new tracks start, the starting time-points of all trajectories are set to zero.</p>
+<figure id="fig2" xsrc="c7sm01568b-f2.tif"><title>(a) 582 trajectories tracked in a microfluidic channel with <it>C</it><inf>max</inf> = 50 nM (∇<it>C</it> = 0.14 nM μm<sup>−1</sup>). Cells migrate on average upwards from the bottom of the channel to the top areas with higher cAMP concentration. (b) 88 trajectories selected (out of 582) based on the two conditions explained in Section II.D. The stars mark the cell positions exactly at 20 min and (if the trajectory is long enough) at 40 min, 60 min <it>etc.</it> (c) The same trajectories in (b) truncated at 20 min to keep the number of cells during the averaging process constant. For long trajectories, if the two conditions are satisfied, the tracks between 20 to 40 min or from 40 to 60 min, <it>etc.</it>, are considered as new independent trajectories to improve the statistics. (d and e) The comparison between experimental data (red lines) and the fitted model (blue line) for 〈<it>y</it>〉 and <it>σ</it><inf><it>y</it></inf><sup>2</sup>.</title></figure>
+</subsect1>
+<subsect1><no>D.</no><title>Selection of trajectories</title>
+<p>In our analysis, to have reliable statistics, we keep the number of trajectories during the averaging process constant. Trajectories are selected based on two criteria: (i) they should persist for at least 20 min and (ii) within this time interval, the cells should migrate more than 20 μm in the −<it>ŷ</it> direction. The minimum displacement of 20 μm in the direction of the gradient, for <it>t</it> = 20 min, gives an average motility of <it>v̄</it><inf><it>y</it></inf> &gt; 1 μm min<sup>−1</sup>. Cells with <it>v̄</it><inf><it>y</it></inf> &lt; 1 μm min<sup>−1</sup> are neglected to exclude dead or immobile cells from the statistics. As previously mentioned, we lose track of the cells once they collide. Therefore, it is important to note that based on this criteria, if a cell collides with another cell and the time interval between two successive collisions is less than 20 min, this trajectory is excluded from statistics although the cell was crawling with <it>v̄</it><inf><it>y</it></inf> &gt; 1 μm min<sup>−1</sup>. Eventually, to improve our statistics, long trajectories, are truncated at 20, 40, 60,… min and, if the conditions above are satisfied, trajectories between 20 and 40 min, 40 and 60 min, <it>etc.</it> are considered as new trajectories and the starting time point of each trajectory is set to zero (see <figref idrefs="fig2">Fig. 2</figref>).</p>
+</subsect1>
+</section>
+<section><no>III.</no><title>Model</title>
+<p>Nonlinear mean field Fokker–Planck equations can find important applications in the context of chemotaxis.<citref idrefs="cit23">23</citref> Here, we attempt to implement an advection–diffusion approach to describe the chemotactic movement of the <it>D.d.</it> cells experiencing a linear stationary gradient.<citref idrefs="cit7 cit8">7,8</citref> The statistical properties of the system are characterized by the values of the model parameters returned after fitting the model to the experimental trajectories.</p>
+<p>To study the chemotactic movement of the <it>D.d.</it> cells, we consider an advection–diffusion model in which the centroid of the cell's perimeter is represented as the position of a particle. We define an orthonormal basis with the unit vectors <it>x̂</it> and <it>ŷ</it>, where <it>x̂</it> is the flow direction and −<it>ŷ</it> is the direction of the spatial gradient of cAMP (see <figref idrefs="fig2">Fig. 2</figref>). The position of each cell is given by <it>r⃑</it> = <it>xx̂</it> + <it>yŷ</it>. The concentration of the <it>D.d.</it> cells is low enough, so we can assume that each cell does not sense the presence of the other cells. As stated in the Experimental section, a microfluidic gradient along the <it>y</it> direction is generated by a continuous flow along <it>x</it>. To avoid mixing up the issues of chemotaxis in response to the chemoattractant and mechanotaxis under the influence of the shear stress due to viscous forces, we limit our model to the chemotactic movement of the cells along <it>y</it>. Let us assume that <it>p</it>(<it>x</it>,<it>y</it>,<it>t</it>) denotes the number density of cells at position (<it>x</it>,<it>y</it>) at time <it>t</it>. Then, we have the probability density <it>P</it>(<it>y</it>,<it>t</it>), which is the original density <it>p</it>(<it>x</it>,<it>y</it>,<it>t</it>) integrated over <it>x</it>. The current density along <it>y</it>, <it>J</it>, reads as<equation id="eqn2"><no>2</no>
+<eqntext display="displayed"><it>J</it> = −<it>D</it>∂<inf><it>y</it></inf><it>P</it> + <it>vP</it>.</eqntext>
+</equation>where <it>v</it> and <it>D</it> are the drift velocity and diffusion coefficient, respectively, and ∂<inf><it>y</it></inf> means differentiation with respect to <it>y</it>. Now, the continuity equation for <it>P</it> and <it>J</it> then reads as<equation id="eqn3"><no>3</no>
+<eqntext display="displayed">∂<inf><it>t</it></inf><it>P</it> = −∂<inf><it>y</it></inf><it>J</it>,</eqntext>
+</equation>where ∂<inf><it>t</it></inf> denotes differentiation with respect to <it>t</it>. Using <eqnref idrefs="eqn2 eqn3">eqn (2) and (3)</eqnref>, one can find the diffusion–advection equation for the problem as<equation id="eqn4"><no>4</no>
+<eqntext display="displayed">∂<inf><it>t</it></inf><it>P</it> = ∂<inf><it>y</it></inf>(<it>D</it>∂<inf><it>y</it></inf><it>P</it>) − ∂<inf><it>y</it></inf>(<it>vP</it>).</eqntext>
+</equation>The chemotactic motion of the cells depends on both the absolute local concentration (chemo-kinesis) and its gradients (chemotaxis).<citref idrefs="cit7 cit17">7,17</citref> Based on the experiments of <citref idrefs="cit7" position="baseline">ref. 7</citref>, here we consider a constant spatial gradient of cAMP in the direction of −<it>ŷ</it>. Therefore, one can expect that both the diffusion coefficient, <it>D</it>, and the drift velocity, <it>v</it>, depend on the <it>y</it> component of the position vector. Since there is no direct experimental method to determine this dependency, it is plausible to expand the mentioned coefficients in terms of <it>y</it> as<equation id="eqn5"><no>5</no>
+<eqntext display="displayed"><it>v</it> = <it>v</it><inf>0</inf> + <it>v</it><inf>1</inf><it>y</it> + …</eqntext>
+</equation>and<equation id="eqn6"><no>6</no>
+<eqntext display="displayed"><it>D</it> = <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf><it>y</it> + …</eqntext>
+</equation>We keep the terms only up to the first order of <it>y</it>, and treat <it>v</it><inf>1</inf>, and <it>D</it><inf>1</inf> as perturbation coefficients. Here, we assume that the current in the <it>y</it> direction does not depend on <it>x</it>. Using <eqnref idrefs="eqn4 eqn5 eqn6">eqn (4)–(6)</eqnref>, one finds<equation id="eqn7"><no>7</no>
+<eqntext display="displayed">∂<inf><it>t</it></inf><it>P</it> = (<it>D</it><inf>0</inf> + <it>D</it><inf>1</inf><it>y</it>)∂<inf><it>y</it></inf><sup>2</sup><it>P</it> + (<it>D</it><inf>1</inf> − <it>v</it><inf>0</inf> − <it>v</it><inf>1</inf><it>y</it>)∂<inf><it>y</it></inf><it>P</it> − <it>v</it><inf>1</inf><it>P</it>.</eqntext>
+</equation></p>
+<p>The mean value of the <it>y</it>-component of the cells' positions is obtained by<equation id="eqn8"><no>8</no>
+<ugraphic display="displayed" id="ugt1" xsrc="c7sm01568b-t1.tif"/></equation>Differentiating the above expression with respect to time results<equation id="eqn9"><no>9</no>
+<ugraphic display="displayed" id="ugt2" xsrc="c7sm01568b-t2.tif"/></equation></p>
+<p>After substituting ∂<inf><it>t</it></inf><it>P</it>(<it>y</it>,<it>t</it>) from <eqnref idrefs="eqn7">eqn (7)</eqnref> and integrating, one can find<equation id="eqn10"><no>10</no>
+<ugraphic display="displayed" id="ugt3" xsrc="c7sm01568b-t3.tif"/></equation>By solving this simple ordinary differential equation we find<equation id="eqn11"><no>11</no>
+<ugraphic display="displayed" id="ugt4" xsrc="c7sm01568b-t4.tif"/></equation>where 〈<it>y</it>〉<inf>0</inf> ≡ 〈<it>y</it>〉|<inf><it>t</it>=0</inf> denotes the mean initial <it>y</it>-position of the cells. As it has been mentioned above, <it>v</it><inf>1</inf> and <it>D</it><inf>1</inf> are small parameters and in our model, they have been considered as perturbation parameters. After expanding the exponential factor and keeping the terms up to the first order of perturbation parameters, <it>v</it><inf>1</inf> and <it>D</it><inf>1</inf>, one can find<equation id="eqn12"><no>12</no>
+<ugraphic display="displayed" id="ugt5" xsrc="c7sm01568b-t5.tif"/></equation>It is worth mentioning that since terms like <it>v</it><inf>1</inf><it>D</it><inf>1</inf> are the second order of perturbation parameters, these terms are dropped.</p>
+<p>The variance of the cells' positions along <it>y</it> is defined as <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) ≡ 〈<it>y</it>(<it>t</it>)<sup>2</sup>〉 − 〈<it>y</it>(<it>t</it>)〉<sup>2</sup>. Using a similar method (see Appendix I for details), one can find <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) as<equation id="eqn13"><no>13</no>
+<eqntext display="displayed"><it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) + 2[<it>σ</it><inf><it>y</it></inf><sup>2</sup>(0)<it>v</it><inf>1</inf> + <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf>]<it>t</it> + (2<it>D</it><inf>0</inf><it>v</it><inf>1</inf> + <it>D</it><inf>1</inf><it>v</it><inf>0</inf>)<it>t</it><sup>2</sup>,</eqntext>
+</equation>where <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) is the initial variance of the cells' positions along <it>y</it>. Please note that in <eqnref idrefs="eqn13">eqn (13)</eqnref>, we have kept terms up to the first order of perturbation parameters.</p>
+</section>
+<section><no>IV.</no><title>Results</title>
+<p>Now we are in a position to determine the perturbation parameters of our model based on the experimental trajectories. The mean displacement of chemotactic cells and the corresponding variance can be calculated from the experimental trajectories as defined in Appendix I (<eqnref idrefs="eqn23 eqn24 eqn25 eqn26">eqn (23)–(26)</eqnref>). To characterize the chemotactic behavior of <it>D.d.</it> cells, based on <eqnref idrefs="eqn12 eqn13">eqn (12) and (13)</eqnref>, we need to determine the values of <it>v</it><inf>0</inf>, <it>v</it><inf>1</inf>, <it>D</it><inf>0</inf> and <it>D</it><inf>1</inf>. We treat these factors as tuning parameters and find their values simultaneously by fitting (MATLAB, R2016b) the model to the experimental values of 〈<it>y</it>〉<inf>exp</inf> and <it>σ</it><stack><above>2</above><below><it>y</it>,exp</below></stack>. <tableref idrefs="tab1 tab2 tab3">Tables 1–3</tableref> include the best fit values of the above mentioned parameters at different cAMP gradients. In <tableref idrefs="tab1">Table 1</tableref>, 〈<it>y</it>〉<inf>0</inf> and <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) denote the fitted mean and standard deviations at time zero.</p>
+<table-entry id="tab1"><title>The mean initial positions of the cells and the corresponding variances at time zero for different cAMP concentrations</title>
+<table>
+<tgroup cols="5">
+<colspec colname="1" colnum="1"/>
+<colspec colname="2" colnum="2"/>
+<colspec colname="3" colnum="3"/>
+<colspec colname="4" colnum="4"/>
+<colspec colname="5" colnum="5"/>
+<thead>
+<row>
+<entry><it>C</it><inf>max</inf> (nM)</entry>
+<entry>∇<it>C</it> (nM μm<sup>−1</sup>)</entry>
+<entry>〈<it>y</it>〉<inf>0</inf> (μm)</entry>
+<entry><it>σ</it><inf><it>x</it></inf><sup>2</sup>(0) (μm<sup>2</sup>)</entry>
+<entry><it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) (μm<sup>2</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry align="char" char=".">0.003</entry>
+<entry align="char" char=".">373.39</entry>
+<entry>10 880</entry>
+<entry align="char" char=".">5454.2</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry align="char" char=".">0.03</entry>
+<entry align="char" char=".">347.22</entry>
+<entry>25 893</entry>
+<entry align="char" char=".">6857.1</entry>
+</row>
+<row>
+<entry>31.6</entry>
+<entry align="char" char=".">0.09</entry>
+<entry align="char" char=".">417.88</entry>
+<entry>24 136</entry>
+<entry align="char" char=".">7608.9</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry align="char" char=".">0.14</entry>
+<entry align="char" char=".">365.99</entry>
+<entry>27 253</entry>
+<entry align="char" char=".">6707.3</entry>
+</row>
+<row>
+<entry>100</entry>
+<entry align="char" char=".">0.29</entry>
+<entry align="char" char=".">410.24</entry>
+<entry>32 453</entry>
+<entry align="char" char=".">4719.2</entry>
+</row>
+<row>
+<entry>316</entry>
+<entry align="char" char=".">0.9</entry>
+<entry align="char" char=".">371.13</entry>
+<entry>30 854</entry>
+<entry align="char" char=".">7033.1</entry>
+</row>
+<row>
+<entry>10 000</entry>
+<entry align="char" char=".">28.6</entry>
+<entry align="char" char=".">382.33</entry>
+<entry>27 665</entry>
+<entry align="char" char=".">6522.6</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</table-entry>
+<table-entry id="tab2"><title>Drift coefficients for different cAMP gradients. The mean drift velocity of the cells at time zero is presented in the fifth column</title>
+<table>
+<tgroup cols="6">
+<colspec colname="1" colnum="1"/>
+<colspec colname="2" colnum="2"/>
+<colspec colname="3" colnum="3"/>
+<colspec colname="4" colnum="4"/>
+<colspec colname="5" colnum="5"/>
+<colspec colname="6" colnum="6"/>
+<thead>
+<row>
+<entry><it>C</it><inf>max</inf> (nM)</entry>
+<entry><it>v</it><inf>0</inf> (μm min<sup>−1</sup>)</entry>
+<entry><it>v</it><inf>1</inf> (min<sup>−1</sup>)</entry>
+<entry><it>v</it><inf>0</inf> + <it>v</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf></entry>
+<entry><it>v</it><inf>0</inf> + <it>v</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf> + <it>D</it><inf>1</inf></entry>
+<entry><it>v</it><inf>0</inf><it>v</it><inf>1</inf>/2</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry align="char" char=".">2.87</entry>
+<entry align="char" char=".">−0.017</entry>
+<entry align="char" char=".">−3.32</entry>
+<entry align="char" char=".">−2.94</entry>
+<entry align="char" char=".">−0.024</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry align="char" char=".">−7.62</entry>
+<entry align="char" char=".">−0.012</entry>
+<entry align="char" char=".">−11.69</entry>
+<entry align="char" char=".">−4.06</entry>
+<entry align="char" char=".">0.045</entry>
+</row>
+<row>
+<entry>31.6</entry>
+<entry align="char" char=".">−7.27</entry>
+<entry align="char" char=".">−0.010</entry>
+<entry align="char" char=".">−11.04</entry>
+<entry align="char" char=".">−4.66</entry>
+<entry align="char" char=".">0.033</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry align="char" char=".">2.04</entry>
+<entry align="char" char=".">−0.016</entry>
+<entry align="char" char=".">−3.95</entry>
+<entry align="char" char=".">−3.45</entry>
+<entry align="char" char=".">−0.017</entry>
+</row>
+<row>
+<entry>100</entry>
+<entry align="char" char=".">3.36</entry>
+<entry align="char" char=".">−0.016</entry>
+<entry align="char" char=".">−3.16</entry>
+<entry align="char" char=".">−3.08</entry>
+<entry align="char" char=".">−0.027</entry>
+</row>
+<row>
+<entry>316</entry>
+<entry align="char" char=".">−8.98</entry>
+<entry align="char" char=".">−0.013</entry>
+<entry align="char" char=".">−13.77</entry>
+<entry align="char" char=".">−4.83</entry>
+<entry align="char" char=".">0.058</entry>
+</row>
+<row>
+<entry>10 000</entry>
+<entry align="char" char=".">−10.71</entry>
+<entry align="char" char=".">−0.015</entry>
+<entry align="char" char=".">−16.36</entry>
+<entry align="char" char=".">−3.97</entry>
+<entry align="char" char=".">0.079</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</table-entry>
+<table-entry id="tab3"><title>Diffusion coefficients in the <it>y</it> direction for different cAMP gradients</title>
+<table>
+<tgroup cols="6">
+<colspec colname="1" colnum="1"/>
+<colspec colname="2" colnum="2"/>
+<colspec colname="3" colnum="3"/>
+<colspec colname="4" colnum="4"/>
+<colspec colname="5" colnum="5"/>
+<colspec colname="6" colnum="6"/>
+<thead>
+<row>
+<entry><it>C</it><inf>max</inf> (nM)</entry>
+<entry><it>D</it><inf>0</inf></entry>
+<entry><it>D</it><inf>1</inf></entry>
+<entry><it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf></entry>
+<entry>2<it>D</it><inf>0</inf><it>v</it><inf>1</inf> + <it>D</it><inf>1</inf><it>v</it><inf>0</inf></entry>
+<entry>2(<it>σ</it><inf><it>y</it></inf>(0)<sup>2</sup><it>v</it><inf>1</inf> + <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry align="char" char=".">−49.10</entry>
+<entry align="char" char=".">0.37</entry>
+<entry align="char" char=".">89.50</entry>
+<entry align="char" char=".">2.69</entry>
+<entry align="char" char=".">−1.81</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry align="char" char=".">−2612.60</entry>
+<entry align="char" char=".">7.63</entry>
+<entry align="char" char=".">38.23</entry>
+<entry align="char" char=".">3.09</entry>
+<entry align="char" char=".">−84.38</entry>
+</row>
+<row>
+<entry>31.6</entry>
+<entry align="char" char=".">−2581.40</entry>
+<entry align="char" char=".">6.38</entry>
+<entry align="char" char=".">86.67</entry>
+<entry align="char" char=".">0.27</entry>
+<entry align="char" char=".">35.76</entry>
+</row>
+<row>
+<entry>50</entry>
+<entry align="char" char=".">−148.60</entry>
+<entry align="char" char=".">0.50</entry>
+<entry align="char" char=".">32.52</entry>
+<entry align="char" char=".">5.87</entry>
+<entry align="char" char=".">−154.38</entry>
+</row>
+<row>
+<entry>100</entry>
+<entry align="char" char=".">129.80</entry>
+<entry align="char" char=".">0.09</entry>
+<entry align="char" char=".">164.54</entry>
+<entry align="char" char=".">−3.84</entry>
+<entry align="char" char=".">179.00</entry>
+</row>
+<row>
+<entry>316</entry>
+<entry align="char" char=".">−3270.57</entry>
+<entry align="char" char=".">8.90</entry>
+<entry align="char" char=".">45.22</entry>
+<entry align="char" char=".">4.15</entry>
+<entry align="char" char=".">−91.00</entry>
+</row>
+<row>
+<entry>10 000</entry>
+<entry align="char" char=".">−4690.80</entry>
+<entry align="char" char=".">12.39</entry>
+<entry align="char" char=".">46.59</entry>
+<entry align="char" char=".">6.00</entry>
+<entry align="char" char=".">−99.65</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</table-entry>
+<p><figref idrefs="fig2 fig6 fig7 fig8 fig9 fig10 fig11">Fig. 2 and 6–11</figref> (see Appendix III) show the comparison between the model and the experiments at different cAMP concentrations. The initial number of trajectories before the selection procedure is presented in part (a) of each figure. Trajectories for our analysis are then selected and truncated based on the criteria explained in Section II.D. Selected and truncated trajectories are shown in parts (b and c) of each figure, respectively. The initial number of trajectories as well as the number of selected trajectories are different for different cAMP gradients. In parts (d and e) of each figure, the red lines correspond to the experimental data and the blue lines correspond to the results of our model using the fitting parameters of <tableref idrefs="tab1 tab2 tab3">Tables 1–3</tableref>. The important features of the figures and the tables are summarized below:</p>
+<p>• The mean position of the chemotactic <it>D.d.</it> cells, 〈<it>y</it>〉, decreases almost linearly over time, which shows that the chemotactic cells migrate towards areas with higher cAMP concentration (top areas of the channel). The nonlinear term <it>v</it><inf>0</inf><it>v</it><inf>1</inf>/2 in <eqnref idrefs="eqn12">eqn (12)</eqnref> is small for all concentrations (see the last column of <tableref idrefs="tab2">Table 2</tableref>).</p>
+<p>• The mean square displacement function <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) shows decreasing behavior at <it>C</it><inf>max</inf> = 10, 50, 316 and 10 000 nM. This trend is an experimental observation, independent of the introduced model, and has to do with the fact that the cells tend to migrate to areas with high cAMP concentration (top part of the channel). Since in these areas the mid-point cAMP concentration is high and most of the cAMP receptors are saturated, the cells slow down and accumulate at the top of the channel. This “accumulation” can result in a decreasing <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>). In other words, the possible decrease in the variance is due to a drift towards the top areas of the channel.</p>
+<p>• The diffusion coefficient in the <it>y</it> direction <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉 is initially positive for all concentrations but as the cells migrate upwards and the value of 〈<it>y</it>〉 decreases, it becomes negative for all concentrations except for <it>C</it><inf>max</inf> = 1 nM. We think that this negative diffusion coefficient extracted from the data is an artifact of the perturbative approximation. To be more exact, the diffusion coefficient depends on the position, and we have Taylor-expanded it and kept only the zeroth and the first order terms (the latter as a perturbative term). While the full position-dependent diffusion coefficient should probably be non-negative, there is no such restriction on its truncated form (which contains only the first two terms): it is just a parameter which is determined through a best fit. Of course the parameters should respect the non-negativity of the variance, and they do, as it is seen that the fitted variance does not become negative.</p>
+<p>• We define the mean drift velocity of chemotactic <it>D.d.</it> cells as<equation id="eqn14"><no>14</no>
+<ugraphic display="displayed" id="ugt6" xsrc="c7sm01568b-t6.tif"/></equation>which shows that the drift velocity depends not only on <it>v</it><inf>0</inf> and <it>v</it><inf>1</inf> but also on <it>D</it><inf>1</inf>. The coefficient <it>v</it><inf>0</inf><it>v</it><inf>1</inf> is a small number for different cAMP gradients (see <tableref idrefs="tab2">Table 2</tableref>), therefore <it>v</it><inf>drift</inf> is essentially constant over time. The extracted values of drift velocity at time zero are listed in the fifth column of <tableref idrefs="tab2">Table 2</tableref>. It is interesting that the drift velocity in the <it>y</it> direction doesn't depend significantly on the cAMP gradient and fluctuates around 4 μm min<sup>−1</sup>. This is consistent with an independent data analysis performed by M. Theves<citref idrefs="cit13">13</citref> (see <figref idrefs="fig3">Fig. 3</figref>): within a plateau, ranging from 10<sup>−2</sup> nM μm<sup>−1</sup> ≤ ∇<it>C</it> ≤ 1 nM μm<sup>−1</sup> over two orders of magnitude, the chemotactic velocity is almost constant. For gradients above ∇<it>C</it> = 1 nM μm<sup>−1</sup> the directionality of movement is decreased. Exceeding an upper threshold of ∇<it>C</it><inf>up</inf> ∼ 10<sup>2</sup> nM μm<sup>−1</sup>, the cell motion becomes isotropic again.</p>
+<figure id="fig3" xsrc="c7sm01568b-f3.tif"><title>Independent data analysis carried out by M. Theves<citref idrefs="cit13">13</citref> showing (left) chemotaxis as a function of gradient steepness ∇<it>C</it>: above a threshold at ∇<it>C</it> ≃ 10<sup>−3</sup> nM μm<sup>−1</sup> cells show a positive (in our coordinate system negative) average velocity in the gradient direction (<it>v</it><inf><it>y</it></inf>) as well as an increased total motility <it>v</it>, while the perpendicular velocity component in the flow direction (<it>v</it><inf><it>x</it></inf>) remains random and averages to zero within error bars. For gradients ranging over two orders of magnitude, 10<sup>−2</sup> nM μm<sup>−1</sup> ≤ ∇<it>C</it> ≤ 1 nM μm<sup>−1</sup>, the chemotactic speed is constant. (right) Average chemotactic velocity <it>v</it><inf><it>y</it></inf> as a function of gradient steepness evaluated separately for three different areas, subdividing the region of interest (see <figref idrefs="fig1">Fig. 1d</figref>). The midpoint concentration decreases from bin 1 to bin 3. For shallow gradients, the chemotactic velocity increases with an increase in the average midpoint concentration. This effect seems to reverse for steep gradients above 1 nM μm<sup>−1</sup>, where <it>v</it><inf><it>y</it></inf> decreases slightly in higher concentration backgrounds. The figures are used by courtesy of M. Theves from his master's thesis.<citref idrefs="cit13">13</citref></title></figure>
+<p>• For all gradients, while the cells crawl up the gradient, the magnitude of 〈<it>v</it><inf><it>y</it></inf>〉 = <it>v</it><inf>0</inf> + <it>v</it><inf>1</inf>〈<it>y</it>〉 decreases as the midpoint concentration increases. However, the independent data analysis of M. Theves<citref idrefs="cit13">13</citref> shows a transition: for shallow gradients, right after the onset of chemotaxis ∇<it>C</it> = 0.003 nM μm<sup>−1</sup>, <it>v</it><inf><it>y</it></inf> increases as the background concentration increases. This effect reverses for steep gradients ∇<it>C</it> &gt; 0.3 nM μm<sup>−1</sup> (see right panel of <figref idrefs="fig3">Fig. 3</figref>).</p>
+</section>
+<section><no>V.</no><title>Discussion</title>
+<p>We have analyzed large data sets of <it>D.d.</it> chemotaxis in linear gradients of cAMP recorded by Theves <it>et al.</it> in a microfluidic setup.<citref idrefs="cit7 cit8 cit13">7,8,13</citref> Data sets with different steepnesses of the cAMP gradient were included in our analysis, covering a large range of gradients, in which chemotactic behavior was observed. Inspired by the experimental conditions of <citref idrefs="cit7" position="baseline">ref. 7</citref>, we introduced a minimal phenomenological model that explicitly incorporated the dependency of the diffusion matrix and velocity of the cells on their positions which corresponds to the position dependence of the local concentration of chemotactic cues. Based on this model, we extracted the physical properties of the chemotactic <it>D.d.</it> cells using the mean and variance of the experimental cell tracks. What is the benefit of this phenomenological model? As highlighted previously, chemotactic movement of the cells depends on both the chemoattractant gradient and the average ambient chemoattractant concentration (midpoint concentration). In the microfluidic setup of Theves <it>et al.</it>,<citref idrefs="cit7">7</citref> the cells are exposed to a constant gradient, while the midpoint concentration increases when the cells are moving up the gradient. Traditionally, chemotactic cell motion is described by a Langevin-type equation where for each cell track, the velocity and acceleration of the cells are calculated at each point by finite differences from the cell positions.<citref idrefs="cit7 cit8 cit24">7,8,24</citref> Therefore in these types of analysis, the midpoint concentration is globally averaged out. Other quantities such as chemotactic index, defined as the distance moved in the gradient direction divided by the total distance, are also averaged quantities where information on mid-point concentration is lost. However in our analysis, instead of velocity and acceleration, we work directly with the spatial position of the cells and explicitly include the dependence of the diffusion coefficient and the drift velocity on the midpoint concentration. Taylor expansion of these coefficients up to the first order in <it>y</it> leads to a closed set of equations that can be solved to obtain the fitting parameters. It is worth checking the effect of the dependency of the diffusion and velocity on the local concentration. To do this, let us assume that the drift velocity and the diffusion coefficient were constant. We denote the constant drift velocity and diffusion constant by <it>ṽ</it><inf>0</inf> and <it>D̃</it><inf>0</inf>, respectively, to obtain<equation id="eqn15"><no>15</no>
+<eqntext display="displayed">〈<it>y</it>〉(<it>t</it>) = 〈<it>y</it>〉<inf>0</inf> + <it>ṽ</it><inf>0</inf><it>t</it>,</eqntext>
+</equation><equation id="eqn16"><no>16</no>
+<eqntext display="displayed"><it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) + 2<it>D̃</it><inf>0</inf><it>t</it>.</eqntext>
+</equation>These equations predict a linear dependency on <it>t</it>, in both the mean and the variance of the position, which is not consistent with the experimental data especially in the variance of <it>σ</it><inf><it>y</it></inf><sup>2</sup> (see <figref idrefs="fig2 fig6 fig7 fig8 fig9 fig10 fig11">Fig. 2 and 6–11</figref>). In fact it has been shown in <citref idrefs="cit25" position="baseline">ref. 25</citref>, that any linear diffusion model (even anomalous), which enjoys both time translational invariance and space translational invariance leads to means and variances which are at most linear over time. This is a motivation to use drift and diffusion parameters which do depend on the position. There is an obvious position-dependence in our system: <it>C</it> (the concentration of cAMP) depends on the coordinate <it>y</it>. Assuming that the drift and diffusion parameters do depend on <it>C</it>, one is left with a <it>y</it>-dependence in the drift and diffusion parameters. A simple manageable model is to Taylor-expand this <it>y</it>-dependence and keep only terms which are up to first order in <it>y</it>. The result is a first order perturbation model, which has been studied here. We emphasize that the experimental conditions of <citref idrefs="cit7" position="baseline">ref. 7</citref> fulfill the necessary conditions of the mentioned study.</p>
+<p>In previous studies, with wild-type and mutated epithelial canine kidney cells, it has been shown that the cell dynamics can be characterized by an anomalous diffusion.<citref idrefs="cit26">26</citref> In particular, mean squared displacement shows a super-diffusive behavior. This super-diffusive behaviour was also observed in the mean square displacement of Hydra cells.<citref idrefs="cit27">27</citref> However, experimental trajectories of chemotactic <it>D.d.</it> cells in <citref idrefs="cit18" position="baseline">ref. 18</citref>, were interpreted by a data-driven model with purely diffusive behavior. As we mentioned above, a pure diffusive model cannot explain the non-linear behavior observed in the experimental data of <citref idrefs="cit7" position="baseline">ref. 7</citref>.</p>
+<p>In our analysis, we observed that at all concentrations <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉 decrease with time and become negative for concentrations of 10, 31.6, 316, and 10 000 nM. In order to make sure that negative diffusion coefficients are not due to our low statistics after the selection procedure, we combined trajectories of three different experiments performed at the same cAMP gradient, namely ∇<it>C</it> = 0.14 nM μm<sup>−1</sup> (<it>C</it><inf>min</inf> = 0, <it>C</it><inf>max</inf> = 50 nM). Comparison between <figref idrefs="fig2 fig4">Fig. 2 and 4</figref> shows a similar decreasing behavior in <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>). Indeed, an absorbing point on top of the channel can produce a decreasing variance, not through the diffusion but through the upstream drift. Let us suppose that <it>D</it><inf>0</inf> = <it>D</it><inf>1</inf> = 0. Then, according to <eqnref idrefs="eqn21">eqn (21)</eqnref>, <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) exp(2<it>v</it><inf>1</inf><it>t</it>). If everything is expanded up to first order in <it>v</it><inf>1</inf>, then the result is <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0)(1 + 2<it>v</it><inf>1</inf><it>t</it>). As <it>v</it><inf>1</inf> ≤ 0, it seems that <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) could become negative after a while. But that is an artifact of the approximation. We intended to find position-dependence of diffusion and drift coefficients. Since the exact position-dependence is not known, even if the inhomogeneity of the surface is known, we expanded the diffusion and drift coefficients in power of the position <it>y</it>. The fact that the time dependence of the variance matches the experiments, means that the method works. But the perturbative parameters should not be misleading.</p>
+<figure id="fig4" xsrc="c7sm01568b-f4.tif"><title>(a) Trajectories of three different experiments recorded at the same cAMP gradient of 0.14 nM μm<sup>−1</sup> are combined to improve the statistics. (b) 207 (out of 1097) trajectories, are selected and (c) truncated based on the criteria in Section II.D. These trajectories participate in our analysis which is more than two times the number of selected trajectories in <figref idrefs="fig2">Fig. 2</figref>. (d and e) The comparison between experimental data (red lines) and the fitted model (blue line) for 〈<it>y</it>〉 and <it>σ</it><inf><it>y</it></inf><sup>2</sup>.</title></figure>
+<p>Furthermore, with our model, we can test directly the space-time symmetries of the cell movement. Based on the reports of the experiments the gradient in the <it>y</it> direction is homogeneous in <it>x</it>. However, the cell tracks shown in the panel (a) of <figref idrefs="fig2 fig6 fig7 fig9 fig10 fig11">Fig. 2, 6, 7 and 9–11</figref> seem to show a drift in the positive <it>x</it> direction (in addition to the chemotactic drift in the −<it>y</it> direction). To check the spatial homogeneity in the <it>x</it> direction, we shifted all the tracks of <figref idrefs="fig2">Fig. 2</figref> to <it>x</it> = 0 (see <figref idrefs="fig5">Fig. 5</figref>). It is interesting that in this case <it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>) is not a pure translation of the same function for unshifted trajectories (see <figref idrefs="fig5">Fig. 5</figref>). It seems that the behavior of the function depends on the initial conditions. This non-pure shift in <it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>) could be a hallmark of correlation between the displacement of individual cells along the <it>x</it> direction and their initial <it>x</it>-positions (see Appendix II). Apparently, the system does not have the translational symmetry along the <it>x</it> direction. This is surprising, since analysis in Section II.B. shows that with a flow speed of 320 μm s<sup>−1</sup> we are far below the regime where mechanotactic effects have been observed in <it>D.d.</it> cells. However, the authors of <citref idrefs="cit21" position="baseline">ref. 21</citref> conducted their experiments with vegetative cells. This suggests that starvation may increase the mechanosensitivity of <it>D.d.</it> cells. We emphasize that with this correction all of our analysis in the <it>y</it> direction is still valid, given that the current in the <it>y</it> direction does not depend on <it>x</it>. This assumption is nothing but a mean-field approximation.</p>
+<figure id="fig5" xsrc="c7sm01568b-f5.tif"><title>(a) The same trajectories as in <figref idrefs="fig2">Fig. 2</figref> which are shifted to <it>x</it> = 0, (b) selected and (c) truncated based on the criteria in Section II.D. The <it>y</it> dependency of all trajectories is kept as before because the mid-point concentration is different along the width of the channel. (d and e) show the behavior of <it>σ</it><inf><it>x</it></inf><sup>2</sup> as a function of <it>t</it>, before and after shifting all the tracks to <it>x</it> = 0, respectively. Red lines correspond to the experimental data and blue lines correspond to fitted quadratic polynomials, respectively.</title></figure>
+<figure id="fig6" xsrc="c7sm01568b-f6.tif"><title>In an experiment with <it>C</it><inf>max</inf> = 1 nM (∇<it>C</it> = 0.003 nM μm<sup>−1</sup>), out of 282 trajectories shown in panel (a), after applying the selection conditions of Section II.D, only 41 trajectories are selected in panel (b) and truncated in panel (c). The comparisons between the experimental data (red) and the model (blue) are presented in panels (d and e).</title></figure>
+<figure id="fig7" xsrc="c7sm01568b-f7.tif"><title>(a–c) Based on our selection criteria in Section II.D, only 27 (out of 815) trajectories participate in our analysis for <it>C</it><inf>max</inf> = 10 nM (∇<it>C</it> = 0.028 nM μm<sup>−1</sup>). (d and e) show 〈<it>y</it>〉 and <it>σ</it><inf><it>y</it></inf><sup>2</sup> plotted for both experimental data (red) and the model (blue).</title></figure>
+<figure id="fig8" xsrc="c7sm01568b-f8.tif"><title>(a–c) 61 (out of 650) trajectories satisfy the selection conditions of Section II.D for a gradient of ∇<it>C</it> = 0.09 nM μm<sup>−1</sup> (<it>C</it><inf>max</inf> = 31.6 nM). In panels (d and e) the outcome of experimental data and the model are compared.</title></figure>
+<figure id="fig9" xsrc="c7sm01568b-f9.tif"><title>Out of 2321 trajectories in panel (a), only 25 are selected in panel (b) and truncated in panel (c) for <it>C</it><inf>max</inf> = 100 nM (∇<it>C</it> = 0.28 nM μm<sup>−1</sup>). A large number of trajectories either show immobile cells or become discontinuous as the cells collide. Again panels (d and c) are the comparison between the data and the model.</title></figure>
+<figure id="fig10" xsrc="c7sm01568b-f10.tif"><title>(a–c) 39 trajectories (out of 254) are participating in our analysis for <it>C</it><inf>max</inf> = 316 nM (∇<it>C</it> = 0.9 nM μm<sup>−1</sup>). <it>y</it> and <it>σ</it><inf><it>y</it></inf><sup>2</sup> are calculated from the truncated trajectories (red lines) and compared with the fitted model (blue lines) in panels (d and e).</title></figure>
+<figure id="fig11" xsrc="c7sm01568b-f11.tif"><title>(a–c) In an experiment with <it>C</it><inf>max</inf> = 10 000 nM (∇<it>C</it> = 28.6 nM μm<sup>−1</sup>), out of 401 trajectories, 41 are selected and truncated. Comparisons between the experimental measured quantities (red) and the fitted model (blue) are shown in panels (d and e).</title></figure>
+<p>To improve our statistics, we have divided long mother trajectories into shorter ones and if the criteria in Section II.D are satisfied, we have included daughter trajectories as completely independent tracks in our analysis. The main difference between these new daughter trajectories is the average midpoint concentration that the cells experience as they crawl up the gradient. This corresponds to moving up from bin 3 to bin 1 in <figref idrefs="fig1">Fig. 1d</figref>, where in each bin cells are exposed to a different average midpoint concentration. Detailed analysis by Theves <it>et al.</it> has shown that (see the right panel of <figref idrefs="fig3">Fig. 3</figref>) with an increase in the average midpoint concentration the average chemotactic velocity <it>v</it><inf><it>y</it></inf> doesn't show any clear trend for intermediate gradients, 10<sup>−2</sup> nM μm<sup>−1</sup> ≤ ∇<it>C</it> ≤ 0.3 nM μm<sup>−1</sup>. However, for shallow gradients <it>v</it><inf><it>y</it></inf> increases with midpoint concentration and for steep gradients it decreases. Most of our analysis is carried out at intermediate gradients where the variation in chemotactic velocity <it>v</it><inf><it>y</it></inf> between three different bins is less than 25 percent. For example, at ∇<it>C</it> = 0.3 nM μm<sup>−1</sup>, the average chemotactic velocity changes from ∼3 μm min<sup>−1</sup> to ∼4 μm min<sup>−1</sup> for three bins with different midpoint concentrations of 17 nM, 50 nM and 83 nM. At steep gradients larger than 0.3 nM μm<sup>−1</sup>, the variations in <it>v</it><inf><it>y</it></inf> are even less than 10 percent. Thereby we believe that shorter daughter trajectories which belong to one mother long trajectory, do not significantly differ in their chemotactic properties. In other words, by dividing long mother trajectories to shorter daughter tracks, we don't introduce new types of trajectories with completely different statistical properties.</p>
+<p>In the present work, even though we have analyzed a substantial amount of data, much larger data sets with longer trajectories would be required in order to improve our statistics. Possible future experiments with wider microfluidic channels will be helpful to obtain longer trajectories. Experiments with lower cell density (to avoid cell–cell collision) can also help us to obtain longer trajectories, as the cells after collision are indistinguishable from each other and two new trajectories are detected by the cell tracking algorithms.</p>
+<p>In summary, we have analyzed the experimental data of chemotactic <it>D.d.</it> cells in a linear gradient of cAMP. In order to have reliable statistics, we kept the number of trajectories during our analysis constant. Trajectories were selected based on two criteria: (i) they should persist for at least 20 min, and (ii) within this time interval, the cells should have migrated more than 20 μm in the direction of the gradient of cAMP. We have shown that by introducing an advection–diffusion model that includes the position dependence on the cAMP concentration, a quantitative description of experimental cell tracks of the amoeba <it>D.d.</it> is achieved. Our analysis goes beyond a pure diffusive model and shows that the super-diffusive behavior can dominate at larger time scales. In particular, while in a conventional advection–diffusion model both the mean and the variance are linear over time, here in both cases terms arise which are quadratic over time.</p>
+<p>In future studies, we aim to apply our analysis to the trajectories of cells migrating on surfaces of differing composition. In a recent study, it has been shown that <it>D.d.</it> cells migrate similarly on surfaces with various chemical compositions.<citref idrefs="cit28">28</citref> As the substrate composition changes, the cells regulate forces generated by the actomyosin network to maintain the optimal cell-surface contact area and adhesion. We will assess migration trajectories of the cells on different surfaces and investigate the variations in the fitting parameters of our model. Furthermore, we aim to extend our analysis to the trajectories of mutant cell lines where single or multiple components of the chemotactic signaling pathway are deficient and consequently the character of the cell trajectories may change considerably. Structural differences between the trajectories of wild-type and mutant cells may reflect important information about the role of the various proteins in the signaling pathway of <it>D.d.</it> cells, which possibly cannot be resolved in models where the mid-point concentration information is averaged out. The objective is to correlate various parameters of our model to the key molecular players involved in chemotaxis. This can provide a link between the observed macroscopic dynamics and the underlying microscopic mechanism which is an important goal in the field of eukaryotic chemotaxis.</p>
+</section>
+<section><title>Conflicts of interest</title>
+<p>There are no conflicts to declare.</p>
+</section>
+</art-body>
+<appmat>
+<appendix>
+<section><title>Appendix I</title>
+<p>Here we show how to derive <eqnref idrefs="eqn13">eqn (13)</eqnref>. Indeed, for what follows we do not need the exact form of <it>P</it>(<it>y</it>,<it>t</it>) itself, but just the time dependence of its moments. 〈<it>y</it>(<it>t</it>)<sup>2</sup>〉 is defined as<equation id="eqn17"><no>17</no>
+<ugraphic display="displayed" id="ugt7" xsrc="c7sm01568b-t7.tif"/></equation>We can directly obtain an equation for the time evolution of 〈<it>y</it>(<it>t</it>)<sup>2</sup>〉 by multiplying the master equation, <eqnref idrefs="eqn7">eqn (7)</eqnref>, by <it>y</it><sup>2</sup> and integrating over <it>y</it>. This results in<equation id="eqn18"><no>18</no>
+<ugraphic display="displayed" id="ugt8" xsrc="c7sm01568b-t8.tif"/></equation>The left-hand side of this equation is simply equal to <ugraphic display="inline" id="ugt9" xsrc="c7sm01568b-t9.tif"/>. We apply partial integration to the right-hand side and obtain<equation id="eqn19"><no>19</no>
+<ugraphic display="displayed" id="ugt10" xsrc="c7sm01568b-t10.tif"/></equation>Since <it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) ≡ 〈<it>y</it>(<it>t</it>)<sup>2</sup>〉 − 〈<it>y</it>(<it>t</it>)〉<sup>2</sup>, and <ugraphic display="inline" id="ugt11" xsrc="c7sm01568b-t11.tif"/>, one finds<equation id="eqn20"><no>20</no>
+<ugraphic display="displayed" id="ugt12" xsrc="c7sm01568b-t12.tif"/></equation>where according to <eqnref idrefs="eqn10">eqn (10)</eqnref>, d〈<it>y</it>〉/d<it>t</it> has been replaced by <it>v</it><inf>0</inf> + <it>D</it><inf>1</inf> + <it>v</it><inf>1</inf>〈<it>y</it>(<it>t</it>)〉. The solution of <eqnref idrefs="eqn20">eqn (20)</eqnref> is found as<equation id="eqn21"><no>21</no>
+<ugraphic display="displayed" id="ugt13" xsrc="c7sm01568b-t13.tif"/></equation>where <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) denotes the initial variance of the cells' positions along <it>y</it>. After expanding the above equation and keeping the terms up to the first order of <it>v</it><inf>1</inf> and <it>D</it><inf>1</inf>, one has<equation id="eqn22"><no>22</no>
+<eqntext display="displayed"><it>σ</it><inf><it>y</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>y</it></inf><sup>2</sup>(0) + 2[<it>σ</it><inf><it>y</it></inf><sup>2</sup>(0)<it>v</it><inf>1</inf> + <it>D</it><inf>0</inf> + <it>D</it><inf>1</inf>〈<it>y</it>〉<inf>0</inf>]<it>t</it> + (2<it>D</it><inf>0</inf><it>v</it><inf>1</inf> + <it>D</it><inf>1</inf><it>v</it><inf>0</inf>)<it>t</it><sup>2</sup>.</eqntext>
+</equation></p>
+<p>The mean displacement of chemotactic cells, in both the <it>x</it> and <it>y</it> directions, and the corresponding variances can be calculated from the experimental data as follows<equation id="eqn23"><no>23</no>
+<ugraphic display="displayed" id="ugt14" xsrc="c7sm01568b-t14.tif"/></equation><equation id="eqn24"><no>24</no>
+<ugraphic display="displayed" id="ugt15" xsrc="c7sm01568b-t15.tif"/></equation><equation id="eqn25"><no>25</no>
+<ugraphic display="displayed" id="ugt16" xsrc="c7sm01568b-t16.tif"/></equation><equation id="eqn26"><no>26</no>
+<ugraphic display="displayed" id="ugt17" xsrc="c7sm01568b-t17.tif"/></equation>where <it>N</it> denotes the number of cells.</p>
+</section>
+</appendix>
+<appendix>
+<section><title>Appendix II</title>
+<p>Here we show how shifting the cells' tracks to <it>x</it> = 0 can affect on the variance of the <it>x</it>-component through the time, <it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>). Let <it>x</it><inf><it>i</it></inf>(<it>t</it>) be the position of the <it>i</it>'th particle in the <it>x</it>-direction at time <it>t</it>. The displacement of the <it>i</it>'th particle in the <it>x</it>-direction through time is <it>z</it><inf><it>i</it></inf>(<it>t</it>) = <it>x</it><inf><it>i</it></inf>(<it>t</it>) − <it>x</it><inf><it>i</it></inf>(0). Simply, one has 〈<it>z</it>(<it>t</it>)〉 = 〈<it>x</it>(<it>t</it>)〉 − 〈<it>x</it>(0)〉 where 〈<it>x</it>(<it>t</it>)〉 and 〈<it>x</it>(0)〉 denote the mean values of the <it>x</it>-component of the particles at time <it>t</it> and <it>t</it> = 0, respectively, and 〈<it>z</it>(<it>t</it>)〉 is the mean displacement of the particles. It is worth mentioning that for example <ugraphic display="inline" id="ugt18" xsrc="c7sm01568b-t18.tif"/>, where <it>N</it> denotes the number of cells. In order to find the variance, first we note that<equation id="eqn27"><no>27</no>
+<eqntext display="displayed"><it>x</it><inf><it>i</it></inf>(<it>t</it>) − 〈<it>x</it>(<it>t</it>)〉 = [<it>z</it><inf><it>i</it></inf>(<it>t</it>) − 〈<it>z</it>(<it>t</it>)〉] + [<it>x</it><inf><it>i</it></inf>(0) − 〈<it>x</it>(0)〉].</eqntext>
+</equation>After squaring both sides of the above equation and averaging, one finds<equation id="eqn28"><no>28</no>
+<eqntext display="displayed">〈[<it>x</it>(<it>t</it>) − 〈<it>x</it>(<it>t</it>)〉]<sup>2</sup>〉 = 〈[<it>z</it>(<it>t</it>) − 〈<it>z</it>(<it>t</it>)〉]<sup>2</sup>〉 + 〈[<it>x</it>(0) − 〈<it>x</it>(0)〉]<sup>2</sup>〉 + 2〈[<it>x</it>(0) − 〈<it>x</it>(0)〉][<it>z</it>(<it>t</it>) − 〈<it>z</it>(<it>t</it>)〉]〉.</eqntext>
+</equation>The covariance of <it>z</it>(<it>t</it>) and <it>x</it>(0) is defined as cov[<it>z</it>(<it>t</it>),<it>x</it>(0)] ≡ 〈(<it>z</it>(<it>t</it>) − 〈<it>z</it>(<it>t</it>)〉)(<it>x</it>(0) − 〈<it>x</it>(0)〉)〉. This quantity provides a measure for the strength of the correlation between two stochastic variables. Using the definition of the variance and covariance, <eqnref idrefs="eqn28">eqn (28)</eqnref> can be written as<equation id="eqn29"><no>29</no>
+<eqntext display="displayed"><it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>) = <it>σ</it><inf><it>z</it></inf><sup>2</sup>(<it>t</it>) + <it>σ</it><inf><it>x</it></inf><sup>2</sup>(0) + 2cov[<it>z</it>(<it>t</it>),<it>x</it>(0)].</eqntext>
+</equation>We see that when <it>z</it>(<it>t</it>) and <it>x</it>(0) are independent, one has 〈<it>z</it>(<it>t</it>)<it>x</it>(0)〉 = 〈<it>z</it>(<it>t</it>)〉〈<it>x</it>(0)〉 and cov[<it>z</it>(<it>t</it>),<it>x</it>(0)] becomes zero. In this case, <it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>) differs from <it>σ</it><inf><it>z</it></inf><sup>2</sup>(<it>t</it>) by just a constant shift. In other words, the necessary and sufficient condition for a pure shift in the variances of <it>σ</it><inf><it>x</it></inf><sup>2</sup>(<it>t</it>) and <it>σ</it><inf><it>z</it></inf><sup>2</sup>(<it>t</it>) is vanishing of the covariance of <it>z</it>(<it>t</it>) and <it>x</it>(0).</p>
+</section>
+</appendix>
+<appendix>
+<section><title>Appendix III</title>
+<p>As we discussed in the main text, the experiments had been carried out at different cAMP concentrations. Here we present the trajectories, before and after a selection procedure, as well as the corresponding analysis for the cAMP concentrations of <it>C</it><inf>max</inf> = 1, 10, 31.6, 100, 316, and 10 000 nM.</p>
+</section>
+</appendix>
+</appmat>
+<art-back>
+<ack><p>We are deeply grateful to M. Theves, E. Bodenschatz, G. Amselem and C. Beta for sharing the experimental data of <citref idrefs="cit7" position="baseline">ref. 7</citref> and A. Bae for critical reading of the manuscript. Z. E. and F. M.-R. are grateful to A. Celani, R. Golestanian and L. Mollazadeh-Beidokhti for helpful discussions. Z. E. and F. M.-R. acknowledge the hospitality of ICTP in Trieste, where some parts of this work were carried out. F. M.-R. acknowledges the hospitality of MPIDS-LFPN Group in Göttingen, where this work was initiated. M. K. acknowledges the support of the research council of Alzahra University. A. G. acknowledges the support of the MaxSynBio Consortium which is jointly funded by the Federal Ministry of Education and Research of Germany and the Max Planck Society. Open Access funding provided by the Max Planck Society.</p></ack>
+<biblist><citgroup id="cit1"><journalcit><citauth><fname>H.</fname><surname>Takagi</surname></citauth><citauth><fname>M. J.</fname><surname>Sato</surname></citauth><citauth><fname>T.</fname><surname>Yanagida</surname></citauth><citauth><fname>M.</fname><surname>Ueda</surname></citauth><title>PLoS One</title><year>2008</year><volumeno>3</volumeno><pages><fpage>e2648</fpage></pages></journalcit></citgroup><citgroup id="cit2"><journalcit><citauth><fname>W. F.</fname><surname>Loomis</surname></citauth><citauth><fname>D.</fname><surname>Fuller</surname></citauth><citauth><fname>E.</fname><surname>Gutierrez</surname></citauth><citauth><fname>A.</fname><surname>Groisman</surname></citauth><citauth><fname>W. J.</fname><surname>Rappel</surname></citauth><title>PLoS One</title><year>2012</year><volumeno>7</volumeno><pages><fpage>42033</fpage></pages></journalcit></citgroup><citgroup id="cit3"><journalcit><citauth><fname>M.</fname><surname>Buenemann</surname></citauth><citauth><fname>H.</fname><surname>Levine</surname></citauth><citauth><fname>W. J.</fname><surname>Rappel</surname></citauth><citauth><fname>L. M.</fname><surname>Sander</surname></citauth><title>Biophys. J.</title><year>2010</year><volumeno>99</volumeno><pages><fpage>50</fpage></pages></journalcit></citgroup><citgroup id="cit4"><journalcit><citauth><fname>K. F.</fname><surname>Swaney</surname></citauth><citauth><fname>C. H.</fname><surname>Huang</surname></citauth><citauth><fname>P. N.</fname><surname>Devreotes</surname></citauth><title>Annu. Rev. Biophys.</title><year>2010</year><volumeno>39</volumeno><pages><fpage>265</fpage></pages></journalcit></citgroup><citgroup id="cit5"><citation type="book"><citauth><fname>R. H.</fname><surname>Kessin</surname></citauth>, <title>Dictyostelium: evolution, cell biology, and the development of multicellularity</title>, <citpub>Cambridge University Press</citpub>, <year>2001</year></citation></citgroup><citgroup id="cit6"><journalcit><citauth><fname>C. S.</fname><surname>Patlak</surname></citauth><title>Bull. Math. Biophys.</title><year>1953</year><volumeno>15</volumeno><pages><fpage>311</fpage></pages></journalcit></citgroup><citgroup id="cit7"><journalcit><citauth><fname>G.</fname><surname>Amselem</surname></citauth><citauth><fname>M.</fname><surname>Theves</surname></citauth><citauth><fname>A.</fname><surname>Bae</surname></citauth><citauth><fname>E.</fname><surname>Bodenschatz</surname></citauth><citauth><fname>C.</fname><surname>Beta</surname></citauth><title>PLoS One</title><year>2012</year><volumeno>7</volumeno><pages><fpage>e37213</fpage></pages></journalcit></citgroup><citgroup id="cit8"><journalcit><citauth><fname>G.</fname><surname>Amselem</surname></citauth><citauth><fname>M.</fname><surname>Theves</surname></citauth><citauth><fname>A.</fname><surname>Bae</surname></citauth><citauth><fname>C.</fname><surname>Beta</surname></citauth><citauth><fname>E.</fname><surname>Bodenschatz</surname></citauth><title>Phys. Rev. Lett.</title><year>2012</year><volumeno>109</volumeno><pages><fpage>108103</fpage></pages></journalcit></citgroup><citgroup id="cit9"><citation type="book"><citauth><fname>A.</fname><surname>Friedman</surname></citauth> and <citauth><fname>C.-Y.</fname><surname>Kao</surname></citauth>, <title>Mathematical Modeling of Biological Processes</title>, <citpub>Springer</citpub>, <year>2014</year></citation></citgroup><citgroup id="cit10"><journalcit><citauth><fname>E. F.</fname><surname>Keller</surname></citauth><citauth><fname>L. A.</fname><surname>Segel</surname></citauth><title>J. Theor. Biol.</title><year>1970</year><volumeno>26</volumeno><pages><fpage>399</fpage></pages></journalcit></citgroup><citgroup id="cit11"><journalcit><citauth><fname>H.</fname><surname>Othmer</surname></citauth><citauth><fname>A.</fname><surname>Stevens</surname></citauth><title>SIAM J. Appl. Math.</title><year>1997</year><volumeno>57</volumeno><pages><fpage>1044</fpage></pages></journalcit></citgroup><citgroup id="cit12"><journalcit><citauth><fname>P.</fname><surname>Chavanis</surname></citauth><title>Eur. Phys. J. B</title><year>2008</year><volumeno>62</volumeno><pages><fpage>179</fpage></pages></journalcit></citgroup><citgroup id="cit13"><citation type="thesis"><citauth><fname>M.</fname><surname>Theves</surname></citauth>, <title>Quantitative Study of Eukaryotic Chemotaxis with Microfluidic Devices</title>, Master's thesis, <citpub>Georg-August Universität Göttingen, and Max Planck Institut für Dynamik und Selbstoganisation</citpub>, <year>2009</year></citation></citgroup><citgroup id="cit14"><journalcit><citauth><fname>N.</fname><surname>Andrew</surname></citauth><citauth><fname>R. H.</fname><surname>Insall</surname></citauth><title>Nat. Cell Biol.</title><year>2007</year><volumeno>9</volumeno><pages><fpage>193</fpage></pages></journalcit></citgroup><citgroup id="cit15"><journalcit><citauth><fname>L.</fname><surname>Bosgraaf</surname></citauth><citauth><fname>P. J. M.</fname><surname>Van Haastert</surname></citauth><title>PLoS One</title><year>2009</year><volumeno>4</volumeno><pages><fpage>e6842</fpage></pages></journalcit></citgroup><citgroup id="cit16"><journalcit><citauth><fname>P. J. M.</fname><surname>Van Haastert</surname></citauth><title>Biophys. J.</title><year>2010</year><volumeno>99</volumeno><pages><fpage>3345</fpage></pages></journalcit></citgroup><citgroup id="cit17"><journalcit><citauth><fname>L.</fname><surname>Song</surname></citauth><citauth><fname>S. M.</fname><surname>Nadkarni</surname></citauth><citauth><fname>H. U.</fname><surname>Bodeker</surname></citauth><citauth><fname>C.</fname><surname>Beta</surname></citauth><citauth><fname>A.</fname><surname>Bae</surname></citauth><arttitle><it>et al.</it></arttitle><title>Eur. J. Cell Biol.</title><year>2006</year><volumeno>85</volumeno><pages><fpage>981</fpage></pages></journalcit></citgroup><citgroup id="cit18"><journalcit><citauth><fname>L.</fname><surname>Li</surname></citauth><citauth><fname>E. C.</fname><surname>Cox</surname></citauth><citauth><fname>H.</fname><surname>Flyvbjerg</surname></citauth><title>Phys. Biol.</title><year>2011</year><volumeno>8</volumeno><pages><fpage>046006</fpage></pages></journalcit></citgroup><citgroup id="cit19"><journalcit><citauth><fname>N.</fname><surname>Makarava</surname></citauth><citauth><fname>S.</fname><surname>Menz</surname></citauth><citauth><fname>M.</fname><surname>Theves</surname></citauth><citauth><fname>W.</fname><surname>Huisinga</surname></citauth><citauth><fname>C.</fname><surname>Beta</surname></citauth><citauth><fname>M.</fname><surname>Holschneider</surname></citauth><title>Phys. Rev. E: Stat., Nonlinear, Soft Matter Phys.</title><year>2014</year><volumeno>90</volumeno><pages><fpage>042703</fpage></pages></journalcit></citgroup><citgroup id="cit20"><journalcit><citauth><fname>N. L.</fname><surname>Jeon</surname></citauth><citauth><fname>S. K. W.</fname><surname>Dertinger</surname></citauth><citauth><fname>D. T.</fname><surname>Chiu</surname></citauth><citauth><fname>I. S.</fname><surname>Choi</surname></citauth><citauth><fname>A. D.</fname><surname>Stroock</surname></citauth><citauth><fname>G. M.</fname><surname>Whitesides</surname></citauth><title>Langmuir</title><year>2000</year><volumeno>16</volumeno><pages><fpage>168311</fpage></pages></journalcit></citgroup><citgroup id="cit21"><journalcit><citauth><fname>E.</fname><surname>Decave</surname></citauth><citauth><fname>D.</fname><surname>Rieu</surname></citauth><citauth><fname>J.</fname><surname>Dalous</surname></citauth><citauth><fname>S.</fname><surname>Fache</surname></citauth><citauth><fname>Y.</fname><surname>Brechet</surname></citauth><citauth><fname>B.</fname><surname>Fourcade</surname></citauth><citauth><fname>M.</fname><surname>Satre</surname></citauth><citauth><fname>F.</fname><surname>Bruckert</surname></citauth><title>J. Cell Sci.</title><year>2003</year><volumeno>116</volumeno><pages><fpage>4331</fpage></pages></journalcit></citgroup><citgroup id="cit22"><journalcit><citauth><fname>J. C.</fname><surname>Crocker</surname></citauth><citauth><fname>D. G.</fname><surname>Grier</surname></citauth><title>J. Colloid Interface Sci.</title><year>1996</year><volumeno>179</volumeno><pages><fpage>298</fpage></pages></journalcit></citgroup><citgroup id="cit23"><citation type="book"><citauth><fname>J. D.</fname><surname>Murray</surname></citauth>, <title>Mathematical Biology</title>, <citpub>Springer</citpub>, <pubplace>Berlin</pubplace>, <year>1991</year></citation></citgroup><citgroup id="cit24"><journalcit><citauth><fname>D.</fname><surname>Selmeczi</surname></citauth><citauth><fname>S.</fname><surname>Mosler</surname></citauth><citauth><fname>P. H.</fname><surname>Hagedorn</surname></citauth><citauth><fname>N. B.</fname><surname>Larsen</surname></citauth><citauth><fname>H.</fname><surname>Flyvbjerg</surname></citauth><title>Biophys. J.</title><year>2005</year><volumeno>89</volumeno><pages><fpage>912</fpage></pages></journalcit></citgroup><citgroup id="cit25"><journalcit><citauth><fname>M.</fname><surname>Khorrami</surname></citauth><citauth><fname>A.</fname><surname>Shariati</surname></citauth><citauth><fname>A.</fname><surname>Aghamohammadi</surname></citauth><citauth><fname>A. H.</fname><surname>Fatollahi</surname></citauth><title>Phys. Lett. A</title><year>2012</year><volumeno>376</volumeno><pages><fpage>687</fpage></pages></journalcit></citgroup><citgroup id="cit26"><journalcit><citauth><fname>P.</fname><surname>Dieterich</surname></citauth><citauth><fname>R.</fname><surname>Klages</surname></citauth><citauth><fname>R.</fname><surname>Preuss</surname></citauth><citauth><fname>A.</fname><surname>Schwab</surname></citauth><title>Proc. Natl. Acad. Sci. U. S. A.</title><year>2008</year><volumeno>105</volumeno><pages><fpage>459</fpage></pages></journalcit></citgroup><citgroup id="cit27"><journalcit><citauth><fname>A.</fname><surname>Upadhyaya</surname></citauth><citauth><fname>J.-P.</fname><surname>Rieu</surname></citauth>
+<citauth><fname>J. A.</fname><surname>Glazier</surname></citauth><citauth><fname>Y.</fname><surname>Sawada</surname></citauth><title>Physica A</title><year>2001</year><volumeno>293</volumeno><pages><fpage>549</fpage></pages></journalcit></citgroup><citgroup id="cit28"><journalcit><citauth><fname>C. P.</fname><surname>McCann</surname></citauth><citauth><fname>E. C.</fname><surname>Rericha</surname></citauth><citauth><fname>C.</fname><surname>Wang</surname></citauth><citauth><fname>W.</fname><surname>Losert</surname></citauth><citauth><fname>C. A.</fname><surname>Parent</surname></citauth><title>PLoS One</title><year>2014</year><volumeno>9</volumeno><pages><fpage>87981</fpage></pages></journalcit></citgroup></biblist>
+<compoundgrp></compoundgrp>
+<annotationgrp></annotationgrp>
+<datagrp></datagrp>
+<resourcegrp></resourcegrp>
+</art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000081788 0?>

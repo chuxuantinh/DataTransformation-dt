@@ -1,0 +1,85 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "A search for selectivity to enable CO<sub>2</sub> capture with porous adsorbents",
+        "creators" : [{
+            "person" : {
+                "givenName" : "M.",
+                "familyName" : "Oschatz",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute of Colloids and Interfaces, Department of Colloid Chemistry, Research Campus Golm",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons200485",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "M.",
+                "familyName" : "Antonietti",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max Planck Institute of Colloids and Interfaces, Department of Colloid Chemistry, Research Campus Golm",
+                    "address" : "Am Mühlenberg 1, 14476 Potsdam, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons1057",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-23",
+        "dateAccepted" : "2017-10-11",
+        "dateSubmitted" : "2017-07-27",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7ee02110k",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Energy & Environmental Science", 
+            "volume" : "11",
+            "issue" : "1", 
+            "startPage" : "57", 
+            "endPage" : "70",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1754-5706",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Current attempts in materials science to increase the selectivity of CO<sub>2</sub> physisorption from diluted sources are critically reviewed.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Fundamental aspects and actual developments of selective CO<sub>2</sub> capture from relevant sources (flue gas or air) by reversible physisorption are critically reviewed. Thermodynamic as well as kinetic principles of CO<sub>2</sub> adsorption in the presence of other gases are linked to current approaches of materials development. Whilst hundreds or even thousands of porous materials have been evaluated for CO<sub>2</sub> capture, research in this field is still full of challenges, as for instance a feasible physical adsorbent for CO<sub>2</sub> capture for direct capture from air has still not been found. Current attempts towards the optimization of materials in terms of CO<sub>2</sub> uptake/selectivity, regenerability, tolerance against water, and cost most often exclude each other. The aim of this article is not to summarize all recent attempts towards tailoring of materials for selective CO<sub>2</sub> capture but to discuss the most fundamental aspects of adsorptive CO<sub>2</sub> separation in order to illuminate the “sweet spot” to be explored when electronic structure, polarity, and pore size/geometry are rationally balanced and optimized – just like nature does when exerting selective binding of gases."
+        }],
+        "totalNumberOfPages" : "14"
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7EE02110K.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

@@ -1,0 +1,125 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Gradient in defect density of ZnO nanorods grown by cathodic delamination, a corrosion process, leads to end-specific luminescence",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Danish",
+                "familyName" : "Iqbal",
+                "organizations" : [{
+                    "identifier" : "ou_1863336",
+                    "name" : "Max-Planck-Institut für Eisenforschung GmbH",
+                    "address" : "Max-Planck-Str. 1, 40237 Düsseldorf, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons129706",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Adnan",
+                "familyName" : "Sarfraz",
+                "organizations" : [{
+                    "identifier" : "ou_1863336",
+                    "name" : "Max-Planck-Institut für Eisenforschung GmbH",
+                    "address" : "Max-Planck-Str. 1, 40237 Düsseldorf, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons133083",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Andreas",
+                "familyName" : "Erbe",
+                "organizations" : [{
+                    "identifier" : "ou_1863336",
+                    "name" : "Max-Planck-Institut für Eisenforschung GmbH",
+                    "address" : "Max-Planck-Str. 1, 40237 Düsseldorf, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Department of Materials Science and Engineering, Norwegian University of Science and Technology",
+                    "address" : "7491 Trondheim, Norway"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons125132",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-02",
+        "dateAccepted" : "2017-09-18",
+        "dateSubmitted" : "2017-07-27",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7nh00111h",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Nanoscale Horizons",
+            "volume" : "3",
+            "issue" : "1", 
+            "startPage" : "58", 
+            "endPage" : "65",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "2055-6756",
+                "type" : "ISSN"
+            },{
+                "id" : "2055-6764",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "The luminescence from both ends of a ZnO nanorod grown via a corrosion process is significantly different.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "ZnO nanorods were grown on a zinc substrate via cathodic delamination of a polymer coating, a tailored corrosion process, at room temperature. A comparison between in situ Raman spectra and post mortem cross sectional analysis by Raman spectroscopy, photoluminescence spectroscopy and scanning electron microscopy shows that in the initial stages of the synthesis, preferentially defect rich ZnO grows. At later stages, crystalline wurtzite ZnO growth dominates. The result is nanorod arrays consisting of nanorods with a large density of point defects in the ≈500 nm range near the zinc substrate, and low defect density in the regions further away from the interface. The growth, which proceeds over several hours, can be interrupted at any time. Large salt concentrations in the corrosive medium increase the growth rate, but also the amount of point defects. The resulting rods show strongly position-dependent luminescence and Raman spectra. Different luminescence can thus be selectively excited, based on the position of excitation."
+        }],
+        "totalNumberOfPages" : "8",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "Maxnet Energy",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Max-Planck-Gesellschaft",
+                    "identifiers" : [ {
+                        "id" : "OrgId1",
+                        "type" : "OPEN_AIRE"
+                    } ]
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7NH00111H.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

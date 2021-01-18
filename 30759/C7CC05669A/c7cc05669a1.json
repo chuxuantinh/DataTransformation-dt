@@ -1,0 +1,116 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "The active site for the water oxidising anodic iridium oxide probed through in situ Raman spectroscopy",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Zoran",
+                "familyName" : "Pavlovic",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Heterogeneous Catalysis, Max Planck Institute for Chemical Energy Conversion",
+                    "address" : "Stiftstrasse 34-36, Muelheim and Ruhr, 45470, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Chinmoy",
+                "familyName" : "Ranjan", 
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Heterogeneous Catalysis, Max Planck Institute for Chemical Energy Conversion",
+                    "address" : "Stiftstrasse 34-36, Muelheim and Ruhr, 45470, Germany"
+                }]
+            },
+            "role" :"AUTHOR",
+            "type" :"PERSON"
+        },{
+            "person" : {
+                "givenName" : "Maurice",
+                "familyName" : "van Gastel",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Heterogeneous Catalysis, Max Planck Institute for Chemical Energy Conversion",
+                    "address" : "Stiftstrasse 34-36, Muelheim and Ruhr, 45470, Germany"
+                }]
+            },
+            "role" :"AUTHOR",
+            "type" :"PERSON"
+        },{
+            "person" : {
+                "givenName" : "Robert",
+                "familyName" : "Schlögl",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Heterogeneous Catalysis, Max Planck Institute for Chemical Energy Conversion",
+                    "address" : "Stiftstrasse 34-36, Muelheim and Ruhr, 45470, Germany"
+                }]
+            },
+            "role" :"AUTHOR",
+            "type" :"PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-16",
+        "dateAccepted" : "2017-10-09",
+        "dateSubmitted" : "2017-08-25",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cc05669a",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "source" : [{
+            "title" : "Chemical Communications", 
+            "volum" : "53",
+            "issue" : "92", 
+            "startPage" : "12414", 
+            "endPage" : "12417",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1359-7345",
+                "type" : "ISSN"
+            },{
+                "id" : "1364-548X",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "The structure of anodic iridium oxide (IrOx) under water oxidation was explored using in situ Raman spectroscopy and theoretical calculations.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "The structure of anodic iridium oxide (IrO<sub>x</sub>) under water oxidation was explored using in situ Raman spectroscopy and theoretical calculations. Isotopic substitution experiments and theoretical calculations confirmed formation of an IrO species during oxygen evolution reaction."
+        }],
+        "totalNumberOfPages" : "4",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "03ESP106",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Bundesministerium für Wirtschaft und Energie"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CC05669A.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

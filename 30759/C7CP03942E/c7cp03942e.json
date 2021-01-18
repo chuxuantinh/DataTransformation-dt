@@ -1,0 +1,149 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Local water sensing: water exchange in bacterial photosynthetic reaction centers embedded in a trehalose glass studied using multiresonance EPR",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Anna",
+                "familyName" : "Nalepa",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max-Planck-Institut für Chemische Energiekonversion",
+                    "address" : "Stiftstrasse 34-36, D-45470 Mülheim an der Ruhr, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Marco",
+                "familyName" : "Malferrari",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Laboratorio di Biochimica e Biofisica, Dipartimento di Farmacia e Biotecnologie, FaBiT, Università di Bologna",
+                    "address" : "via Irnerio 42, I-40126 Bologna, Italy"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Wolfgang",
+                "familyName" : "Lubitz",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max-Planck-Institut für Chemische Energiekonversion",
+                    "address" : "Stiftstrasse 34-36, D-45470 Mülheim an der Ruhr, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Giovanni",
+                "familyName" : "Venturoli",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Laboratorio di Biochimica e Biofisica, Dipartimento di Farmacia e Biotecnologie, FaBiT, Università di Bologna",
+                    "address" : "via Irnerio 42, I-40126 Bologna, Italy"
+                },{
+                    "identifier" : "",
+                    "name" : "Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM)",
+                    "address" : "via Irnerio 46, I-40126 Bologna, Italy"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Klaus",
+                "familyName" : "Möbius",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max-Planck-Institut für Chemische Energiekonversion",
+                    "address" : "Stiftstrasse 34-36, D-45470 Mülheim an der Ruhr, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Department of Physics, Free University Berlin",
+                    "address" : "Arnimallee 14, D-14195 Berlin, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Anton",
+                "familyName" : "Savitsky",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Max-Planck-Institut für Chemische Energiekonversion",
+                    "address" : "Stiftstrasse 34-36, D-45470 Mülheim an der Ruhr, Germany"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-16",
+        "datePublishedInPrint" : "2017-10-25",
+        "dateAccepted" : "2017-09-25",
+        "dateSubmitted" : "2017-06-13",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cp03942e",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Physical Chemistry Chemical Physics", 
+            "volume" : "19",
+            "issue" : "41", 
+            "startPage" : "28388", 
+            "endPage" : "28400",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1463-9076",
+                "type" : "ISSN"
+            },{
+                "id" : "1463-9084",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Pulsed EPR spectroscopies and isotope labeled water are applied to detect and quantify the local water in a bacterial reaction center embedded into a trehalose glass.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Using isotope labeled water (D<sub>2</sub>O and H<sub>2</sub><sup>17</sup>O) and pulsed W-band (94 GHz) high-field multiresonance EPR spectroscopies, such as ELDOR-detected NMR and ENDOR, the biologically important question of detection and quantification of local water in proteins is addressed. A bacterial reaction center (bRC) from Rhodobacter sphaeroides R26 embedded into a trehalose glass matrix is used as a model system. The bRC hosts the two native radical cofactor ions (primary electron donor) and (primary electron acceptor) as well as an artificial nitroxide spin label site-specifically attached to the surface of the H-protein domain. The three paramagnetic reporter groups have distinctly different local environments. They serve as local probes to detect water molecules via magnetic interactions (electron–nuclear hyperfine and quadrupole) with either deuterons or <sup>17</sup>O nuclei. bRCs were equilibrated in an atmosphere of different relative humidities allowing us to control precisely the hydration levels of the protein. We show that by using oxygen-17 labeled water quantitative conclusions can be made in contrast to using D<sub>2</sub>O which suffers from proton–deuterium exchange processes in the protein. From the experiments we also conclude that dry trehalose operates as an anhydrobiotic protein stabilizer in line with the “anchorage hypothesis” of bio-protection. It predicts selective changes in the first solvation shell of the protein upon trehalose–matrix dehydration with subsequent changes in the hydrogen-bonding network. Changes in hydrogen-bonding patterns usually have an impact on the global function of a biological system."
+        }],
+        "totalNumberOfPages" : "13",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "EXC 1069",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"Deutsche Forschungsgemeinschaft"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CP0342E.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

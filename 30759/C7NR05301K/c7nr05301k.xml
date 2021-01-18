@@ -1,0 +1,2929 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tmp="http://www.rsc.org/editing" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7nr05301k</ms-id>
+    <doi>10.1039/c7nr05301k</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>July</month>
+        <day>20</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>September</month>
+      <day>18</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>NR</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>3</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>NR</link>
+    </journalref>
+    <volumeref>
+      <link>9</link>
+    </volumeref>
+    <issueref>
+      <link>39</link>
+    </issueref>
+    <pubfront>
+      <fpage>15131</fpage>
+      <lpage>15143</lpage>
+      <no-of-pages>13</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>10</month>
+        <day>12</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>NR</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>Reversible and irreversible aggregation of magnetic liposomes<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available. See DOI: <url>10.1039/C7NR05301K</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa">
+        <person orcid="0000-0003-3821-2714">
+          <persname>
+            <fname>Sonia</fname>
+            <surname>García-Jimeno</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person orcid="0000-0002-1373-3671" resid="N-6407-2013">
+          <persname>
+            <fname>Joan</fname>
+            <surname>Estelrich</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person orcid="0000-0003-0721-0687">
+          <persname>
+            <fname>José</fname>
+            <surname>Callejas-Fernández</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affc" role="corres">
+        <person orcid="0000-0001-8965-8148" resid="J-9406-2016">
+          <persname>
+            <fname>Sándalo</fname>
+            <surname>Roldán-Vargas</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Secció de Fisicoquímica</nameelt>
+            <nameelt>Facultat de Farmàcia i Ciències de l'Alimentació</nameelt>
+            <nameelt>Universitat de Barcelona</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Avda. Joan XXIII 17-31</addrelt>
+          <postcode>E-08028</postcode>
+          <city>Barcelona</city>
+          <state>Catalonia</state>
+          <country>Spain</country>
+        </address>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Grupo de Física de Fluidos y Biocoloides</nameelt>
+            <nameelt>Departamento de Física Aplicada</nameelt>
+            <nameelt>Facultad de Ciencias</nameelt>
+            <nameelt>Universidad de Granada</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <postcode>E-18071</postcode>
+          <city>Granada</city>
+          <country>Spain</country>
+        </address>
+      </aff>
+      <aff id="affc">
+        <org>
+          <orgname>
+            <nameelt>Max Planck Institute for the Physics of Complex Systems</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <postcode>D-01187</postcode>
+          <city>Dresden</city>
+          <country>Germany</country>
+        </address>
+        <email>sandalo@pks.mpg.de</email>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>Magnetic vesicles are among the most promising nanodevices used in nanomedical diagnosis and therapy. Here we reveal the complex interaction scenario involved in their aggregation in solution when a controllable external magnetic field is applied.</ictext>
+      <icgraphic id="ga" xsrc="c7nr05301k-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>Understanding stabilization and aggregation in magnetic nanoparticle systems is crucial to optimizing the functionality of these systems in real physiological applications. Here we address this problem for a specific, yet representative, system. We present an experimental and analytical study on the aggregation of superparamagnetic liposomes in suspension in the presence of a controllable external magnetic field. We study the aggregation kinetics and report an intermediate time power law evolution and a long time stationary value for the average aggregate diffusion coefficient, both depending on the magnetic field intensity. We then show that the long time aggregate structure is fractal with a fractal dimension that decreases upon increasing the magnetic field intensity. By scaling arguments we also establish an analytical relation between the aggregate fractal dimension and the power law exponent controlling the aggregation kinetics. This relation is indeed independent on the magnetic field intensity. Despite the superparamagnetic character of our particles, we further prove the existence of a population of surviving aggregates able to maintain their integrity after switching off the external magnetic field. Finally, we suggest a schematic interaction scenario to rationalize the observed coexistence between reversible and irreversible aggregation.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <no>I.</no>
+      <title>Introduction</title>
+      <p>In recent times, the <it>ad hoc</it> design of novel mesoscopic particles has opened new research avenues and brought several promising applications. Significant examples of this bottom-up design appear in material science,<citref idrefs="cit1 cit2 cit3">1–3</citref> biotechnology,<citref idrefs="cit4 cit5">4,5</citref> and nanomedicine.<citref idrefs="cit6 cit7">6,7</citref> Indeed, the highly versatile functionality of these new primary constituents relies on our efficacy to control the distinct interactions governing their dynamic and structural properties.</p>
+      <p>A notable family among these new primary components is that constituted by those nano- and meso-sized particles able to respond to an external magnetic field. These “magnetic nanodevices” are usually categorized according to their remanent magnetization at a given temperature after having been exposed to an external magnetic field.<citref idrefs="cit8">8</citref> Thus mesoscopic particles consisting of single magnetic domains<citref idrefs="cit9">9</citref> can behave as permanent magnets due to their remanent (or even spontaneous) magnetization in the absence of an external magnetic field. This phenomenon is known as <it>stable ferromagnetism</it>.<citref idrefs="cit8">8</citref> However, if thermal energy is able to cause the random orientation of the different single magnetic domains, the particle remanent magnetization after removing the external magnetic field will be negligible. These particles, which present no magnetic hysteresis, are known as <it>superparamagnetic particles</it>.<citref idrefs="cit8 cit10">8,10</citref> These two behaviors (ferromagnetic and superparamagnetic) are nowadays exploited in several consolidated research lines with a special emphasis in nanomedical applications.<citref idrefs="cit11 cit12 cit13 cit14 cit15 cit16 cit17 cit18 cit19">11–19</citref></p>
+      <p>Among the distinct mesoscopic particles, liposomes, <it>i.e.</it> mesosized lipid vesicles, have been recognized by their singular capabilities (<it>e.g.</it> as drug nanocarriers) due to their synthetically controllable size, surface electric charge, membrane elastic properties, and encapsulation efficiency.<citref idrefs="cit20 cit21 cit22">20–22</citref> The superparamagnetic version of these highly tuneable particles results from our ability to encapsulate in their interior small (single domain) magnetite grains.<citref idrefs="cit23 cit24 cit25 cit26 cit27 cit28 cit29 cit30">23–30</citref> These are the so-called <it>magnetic liposomes</it>. Thus these systems combine biocompatibility and vesicular structure<citref idrefs="cit31">31</citref> with their superparamagnetic character, therefore being magnetically controllable agents with no side-effects on the organism. Fruitful applications using these systems are already amenable to experimentation covering specific areas in therapy and diagnostics such as chemotherapy,<citref idrefs="cit17 cit32">17,32</citref> hyperthermia,<citref idrefs="cit33 cit34 cit35 cit36 cit37">33–37</citref> magnetic resonance imaging,<citref idrefs="cit24 cit38 cit39">24,38,39</citref> magnetic cell targeting,<citref idrefs="cit40 cit41 cit42">40–42</citref> or magnetically driven delivery.<citref idrefs="cit30 cit43">30,43</citref></p>
+      <p>Reaching an efficient functionality for these vesicular systems (and other magnetic nanoparticles) depends on our understanding of the distinct particle interactions. This understanding is intrinsically connected with those mechanisms controlling stabilization and aggregation. Indeed, magnetically induced aggregation not only provides us with an implicit understanding on the particle interactions but it is explicitly manifested in real applications. For instance, aggregates of superparamagnetic particles present an enhanced heating efficiency in hyperthermia as compared to that corresponding to non-aggregated samples.<citref idrefs="cit44 cit45 cit46">44–46</citref> The presence of aggregates can also increase the sensitivity of some detection techniques such as Surface-Enhanced Raman Scattering (SERS), leading to a significant increase of the Raman intensity.<citref idrefs="cit47">47</citref> Irreversible aggregates can also influence the system functionality when their size is comparable to those length scales defining the targeted microenvironment, <it>e.g.</it> in Enhanced Permeability and Retention (EPR)<citref idrefs="cit15 cit48">15,48</citref> or in the subsequent particle excretion from the body.<citref idrefs="cit49">49</citref> These functional implications demand a comprehensive study on the still poorly understood mechanisms controlling aggregation in magnetic nanoparticle systems. In this work we present such a study for a system of magnetic vesicles.</p>
+      <p>So far, magnetically induced aggregation has been experimentally investigated but being focused on the study of non-encapsulating superparamagnetic particles. For instance, light scattering has been used to probe aggregation kinetics and/or aggregate structure<citref idrefs="cit50 cit51 cit52 cit53 cit54 cit55 cit56">50–56</citref> whereas two-dimensional microscopy images have been analyzed to look into the cluster morphology.<citref idrefs="cit51 cit52 cit55 cit56 cit57 cit58">51,52,55–58</citref> Apart from studies on real systems, simulations and analytical approaches have also been proposed to rationalize the aggregation of ferro- and superpara-magnetic particles where magnetic interaction is treated in terms of a dipolar hard-sphere like model.<citref idrefs="cit59 cit60 cit61 cit62 cit63">59–63</citref></p>
+      <p>Here we present a detailed study on the aggregation of magnetic liposomes in suspension in the presence of a controllable external magnetic field. By Dynamic Light Scattering (DLS) we explore the aggregation kinetics and find an intermediate time regime where the aggregate diffusion coefficient presents a power law evolution. This evolution, which can be controlled by changing the magnetic field intensity, reaches at sufficiently long times a stationary value as a result of a competition between cluster formation and fragmentation. This final steady-state of the diffusion coefficient allows us to investigate the aggregate structure by Static Light Scattering (SLS). This structure is fractal and results in increasingly linear aggregates upon increasing the magnetic field intensity. Interestingly, we can appeal to scaling arguments and establish a relation between the aggregate fractal dimension and the power law exponent governing the aggregation kinetics. With this analytical approach we create a link between structure and dynamics in our system. To extend the aggregate characterization, we directly observe the system by Transmission Electron Microscopy (TEM) and report a coexistence between reversible and irreversible aggregates (<it>i.e.</it> aggregates that survive despite switching off the external magnetic field). Finally, this coexistence is discussed in terms of an interplay between interactions of different origin. Our results and the general picture we offer are of particular interest for predicting and controlling those time and length scales that play a relevant role in real physiological applications.</p>
+      <p>The rest of the paper is organized as follows: in section II we introduce the system and present our methodologies. In section III we show and discuss our results on stabilization, aggregation kinetics, aggregate structure, and aggregate reversibility. Finally, in section IV we summarize our main findings and present our conclusions.</p>
+    </section>
+    <section>
+      <no>II.</no>
+      <title>Materials and methods</title>
+      <p>The protocol for synthesizing the magnetic liposomes used in this work as well as part of the liposome characterization have been presented in a previous study.<citref idrefs="cit30">30</citref> Here we summarize the previous methodologies and include the protocol to obtain our dynamic and static light scattering results as well as the methodology to acquire the TEM micrographs. Additional information on the characterization of the magnetic liposomes such as their zeta-potential at different salt concentrations or their encapsulation efficiency can be consulted in <citref idrefs="cit30" position="baseline">Ref. 30</citref></p>
+      <subsect1>
+        <title>A. Synthesis of magnetic liposomes</title>
+        <subsect2>
+          <no>1.</no>
+          <title>Materials</title>
+          <p>Liposome membranes are constituted by Soybean phosphatidylcholine (PC) (Lipoid S-100), a zwitterionic phospholipid which was donated by Lipoid (Ludwigshafen, Germany), and cholesterol (CHOL), which was purchased from Sigma (St Louis, MO, USA). Nanoparticles of magnetite, stabilized with anionic coating (EMG 707), were purchased from FerroTec (Bedford, NH, USA) and have a nominal diameter of 10 nm (determined by TEM), a viscosity coefficient of less than 5 mPa s at 27 °C, and a 1.8% volume content of magnetite.</p>
+        </subsect2>
+        <subsect2>
+          <no>2.</no>
+          <title>Preparation of magnetic liposomes</title>
+          <p>Magnetic liposomes are obtained by using a modified version of the phase-reverse method.<citref idrefs="cit64">64</citref> Lipids (100 μmols of PC and CHOL at 80 : 20 molar ratio) dissolved in chloroform/methanol (2 : 1, v/v) are placed in a round-bottom flask and dried in a rotary evaporator under reduced pressure at 40 °C to form a thin film on the inner surface of the flask. The film is hydrated with 9 ml of diethyl ether and 3 ml of an aqueous dilution of FerroTec, resulting in a final concentration of 1.86 g l<sup>−1</sup> of magnetite. The mixture is then sonicated for 5 min in a bath sonicator (Transsonic Digital Bath sonifier, Elma, Germany) at 0 °C. Once the emulsion has been formed, it is placed in a round-bottom flask and the organic solution is removed under a pressure range of 420–440 mmHg at room temperature. The emulsion becomes a gel and, finally, this gel transforms into a suspension of liposomes. Once the liposome suspension is obtained we add 1 ml of water, rotating the suspension at 760 mmHg to remove the ether. Liposomes are then diluted with water until obtaining a final PC concentration of 16 mmol l<sup>−1</sup>. Liposome are then extruded both ways at room temperature into a Liposofast device (Avestin, Canada) through two polycarbonate membrane filters of 200 nm pore size and for at least 9 times.<citref idrefs="cit65">65</citref> Separation of non-encapsulated ferrofluid from magnetic liposomes is performed by size exclusion chromatography (Sephacryl S-400 HR, GE Healthcare, Uppsala, Sweden). The iron content of the purified magnetic liposomes is determined by atomic absorption spectrophotometry (UNICAM PU 939 flame absorption spectrometer) giving an average value of 180 μg ml<sup>−1</sup>. PC was determined by colorimetry.<citref idrefs="cit66">66</citref> Both determinations allow obtaining the Fe<sup>3+</sup>/PC ratio which resulted in an average value of 45 g mol<sup>−1</sup>.</p>
+        </subsect2>
+      </subsect1>
+      <subsect1>
+        <title>B. Transmission electron microscopy</title>
+        <p>To obtain the TEM micrographs of section III.E, we placed a drop of an initially stable aqueous suspension of magnetic liposomes at room temperature on a microscope slide covered with parafilm. The water used for sample dilution was purified by inverse osmosis using Millipore equipment. To induce aggregation we placed at both sides of the microscope slide two Neodymium–Iron–Boron (Nd<inf>2</inf>Fe<inf>12</inf>B) magnets (Halde GAC, Barcelona, Spain). The magnetic field intensity created by the magnets in the space where the sample was placed is <it>B</it> = 80 mT. After 15 min of exposure to the magnetic field, a 400-mesh copper grid coated with a carbon film with a Formvar membrane was placed on the sample for 5 min. After this time (20 min in total), the magnets were removed and a drop of water was added to the grid for washing the sample. This washing step was repeated once more. Then a drop containing a 2% of uranyl acetate was added and, after 1 min, the excess of staining solution was removed. The sample was allowed to dry in air for several minutes before observation. The observation was performed by transmission electron microscopy using an EFTEM (EM902 Zeiss, Carl Zeiss Jena, Germany) operating at 10<sup>5</sup> V. In addition, TEM micrographs for non-aggregated samples were routinely used within this work for control purposes by using a transmission electron microscope Jeol 1010 (Jeol, Japan) operating at 8 × 10<sup>4</sup> V, recording the images by a Megaview III camera. The acquisition was accomplished with Soft-Imaging software (SIS, Germany).</p>
+      </subsect1>
+      <subsect1>
+        <title>C. Magnetization of magnetic liposomes</title>
+        <p>Magnetization curves of purified aqueous suspensions of magnetic liposomes as a function of the applied external magnetic field were obtained in a SQUID Quantum Design MPMS XL magnetometer. The probed external magnetic field ranged from −600 mT to +600 mT. Measurements were taken at room temperature.</p>
+      </subsect1>
+      <subsect1>
+        <title>D. Light scattering experiments</title>
+        <p>The protocol we use to probe aggregation kinetics and aggregate structure under the influence of an external magnetic field by light scattering is partially similar to that reported in <citref idrefs="cit53 cit54 cit55" position="baseline">ref. 53–55</citref> to study the aggregation of magnetic polystyrene particles. Here we present separately the experimental protocol to perform our measurements and a succinct theoretical background to interpret our measurements in terms of appropriate dynamic and static observables.</p>
+        <subsect2>
+          <no>1.</no>
+          <title>Experimental set-up and measurement</title>
+          <p>Light scattering experiments were performed by using a slightly modified Malvern 4700 System (UK), working with a He–Ne laser beam of wavelength <it>λ</it> = 632.8 nm. To follow the dynamics of both aggregating and non-aggregating samples we perform DLS experiments at a fixed detection angle, <it>θ</it><inf>f</inf> = π/2, computing the scattered intensity autocorrelation function, 〈<it>I</it>(<it>θ</it><inf>f</inf>;<it>t</it>)<it>I</it>(<it>θ</it><inf>f</inf>;<it>t</it> + <it>τ</it>)〉, for time intervals of 25 s. Structure in our system is probed by SLS experiments which are performed by sweeping an angular detection range, [<it>θ</it><inf>min</inf>,<it>θ</it><inf>max</inf>], by means of a movable photomultiplier arm where the average time scattered light intensity, 〈<it>I</it>(<it>θ</it>;t)〉, is collected.</p>
+          <p>For both aggregating and non-aggregating samples we used purified aqueous suspensions of magnetic liposomes where the presence of salt in the medium was prevented by inverse osmosis using Millipore equipment. We prepared sufficiently diluted suspensions at 0.1% liposome volume fraction. This concentration avoids the effect of long-range interactions between liposomes in case of non-aggregating samples (section III.A) and gives us an optimal aggregation time for the magnetically induced aggregating samples. This time is sufficiently long compared with that needed for computing 〈<it>I</it>(<it>θ</it><inf>f</inf>;<it>t</it>)<it>I</it>(<it>θ</it><inf>f</inf>;<it>t</it> + <it>τ</it>)〉 (2 orders of magnitude greater) but sufficiently short to follow the complete aggregation process. We ensured statistical reliability by performing at least 10 independent experimental realizations of each DLS and SLS measurement for both aggregating and non-aggregating samples. In all the light scattering experiments temperature was kept constant at 25 °C.</p>
+          <p>The experimental set-up to induce liposome aggregation by means of an external magnetic field deserves further explanation. <figref idrefs="fig1">Fig. 1</figref> shows a schematic view of this experimental set-up where the magnetic field intensity is controlled by adding or removing Nd<inf>2</inf>Fe<inf>12</inf>B magnets on the top of the scattering vessel containing the sample. To enhance the magnetic field intensity acting on the sample, we insert between the pile of magnets and the sample a cylindrical iron bar to promote magnetic field line confinement. Thus, the direction of the magnetic field is essentially perpendicular to the scattering plane. <figref idrefs="fig1">Fig. 1</figref> also shows the magnetic field intensity acting on the sample as a function of the number of neodymium magnets. We see how upon increasing the number of magnets the magnetic field intensity increases, leading to an intensity field saturation which imposes an upper threshold for the magnetic field intensity of about 40 mT. Accordingly we performed DLS and SLS experiments for magnetically induced aggregating samples at <it>B</it><sup>scatt</sup> = 16.6(±0.7), 27.5(±0.7), and 38.8(±0.6) mT. No aggregation was detected for <it>B</it> &lt; 16.6 mT.</p>
+          <figure id="fig1" xsrc="c7nr05301k-f1.tif">
+            <title>Magnetic field intensity, <it>B</it>, as a function of the number of neodymium (Nd<inf>2</inf>Fe<inf>12</inf>B) magnets. Dashed lines signal the number of magnets (and therefore the magnetic field intensity, <ugraphic display="inline" id="ugt30" xsrc="c7nr05301k-t30.tif" />, <it>i</it> ∈ {1,2,3}) at which light scattering experiments were performed (sections III.B and C). Inset: Sketch of the experimental set-up.</title>
+          </figure>
+        </subsect2>
+        <subsect2>
+          <no>2.</no>
+          <title>Theoretical background</title>
+          <p>For non-aggregating samples (<it>B</it> = 0) we obtain the experimental liposome form factor, <it>P</it>(<it>q</it>), through a SLS measurement by:<citref idrefs="cit67 cit68">67,68</citref><equation id="eqn1"><no>1</no><ugraphic display="displayed" id="ugt1" xsrc="c7nr05301k-t1.tif" /></equation>where <it>I</it><inf><it>B</it>=0</inf>(<it>q</it>;<it>t</it>) is the previously mentioned scattered light intensity at time <it>t</it> but expressed in terms of the modulus of the corresponding Fourier scattering vector <it>q</it> = (4π<it>n</it>/<it>λ</it>)sin(<it>θ</it>/2) (where <it>q</it><inf>min</inf> corresponds to <it>θ</it><inf>min</inf>), being <it>n</it> the refractive index of the scattering medium which here we take as 1.33 (aqueous medium). For aggregating samples (<it>B</it> ≥ 16.6 mT) we probe the structure of the magnetic liposome aggregates through their structure factor, <it>S</it>(<it>q</it>):<citref idrefs="cit52 cit67 cit68 cit69 cit70">52,67–70</citref><equation id="eqn2"><no>2</no><ugraphic display="displayed" id="ugt2" xsrc="c7nr05301k-t2.tif" /></equation>where <it>I</it><inf><it>B</it>≠0</inf> (<it>q</it>;<it>t</it>) is the light intensity scattered by the aggregated sample at time <it>t</it> for a given <it>q</it> and for a magnetic field intensity <it>B</it> ≥ 16.6 mT. We note that <it>I</it><inf>B=0</inf>(<it>q</it>;<it>t</it>) and <it>I</it><inf>B≠0</inf>(<it>q</it>;<it>t</it>) correspond to the same sample before and after applying the magnetic field and, therefore, we should not introduce a relative density prefactor in <eqnref idrefs="eqn2">eqn (2)</eqnref>.<citref idrefs="cit67 cit68">67,68</citref> We also highlight that despite <it>I</it><inf><it>B</it>≠0</inf>(<it>q</it>;<it>t</it>) is measured in the presence of an external magnetic field, it presents a constant average value since our SLS measurements were performed once the samples had reached a stationary value for their average diffusion coefficient, therefore resulting in a non-evolving <it>S</it>(<it>q</it>). This point is discussed in sections III.B and C.</p>
+          <p>Aggregates with fractal structure (section III.C) present a power law behavior for <it>S</it>(<it>q</it>) within an intra-aggregate spatial scale which is constrained by the typical linear size of the aggregates and the linear size of the monomers (<it>i.e.</it> the liposomes) constituting the aggregates:<citref idrefs="cit69 cit70 cit71">69–71</citref><equation id="eqn3"><no>3</no><eqntext><it>S</it>(<it>q</it>) ∼ <it>q</it><sup>−<it>d</it><inf>f</inf></sup> ; 1/<it>R</it><inf>agg</inf> ≪ <it>q</it> ≪ 1/<it>ā</it></eqntext></equation>where <it>d</it><inf>f</inf> is the aggregate fractal dimension. Here <it>R</it><inf>agg</inf> is the average aggregate radius whereas <it>ā</it> is the average liposome radius. The <it>q</it>-range imposed by <eqnref idrefs="eqn3">eqn (3)</eqnref> results from the linear spatial dimensionality of <it>q</it><sup>−1</sup> through the very definition of <it>q</it> as a spatial frequency.<citref idrefs="cit71">71</citref></p>
+          <p>Dynamics in aggregating and non-aggregating samples is probed by DLS experiments through the intensity autocorrelation function 〈<it>I</it>(<it>q</it>;<it>t</it>)<it>I</it>(<it>q</it>;<it>t</it> + <it>τ</it>)〉 at a fixed <it>q</it>. This autocorrelation function provides us with the corresponding electric field autocorrelation function, <it>g</it><inf>E</inf>(<it>τ</it>), by means of Siegert relation.<citref idrefs="cit72">72</citref> In its turn, <it>g</it><inf>E</inf>(<it>τ</it>) is expanded into cumulants and interpreted in terms of a sample probability distribution of diffusion coefficients.<citref idrefs="cit72 cit73">72,73</citref> The first cumulant, <it>μ</it><inf>1</inf>, represents an inverse relaxation time containing both translational and rotational diffusive contributions:<citref idrefs="cit54 cit74">54,74</citref><equation id="eqn4"><no>4</no><ugraphic display="displayed" id="ugt3" xsrc="c7nr05301k-t3.tif" /></equation>where <it>D</it><inf>t</inf> and <it>D</it><inf>r</inf> are respectively the sample average translational and rotational diffusion coefficients, considered uncoupled by <eqnref idrefs="eqn4">eqn (4)</eqnref>. We should also note that <eqnref idrefs="eqn4">eqn (4)</eqnref> assumes a simple exponential decay for <it>g</it><inf>E</inf>(<it>τ</it>) describing what would be in principle a probability distribution of relaxation times<citref idrefs="cit75">75</citref> by a unique relaxation time, 1/<it>μ</it><inf>1</inf>. This simple exponential decay seems to be a good approximation for both aggregating and non-aggregating samples when treating the experimental <it>g</it><inf>E</inf>(<it>τ</it>). Moreover a simple exponential decay is in agreement with a previous characterization of our magnetic liposomes based on a multimodal Non-Negative Least Squares (NNLS) approach<citref idrefs="cit76">76</citref> for which we only detected a monomodal distribution of liposome diameters.<citref idrefs="cit30">30</citref> In case of aggregating samples the typical aggregate size<citref idrefs="cit74">74</citref> and the presence of an external magnetic field minimize the contribution of rotational diffusion<citref idrefs="cit54">54</citref> in <it>g</it><inf>E</inf>(<it>τ</it>). For non-aggregating samples (<it>B</it> = 0), the spherical liposome shape directly excludes the presence of rotational diffusion in <it>g</it><inf>E</inf>(<it>τ</it>). Thus, in both cases, we assume:<equation id="eqn5"><no>5</no><ugraphic display="displayed" id="ugt4" xsrc="c7nr05301k-t4.tif" /></equation>where <ugraphic display="inline" id="ugt5" xsrc="c7nr05301k-t5.tif" /> (<it>D</it><stack><above>0</above><below>eff</below></stack>) is the effective diffusion coefficient of an aggregating (non-aggregating) sample which essentially contains a translational contribution. More details on this approach as well as on more sophisticated treatments can be found in <citref idrefs="cit52 cit54" position="baseline">ref. 52 and 54</citref>. One final consideration should be taken into account in those cases where the magnetic field is present. Our DLS measurements are analyzed according to a <it>diffusive</it> interpretation of <it>g</it><inf>E</inf>(<it>τ</it>). However magnetic nanoparticles immersed in a magnetic field could in principle present a non-diffusive drift, manifested by a uniform motion, due to the balance between the magnetic force acting on the particles<citref idrefs="cit77">77</citref> and the friction coming from the interaction between the particles and the surrounding fluid. However, as shown in the supplementary material, this effect is negligible in all the DLS experiments performed in the present work.</p>
+        </subsect2>
+      </subsect1>
+    </section>
+    <section>
+      <no>III.</no>
+      <title>Results</title>
+      <subsect1>
+        <title>A. Characterization of magnetic liposomes</title>
+        <p>SLS measurements at <it>B</it> = 0 allow us to prove the stabilization of the non-aggregating samples and permit a characterization of the individual magnetic liposomes in terms of their shape, average size, and size polydispersity. In this respect, <figref idrefs="fig2">Fig. 2(a)</figref> shows the experimental form factor, <it>P</it>(<it>q</it>), of a diluted sample of magnetic liposomes at <it>B</it> = 0 (<eqnref idrefs="eqn1">eqn (1)</eqnref>). The experimental <it>P</it>(<it>q</it>) is here rationalized by means of a solid sphere model in the context of the Rayleigh–Gans–Debye (RGD) theory<citref idrefs="cit74">74</citref> (solid line in <figref idrefs="fig2">Fig. 2(a)</figref>). In particular, size polydispersity is introduced in the model by assuming a three-modal distribution whose first five moments are distributed according to a Schulz distribution.<citref idrefs="cit69">69</citref> This distribution has shown its efficiency to describe the size distribution of polydisperse systems of mesosized particles coming from different synthesis protocols.<citref idrefs="cit78 cit79">78,79</citref> Indeed, with this procedure, based on a SLS measurement, we avoid those systematic errors due to a plausible wide spectrum of relaxation modes not discriminated by a DLS measurement<citref idrefs="cit80">80</citref> (see ESI<fnoteref idrefs="fn1"></fnoteref>). As a result, we obtain an average liposome diameter <it></it> = 2<it>ā</it> ≅ 180 nm and a diameter polydispersity of 0.2 (relative standard deviation). This <it></it> value is in agreement with that obtained from the same sample by DLS experiments, where <it>D</it><stack><above>0</above><below>eff</below></stack> (<eqnref idrefs="eqn5">eqn (5)</eqnref>) is interpreted in terms of the Stokes–Einstein relation.<citref idrefs="cit74">74</citref> Moreover, liposomes observed by TEM micrographs<citref idrefs="cit30">30</citref> (<it>e.g.</it> inset in <figref idrefs="fig2">Fig. 2(a)</figref>) seem to present by simple inspection a size which is, roughly speaking, compatible with the <it></it> obtained by <it>P</it>(<it>q</it>).</p>
+        <figure id="fig2" xsrc="c7nr05301k-f2.tif">
+          <title>(a) Form factor, <it>P</it>(<it>q</it>), of a diluted (non-aggregating) sample of magnetic liposomes. Circles stand for the experimental values as obtained from a SLS measurement at <it>B</it> = 0 whereas solid line represents a fit according to a solid sphere RGD model and assuming a pseudo-Schulz distribution. Inset: TEM micrograph of a single magnetic liposome encapsulating a core of magnetite grains.<citref idrefs="cit30">30</citref> (b) Magnetization as a function of the magnetic field intensity, <it>B</it>. Solid line with solid diamonds (empty circles) stands for the forward (backward) magnetization path. Both paths collapse into a single curve as a manifestation of no magnetic hysteresis. Dashed vertical lines signal the different field intensities (<ugraphic display="inline" id="ugt31" xsrc="c7nr05301k-t31.tif" />, <it>i</it> ∈ {1,2,3}, see also <figref idrefs="fig1">Fig. 1</figref>) at which light scattering experiments were performed (sections III. B and C) whereas the dotted-dashed vertical line indicates the high magnetic field intensity applied to the sample before obtaining the TEM micrographs of section III.E.</title>
+        </figure>
+        <p>At this point, one might ask for the repulsive interactions avoiding aggregation at <it>B</it> = 0. In this respect, two main interactions for stabilizing these and other lipid vesicle suspensions have been presented in the literature: Coulombic and hydration repulsions. On one hand, Coulombic repulsion, which is the main ingredient for stabilization in DLVO theory,<citref idrefs="cit81 cit82">81,82</citref> seems to be present in our system despite the non-polar nature of PC as accounted for by the weak but still non-negligible liposome zeta-potential.<citref idrefs="cit30">30</citref> On the other hand, short-range repulsive hydration forces have been associated to these and other lipid vesicles leading to stabilization even when Coulombic repulsion is not present.<citref idrefs="cit70 cit83 cit84 cit85 cit86 cit87 cit88">70,83–88</citref> Nevertheless, we should stress that the repulsive interactions stabilizing the system in the absence of an external magnetic field do not create long-range structural correlations between the liposomes for the probed dilution as manifested through <it>P</it>(<it>q</it>) (which only contains correlations at the single particle level).</p>
+        <p>To place the magnetic field intensities at which we perform our light scattering experiments and obtain our TEM micrographs for the aggregating samples, we present in <figref idrefs="fig2">Fig. 2(b)</figref> the magnetization, <it>M</it>, of the magnetic liposomes as a function of <it>B</it> (see section II.C). A previous characterization of the liposome magnetization was already presented in <citref idrefs="cit30" position="baseline">ref. 30</citref>. We see how the forward and backward magnetization paths essentially collapse into a single curve: the magnetic liposomes do not present hysteresis. The absence of hysteresis represents a manifestation of the superparamagnetic nature of the magnetic liposomes which are indeed lipid vesicles encapsulating single-domain magnetite grains (linear size ≅10 nm) which recover their random field orientation as soon as the magnetic field is switched off.<citref idrefs="cit10">10</citref> As also shown in <figref idrefs="fig2">Fig. 2b</figref>), magnetization saturates around ±100 mT. In this respect, we see how our light scattering experiments (sections III.B and C) are performed below the saturation threshold whereas the TEM micrographs obtained for the aggregating samples (section III.E) correspond to an almost magnetically saturated sample. We also note that the different magnetic fields at which we perform our experiments for the aggregating samples do not present a significant difference in magnetization. However, the potential magnetic energy between magnetic liposomes could be significantly different for the different magnetic fields shown in <figref idrefs="fig2">Fig. 2(b)</figref>. In general, the potential magnetic energy between two magnetic particles (here liposomes) depends on the product of the dipole magnetic moments of the two particles, where each dipole magnetic moment is proportional to the particle magnetization.<citref idrefs="cit89 cit90 cit91 cit92">89–92</citref> Therefore a given ratio between two different generic magnetizations, <it>M</it><inf>1</inf>/<it>M</it><inf>2</inf>, in <figref idrefs="fig2">Fig. 2(b)</figref> will in general re-scale the potential magnetic energy between two magnetic particles by a factor (<it>M</it><inf>1</inf>/<it>M</it><inf>2</inf>)<sup>2</sup>.</p>
+      </subsect1>
+      <subsect1>
+        <title>B. Aggregation kinetics</title>
+        <p>In this section we discuss the liposome aggregation dynamics under the influence of an external magnetic field by DLS measurements. Contrary to previous works on the aggregation of magnetic polystyrene particles,<citref idrefs="cit51 cit52 cit54">51,52,54</citref> aggregation is here induced by the external magnetic field with no added electrolyte. This is possible due to the weak Coulombic repulsive interaction between magnetic liposomes (see section III.A).</p>
+        <p>
+          <figref idrefs="fig3">Fig. 3</figref> shows the time evolution of <ugraphic display="inline" id="ugt6" xsrc="c7nr05301k-t6.tif" /> at different magnetic field intensities (<eqnref idrefs="eqn5">eqn (5)</eqnref>). At short times <ugraphic display="inline" id="ugt7" xsrc="c7nr05301k-t7.tif" /> : our aggregation process starts from a monomeric initial condition. At intermediate times <ugraphic display="inline" id="ugt8" xsrc="c7nr05301k-t8.tif" />, where <it>α</it> is a <it>B</it>-dependent kinetic exponent which increases upon increasing magnetic field intensity. Finally, at long times <ugraphic display="inline" id="ugt9" xsrc="c7nr05301k-t9.tif" /> reaches a plateau with a final stationary value, <ugraphic display="inline" id="ugt10" xsrc="c7nr05301k-t10.tif" />, which decreases upon increasing magnetic field intensity (from <ugraphic display="inline" id="ugt11" xsrc="c7nr05301k-t11.tif" /> at <it>B</it> = 16.6 mT to <ugraphic display="inline" id="ugt12" xsrc="c7nr05301k-t12.tif" /> at <it>B</it> = 38.8 mT).</p>
+        <figure id="fig3" xsrc="c7nr05301k-f3.tif">
+          <title>Log–log plot of the normalized diffusion coefficient, <ugraphic display="inline" id="ugt32" xsrc="c7nr05301k-t32.tif" />, of an aggregating sample as a function of time for different magnetic field intensities (solid lines with solid symbols). Dashed lines represent the power law behavior at intermediate times, and for the different magnetic field intensities, before reaching a final stationary diffusion coefficient, <ugraphic display="inline" id="ugt33" xsrc="c7nr05301k-t33.tif" />. <it>D</it><stack><above>0</above><below>eff</below></stack> is the single liposome diffusion coefficient as obtained from a (diluted) non-aggregating sample.</title>
+        </figure>
+        <p>The intermediate time power law behavior <ugraphic display="inline" id="ugt13" xsrc="c7nr05301k-t13.tif" /> is a common feature in aggregation of mesoscopic particles which has been rationalized by different analytical approaches<citref idrefs="cit93 cit94">93,94</citref> being usually expressed in terms of the average aggregate size evolution <it>R</it><inf>agg</inf>(<it>t</it>) ∼ <it>t</it><sup><it>α</it></sup>. Depending on the system, this power law evolution will in principle continue without reaching a final stationary value<citref idrefs="cit69 cit95 cit96">69,95,96</citref> or it will present (like in our system) a final constant value for <ugraphic display="inline" id="ugt14" xsrc="c7nr05301k-t14.tif" /> (or <it>R</it><inf>agg</inf>(<it>t</it>)) at sufficiently long times.<citref idrefs="cit52 cit54 cit59">52,54,59</citref> This second case has in general been interpreted as a balance between aggregation and fragmentation where the sample reaches a steady-state for the cluster-size distribution.<citref idrefs="cit97 cit98">97,98</citref></p>
+        <p>Balance between aggregation and fragmentation in magnetically induced aggregation processes has been discussed in terms of the so-called <it>magnetic coupling parameter</it>, <it>Γ</it>, defined as the ratio (<it>competition</it>) between magnetic dipole–dipole potential energy (which helps to retain particle bonds) and thermal energy (which tends to break particle bonds):<citref idrefs="cit59">59</citref><equation id="eqn6"><no>6</no><ugraphic display="displayed" id="ugt15" xsrc="c7nr05301k-t15.tif" /></equation>where <it>μ</it> is the medium magnetic permeability, <it>m</it> the magnetic dipole moment of the particles, <it>T</it> the absolute temperature, and <it>k</it><inf>B</inf> the Boltzmann constant. By considering a proportionality between particle magnetization (<figref idrefs="fig2">Fig. 2(b)</figref>) and particle magnetic dipole moment,<citref idrefs="cit91 cit92">91,92</citref><it>i.e. M</it> ∼ <it>m</it>, we obtain <it>Γ</it> ∼ <it>M</it><sup>2</sup>. This last relation leads us to an interesting result for understanding the <it>B</it>-dependence of <ugraphic display="inline" id="ugt16" xsrc="c7nr05301k-t16.tif" />. When comparing in our system two different magnetizations (associated to two different magnetic field intensities, <figref idrefs="fig2">Fig. 2(b)</figref>), with their corresponding <ugraphic display="inline" id="ugt17" xsrc="c7nr05301k-t17.tif" /> we find:<equation id="eqn7"><no>7</no><ugraphic display="displayed" id="ugt18" xsrc="c7nr05301k-t18.tif" /></equation></p>
+        <p>Thus, at constant temperature, re-scaling particle magnetization by a factor <it>γ</it> will re-scale the final stationary diffusion coefficient by a factor 1/<it>γ</it><sup>2</sup>, therefore connecting an individual particle property, <it>M</it>, with the final aggregate stability given by <ugraphic display="inline" id="ugt19" xsrc="c7nr05301k-t19.tif" />. For instance, (<it>M</it>(B<inf>3</inf><sup>scatt</sup>)/<it>M</it>(<it>B</it><inf>1</inf><sup>scatt</sup>))<sup>2</sup> ≅ (1.55)<sup>2</sup> (<figref idrefs="fig2">Fig. 2(b)</figref>) to be compared with <ugraphic display="inline" id="ugt20" xsrc="c7nr05301k-t20.tif" /> (<figref idrefs="fig3">Fig. 3</figref>). This result, however, is satisfied by our system due to the low particle concentration where the influence of the liposome packing fraction is negligible.<citref idrefs="cit59">59</citref></p>
+        <p>To conclude this section we briefly anticipate the discussion on aggregation reversibility in our system when the magnetic field is switched off. <figref idrefs="fig4">Fig. 4</figref> shows the time evolution of <ugraphic display="inline" id="ugt21" xsrc="c7nr05301k-t21.tif" /> at <it>B</it> = 38.8 mT (<it>i.e.</it> the highest field intensity in our DLS experiments) for times smaller than 2700 s and at <it>B</it> = 0 for times greater than 2700 s. Contrary to <figref idrefs="fig3">Fig. 3</figref> where <it>B</it> is maintained, <figref idrefs="fig4">Fig. 4</figref> shows how, as soon as the magnetic field is unplugged, <ugraphic display="inline" id="ugt22" xsrc="c7nr05301k-t22.tif" /> tends to <it>D</it><stack><above>0</above><below>eff</below></stack> as a manifestation of aggregation reversibility where the sample almost recovers its initial monomeric condition. However, for this magnetic field intensity, we cannot exclude by our DLS measurements and TEM micrographs the presence of some small surviving aggregates after switching off the magnetic field (note that <ugraphic display="inline" id="ugt23" xsrc="c7nr05301k-t23.tif" />). We will come back to this point in sections III.E and F.</p>
+        <figure id="fig4" xsrc="c7nr05301k-f4.tif">
+          <title>Linear–linear plot of the normalized diffusion coefficient, <ugraphic display="inline" id="ugt34" xsrc="c7nr05301k-t34.tif" />, of an aggregating sample as a function of time. For times smaller than 2700 s the sample aggregates under the influence of an applied field intensity <it>B</it> = 38.8 mT. For times greater than 2700 s the external magnetic field is switched off and the sample almost recovers the single liposome diffusion coefficient, <it>D</it><stack><above>0</above><below>eff</below></stack>, as an indication of an almost complete disaggregation.</title>
+        </figure>
+      </subsect1>
+      <subsect1>
+        <title>C. Aggregate structure</title>
+        <p>We now proceed with the structural description of the liposome aggregates by SLS for those magnetic field intensities for which we already discussed the aggregation kinetics by DLS in the previous section. We stress that our SLS measurements are here performed in the presence of the magnetic field and for those (long) times at which the aggregate diffussion coefficient is already stabilized <ugraphic display="inline" id="ugt24" xsrc="c7nr05301k-t24.tif" />. For this time regime we see no time evolution of the aggregate structure factor, <it>S</it>(<it>q</it>) (<eqnref idrefs="eqn2">eqn (2)</eqnref>).</p>
+        <p>
+          <figref idrefs="fig5">Fig. 5</figref> shows the structure factor, <it>S</it>(<it>q</it>), for the aggregated samples at different magnetic field intensities. We see how the different <it>S</it>(<it>q</it>)'s present a power law fractal behavior within a certain intra-aggregate <it>q</it>-range according to <eqnref idrefs="eqn3">eqn (3)</eqnref>. On one hand this range is right-side limited by the monomer (liposome) linear size, where <it>q</it> &lt; 2/<it></it>. On the other hand we need an <it>a priori</it> estimation for the left-side limit based on the linear size of the aggregates given by <it>R</it><inf>agg</inf> (<eqnref idrefs="eqn3">eqn (3)</eqnref>). To estimate the left-side limit we consider Stokes–Einstein relation <ugraphic display="inline" id="ugt25" xsrc="c7nr05301k-t25.tif" />, where here <it>R</it><inf>agg</inf> is, formally speaking, the average hydrodynamic aggregate radius.</p>
+        <figure id="fig5" xsrc="c7nr05301k-f5.tif">
+          <title>Log–log plot of the Structure Factor, <it>S</it>(<it>q</it>), of an aggregated sample for different magnetic field intensities. Measurements are performed at long times, that is, when <ugraphic display="inline" id="ugt35" xsrc="c7nr05301k-t35.tif" /> is already stationary (see <figref idrefs="fig3">Fig. 3</figref>). Dashed interpolation lines represent the expected fractal behavior, <it>S</it>(<it>q</it>) ∼ <it>q</it><sup>−<it>d</it><inf>f</inf></sup>, for the different field intensities.</title>
+        </figure>
+        <p>Apart from using an interpolation range based on the average liposome and aggregate radii, we should also consider the size polydispersity of the liposomes forming the aggregates as well as the aggregate size polydispersity. Concerning the liposome polydispersity, our <it>q</it> interpolation range defines a length scale which is larger than all the liposome length scales (radii) associated to the populations obtained from our characterization of <it>P</it>(<it>q</it>) (see ESI<fnoteref idrefs="fn1"></fnoteref>). Indeed, with this <it>q</it> constraint previous studies both theoretical and experimental have shown no effect on the aggregate fractal dimension due to the primary particle polydispersity.<citref idrefs="cit99 cit100">99,100</citref> Large aggregate size polydispersity could also lead to spurious values of the measured fractal dimensions.<citref idrefs="cit101">101</citref> However aggregation processes mainly controlled by diffusive motion such as that presented here (see ESI<fnoteref idrefs="fn1"></fnoteref>) show a uniform aggregate distribution.<citref idrefs="cit96">96</citref> This aggregate uniformity seems indeed to be present in the TEM micrographs that we will discuss in section III.E.</p>
+        <p>At low magnetic field intensities (<it>B</it> = 16.6 mT), the small aggregate linear size significantly restricts our <it>q</it>-range (see <figref idrefs="fig5">Fig. 5</figref>). Thus for <it>q</it>/2 ≲ 0.5 we already start to abandon the typical aggregate scale entering into the Guinier regime,<citref idrefs="cit71">71</citref> therefore losing the details of the intra-aggregate structure whose spatial scale would be smaller than our <it>q</it><sup>−1</sup> observational window. Although not reliable, the fractal dimension (<it>d</it><inf>f</inf> ≊ 1.78) of the small aggregates at <it>B</it> = 16.6 mT would be compatible with that expected from a <it>Diffusion Limited Cluster Aggregation</it> (DLCA).<citref idrefs="cit96">96</citref></p>
+        <p>Once we increase the magnetic field intensity the power law fractal behavior extends to smaller <it>q</it> values due to the increasing aggregate size, therefore permitting a more reliable estimation of <it>d</it><inf>f</inf>. The effect is apparent: <it>d</it><inf>f</inf> decreases upon increasing the magnetic field intensity. Thus, the increasing magnetic field intensity induces a highly directional magnetic liposome interaction which results in more linear fractal structures (<it>d</it><inf>f</inf> → 1). In particular, we see how at <it>B</it> = 38.8 mT the resulting fractal dimension is <it>d</it><inf>f</inf> = 1.33. This value, which is far from the typical ramified aggregates reported in DLCA processes, is comparable with those obtained for magnetic polystyrene particles in the presence of a magnetic field with added electrolyte<citref idrefs="cit51 cit52">51,52</citref> and compatible with simulations of dipolar hard-sphere fluids.<citref idrefs="cit102 cit103">102,103</citref> Finally, we conclude this section by addressing the following question: how is the kinetic exponent, <it>α</it>, connected with the aggregate fractal dimension, <it>d</it><inf>f</inf>?</p>
+      </subsect1>
+      <subsect1>
+        <title>D. Kinetic exponent and fractal dimension</title>
+        <p>Irreversible aggregation in diluted suspensions (like those studied here at intermediate times, <figref idrefs="fig3">Fig. 3</figref>) can be understood in terms of a schematic binary reaction mechanism<citref idrefs="cit104">104</citref> of the form <it>A</it><inf><it>i</it></inf> + <it>A</it><inf><it>j</it></inf> → <it>A</it><inf><it>i</it>+<it>j</it></inf>, where <it>A</it><inf><it>i</it></inf> represents an aggregate constituted by i monomers (here liposomes). In this context, scaling arguments can be applied to the rate coefficients, <it>k</it><inf><it>i</it>,<it>j</it></inf>, for the reaction between <it>A</it><inf><it>i</it></inf> and <it>A</it><inf><it>j</it></inf> aggregates:<citref idrefs="cit105 cit106">105,106</citref><equation id="eqn8"><no>8</no><eqntext><it>k</it><inf><it>ai</it>,<it>aj</it></inf> = <it>a</it><sup><it>λ</it></sup><it>k</it><inf><it>i</it>,<it>j</it></inf> ; ∀<it>i</it>,<it>j</it> ; <it>a</it>∈ ; <it>λ</it>∈</eqntext></equation>where we assume a homogeneous behavior for the rate coefficients, <it>k</it><inf><it>i</it>,<it>j</it></inf>, through a homogeneity parameter, <it>λ</it>, which is restricted by <it>λ</it> ≤ 1 for non-gelling aggregation processes. For those processes where reactions between small–small and large–large aggregates are equally probable (<it>e.g.</it> DLCA) we have <it>λ</it> = 0, resulting in a balance between aggregate collision cross section (which increases upon increasing <it>i</it>) and aggregate diffusivity (which decreases upon increasing <it>i</it>). Those processes where <it>λ</it> &lt; 0 (<it>λ</it> &gt; 0) result in a more likely reaction between small–small (large–large) aggregates. <eqnref idrefs="eqn8">Eqn (8)</eqnref> implies a power law behavior for the average number of monomers per aggregate at time <it>t</it>, <it>n̄</it>(<it>t</it>):<citref idrefs="cit105">105</citref><equation id="eqn9"><no>9</no><ugraphic display="displayed" id="ugt26" xsrc="c7nr05301k-t26.tif" /></equation>where <ugraphic display="inline" id="ugt27" xsrc="c7nr05301k-t27.tif" /> is the relative frequency of aggregates constituted by <it>i</it> monomers at time <it>t</it>. If we now incorporate the fractal scaling of the aggregates according to their fractal dimension, <it>n̄</it>(<it>t</it>) ∼ <it>R</it><inf>agg</inf>(<it>t</it>)<sup><it>d</it><inf>f</inf></sup> (previous section), and assume Stokes–Einstein relation, <ugraphic display="inline" id="ugt28" xsrc="c7nr05301k-t28.tif" />, we reach:<equation id="eqn10"><no>10</no><ugraphic display="displayed" id="ugt29" xsrc="c7nr05301k-t29.tif" /></equation>where we immediately recognize the intermediate time power law behavior discussed in section III.B (<figref idrefs="fig3">Fig. 3</figref>) with <it>α</it> ≡ 1/(1−<it>λ</it>)<it>d</it><inf>f</inf>.</p>
+        <p>
+          <tableref idrefs="tab1">Table 1</tableref> shows the homogeneity parameter, <it>λ</it>, for the different magnetic field intensities at which we previously discussed the aggregation kinetics and the aggregate structure (included in the table are <it>α</it>, <figref idrefs="fig3">Fig. 3</figref>, and <it>d</it><inf>f</inf>, <figref idrefs="fig5">Fig. 5</figref>). It is interesting to note from the table how <it>λ</it> is almost independent (<it>λ</it> ≅ −0.4) on the applied magnetic field intensity. As a result, here all the aggregation processes at intermediate times present a connection between their corresponding <it>α</it> and <it>d</it><inf>f</inf> values which leads to a common <it>n̄</it>(<it>t</it>) behavior given by <eqnref idrefs="eqn9">eqn (9)</eqnref>. According to our previous discussion, we can reach a physical intuition for the negative <it>λ</it> value by considering that the decreasing aggregate diffusivity is not <it>compensated</it> by the increasing aggregate collision cross section as <it>n̄</it>(<it>t</it>) increases. Indeed, the very geometry of the magnetic field lines around an aggregate results in an almost constant (elongated) cross section which will not depend on <it>n̄</it>(<it>t</it>).<citref idrefs="cit57">57</citref> However, diffusivity will decrease upon increasing <it>n̄</it>(<it>t</it>) with an expected power law evolution.<citref idrefs="cit57">57</citref> These scaling behaviors therefore lead to a more efficient reaction between small–small aggregates as compared with that between large–large aggregates.</p>
+        <table-entry id="tab1">
+          <title>Homogeneity parameter, <it>λ</it>, kinetic exponent, <it>α</it>, and fractal dimension, <it>d</it><inf>f</inf>, for different magnetic field intensities</title>
+          <table>
+            <tgroup cols="4">
+              <colspec align="left" colname="1" colnum="1" colwidth="55.76pt" />
+              <colspec align="char" char="xb1" colname="2" colnum="2" colwidth="75.29pt" />
+              <colspec align="char" char="xb1" colname="3" colnum="3" colwidth="75.29pt" />
+              <colspec align="char" char="xb1" colname="4" colnum="4" colwidth="55.11pt" />
+              <tbody>
+                <row>
+                  <entry>
+                    <it>B</it> (mT)</entry>
+                  <entry>16.6 ± 0.7</entry>
+                  <entry>27.5 ± 0.7</entry>
+                  <entry>38.8 ± 0.6</entry>
+                </row>
+                <row>
+                  <entry>
+                    <it>λ</it>
+                  </entry>
+                  <entry>−0.40 ± 0.12</entry>
+                  <entry>−0.42 ± 0.11</entry>
+                  <entry>−0.45 ± 0.10</entry>
+                </row>
+                <row>
+                  <entry>
+                    <it>α</it>
+                  </entry>
+                  <entry>0.40 ± 0.03</entry>
+                  <entry>0.44 ± 0.03</entry>
+                  <entry>0.52 ± 0.03</entry>
+                </row>
+                <row>
+                  <entry>
+                    <it>d</it>
+                    <inf>f</inf>
+                  </entry>
+                  <entry>1.78 ± 0.07</entry>
+                  <entry>1.60 ± 0.06</entry>
+                  <entry>1.33 ± 0.05</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </table-entry>
+      </subsect1>
+      <subsect1>
+        <title>E. TEM micrographs</title>
+        <p>We now proceed to discussing the TEM micrographs obtained from the magnetic liposome suspensions after applying an intense magnetic field of <it>B</it> = 80 mT (see section II.B and <figref idrefs="fig2">Fig. 2(b)</figref> in section III.A). This magnetic field intensity is much higher than that applied during our light scattering experiments and almost corresponds to the liposome magnetic saturation (<figref idrefs="fig2">Fig. 2(b)</figref>). It is important to stress that before capturing our TEM micrographs, the sample first aggregates according to the protocol described in section II.B and then, after being exposed to the magnetic field, the magnetic field is removed leaving the sample to evolve for several minutes (this time is indeed significantly greater than that needed to recover the almost monomeric state reported in <figref idrefs="fig4">Fig. 4</figref>). The discussion we present here is based on a simple observational inspection of the TEM micrographs.</p>
+        <p>
+          <figref idrefs="fig6">Fig. 6</figref> shows different TEM micrographs of the liposome suspension for different control regions within the sample and different magnifications. The first message is obvious: despite having evolved without the presence of an external magnetic field, the sample shows the existence of several surviving aggregates (<figref idrefs="fig6">Fig. 6(b)</figref>). From now on we will refer to these aggregates as <it>irreversible aggregates</it>. Despite we cannot discard the existence of small surviving aggregates after applying lower magnetic field intensities, the presence of these irreversible aggregates seems to contrast with the almost complete reversible aggregation reported at the end of section III.B (<figref idrefs="fig4">Fig. 4</figref>). Micrographs also support a second <it>structural message</it>: irreversible aggregates show an almost linear structure (<figref idrefs="fig6">Fig. 6(a), (c), (d) and (f</figref>)) compatible with the fractal dimension (<it>d</it><inf>f</inf> → 1) that would be expected after having aggregated under the influence of an intense magnetic field (see section III.C). Indeed, the only non-linear (branched) structures we see (albeit scarce) correspond to “Y-like” shaped aggregates where one of the liposomes acts as a junction point between two branches (<figref idrefs="fig6">Fig. 6(e)</figref>).<citref idrefs="cit62">62</citref></p>
+        <figure id="fig6" xsrc="c7nr05301k-f6.tif">
+          <title>TEM micrographs of a sample of magnetic liposomes which was first exposed to an intense magnetic field of <it>B</it> = 80 mT. The sample then evolved for several minutes without the presence of an external magnetic field before capturing the images (see sections II.B and III.A, and <figref idrefs="fig2">Fig. 2b</figref>). The micrographs correspond to different control regions and different magnifications.</title>
+        </figure>
+        <p>We now discuss some specific but still significant details. On one hand, aggregate size polydispersity seems to be rather low (with an average number of liposomes per aggregate of the order of 10). On the other hand, irreversible aggregates seem to be constituted by rather monodisperse liposomes, that is, the size polydispersity of the liposomes forming the irreversible aggregates seems to be lower than that corresponding to the whole sample (section III.A). This rather monodisperse aggregate composition is compatible with theoretical predictions for chain-like aggregates in polydisperse ferrofluids where the presence of small magnetic particles as part of the aggregates is not favorable.<citref idrefs="cit107 cit108">107,108</citref> On this theoretical basis, we could understand the presence of small magnetite spots in our TEM micrographs as a manifestation of small dried magnetic liposomes which were not able of being part of the irreversible aggregates.</p>
+        <p>Aggregate shape also deserves further discussion. Magnetic particles with remanent magnetization in the absence of an external magnetic field can in principle self-assemble into closed aggregates. In particular, computational studies on dipolar hard-spheres<citref idrefs="cit61">61</citref> and experimental investigations with microscopic ferromagnetic particles<citref idrefs="cit109">109</citref> show the emergence of ring shaped aggregates. However, our irreversible aggregates do not show (at least from the current TEM micrographs) ring structures. The absence of rings (whose presence is expected for particles with a high remanent magnetization) can represent a manifestation of the superparamagnetic nature of the magnetic liposomes for which no magnetic hysteresis was detected (<figref idrefs="fig2">Fig. 2(b)</figref>). In this respect, and giving that we cannot appeal to particle remanent magnetization, what is the interaction mechanism responsible for maintaining the integrity of our irreversible aggregates in the absence of an external magnetic field?</p>
+      </subsect1>
+      <subsect1>
+        <title>F. Liposome interactions</title>
+        <p>Reaching a precise quantitative answer to the previous question needs further systematic investigation, specially focused on the empirical phenomenology associated to the different interactions governing aggregation and stabilization in our system. Instead, here we address this question by briefly discussing a plausible schematic picture based on purely heuristic arguments.</p>
+        <p>Coexistence between reversible and irreversible aggregation in mesoscopic particle systems has been rationalized by the existence of primary and secondary minima of the particle potential energy.<citref idrefs="cit110">110</citref> Thus, when aggregation is promoted by a certain mechanism (<it>e.g.</it> here by applying an external magnetic field), particles can in principle aggregate in a permanent (irreversible) state which is associated to a primary minimum where the aggregated state will be maintained despite canceling the mechanism provoking aggregation (<it>e.g.</it> by switching off the external magnetic field). However, particles can also aggregate in a secondary minimum being restored to their non-aggregated state as soon as the mechanism promoting aggregation is canceled.</p>
+        <p>The idea of an interaction mechanism based on the existence of primary and secondary minima to understand irreversible and reversible aggregation is schematically presented in <figref idrefs="fig7">Fig. 7</figref> for a magnetically induced aggregation process. Thus, in the presence of an external magnetic field (blue line) some particles (purple) aggregate in a permanent (irreversible) primary minimum whereas other (blue particles) aggregate in a (reversible) secondary minimum. When the external magnetic field is switched off (red line), particles aggregating in the secondary minimum become separated. Theoretical approximations based on this underlying picture have been proposed in the past to understand the aggregation of superparamagnetic colloidal latex particles.<citref idrefs="cit110 cit111 cit112">110–112</citref> In this context, the emergence of primary and secondary minima results from the interplay (or competition) between Coulombic repulsion (treated by a linear superposition approximation), London-van der Waals attraction (Derjaguin approach), and magnetic dipole–dipole attraction. This approach has indeed shown to be successful for predicting and controlling magnetic flocculation to concentrate or remove ultrafine magnetic particles (linear size smaller than 5 μm).<citref idrefs="cit113">113</citref></p>
+        <figure id="fig7" xsrc="c7nr05301k-f7.tif">
+          <title>Sketch of the total potential energy between two magnetic particles (here liposomes) based on the theoretical approximation of <citref idrefs="cit110 cit111 cit112" position="baseline">ref. 110–112</citref>. Blue line represents the total potential energy in the presence of an external magnetic field where particles can become stuck in a primary (purple particles) or in a secondary (blue particles) minimum. In the absence of an external magnetic field (red line) those particles that were in a secondary minimum become separated (reversible aggregation, red particles) whereas particles that were in a primary minimum retain their aggregated state (irreversible aggregation, purple particles). Distance can here be interpreted as the separation distance between the external surface of the particles (<it>i.e.</it> the distance between the external surface of two liposome membranes). Separation between particle sketches is merely illustrative in the figure: thus separation between non-aggregated particles (red) has been enhanced whereas that corresponding to the aggregated particles (blue and purple) has been intentionally reduced.</title>
+        </figure>
+        <p>These interactions<citref idrefs="cit110 cit111 cit112">110–112</citref> (<it>i.e.</it> DLVO and magnetic dipole–dipole interactions) seem to play, <it>a priori</it>, a significant role by governing stabilization–aggregation in our magnetic liposome system. Thus, Coulombic repulsion is present in our system as manifested by the non-negligible zeta-potential<citref idrefs="cit30">30</citref> whereas London-van der Waals interaction has been identified as the main short range attraction between lipid membranes.<citref idrefs="cit114">114</citref> In addition, a non-DLVO ingredient widely reported in the liposome literature should presumably be considered to reach a complete theoretical description for the magnetic liposome aggregation mechanism: short range hydration repulsion.<citref idrefs="cit70 cit83 cit84 cit85 cit86 cit87 cit88">70,83–88</citref></p>
+        <p>To calibrate whether or not this <it>complete</it> approach is consistent with a primary–secondary minimum scenario in the present system, additional experiments should be performed. In particular, a more refined control of the magnetic field intensity would help us to better quantify the emergence of primary and secondary minima. Moreover, further experiments in the presence of added electrolyte could also help us to judiciously manipulate Coulombic and hydration repulsions,<citref idrefs="cit70">70</citref> therefore providing valuable quantitative information on the interplay between attractive and repulsive interactions. In the meantime, we are led to speculate on the primary–secondary minimum picture as a plausible mechanism to explain irreversibility–reversibility in our system suggesting future systematic experimental work to resolve this issue further.</p>
+      </subsect1>
+    </section>
+    <section>
+      <no>IV.</no>
+      <title>Summary and conclusions</title>
+      <p>We have presented a comprehensive study on the aggregation of superparamagnetic liposomes in solution under the influence of a controllable external magnetic field. We have investigated the liposome aggregation kinetics, the aggregate structure, and the coexistence between reversible and irreversible aggregation by Dynamic and Static Light Scattering (DLS and SLS), and by images obtained from Transmission Electron Microscopy (TEM).</p>
+      <p>Aggregation kinetics has been probed by DLS and followed by the time evolution of the aggregate diffusion coefficient. For a constant magnetic field intensity, the aggregate diffusion coefficient shows a stationary value at sufficiently long times which decreases upon increasing the external magnetic field intensity. We have proven how this stationary value, which is here interpreted as a balance between liposome cluster aggregation and fragmentation, scales with the inverse of the square of the liposome magnetization. Before reaching its stationary value, the diffusion coefficient follows a time dependent power law behavior with a kinetic exponent, <it>α</it>, which increases upon increasing magnetic field intensity. As a manifestation of aggregation reversibility, we have further shown how liposomes aggregating under the influence of a low magnetic field intensity (&lt;40 mT) almost recover their initial (non-aggregated) state when the external magnetic field is switched off.</p>
+      <p>We have taken advantage of the long time stationary value of the liposome aggregate diffusion coefficient to probe the aggregate structure by SLS through the aggregate structure factor. Thus we have proven the aggregate structure to be fractal and shown how the fractal dimension, <it>d</it><inf>f</inf>, decreases upon increasing the external magnetic field intensity, resulting in the emergence of almost linear aggregate structures (<it>d</it><inf>f</inf> → 1). We have finally shown how structure and dynamics are connected in our system by finding a scaling relation between the kinetic exponent, <it>α</it>, and the aggregate fractal dimension, <it>d</it><inf>f</inf>, which allows us to understand aggregation kinetics and aggregate structure in terms of a single homogeneity parameter.</p>
+      <p>By TEM micrographs we have also shown the existence of irreversible liposome aggregates which result from an aggregation process in the presence of an intense external magnetic field (80 mT). These irreversible aggregates show an open linear structure and survive despite switching off the external magnetic field. To rationalize the coexistence between reversible and irreversible aggregates, we have suggested a schematic picture based on the existence of primary and secondary minima of the liposome potential energy.</p>
+      <p>In conclusion, we have revealed the rich interaction scenario involved in the magnetically induced aggregation of superparamagnetic liposomes in suspension. Understanding the mechanisms controlling the aggregation of these (and other) biocompatible magnetic nanodevices is a cornerstone for exploiting their singular capabilities as functional agents in promising medical and biotechnological applications.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>We thank Miguel Hernández-Díaz, Fernando Vereda, Miguel Peláez-Fernández, Daniel Aguilar-Hidalgo, and Judit Clopés-Llahí for their valuable technical assistance. We also thank the scientific-technical services of the University of Granada and the University of Barcelona for their support and assistance with the TEM micrographs. Particle sketches in <figref idrefs="fig4">Fig. 4</figref> and <figref idrefs="fig7">7</figref> were made with VMD software support (VMD is developed with NIH support by the Theoretical and Computational Biophysics group at the Beckman Institute, University of Illinois at Urbana-Champaign). J. C.-F. acknowledges support from Ministerio de Economía y Competitividad (MINECO), Plan Nacional de Investigación, Desarrollo e Innovación Tecnológica (I + D + i), Project FIS2016-80087-C2-1-P. We would like to express our gratitude to Fernando Martínez-Pedrero, Lorenzo Rovigatti, Izaak Neri, and Jakob Löber for the critical reading of this manuscript and their valuable comments. Open Access funding provided by the Max Planck Society.</p>
+      <?Pub Caret 430?>
+    </ack>
+    <biblist>
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Nie</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Petukhova</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Kumacheva</surname>
+          </citauth>
+          <title>Nat. Nanotechnol.</title>
+          <year>2010</year>
+          <volumeno>5</volumeno>
+          <pages>
+            <fpage>15</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <citation type="book">
+          <title>Janus Particles Synthesis, Self-Assembly, and Applications, RSC Smart Materials</title>, ed. <editor>S. Granick</editor> and <editor>S. Jiang</editor>, <citpub>RCS Publishing</citpub>, <pubplace>London</pubplace>, <year>2012</year></citation>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Breed</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Manoharan</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Feng</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hollingsworth</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Weck</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Pine</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>2012</year>
+          <volumeno>491</volumeno>
+          <pages>
+            <fpage>51</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Condon</surname>
+          </citauth>
+          <title>Nat. Rev. Genet.</title>
+          <year>2006</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>565</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Seeman</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>2003</year>
+          <volumeno>421</volumeno>
+          <pages>
+            <fpage>427</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Wilczewska</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Niemirowicz</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Markiewicz</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Car</surname>
+          </citauth>
+          <title>Pharmacol. Rep.</title>
+          <year>2012</year>
+          <volumeno>64</volumeno>
+          <pages>
+            <fpage>1020</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Tran</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Webster</surname>
+          </citauth>
+          <title>J. Mater. Chem.</title>
+          <year>2010</year>
+          <volumeno>20</volumeno>
+          <pages>
+            <fpage>8760</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Brown Jr.</surname>
+          </citauth>
+          <title>Phys. Rev.</title>
+          <year>1963</year>
+          <volumeno>130</volumeno>
+          <pages>
+            <fpage>1677</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <citation type="book">
+          <citauth>
+            <fname>W.</fname>
+            <surname>Brown Jr.</surname>
+          </citauth>, <title>Magneto-static Principles in Ferronzagnetism</title>, <citpub>North-Holland Publishing Company</citpub>, <pubplace>Amsterdam</pubplace>, <year>1962</year>, ch. 6</citation>
+      </citgroup>
+      <citgroup id="cit10">
+        <citation type="book">
+          <citauth>
+            <fname>V.</fname>
+            <surname>Cabuil</surname>
+          </citauth>, <arttitle>Preparation and Properties of Magnetic Nanoparticles</arttitle>, in <title>Encyclopedia of Surface and Colloid Science</title>, <citpub>Marcel Dekker</citpub>, <year>2000</year></citation>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Reiss</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hutten</surname>
+          </citauth>
+          <title>Nat. Mater.</title>
+          <year>2005</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>725</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Pankhurst</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Connolly</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Jones</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Dobson</surname>
+          </citauth>
+          <title>J. Phys. D: Appl. Phys.</title>
+          <year>2003</year>
+          <volumeno>36</volumeno>
+          <pages>
+            <fpage>R167</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Tartaj</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>del Puerto Morales</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Veintemillas-Verdaguer</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>González-Carreño</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Serna</surname>
+          </citauth>
+          <title>J. Phys. D: Appl. Phys.</title>
+          <year>2003</year>
+          <volumeno>36</volumeno>
+          <pages>
+            <fpage>R182</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Roca</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Costo</surname>
+          </citauth>
+          <citauth>
+            <fname>A. F.</fname>
+            <surname>Rebolledo</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Veintemillas-Verdaguer</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Tartaj</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>González-Carreño</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Morales</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Serna</surname>
+          </citauth>
+          <title>J. Phys. D: Appl. Phys.</title>
+          <year>2009</year>
+          <volumeno>42</volumeno>
+          <pages>
+            <fpage>224002</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Arruebo</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Fernández-Pacheco</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ibarra</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Santamaría</surname>
+          </citauth>
+          <title>Nanotoday</title>
+          <year>2007</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>22</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit16">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Sun</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <title>Adv. Drug Delivery Rev.</title>
+          <year>2008</year>
+          <volumeno>60</volumeno>
+          <pages>
+            <fpage>1252</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mahmoudi</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Sant</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Laurent</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Sen</surname>
+          </citauth>
+          <title>Adv. Drug Delivery Rev.</title>
+          <year>2011</year>
+          <volumeno>63</volumeno>
+          <pages>
+            <fpage>24</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Chomoucka</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Drbohlavova</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Huska</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Adam</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Kizek</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Hubalek</surname>
+          </citauth>
+          <title>Pharmacol. Res.</title>
+          <year>2010</year>
+          <volumeno>62</volumeno>
+          <pages>
+            <fpage>144</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Hu</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <title>Nanoscale</title>
+          <year>2014</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>14064</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <citation type="book">
+          <citauth>
+            <fname>D.</fname>
+            <surname>Lasic</surname>
+          </citauth>, <title>Liposomes: From Physics to Applications</title>, <citpub>Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>1993</year></citation>
+      </citgroup>
+      <citgroup id="cit21">
+        <citation type="book">
+          <citauth>
+            <fname>D.</fname>
+            <surname>Lasic</surname>
+          </citauth>, <title>Handbook of Biological Physics</title>, ed. <editor>R. Lipowsky</editor> and <editor>E. Sackmann</editor>, <citpub>Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>1995</year>, ch. 10, vol. <volumeno>1</volumeno></citation>
+      </citgroup>
+      <citgroup id="cit22">
+        <citation type="book">
+          <title>Medical Applications of Liposomes</title>, ed. <editor>D. D. Lasic</editor> and <editor>D. Papahadjopoulos</editor>, <citpub>Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>1998</year></citation>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>De Cuyper</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Joniau</surname>
+          </citauth>
+          <title>Eur. Biophys. J.</title>
+          <year>1988</year>
+          <volumeno>15</volumeno>
+          <pages>
+            <fpage>311</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Martina</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Fortin</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Ménager</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Clément</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Barratt</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Grabielle-Madelmont</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Gazeau</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Cabuil</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Lesieur</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2005</year>
+          <volumeno>127</volumeno>
+          <pages>
+            <fpage>10676</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Sabaté</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Barnadas-Rodríguez</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Hidalgo-Álvarez</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Estelrich</surname>
+          </citauth>
+          <title>Int. J. Pharm.</title>
+          <year>2008</year>
+          <volumeno>347</volumeno>
+          <pages>
+            <fpage>156</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Plassat</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Martina</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Barratt</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Ménager</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Lesieur</surname>
+          </citauth>
+          <title>Int. J. Pharm.</title>
+          <year>2007</year>
+          <volumeno>344</volumeno>
+          <pages>
+            <fpage>118</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Pereira da Silva Gomes</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Rank</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Kronenberger</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Fritz</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Winterhalter</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Ramaye</surname>
+          </citauth>
+          <title>Langmuir</title>
+          <year>2009</year>
+          <volumeno>25</volumeno>
+          <pages>
+            <fpage>6793</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Bose</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bothun</surname>
+          </citauth>
+          <title>ACS Nano</title>
+          <year>2010</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>3215</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Nappini</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonini</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Baldelli Bombelli</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Pineider</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Sangregorio</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Baglioni</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Nordèn</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2011</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>1025</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>García-Jimeno</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Escribano</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Queralt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Estelrich</surname>
+          </citauth>
+          <title>Int. J. Pharm.</title>
+          <year>2011</year>
+          <volumeno>405</volumeno>
+          <pages>
+            <fpage>181</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Barenholz</surname>
+          </citauth>
+          <title>Curr. Opin. Colloid Interface Sci.</title>
+          <year>2001</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>66</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hervault</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Thanh</surname>
+          </citauth>
+          <title>Nanoscale</title>
+          <year>2014</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>11553</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Safarikova</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Safarik</surname>
+          </citauth>
+          <title>Magn. Electr. Sep.</title>
+          <year>2001</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>223</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Hamaguchi</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Tohnai</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ito</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Mitsudo</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Shigetomi</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ito</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Honda</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kobayashi</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ueda</surname>
+          </citauth>
+          <title>Cancer Sci.</title>
+          <year>2003</year>
+          <volumeno>94</volumeno>
+          <pages>
+            <fpage>834</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ito</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Kuga</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Honda</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Kikkawa</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Horiuchi</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Watanabe</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kobayashi</surname>
+          </citauth>
+          <title>Cancer Lett.</title>
+          <year>2004</year>
+          <volumeno>212</volumeno>
+          <pages>
+            <fpage>167</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Gonzales</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Krishnan</surname>
+          </citauth>
+          <title>J. Magn. Magn. Mater.</title>
+          <year>2005</year>
+          <volumeno>293</volumeno>
+          <pages>
+            <fpage>265</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Béalle</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Di Corato</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Kolosnjaj-Tabi</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Dupuis</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Clément</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Gazeau</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Wilhelm</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Ménager</surname>
+          </citauth>
+          <title>Langmuir</title>
+          <year>2012</year>
+          <volumeno>28</volumeno>
+          <pages>
+            <fpage>11834</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit38">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Bulte</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>De Cuyper</surname>
+          </citauth>
+          <title>Methods Enzymol.</title>
+          <year>2003</year>
+          <volumeno>373</volumeno>
+          <pages>
+            <fpage>175</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit39">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Du</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Han</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Zhao</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Su</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Cao</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <title>Nanoscale</title>
+          <year>2015</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>5411</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Dandamudi</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Campbell</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>2006</year>
+          <volumeno>1768</volumeno>
+          <pages>
+            <fpage>427</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Martina</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Wilhelm</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Lesieur</surname>
+          </citauth>
+          <title>Biomaterials</title>
+          <year>2008</year>
+          <volumeno>29</volumeno>
+          <pages>
+            <fpage>4137</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Soenen</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Brisson</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Jonckheere</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Nuytten</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Tan</surname>
+          </citauth>
+          <citauth>
+            <fname>U.</fname>
+            <surname>Himmelreich</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>De Cuyper</surname>
+          </citauth>
+          <title>Biomaterials</title>
+          <year>2011</year>
+          <volumeno>32</volumeno>
+          <pages>
+            <fpage>1748</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit43">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Benyettou</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Chebbi</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Motte</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Seksek</surname>
+          </citauth>
+          <title>J. Mater. Chem.</title>
+          <year>2011</year>
+          <volumeno>21</volumeno>
+          <pages>
+            <fpage>4813</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit44">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Saville</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Woodward</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>House</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Tokarev</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Hammers</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Qi</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Shaw</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Saunders</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Varsani</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>St Pierre</surname>
+          </citauth>
+          <arttitle>
+            <it>et al.</it>
+          </arttitle>
+          <title>Nanoscale</title>
+          <year>2013</year>
+          <volumeno>5</volumeno>
+          <pages>
+            <fpage>2152</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit45">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Saville</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Qi</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Baker</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Stone</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Camley</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Livesey</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Ye</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Crawford</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Mefford</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>2014</year>
+          <volumeno>424</volumeno>
+          <pages>
+            <fpage>141</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit46">
+        <journalcit>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Myrovali</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Maniotis</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Makridis</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Terzopoulou</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Ntomprougkidis</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Simeonidis</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Sakellari</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Kalogirou</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Samaras</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Salikhov</surname>
+          </citauth>
+          <arttitle>
+            <it>et al.</it>
+          </arttitle>
+          <title>Sci. Rep.</title>
+          <year>2016</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>37934</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit47">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Jun</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Baek</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Kang</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Hyeon</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Jeong</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2011</year>
+          <volumeno>13</volumeno>
+          <pages>
+            <fpage>7298</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit48">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Matsumura</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Maeda</surname>
+          </citauth>
+          <title>Cancer Res.</title>
+          <year>1986</year>
+          <volumeno>46</volumeno>
+          <pages>
+            <fpage>6387</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit49">
+        <journalcit>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Mody</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Cox</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Shah</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Singh</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Bevins</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Parihar</surname>
+          </citauth>
+          <title>Appl. Nanosci.</title>
+          <year>2014</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>385</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit50">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Licinio</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Frézard</surname>
+          </citauth>
+          <title>Braz. J. Phys.</title>
+          <year>2001</year>
+          <volumeno>31</volumeno>
+          <pages>
+            <fpage>356</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit51">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Colloids Surf., A</title>
+          <year>2005</year>
+          <volumeno>270</volumeno>
+          <pages>
+            <fpage>317</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit52">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2006</year>
+          <volumeno>125</volumeno>
+          <pages>
+            <fpage>084706</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit53">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2007</year>
+          <volumeno>76</volumeno>
+          <pages>
+            <fpage>011405</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit54">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Colloid Interface Sci.</title>
+          <year>2008a</year>
+          <volumeno>318</volumeno>
+          <pages>
+            <fpage>23</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit55">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Langmuir</title>
+          <year>2009</year>
+          <volumeno>25</volumeno>
+          <pages>
+            <fpage>6658</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit56">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Domínguez-García</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Rubio</surname>
+          </citauth>
+          <title>Colloids Surf., A</title>
+          <year>2010</year>
+          <volumeno>358</volumeno>
+          <pages>
+            <fpage>21</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit57">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>El-Harrak</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Fernández-Toledano</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tirado-Miranda</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Baudry</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Schmitt</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Bibette</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2008b</year>
+          <volumeno>78</volumeno>
+          <pages>
+            <fpage>011403</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit58">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Domínguez-García</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Melle</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Rubio</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>2009</year>
+          <volumeno>333</volumeno>
+          <pages>
+            <fpage>221</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit59">
+        <journalcit>
+          <citauth>
+            <fname>J. S.</fname>
+            <surname>Andreu</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Camacho</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Faraudo</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2011</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>2336</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit60">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bertoni</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Torre</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Falqui</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Fragouli</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Athanassiou</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Cingolani</surname>
+          </citauth>
+          <title>J. Phys. Chem. C</title>
+          <year>2011</year>
+          <volumeno>115</volumeno>
+          <pages>
+            <fpage>7249</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit61">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Rovigatti</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Russo</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Sciortino</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>2011</year>
+          <volumeno>107</volumeno>
+          <pages>
+            <fpage>237801</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit62">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Tlusty</surname>
+          </citauth>
+          <citauth>
+            <fname>S. A.</fname>
+            <surname>Safran</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2000</year>
+          <volumeno>290</volumeno>
+          <pages>
+            <fpage>1328</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit63">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Cerdà</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kantorovich</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Holm</surname>
+          </citauth>
+          <title>J. Phys.: Condens. Matter</title>
+          <year>2008</year>
+          <volumeno>20</volumeno>
+          <pages>
+            <fpage>204125</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit64">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Szoka</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Papahadjopoulos</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>1978</year>
+          <volumeno>75</volumeno>
+          <pages>
+            <fpage>4194</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit65">
+        <journalcit>
+          <citauth>
+            <fname>R. C.</fname>
+            <surname>MacDonald</surname>
+          </citauth>
+          <citauth>
+            <fname>R. I.</fname>
+            <surname>MacDonald</surname>
+          </citauth>
+          <citauth>
+            <fname>B. P.</fname>
+            <surname>Menco</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Takeshita</surname>
+          </citauth>
+          <citauth>
+            <fname>N. K.</fname>
+            <surname>Subbarao</surname>
+          </citauth>
+          <citauth>
+            <fname>L. R.</fname>
+            <surname>Hu</surname>
+          </citauth>
+          <title>Biochim. Biophys. Acta</title>
+          <year>1991</year>
+          <volumeno>1061</volumeno>
+          <pages>
+            <fpage>297</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit66">
+        <journalcit>
+          <citauth>
+            <fname>J. C.</fname>
+            <surname>Steward-Marshall</surname>
+          </citauth>
+          <title>Anal. Biochem.</title>
+          <year>1980</year>
+          <volumeno>104</volumeno>
+          <pages>
+            <fpage>10</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit67">
+        <citation type="book">
+          <citauth>
+            <fname>P.</fname>
+            <surname>Pusey</surname>
+          </citauth>, <title>Liquids, Freezing and Glass Transition, Lecture Notes for Les Houches, Session LI, Part 2, Course 10: Colloidal Suspensions</title>, <citpub>North Holland</citpub>, <pubplace>Amsterdam</pubplace>, <year>1989</year></citation>
+      </citgroup>
+      <citgroup id="cit68">
+        <citation type="book">
+          <citauth>
+            <fname>P.</fname>
+            <surname>Pusey</surname>
+          </citauth>, <title>Introduction to scattering experiments, in Neutrons, X-rays and light: scattering methods applied to soft condensed matter</title>, <citpub>North Holland, Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>2002</year></citation>
+      </citgroup>
+      <citgroup id="cit69">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Roldán-Vargas</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Martín-Molina</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Quesada-Pérez</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Barnadas-Rodríguez</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Estelrich</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2007</year>
+          <volumeno>75</volumeno>
+          <pages>
+            <fpage>021912</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit70">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Roldán-Vargas</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Barnadas-Rodríguez</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Quesada-Pérez</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Estelrich</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2009a</year>
+          <volumeno>79</volumeno>
+          <pages>
+            <fpage>011905</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit71">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Sorensen</surname>
+          </citauth>
+          <title>Aerosol Sci. Technol.</title>
+          <year>2001</year>
+          <volumeno>35</volumeno>
+          <pages>
+            <fpage>648</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit72">
+        <citation type="book">
+          <citauth>
+            <fname>B.</fname>
+            <surname>Berne</surname>
+          </citauth> and <citauth><fname>R.</fname><surname>Pecora</surname></citauth>, <title>Dynamic Light Scattering With Applications to Chemistry, Biology, and Physics</title>, <citpub>Dover Publications</citpub>, <pubplace>Mineola, New York</pubplace>, <year>2000</year></citation>
+      </citgroup>
+      <citgroup id="cit73">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Koppel</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>1972</year>
+          <volumeno>57</volumeno>
+          <pages>
+            <fpage>4814</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit74">
+        <citation type="book">
+          <citauth>
+            <fname>J.</fname>
+            <surname>Dhont</surname>
+          </citauth>, <title>An Introduction to Dynamics of Colloids</title>, <citpub>Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>1996</year></citation>
+      </citgroup>
+      <citgroup id="cit75">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Roldán-Vargas</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Quesada-Pérez</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Callejas-Fernández</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2009b</year>
+          <volumeno>131</volumeno>
+          <pages>
+            <fpage>034509</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit76">
+        <journalcit>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Morrison</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Grabowski</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Herb</surname>
+          </citauth>
+          <title>Langmuir</title>
+          <year>1985</year>
+          <volumeno>1</volumeno>
+          <pages>
+            <fpage>496</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit77">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Shevkoplyas</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Siegel</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Westervelt</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Prentiss</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <title>Lab Chip</title>
+          <year>2007</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>1294</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit78">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>D'Aguanno</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Klein</surname>
+          </citauth>
+          <title>J. Chem. Soc., Faraday Trans.</title>
+          <year>1991</year>
+          <volumeno>87</volumeno>
+          <pages>
+            <fpage>379</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit79">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>D'Aguanno</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Klein</surname>
+          </citauth>
+          <title>Phys. Rev. A</title>
+          <year>1992</year>
+          <volumeno>46</volumeno>
+          <pages>
+            <fpage>7652</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit80">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Schnablegger</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Glatter</surname>
+          </citauth>
+          <title>Appl. Opt.</title>
+          <year>1991</year>
+          <volumeno>30</volumeno>
+          <pages>
+            <fpage>4889</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit81">
+        <journalcit>
+          <citauth>
+            <fname>B. V.</fname>
+            <surname>Derjaguin</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Landau</surname>
+          </citauth>
+          <title>Acta Physicochim. URSS</title>
+          <year>1941</year>
+          <volumeno>14</volumeno>
+          <pages>
+            <fpage>633</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit82">
+        <citation type="book">
+          <citauth>
+            <fname>E.</fname>
+            <surname>Verwey</surname>
+          </citauth> and <citauth><fname>J.</fname><surname>Overbeek</surname></citauth>, <title>Theory of the Stability of Lyophobic Colloids</title>, <citpub>Elsevier</citpub>, <pubplace>Amsterdam</pubplace>, <year>1948</year></citation>
+      </citgroup>
+      <citgroup id="cit83">
+        <journalcit>
+          <citauth>
+            <fname>T. J.</fname>
+            <surname>McIntosh</surname>
+          </citauth>
+          <title>Chem. Phys. Lipids</title>
+          <year>1996</year>
+          <volumeno>81</volumeno>
+          <pages>
+            <fpage>117</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit84">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Israelachvili</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Wennerstrom</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1996</year>
+          <volumeno>379</volumeno>
+          <pages>
+            <fpage>219</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit85">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Petsev</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Vekilov</surname>
+          </citauth>
+          <title>Chem. Phys. Lett.</title>
+          <year>2000</year>
+          <volumeno>84</volumeno>
+          <pages>
+            <fpage>1339</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit86">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Marcella</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>1976</year>
+          <volumeno>42</volumeno>
+          <pages>
+            <fpage>129</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit87">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Ohki</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Arnold</surname>
+          </citauth>
+          <title>Colloids Surf., B</title>
+          <year>2000</year>
+          <volumeno>18</volumeno>
+          <pages>
+            <fpage>83</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit88">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>LeNeveu</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Rand</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Parsegian</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1976</year>
+          <volumeno>259</volumeno>
+          <pages>
+            <fpage>601</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit89">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Chan</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Henderson</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Barojas</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Homola</surname>
+          </citauth>
+          <title>IBM J. Res. Dev.</title>
+          <year>1985</year>
+          <volumeno>29</volumeno>
+          <pages>
+            <fpage>11</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit90">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Promislow</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Gast</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>1995</year>
+          <volumeno>102</volumeno>
+          <pages>
+            <fpage>5942</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit91">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Tsouris</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Scott</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>1995</year>
+          <volumeno>171</volumeno>
+          <pages>
+            <fpage>319</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit92">
+        <citation type="book">
+          <citauth>
+            <fname>S.</fname>
+            <surname>Chikazumi</surname>
+          </citauth>, <title>Physics of Magnetism</title>, <citpub>Wiley</citpub>, <pubplace>New York</pubplace>, <year>1964</year></citation>
+      </citgroup>
+      <citgroup id="cit93">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Leyvraz</surname>
+          </citauth>
+          <title>Phys. Rep.</title>
+          <year>2003</year>
+          <volumeno>383</volumeno>
+          <pages>
+            <fpage>95</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit94">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Kolb</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>1984</year>
+          <volumeno>53</volumeno>
+          <pages>
+            <fpage>1653</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit95">
+        <citation type="book">
+          <citauth>
+            <fname>D.</fname>
+            <surname>Weitz</surname>
+          </citauth> and <citauth><fname>J.</fname><surname>Huang</surname></citauth>, <title>Self-Similar Structures and the Kinetics of Aggregation of Gold Colloids</title>, <citpub>Elsevier Science</citpub>, <pubplace>New York</pubplace>, <year>1984</year></citation>
+      </citgroup>
+      <citgroup id="cit96">
+        <journalcit>
+          <citauth>
+            <fname>M. Y.</fname>
+            <surname>Lin</surname>
+          </citauth>
+          <citauth>
+            <fname>H. M.</fname>
+            <surname>Lindsay</surname>
+          </citauth>
+          <citauth>
+            <fname>D. A.</fname>
+            <surname>Weitz</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Klein</surname>
+          </citauth>
+          <citauth>
+            <fname>R. C.</fname>
+            <surname>Ball</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Meakin</surname>
+          </citauth>
+          <title>J. Phys.: Condens. Matter</title>
+          <year>1990</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>3093</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit97">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>van Dongen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ernst</surname>
+          </citauth>
+          <title>J. Stat. Phys.</title>
+          <year>1984</year>
+          <volumeno>37</volumeno>
+          <pages>
+            <fpage>301</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit98">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Family</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Meakin</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Deutch</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>1986</year>
+          <volumeno>57</volumeno>
+          <pages>
+            <fpage>727</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit99">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bushell</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Amal</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>1998</year>
+          <volumeno>205</volumeno>
+          <pages>
+            <fpage>459</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit100">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Tence</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Chevalier</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Jullien</surname>
+          </citauth>
+          <title>J. Phys.</title>
+          <year>1986</year>
+          <volumeno>47</volumeno>
+          <pages>
+            <fpage>1989</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit101">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Martin</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Wilcoxon</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Schaefer</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Odinek</surname>
+          </citauth>
+          <title>Phys. Rev. A</title>
+          <year>1990</year>
+          <volumeno>41</volumeno>
+          <pages>
+            <fpage>4379</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit102">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Rovigatti</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Russo</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Sciortino</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2012</year>
+          <volumeno>8</volumeno>
+          <pages>
+            <fpage>6310</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit103">
+        <journalcit>
+          <citauth>
+            <fname>P. J.</fname>
+            <surname>Camp</surname>
+          </citauth>
+          <citauth>
+            <fname>G. N.</fname>
+            <surname>Patey</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2000</year>
+          <volumeno>62</volumeno>
+          <pages>
+            <fpage>5403</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit104">
+        <citation type="thesis">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Brodie</surname>
+          </citauth>, <title>Experimental study of aggregation kinetics: dynamic scaling of measured Cluster-Size Distributions</title>, PhD. thesis, <citpub>Massachusetts Institute of Technology</citpub>, <year>1981</year></citation>
+      </citgroup>
+      <citgroup id="cit105">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>van Dongen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ernst</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>1985</year>
+          <volumeno>54</volumeno>
+          <pages>
+            <fpage>1396</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit106">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>van Dongen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Ernst</surname>
+          </citauth>
+          <title>J. Stat. Phys.</title>
+          <year>1988</year>
+          <volumeno>50</volumeno>
+          <pages>
+            <fpage>295</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit107">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kantorovich</surname>
+          </citauth>
+          <citauth>
+            <fname>A. O.</fname>
+            <surname>Ivanov</surname>
+          </citauth>
+          <title>J. Magn. Magn. Mater.</title>
+          <year>2002</year>
+          <volumeno>252</volumeno>
+          <pages>
+            <fpage>244</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit108">
+        <journalcit>
+          <citauth>
+            <fname>A. O.</fname>
+            <surname>Ivanov</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Kantorovich</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat. Phys., Plasmas, Fluids, Relat. Interdiscip. Top.</title>
+          <year>2004</year>
+          <volumeno>70</volumeno>
+          <pages>
+            <fpage>021401</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit109">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Martínez-Pedrero</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Cebers</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Tierno</surname>
+          </citauth>
+          <title>Phys. Rev. Appl.</title>
+          <year>2016</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>034002</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit110">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Chin</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yiacoumi</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Tsouris</surname>
+          </citauth>
+          <title>Langmuir</title>
+          <year>2001</year>
+          <volumeno>17</volumeno>
+          <pages>
+            <fpage>6065</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit111">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yiacoumi</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Rountree</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Tsouris</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>1996</year>
+          <volumeno>184</volumeno>
+          <pages>
+            <fpage>477</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit112">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Chin</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Yiacoumi</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Tsouris</surname>
+          </citauth>
+          <title>J. Colloid Interface Sci.</title>
+          <year>1998</year>
+          <volumeno>206</volumeno>
+          <pages>
+            <fpage>532</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit113">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Luo</surname>
+          </citauth>
+          <citauth>
+            <fname>A. V.</fname>
+            <surname>Nguyen</surname>
+          </citauth>
+          <title>Sep. Purif. Technol.</title>
+          <year>2017</year>
+          <volumeno>172</volumeno>
+          <pages>
+            <fpage>85</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit114">
+        <citation type="book">
+          <citauth>
+            <fname>J.</fname>
+            <surname>Israelachvili</surname>
+          </citauth>, <title>Intermolecular and Surface Forces</title>, <citpub>Academic Press</citpub>, <pubplace>London</pubplace>, <year>1991</year></citation>
+      </citgroup>
+    </biblist>
+  </art-back>
+</article>
+<?Pub *0000115484 0?>

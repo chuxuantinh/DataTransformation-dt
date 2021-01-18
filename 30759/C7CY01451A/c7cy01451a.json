@@ -1,0 +1,102 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Selective glycerol oxidation over ordered mesoporous copper aluminum oxide catalysts",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Stefan",
+                "familyName" : "Schünemann",
+                "organizations" : [{
+                    "identifier" : "ou_1445580",
+                    "name" : "Max-Planck-Institut für Kohlenforschung",
+                    "address" : "Kaiser-Wilhelm-Platz 1, 45470 Mülheim an der Ruhr, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons185894",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Ferdi",
+                "familyName" : "Schüth",
+                "organizations" : [{
+                    "identifier" : "ou_1445580",
+                    "name" : "Max-Planck-Institut für Kohlenforschung",
+                    "address" : "Kaiser-Wilhelm-Platz 1, 45470 Mülheim an der Ruhr, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons58985",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Harun",
+                "familyName" : "Tüysüz",
+                "organizations" : [{
+                    "identifier" : "ou_1445580",
+                    "name" : "Max-Planck-Institut für Kohlenforschung",
+                    "address" : "Kaiser-Wilhelm-Platz 1, 45470 Mülheim an der Ruhr, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons59060",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-23",
+        "dateAccepted" : "2017-10-05",
+        "dateSubmitted" : "2017-07-19",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cy01451a",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Catalysis Science & Technology", 
+            "volume" : "7",
+            "issue" : "23", 
+            "startPage" : "5614", 
+            "endPage" : "5624",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "2044-4761",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Ordered mesoporous Cu–Al<sub>2</sub>O<sub>3</sub> catalysts were employed for the selective oxidation of glycerol into value-added products. Co-solvents such as ethanol, 1-propanol, and tert-butanol strongly improve the reaction kinetics.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Glycerol is a major by-product of the biodiesel production and is therefore produced in high quantities. While currently there are limited possible applications for this highly functionalized molecule, glycerol can be a cheap and abundant feedstock for value-added products that are accessible by selective oxidation. Usually, the selective oxidation of glycerol utilizes expensive noble metal catalysts, such as Au, Pt, and Pd. Here we report the selective oxidation of glycerol in basic media, using ordered mesoporous Cu–Al<sub>2</sub>O<sub>3</sub> catalysts with various Cu loadings prepared by a facile soft-templating method. The materials were characterized in detail by nitrogen physisorption, vis-NIR spectroscopy, EDX, low- and wide-angle XRD, XPS, and TEM. Subsequently the reaction conditions for glycerol oxidation were optimized. The catalytic oxidation of glycerol yields C<sub>3</sub> products, such as glyceric acid and tartronic acid, and also C<sub>2</sub> and C<sub>1</sub> products, such as glycolic acid, oxalic acid, and formic acid. Moreover, the role of the solvent on the catalytic reaction was investigated, and the addition of various co-solvents to the aqueous reaction mixture was found to increase the initial reaction rate up to a factor of three. The trends of the initial reaction rates correlate well with the polarity of the water/co-solvent mixtures. The prepared Cu–Al<sub>2</sub>O<sub>3</sub> catalysts are a more cost-efficient and environmentally viable alternative to the reported noble metal catalysts."
+        }],
+        "totalNumberOfPages" : "11"
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CY01451A.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

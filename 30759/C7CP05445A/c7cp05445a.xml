@@ -1,0 +1,1869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7cp05445a</ms-id>
+    <doi>10.1039/c7cp05445a</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>August</month>
+        <day>10</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>October</month>
+      <day>3</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>12</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>19</link>
+    </volumeref>
+    <issueref>
+      <link>41</link>
+    </issueref>
+    <pubfront>
+      <fpage>28182</fpage>
+      <lpage>28188</lpage>
+      <no-of-pages>7</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>10</month>
+        <day>25</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>CP</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <suppinf>
+      <link>INFO</link>
+    </suppinf>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>Repelling and ordering: the influence of poly(ethylene glycol) on protein adsorption<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Electronic supplementary information (ESI) available. See DOI: <url>10.1039/c7cp05445a</url></footnote></title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa">
+        <person orcid="0000-0001-6136-7461">
+          <persname>
+            <fname>Christoph</fname>
+            <surname>Bernhard</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person orcid="0000-0003-3238-2181" resid="Q-7088-2017">
+          <persname>
+            <fname>Steven J.</fname>
+            <surname>Roeters</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person>
+          <persname>
+            <fname>Johannes</fname>
+            <surname>Franz</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa affb">
+        <person orcid="0000-0002-7083-7004">
+          <persname>
+            <fname>Tobias</fname>
+            <surname>Weidner</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person orcid="0000-0001-6851-8453">
+          <persname>
+            <fname>Mischa</fname>
+            <surname>Bonn</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa" role="corres">
+        <person orcid="0000-0002-0470-4043" resid="K-3464-2012">
+          <persname>
+            <fname>Grazia</fname>
+            <surname>Gonella</surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>Max Planck Institute for Polymer Research</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <addrelt>Ackermannweg 10</addrelt>
+          <city>D-55128 Mainz</city>
+          <country>Germany</country>
+        </address>
+        <email>gonella@mpip-mainz.mpg.de</email>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Department of Chemistry</nameelt>
+            <nameelt>Aarhus University</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>8000 Aarhus C</city>
+          <country>Denmark</country>
+        </address>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>Development of new materials for drug delivery and biosensing requires the fine-tuning of interfacial properties.</ictext>
+      <icgraphic id="ga" xsrc="c7cp05445a-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>Development of new materials for drug delivery and biosensing requires the fine-tuning of interfacial properties. We report here the influence of the poly(ethylene glycol) (PEG) grafting density in model phospholipid monolayers on the adsorption behavior of bovine serum albumin and human fibrinogen, not only with respect to the amount of adsorbed protein, but also its orientational ordering on the surface. As expected, with increasing interfacial PEG density, the amount of adsorbed protein decreases up to the point where complete protein repellency is reached. However, at intermediate concentrations, the net orientation of adsorbed fibrinogen is highest. The different proteins respond differently to PEG, not only in the amount of protein adsorbed, but also in the manner that proteins adsorb. The results show that for specific cases, tuning the interfacial PEG concentration allows to guide the protein adsorption configuration, a feature sought after in materials for both biosensing and biomedical applications.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <title>Introduction</title>
+      <p>Whenever materials come in contact with biological systems, adsorption of proteins on their surface occurs. Therefore, in the development of drug nanocarriers, biosensors or anti-biofouling coatings, protein resistant surfaces play an important role to prevent nonspecific protein adsorption.<citref idrefs="cit1 cit2 cit3 cit4 cit5">1–5</citref> A common approach to obtain protein repellent, or so-called anti-fouling, coatings relies on the use of hydrophilic or zwitterionic materials.<citref idrefs="cit6 cit7 cit8">6–8</citref> Among these materials poly(ethylene glycol) (PEG) is a widely used and thoroughly studied hydrophilic protein repelling polymer.<citref idrefs="cit9">9</citref> Surfaces that make use of different PEGylation strategies, namely block copolymers,<citref idrefs="cit10 cit11 cit12">10–12</citref> self-assembled monolayers on gold<citref idrefs="cit13 cit14 cit15">13–15</citref> or phospholipids,<citref idrefs="cit16 cit17 cit18">16–18</citref> have been widely used to control, localize or entirely prevent protein adsorption. In the past, various factors, such as PEG grafting density, chain length and its molecular conformation, have been studied with respect to their influence on the protein adsorption behavior.<citref idrefs="cit14 cit15 cit19 cit20 cit21 cit22 cit23 cit24">14,15,19–24</citref> While for many biomaterial applications a completely protein-repelling surface is often desired, for biosensing and drug delivery, it is more important to control the type of protein adsorbed and to tune the surface orientation in the bound state.<citref idrefs="cit15">15</citref> It has been shown recently that controlled binding of proteins on nanoparticle surfaces can help to prevent nonspecific cellular uptake and prolong the blood circulation lifetime of drug nanocarriers.<citref idrefs="cit25">25</citref> The ability to also order the adsorbed proteins might then favor the uptake by the targeted cells. Naturally, also in the case of biosensors, having access to specific binding sites of the protein is desirable.<citref idrefs="cit26">26</citref></p>
+      <p>In this work we study the influence of PEG concentration in mixed 1,2-dimyristoyl-<it>sn-glycero</it>-3-phosphoethanolamine (DMPE) and 1,2-dimyristoyl-<it>sn-glycero</it>-3-phosphoethanol-amine-<it>N</it>-[methoxy(polyethylene glycol)-2000] (DMPE-PEG2000) phospholipid monolayers on both the amount and the orientational ordering extent of the adsorbed proteins. We have chosen bovine serum albumin (BSA) and human fibrinogen (Fbg) as model systems to track the impact of PEG density on the order of large proteins. BSA and Fbg have been chosen as representative proteins in the field because of their relevance for biomedical research. Albumin is the most abundant among blood proteins, and fibrinogen plays an important role in blood coagulation and appears to have a higher affinity to the surface of PEGylated drug nanocarriers.<citref idrefs="cit25">25</citref> The two proteins are very different in terms of size (BSA ∼66 kDa and Fbg ∼340 kDa) and (tertiary) structure (globular for BSA <it>vs.</it> rod-like for Fbg). The results presented here show that the PEG density not only affects the amount of adsorbed protein, but in the case of Fbg also strongly influences the protein orientation at the surface.</p>
+      <p>In our study, we employ vibrational sum-frequency generation (SFG) spectroscopy to directly probe the protein backbone at the surface. SFG is a second-order nonlinear optical process that, in the electric dipole approximation, is forbidden in centrosymmetric media and is only allowed wherever the centrosymmetry is broken. This makes SFG spectroscopy a surface sensitive method while it is generally insensitive when used in bulk solutions. In SFG spectroscopy a spectrally broad infrared (IR) pulse and a spectrally narrow visible (VIS) laser pulse are overlapped in time and space at the interface of interest. Chemical information on presence and orientation of functional groups on a molecular level can be obtained if the IR beam is in resonance with a vibrational mode of the surface molecules. SFG spectroscopy is well suited to study proteins at interfaces.<citref idrefs="cit27 cit28 cit29">27–29</citref> In the past SFG spectroscopy has frequently been used to investigate the hydration of PEGylated surfaces in presence or absence of proteins in the subphase.<citref idrefs="cit30 cit31 cit32 cit33 cit34 cit35 cit36 cit37">30–37</citref> Moreover, there are several <it>in situ</it> studies probing the water structure or protein backbone in the amide I region after adsorption on hydrophobic or hydrophilic surfaces.<citref idrefs="cit28 cit38 cit39 cit40 cit41 cit42 cit43 cit44">28,38–44</citref> Understanding the interaction of proteins with PEGylated surfaces plays an important role <it>e.g.</it> for the functionalization of nano drugcarriers or the design of biosensing devices. However, despite the broad use of PEG little is known about the molecular adsorption geometry of proteins at the surface. Here, we use surface sensitive SFG spectroscopy to <it>in vivo</it> study the protein adsorption on PEGylated surfaces with respect to both the amount of adsorbed protein and its orientational ordering. More in general this study highlights how a suite of different techniques can be used to obtain information on the adsorption of proteins on (soft) surfaces quite often a challenging issue because of their small number compared to the ones present in bulk solution.</p>
+    </section>
+    <section>
+      <title>Experimental</title>
+      <p>In our experiments we employ a reflection geometry setup as shown in <figref idrefs="fig1">Fig. 1a</figref> in combination with a translating Langmuir trough<citref idrefs="cit45">45</citref> to collect the amide I SFG signal from the proteins adsorbed at the monolayer/PBS (phosphate buffered saline solution) interface. All spectra in this work are taken in ssp (s-polarized SFG signal, s-polarized VIS-beam and p-polarized IR-beam) polarization combination with an accumulation time of 10 minutes. Contemporaneously with the SFG measurements surface pressure measurements are performed.</p>
+      <figure id="fig1" xsrc="c7cp05445a-f1.tif">
+        <title>(a) Scheme of the reflection SFG experiment at the phospholipid monolayer. (b) Chemical structures of (top) DMPE and (bottom) DMPE-PEG2000 (<it>n</it> = 45).</title>
+      </figure>
+      <p>The phospholipid monolayer at the air/PBS interface is composed of DMPE and DMPE-PEG2000 as shown in <figref idrefs="fig1">Fig. 1b</figref>. Both phospholipids are used as received and a Langmuir trough is used to prepare the monolayers. Phospholipid mixtures containing 0, 1, 5 and 10 mol% DMPE-PEG2000 have been prepared. The lipids are spread at the air/PBS interface and compressed to an initial surface pressure of 20 mN m<sup>−1</sup>. From a comparison of the pressure–area isotherms (Fig. S1 in the ESI<fnoteref idrefs="fn1"></fnoteref>) with literature<citref idrefs="cit46 cit47 cit48">46–48</citref> it is possible to conclude that at this value of the surface pressure the monolayers are in the liquid-condensed phase. BSA, Fbg and PBS tablets are used as received. All samples have been prepared in PBS solutions (pH = 7.4) and all the experiments conducted at a temperature of 22 ± 1 °C. Further details on the Materials and methods can be found in the ESI.<fnoteref idrefs="fn1"></fnoteref></p>
+    </section>
+    <section>
+      <title>Results and discussion</title>
+      <p>For the SFG experiments the lipids mixtures containing 0–10 mol% of DMPE-PEG2000 are spread on a PBS subphase and compressed. After an initial surface pressure of 20 mN m<sup>−1</sup> is reached, SFG spectra are collected, to study the order of the lipid monolayer, as shown in <figref idrefs="fig2">Fig. 2</figref>. A peak at ∼1735 cm<sup>−1</sup>, assigned to the carbonyl stretch vibration of the lipids, is present in all spectra. In general, the SFG signal intensity depends not only on the number of probed molecules, but also on their orientation.<citref idrefs="cit49">49</citref> As can be seen in <figref idrefs="fig2">Fig. 2</figref>, the intensity of this peak decreases upon addition of DMPE-PEG2000 into the monolayers. Since in the present study the average area per molecule, and therefore the total number of probed molecules, in the monolayers is kept constant, the observed decrease suggests that an increase in the concentration of PEGylated lipids induces orientational disorder in the monolayer that in turn results in a decrease in the SFG signal. This increased disorder can be caused by PEG–lipid, PEG–water and/or PEG–PEG interactions. In fact, it is known that these interactions roughen the monolayer surface, especially when PBS is present in the subphase,<citref idrefs="cit50">50</citref> as also apparent in Brewster angle microscopy images of the monolayers (see Fig. S2 in the ESI<fnoteref idrefs="fn1"></fnoteref>).</p>
+      <figure id="fig2" xsrc="c7cp05445a-f2.tif">
+        <title>SFG spectra (offset on the <it>y</it>-axis for clarity) in the carbonyl stretch region of the different mixed DMPE:DMPE-PEG2000 monolayers with relative DMPE-PEG2000 content from 0 to 10 mol% (referred to as ‘PEG’ in the legend). The surface pressure for the measurements was 20 mN m<sup>−1</sup>.</title>
+      </figure>
+      <p>
+        <figref idrefs="fig3">Fig. 3</figref> shows the SFG spectra of the different monolayers with subphases containing different protein solutions, namely BSA (panel a) and Fbg (panel b). SFG spectra in absence of proteins (open symbols), recorded immediately prior to injecting a small volume of a highly concentrated protein solution into the subphase, are shown for comparison. The final protein concentration in the subphase amounts to 0.1 mg ml<sup>−1</sup>. From <figref idrefs="fig3">Fig. 3a</figref> it is apparent that, in absence of PEG in the monolayer, an additional peak centered at ∼1660 cm<sup>−1</sup> arises in the spectrum in presence of BSA (for a zoom-in see Fig. S3 in the ESI<fnoteref idrefs="fn1"></fnoteref>). This peak – related to the α-helical components in the protein secondary structure<citref idrefs="cit51">51</citref> – is a clear indication that the protein adsorbs to the monolayer.<citref idrefs="cit52">52</citref> This amide I peak is also clearly visible with 1 mol% PEG present in the monolayer. Further increase of the PEG concentration in the mixed monolayer to 5 or 10 mol%, completely suppresses the amide I signal of BSA, as expected for fully PEGylated surfaces. The actual PEG grafting density needed in order to obtain a completely protein repelling surface can actually differ depending on the PEG chain length. It has been shown in literature, that the PEG size strongly influences its conformation for a given grafting density.<citref idrefs="cit15 cit16 cit24">15,16,24</citref> As theoretically and experimentally shown, longer PEG chains are already protein resistant at lower mole fractions.<citref idrefs="cit9 cit14">9,14</citref> For our study we chose an intermediate chain length, namely PEG2000, since it is commonly used for nanoparticle functionalization and in PEGylated liposomes.<citref idrefs="cit18 cit25 cit53">18,25,53</citref> The small SFG signal present in the amide I region for the mixed monolayer with 5 mol% DMPE-PEG2000, is a feature sometimes observed, even in absence of proteins, and is most likely caused by a contribution from the water bending mode. However, below we will consider differential spectra with and without protein, so that this is not a problem (for further details see Section SIIB and Fig. S4 in the ESI<fnoteref idrefs="fn1"></fnoteref>).</p>
+      <figure id="fig3" xsrc="c7cp05445a-f3.tif">
+        <title>SFG spectra (offset on the <it>y</it>-axis for clarity) in the amide I region before (open symbols) and after (filled symbols) injection of (a) BSA and (b) Fbg (0.1 mg ml<sup>−1</sup>) at mixed DMPE:DMPE-PEG2000 monolayers with different PEG concentrations.</title>
+      </figure>
+      <p>SFG is very sensitive to protein symmetry and orientation and it is important to test whether the observed SFG signal changes are due to changes in the amount or the orientation of proteins at interfaces. To independently confirm BSA binding, we measure the surface pressure simultaneously with the SFG spectra, as shown in <figref idrefs="fig4">Fig. 4</figref>. While SFG reports on both amount and order, surface pressure is primarily sensitive to the amount and can be used to disentangle the SFG information related to orientation. The relative increase in surface pressure after the injection of BSA into the subphase diminishes gradually when the amount of PEGylated phospholipids present in the monolayer increases. This indicates, in line with the reported properties of PEG, that less BSA adsorbs to the surfaces with higher PEG content.<citref idrefs="cit13 cit14 cit24">13,14,24</citref></p>
+      <figure id="fig4" xsrc="c7cp05445a-f4.tif">
+        <title>Change of surface pressure after injection of BSA (top) and Fbg (bottom) into the subphase at time <it>t</it> = 0 s of the corresponding mixed monolayer with PEG concentrations from 0 to 10 mol% (offset on the <it>y</it>-axis for clarity).</title>
+      </figure>
+      <p>While the surface pressure for Fbg (<figref idrefs="fig4">Fig. 4</figref>) behaves similarly to that observed for BSA, SFG spectra reveal a different trend when Fbg interacts with the monolayer as shown in <figref idrefs="fig3">Fig. 3b</figref>. As for BSA, upon addition of Fbg into the subphase of the pure DMPE monolayer, a weak additional amide I peak at ∼1660 cm<sup>−1</sup> is detectable, and is attributed to the α-helical components of the protein structure.<citref idrefs="cit54">54</citref> However, the interaction of Fbg with the monolayer containing PEG is drastically different to that observed for BSA. In fact, the intensity of the amide I peak from Fbg increases with higher PEG content, as can be seen from the mixed monolayer with 1 and 5 mol% DMPE-PEG2000. Only when the PEG concentration in the monolayer is further increased to 10 mol% the protein adsorption to the surface can be suppressed, leading to a situation where the SFG spectrum remains unchanged upon Fbg injection into the subphase.</p>
+      <p>
+        <figref idrefs="fig5">Fig. 5</figref> shows the integrated amide I SFG intensity, obtained by integrating between 1615 cm<sup>−1</sup> and 1700 cm<sup>−1</sup> the difference spectrum in presence and absence of protein. From this graph it is apparent that the amide I signal from BSA continuously decreases with increasing PEG concentration in the mixed monolayer system. In contrast, Fbg shows an increase in the amide I signal up to ∼5 mol% DMPE-PEG2000 before it vanishes for 10 mol% in the monolayer, indicating that there is a sweet spot around 5 mol% where the amide I SFG signal from Fbg is strongest. This observation for Fbg is somewhat unexpected as PEG is supposed to suppress protein adsorption, and as a consequence, the amide I signal is expected to decrease continuously with increasing PEG concentration. Indeed, from the surface pressure measurements in <figref idrefs="fig4">Fig. 4</figref> we can conclude that the amount of adsorbed Fbg decreases when increasing the percentage of PEG in the monolayer, similarly to what observed for BSA and in agreement with reports in literature.<citref idrefs="cit13 cit14 cit24">13,14,24</citref> In fact, to explain this apparent contradiction, a larger SFG signal for apparently fewer proteins adsorbed at the interface, one has to note that the SFG signal intensity depends not only on the number of probed molecules, but also on their orientation. Consequently, the increase in the amide I signal intensity from Fbg at intermediate PEG concentrations (&lt;10 mol%) in the monolayer can only be explained by an increased net orientation of the adsorbed proteins.</p>
+      <figure id="fig5" xsrc="c7cp05445a-f5.tif">
+        <title>Integrated SFG signal in the amide I region of BSA and Fbg for different PEG contents in the mixed phospholipid monolayers.</title>
+      </figure>
+      <p>Apart from a change in the net orientation of the proteins at the surface, the increased SFG signal intensity could potentially also be explained by a change of the protein conformation. Therefore, the question arises to what extent BSA and Fbg remain in their native states when adsorbed to the PEGylated lipid surfaces. The secondary structure of BSA and Fbg is not changing significantly for different PEG concentrations since the amide I spectra are very similar for all concentrations (<figref idrefs="fig3">Fig. 3</figref> and Fig. S5 in the ESI<fnoteref idrefs="fn1"></fnoteref>). However, at surfaces, structural changes often occur in the tertiary structure where helices, turn and sheet structures change their relative orientations.<citref idrefs="cit55">55</citref> A more detailed picture of surface conformation can be obtained using a recently developed method where the experimental SFG data are connected to protein structures by theoretical SFG spectra calculated from the PDB structure files.<citref idrefs="cit56 cit57">56,57</citref></p>
+      <p>Structure files based on PDB entries <url url="http://xlink.rsc.org/?pdb=4F5S">4F5S</url><citref idrefs="cit51">51</citref> and <url url="http://xlink.rsc.org/?pdb=3GHG">3GHG</url><citref idrefs="cit54">54</citref> in combination with lipid headgroups were used to calculate the BSA and Fbg spectrum, respectively. Further details about the calculation procedure are summarized in the ESI.<fnoteref idrefs="fn1"></fnoteref> The calculated spectra are shown in <figref idrefs="fig6">Fig. 6</figref> along with the measured SFG spectra. The calculated spectra capture the center positions and the spectral shape of the experimental protein and lipid peaks very well. It is important to note that besides an overall amplitude scaling factor, no adjustable parameters were used when comparing the experiments with the calculations. The general agreement between the two clearly shows that the structures of BSA and Fbg are likely preserved when binding to the PEGylated lipid layer (see ESI,<fnoteref idrefs="fn1"></fnoteref> Fig. S6 and S7) and is consistent with Fbg laying mostly flat on the surface. While bending like that suggested by Clark <it>et al.</it><citref idrefs="cit39">39</citref> upon adsorption of Fbg on aliphatic poly(ether urethane) cannot be ruled out, we do not have any experimental evidence of such change in conformation and thus decided to stick to the conformation of the crystalline structure as it returns a calculated spectrum in good agreement with our experimental data. Previous studies, using dual polarization interferometry on a similar system, also found that Fbg lies flat on the surface.<citref idrefs="cit22">22</citref></p>
+      <figure id="fig6" xsrc="c7cp05445a-f6.tif">
+        <title>SFG spectra (open circles) in the amide I region of BSA (bottom) and Fbg (top) (0.1 mg ml<sup>−1</sup>) at mixed DMPE:DMPE-PEG2000 monolayers with 1 and 5 mol% DMPE-PEG2000, respectively. The black lines are the corresponding calculated spectra from the PDB files.</title>
+      </figure>
+      <p>Stable binding of native structures also at low PEG concentration differs from an earlier report by Michel <it>et al.</it>, who found that BSA and Fbg denature at low PEG concentrations.<citref idrefs="cit20">20</citref> The difference is likely explained by two factors: (i) the earlier study used ultra-high vacuum methods to probe protein folding, while in this work we use a hydrated interface, and (ii) the surface underlying the PEG layer in <citref idrefs="cit20" position="baseline">ref. 20</citref> was charged while the present study uses an uncharged, polar chemistry.</p>
+      <p>These results suggest that PEG not only acts as a protein repelling material, but, depending on the protein, can also influence the adsorption geometry. Moreover, Fbg seems to have a stronger tendency to interact with the PEGylated surfaces compared to BSA: when ∼5 mol% PEG is present in the monolayer a change in surface pressure is still detectable for Fbg but not for BSA. This is also in good agreement with the observations by Schöttler <it>et al.</it> where it has been found that similar amounts of Fbg and human serum albumin are present in the protein corona of PEGylated polystyrene nanoparticles, even though albumin is ∼90 times more abundant in human blood than Fbg.<citref idrefs="cit25 cit58 cit59">25,58,59</citref></p>
+    </section>
+    <section>
+      <title>Conclusions</title>
+      <p>In conclusion, we have shown that PEG does not simply act as a protein repelling material, but can interact differently with different proteins and strongly influence their orientation upon adsorption. Moreover, upon interaction with Fbg the properties of the PEGylated surface can be tuned through three different states: first the state of maximum protein adsorption in complete absence of PEG, second a state of maximum protein orientation at intermediate coverage, and finally a protein repelling state at PEG concentrations above 10 mol%. In contrast, PEG seems to act as a purely repelling material for BSA, indicating the possible influence of the protein structure, globular in case of BSA and more elongated for Fbg, in determining the interactions with the surface functional groups as they might change configuration from mushroom-like, at low PEG concentration, to brush at higher concentrations.<citref idrefs="cit16">16</citref> These findings can be exploited in the design of surfaces for biomedical applications. A deeper understanding of protein adsorption on functionalized surfaces clearly requires further characterization of adsorption not only in terms of adsorption quantity, but also in terms of adsorption orientation and conformation of the proteins at the surface.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <art-back>
+    <ack>
+      <p>The authors would like to thank Ellen H. G. Backus, Angelika Kühnle and Giovanni Settanni for fruitful discussions, as well as Walter Scholdei and Birgitta Zielbauer for help with the BAM setup. C. B. acknowledges support from the Max Planck Graduate Center with the Johannes Gutenberg University Mainz through a PhD fellowship. Open Access funding provided by the Max Planck Society.</p>
+    </ack>
+    <biblist>
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Banerjee</surname>
+          </citauth>
+          <citauth>
+            <fname>R. C.</fname>
+            <surname>Pangule</surname>
+          </citauth>
+          <citauth>
+            <fname>R. S.</fname>
+            <surname>Kane</surname>
+          </citauth>
+          <arttitle>Antifouling coatings: recent developments in the design of surfaces that prevent fouling by proteins, bacteria, and marine organisms</arttitle>
+          <title>Adv. Mater.</title>
+          <year>2011</year>
+          <volumeno>23</volumeno>
+          <pages>
+            <fpage>690</fpage>
+            <lpage>718</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>U.</fname>
+            <surname>Wattendorf</surname>
+          </citauth>
+          <citauth>
+            <fname>H. P.</fname>
+            <surname>Merkle</surname>
+          </citauth>
+          <arttitle>PEGylation as a tool for the biomedical engineering of surface modified microparticles</arttitle>
+          <title>J. Pharm. Sci.</title>
+          <year>2008</year>
+          <volumeno>97</volumeno>
+          <pages>
+            <fpage>4655</fpage>
+            <lpage>4669</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>C. M.</fname>
+            <surname>Magin</surname>
+          </citauth>
+          <citauth>
+            <fname>S. P.</fname>
+            <surname>Cooper</surname>
+          </citauth>
+          <citauth>
+            <fname>A. B.</fname>
+            <surname>Brennan</surname>
+          </citauth>
+          <arttitle>Non-toxic antifouling strategies</arttitle>
+          <title>Mater. Today</title>
+          <year>2010</year>
+          <volumeno>13</volumeno>
+          <pages>
+            <fpage>36</fpage>
+            <lpage>44</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Nir</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Reches</surname>
+          </citauth>
+          <arttitle>Bio-inspired antifouling approaches: the quest towards non-toxic and non-biocidal materials</arttitle>
+          <title>Curr. Opin. Biotechnol.</title>
+          <year>2016</year>
+          <volumeno>39</volumeno>
+          <pages>
+            <fpage>48</fpage>
+            <lpage>55</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Solano</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Parisse</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Gramazio</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Cavalleri</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Bracco</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Castronovo</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Casalis</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Canepa</surname>
+          </citauth>
+          <arttitle>Spectroscopic ellipsometry meets AFM nanolithography: about hydration of bio-inert oligo(ethylene glycol)-terminated self assembled monolayers on gold</arttitle>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2015</year>
+          <volumeno>17</volumeno>
+          <pages>
+            <fpage>28774</fpage>
+            <lpage>28781</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Zheng</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <arttitle>Strong Resistance of Phosphorylcholine Self-Assembled Monolayers to Protein Adsorption: Insights into Nonfouling Properties of Zwitterionic Materials</arttitle>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2005</year>
+          <volumeno>127</volumeno>
+          <pages>
+            <fpage>14473</fpage>
+            <lpage>14478</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Zhao</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Zheng</surname>
+          </citauth>
+          <arttitle>Surface hydration: principles and applications toward low-fouling/nonfouling biomaterials</arttitle>
+          <title>Polymer</title>
+          <year>2010</year>
+          <volumeno>51</volumeno>
+          <pages>
+            <fpage>5283</fpage>
+            <lpage>5293</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>Â.</fname>
+            <surname>Serrano</surname>
+          </citauth>
+          <citauth>
+            <fname>O.</fname>
+            <surname>Sterner</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Mieszkin</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Zürcher</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Tosatti</surname>
+          </citauth>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Callow</surname>
+          </citauth>
+          <citauth>
+            <fname>J. A.</fname>
+            <surname>Callow</surname>
+          </citauth>
+          <citauth>
+            <fname>N. D.</fname>
+            <surname>Spencer</surname>
+          </citauth>
+          <arttitle>Nonfouling Response of Hydrophilic Uncharged Polymers</arttitle>
+          <title>Adv. Funct. Mater.</title>
+          <year>2013</year>
+          <volumeno>23</volumeno>
+          <pages>
+            <fpage>5706</fpage>
+            <lpage>5718</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>S. I.</fname>
+            <surname>Jeon</surname>
+          </citauth>
+          <citauth>
+            <fname>J. H.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>J. D.</fname>
+            <surname>Andrade</surname>
+          </citauth>
+          <citauth>
+            <fname>P. G.</fname>
+            <surname>De Gennes</surname>
+          </citauth>
+          <arttitle>Protein–Surface Interactions in the Presence of Polyethylene Oxide</arttitle>
+          <title>J. Colloid Interface Sci.</title>
+          <year>1991</year>
+          <volumeno>142</volumeno>
+          <pages>
+            <fpage>149</fpage>
+            <lpage>158</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Ma</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Hyun</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Stiller</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Chilkoti</surname>
+          </citauth>
+          <arttitle>‘Non-Fouling’ Oligo(ethylene glycol)-Functionalized Polymer Brushes Synthesized by Surface-Initiated Atom Transfer Radical Polymerization</arttitle>
+          <title>Adv. Mater.</title>
+          <year>2004</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>338</fpage>
+            <lpage>341</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hucknall</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Rangarajan</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Chilkoti</surname>
+          </citauth>
+          <arttitle>In Pursuit of Zero: Polymer Brushes that Resist the Adsorption of Proteins</arttitle>
+          <title>Adv. Mater.</title>
+          <year>2009</year>
+          <volumeno>21</volumeno>
+          <pages>
+            <fpage>2441</fpage>
+            <lpage>2446</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Leckband</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Sheth</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Halperin</surname>
+          </citauth>
+          <arttitle>Grafted poly(ethylene oxide) brushes as nonfouling surface coatings</arttitle>
+          <title>J. Biomater. Sci., Polym. Ed.</title>
+          <year>1999</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>1125</fpage>
+            <lpage>1147</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Prime</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <arttitle>Self-assembled organic monolayers: model systems for studying adsorption of proteins at surfaces</arttitle>
+          <title>Science</title>
+          <year>1991</year>
+          <volumeno>252</volumeno>
+          <pages>
+            <fpage>1164</fpage>
+            <lpage>1167</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>K. L.</fname>
+            <surname>Prime</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <arttitle>Adsorption of proteins onto surfaces containing end-attached oligo(ethylene oxide): a model system using self-assembled monolayers</arttitle>
+          <title>J. Am. Chem. Soc.</title>
+          <year>1993</year>
+          <volumeno>115</volumeno>
+          <pages>
+            <fpage>10714</fpage>
+            <lpage>10721</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <journalcit>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Harder</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Grunze</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Dahint</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>P. E.</fname>
+            <surname>Laibinis</surname>
+          </citauth>
+          <arttitle>Molecular Conformation in Oligo(ethylene glycol)-Terminated Self-Assembled Monolayers on Gold and Silver Surfaces Determines Their Ability To Resist Protein Adsorption</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>1998</year>
+          <volumeno>102</volumeno>
+          <pages>
+            <fpage>426</fpage>
+            <lpage>436</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit16">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Marsh</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Bartucci</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Sportelli</surname>
+          </citauth>
+          <arttitle>Lipid membranes with grafted polymers: physicochemical aspects</arttitle>
+          <title>Biochim. Biophys. Acta, Biomembr.</title>
+          <year>2003</year>
+          <volumeno>1615</volumeno>
+          <pages>
+            <fpage>33</fpage>
+            <lpage>59</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Du</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Chandaroy</surname>
+          </citauth>
+          <citauth>
+            <fname>S. W.</fname>
+            <surname>Hui</surname>
+          </citauth>
+          <arttitle>Grafted poly-(ethylene glycol) on lipid surfaces inhibits protein adsorption and cell adhesion</arttitle>
+          <title>Biochim. Biophys. Acta, Biomembr.</title>
+          <year>1997</year>
+          <volumeno>1326</volumeno>
+          <pages>
+            <fpage>236</fpage>
+            <lpage>248</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>M. E.</fname>
+            <surname>Price</surname>
+          </citauth>
+          <citauth>
+            <fname>R. M.</fname>
+            <surname>Cornelius</surname>
+          </citauth>
+          <citauth>
+            <fname>J. L.</fname>
+            <surname>Brash</surname>
+          </citauth>
+          <arttitle>Protein adsorption to polyethylene glycol modified liposomes from fibrinogen solution and from plasma</arttitle>
+          <title>Biochim. Biophys. Acta, Biomembr.</title>
+          <year>2001</year>
+          <volumeno>1512</volumeno>
+          <pages>
+            <fpage>191</fpage>
+            <lpage>205</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Herrwerth</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Eck</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Reinhardt</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Grunze</surname>
+          </citauth>
+          <arttitle>Factors that Determine the Protein Resistance of Oligoether Self-Assembled Monolayers – Internal
+Hydrophilicity, Terminal Hydrophilicity, and Lateral Packing Density</arttitle>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2003</year>
+          <volumeno>125</volumeno>
+          <pages>
+            <fpage>9359</fpage>
+            <lpage>9366</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Michel</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Pasche</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Textor</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <arttitle>Influence of PEG Architecture on Protein Adsorption and Conformation</arttitle>
+          <title>Langmuir</title>
+          <year>2005</year>
+          <volumeno>21</volumeno>
+          <pages>
+            <fpage>12327</fpage>
+            <lpage>12332</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit21">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Gon</surname>
+          </citauth>
+          <citauth>
+            <fname>M. M.</fname>
+            <surname>Santore</surname>
+          </citauth>
+          <arttitle>Single Component and Selective Competitive Protein Adsorption in a Patchy Polymer Brush: Opposition between Steric Repulsions and Electrostatic Attractions</arttitle>
+          <title>Langmuir</title>
+          <year>2011</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>1487</fpage>
+            <lpage>1493</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit22">
+        <journalcit>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Hu</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Jin</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Han</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Yin</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Liang</surname>
+          </citauth>
+          <arttitle>Study of fibrinogen adsorption on poly(ethylene glycol)-modified surfaces using a quartz crystal microbalance with dissipation and a dual polarization interferometry</arttitle>
+          <title>RSC Adv.</title>
+          <year>2014</year>
+          <volumeno>4</volumeno>
+          <pages>
+            <fpage>7716</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Jin</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Yin</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Ji</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Stagnaro</surname>
+          </citauth>
+          <arttitle>Plasma Proteins Adsorption Mechanism on Polyethylene-Grafted Poly(ethylene glycol) Surface by Quartz Crystal Microbalance with Dissipation</arttitle>
+          <title>Langmuir</title>
+          <year>2013</year>
+          <volumeno>29</volumeno>
+          <pages>
+            <fpage>6624</fpage>
+            <lpage>6633</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Lee</surname>
+          </citauth>
+          <citauth>
+            <fname>R. G.</fname>
+            <surname>Larson</surname>
+          </citauth>
+          <arttitle>Adsorption of Plasma Proteins onto PEGylated Lipid Bilayers: The Effect of PEG Size and Grafting Density</arttitle>
+          <title>Biomacromolecules</title>
+          <year>2016</year>
+          <volumeno>17</volumeno>
+          <pages>
+            <fpage>1757</fpage>
+            <lpage>1765</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Schöttler</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Becker</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Winzen</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Steinbach</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Mohr</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Landfester</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Mailänder</surname>
+          </citauth>
+          <citauth>
+            <fname>F. R.</fname>
+            <surname>Wurm</surname>
+          </citauth>
+          <arttitle>Protein adsorption is required for stealth effect of poly(ethylene glycol)- and poly(phosphoester)-coated nanocarriers</arttitle>
+          <title>Nat. Nanotechnol.</title>
+          <year>2016</year>
+          <volumeno>11</volumeno>
+          <pages>
+            <fpage>372</fpage>
+            <lpage>377</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>N. G.</fname>
+            <surname>Welch</surname>
+          </citauth>
+          <citauth>
+            <fname>J. A.</fname>
+            <surname>Scoble</surname>
+          </citauth>
+          <citauth>
+            <fname>B. W.</fname>
+            <surname>Muir</surname>
+          </citauth>
+          <citauth>
+            <fname>P. J.</fname>
+            <surname>Pigram</surname>
+          </citauth>
+          <arttitle>Orientation and characterization of immobilized antibodies for improved immunoassays (Review)</arttitle>
+          <title>Biointerphases</title>
+          <year>2017</year>
+          <volumeno>12</volumeno>
+          <pages>
+            <fpage>02D301</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>K. T.</fname>
+            <surname>Nguyen</surname>
+          </citauth>
+          <citauth>
+            <fname>S. V.</fname>
+            <surname>Le Clair</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Ye</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Orientation Determination of Protein Helical Secondary Structures Using Linear and Nonlinear Vibrational Spectroscopy</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>12169</fpage>
+            <lpage>12180</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <arttitle>SFG analysis of surface bound proteins: a route towards structure determination</arttitle>
+          <title>Phys. Chem. Chem. Phys.</title>
+          <year>2013</year>
+          <volumeno>15</volumeno>
+          <pages>
+            <fpage>12516</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Roy</surname>
+          </citauth>
+          <citauth>
+            <fname>P. A.</fname>
+            <surname>Covert</surname>
+          </citauth>
+          <citauth>
+            <fname>W. R.</fname>
+            <surname>FitzGerald</surname>
+          </citauth>
+          <citauth>
+            <fname>D. K.</fname>
+            <surname>Hore</surname>
+          </citauth>
+          <arttitle>Biomolecular Structure at Solid–Liquid Interfaces As Revealed by Nonlinear Optical Spectroscopy</arttitle>
+          <title>Chem. Rev.</title>
+          <year>2014</year>
+          <volumeno>114</volumeno>
+          <pages>
+            <fpage>8388</fpage>
+            <lpage>8415</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Leng</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-C.</fname>
+            <surname>Hung</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Sun</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Probing the Surface Hydration of Nonfouling Zwitterionic and PEG Materials in Contact with Proteins</arttitle>
+          <title>ACS Appl. Mater. Interfaces</title>
+          <year>2015</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>16881</fpage>
+            <lpage>16888</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <journalcit>
+          <citauth>
+            <fname>M. J.</fname>
+            <surname>Stein</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>McCrea</surname>
+          </citauth>
+          <citauth>
+            <fname>D. G.</fname>
+            <surname>Castner</surname>
+          </citauth>
+          <citauth>
+            <fname>B. D.</fname>
+            <surname>Ratner</surname>
+          </citauth>
+          <arttitle>Hydration of Sulphobetaine and Tetra(ethylene glycol)-Terminated Self-Assembled Monolayers Studied by Sum Frequency Generation Vibrational Spectroscopy</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>2009</year>
+          <volumeno>113</volumeno>
+          <pages>
+            <fpage>11550</fpage>
+            <lpage>11556</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>R. Y.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Himmelhaus</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Fick</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Herrwerth</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Eck</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Grunze</surname>
+          </citauth>
+          <arttitle>Interaction of self-assembled monolayers of oligo(ethylene glycol)-terminated alkanethiols with water studied by vibrational sum-frequency generation</arttitle>
+          <title>J. Chem. Phys.</title>
+          <year>2005</year>
+          <volumeno>122</volumeno>
+          <pages>
+            <fpage>164702</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Zolk</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Eisert</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Pipper</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Herrwerth</surname>
+          </citauth>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Eck</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Buck</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Grunze</surname>
+          </citauth>
+          <arttitle>Solvation of Oligo(ethylene glycol)-Terminated Self-Assembled Monolayers Studied by Vibrational Sum Frequency Spectroscopy</arttitle>
+          <title>Langmuir</title>
+          <year>2000</year>
+          <volumeno>16</volumeno>
+          <pages>
+            <fpage>5849</fpage>
+            <lpage>5852</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Leng</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Sun</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Zhang</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Molecular level studies on interfacial hydration of zwitterionic and other antifouling polymers <it>in situ</it></arttitle>
+          <title>Acta Biomater.</title>
+          <year>2016</year>
+          <volumeno>40</volumeno>
+          <pages>
+            <fpage>6</fpage>
+            <lpage>15</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>B. O.</fname>
+            <surname>Leung</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Yang</surname>
+          </citauth>
+          <citauth>
+            <fname>S. S. H.</fname>
+            <surname>Wu</surname>
+          </citauth>
+          <citauth>
+            <fname>K. C.</fname>
+            <surname>Chou</surname>
+          </citauth>
+          <arttitle>Role of Interfacial Water on Protein Adsorption at Cross-Linked Polyethylene Oxide Interfaces</arttitle>
+          <title>Langmuir</title>
+          <year>2012</year>
+          <volumeno>28</volumeno>
+          <pages>
+            <fpage>5724</fpage>
+            <lpage>5728</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Leng</surname>
+          </citauth>
+          <citauth>
+            <fname>H.-C.</fname>
+            <surname>Hung</surname>
+          </citauth>
+          <citauth>
+            <fname>O. A.</fname>
+            <surname>Sieggreen</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Li</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Jiang</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Probing the Surface Hydration of Nonfouling Zwitterionic and Poly(ethylene glycol) Materials with Isotopic Dilution Spectroscopy</arttitle>
+          <title>J. Phys. Chem. C</title>
+          <year>2015</year>
+          <volumeno>119</volumeno>
+          <pages>
+            <fpage>8775</fpage>
+            <lpage>8780</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <journalcit>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Tyrode</surname>
+          </citauth>
+          <citauth>
+            <fname>C. M.</fname>
+            <surname>Johnson</surname>
+          </citauth>
+          <citauth>
+            <fname>M. W.</fname>
+            <surname>Rutland</surname>
+          </citauth>
+          <citauth>
+            <fname>P. M.</fname>
+            <surname>Claesson</surname>
+          </citauth>
+          <arttitle>Structure and Hydration of Poly(ethylene oxide) Surfactants at the Air/Liquid Interface. A Vibrational Sum Frequency Spectroscopy Study</arttitle>
+          <title>J. Phys. Chem. C</title>
+          <year>2007</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>11642</fpage>
+            <lpage>11652</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit38">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>M. A.</fname>
+            <surname>Even</surname>
+          </citauth>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>A. H.</fname>
+            <surname>Schmaier</surname>
+          </citauth>
+          <citauth>
+            <fname>J. H.</fname>
+            <surname>Waite</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Detection of Amide I Signals of Interfacial Proteins in Situ Using SFG</arttitle>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2003</year>
+          <volumeno>125</volumeno>
+          <pages>
+            <fpage>9914</fpage>
+            <lpage>9915</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit39">
+        <journalcit>
+          <citauth>
+            <fname>M. L.</fname>
+            <surname>Clarke</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Conformational Changes of Fibrinogen after Adsorption</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>2005</year>
+          <volumeno>109</volumeno>
+          <pages>
+            <fpage>22027</fpage>
+            <lpage>22035</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>X.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Wang</surname>
+          </citauth>
+          <citauth>
+            <fname>J. J.</fname>
+            <surname>Sniadecki</surname>
+          </citauth>
+          <citauth>
+            <fname>M. A.</fname>
+            <surname>Even</surname>
+          </citauth>
+          <citauth>
+            <fname>Z.</fname>
+            <surname>Chen</surname>
+          </citauth>
+          <arttitle>Probing α-Helical and β-Sheet Structures of Peptides at Solid/Liquid Interfaces with SFG</arttitle>
+          <title>Langmuir</title>
+          <year>2005</year>
+          <volumeno>21</volumeno>
+          <pages>
+            <fpage>2662</fpage>
+            <lpage>2664</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Fu</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Liu</surname>
+          </citauth>
+          <citauth>
+            <fname>E. C. Y.</fname>
+            <surname>Yan</surname>
+          </citauth>
+          <arttitle>Chiral Sum Frequency Generation Spectroscopy for Characterizing Protein Secondary Structures at Interfaces</arttitle>
+          <title>J. Am. Chem. Soc.</title>
+          <year>2011</year>
+          <volumeno>133</volumeno>
+          <pages>
+            <fpage>8094</fpage>
+            <lpage>8097</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Ge</surname>
+          </citauth>
+          <citauth>
+            <fname>J.-H.</fname>
+            <surname>Seo</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Qiao</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Yui</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Ye</surname>
+          </citauth>
+          <arttitle>Structural Reorganization and Fibrinogen Adsorption Behaviors on the Polyrotaxane Surfaces Investigated by Sum Frequency Generation Spectroscopy</arttitle>
+          <title>ACS Appl. Mater. Interfaces</title>
+          <year>2015</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>22709</fpage>
+            <lpage>22718</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit43">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>P. S.</fname>
+            <surname>Cremer</surname>
+          </citauth>
+          <arttitle>Elucidating Changes in Interfacial Water Structure upon Protein Adsorption</arttitle>
+          <title>ChemPhysChem</title>
+          <year>2001</year>
+          <volumeno>2</volumeno>
+          <pages>
+            <fpage>543</fpage>
+            <lpage>546</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit44">
+        <journalcit>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Gurau</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>P. S.</fname>
+            <surname>Cremer</surname>
+          </citauth>
+          <arttitle>Investigations of Lysozyme Adsorption at the Air/Water and Quartz/Water Interfaces by Vibrational Sum Frequency Spectroscopy</arttitle>
+          <title>Langmuir</title>
+          <year>2002</year>
+          <volumeno>18</volumeno>
+          <pages>
+            <fpage>2807</fpage>
+            <lpage>2811</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit45">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Franz</surname>
+          </citauth>
+          <citauth>
+            <fname>M.-J.</fname>
+            <surname>van Zadel</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <arttitle>A trough for improved SFG spectroscopy of lipid monolayers</arttitle>
+          <title>Rev. Sci. Instrum.</title>
+          <year>2017</year>
+          <volumeno>88</volumeno>
+          <pages>
+            <fpage>53106</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit46">
+        <journalcit>
+          <citauth>
+            <fname>T. L.</fname>
+            <surname>Kuhl</surname>
+          </citauth>
+          <citauth>
+            <fname>D. E.</fname>
+            <surname>Leckband</surname>
+          </citauth>
+          <citauth>
+            <fname>D. D.</fname>
+            <surname>Lasic</surname>
+          </citauth>
+          <citauth>
+            <fname>J. N.</fname>
+            <surname>Israelachvili</surname>
+          </citauth>
+          <arttitle>Modulation of interaction forces between bilayers exposing short-chained ethylene oxide headgroups</arttitle>
+          <title>Biophys. J.</title>
+          <year>1994</year>
+          <volumeno>66</volumeno>
+          <pages>
+            <fpage>1479</fpage>
+            <lpage>1488</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit47">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Majewski</surname>
+          </citauth>
+          <citauth>
+            <fname>T. L.</fname>
+            <surname>Kuhl</surname>
+          </citauth>
+          <citauth>
+            <fname>M. C.</fname>
+            <surname>Gerstenberg</surname>
+          </citauth>
+          <citauth>
+            <fname>J. N.</fname>
+            <surname>Israelachvili</surname>
+          </citauth>
+          <citauth>
+            <fname>G. S.</fname>
+            <surname>Smith</surname>
+          </citauth>
+          <arttitle>Structure of Phospholipid Monolayers Containing Poly(ethylene glycol) Lipids at the Air–Water Interface</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>1997</year>
+          <volumeno>101</volumeno>
+          <pages>
+            <fpage>3122</fpage>
+            <lpage>3129</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit48">
+        <journalcit>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Ohe</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Goto</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Noi</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Arai</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Kamijo</surname>
+          </citauth>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Itoh</surname>
+          </citauth>
+          <arttitle>Sum Frequency Generation Spectroscopic Studies on Phase Transitions of Phospholipid Monolayers Containing Poly(ethylene oxide) Lipids at the Air–Water Interface</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>2007</year>
+          <volumeno>111</volumeno>
+          <pages>
+            <fpage>1693</fpage>
+            <lpage>1700</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit49">
+        <journalcit>
+          <citauth>
+            <fname>A. G.</fname>
+            <surname>Lambert</surname>
+          </citauth>
+          <citauth>
+            <fname>P. B.</fname>
+            <surname>Davies</surname>
+          </citauth>
+          <citauth>
+            <fname>D. J.</fname>
+            <surname>Neivandt</surname>
+          </citauth>
+          <arttitle>Implementing the Theory of Sum Frequency Generation Vibrational Spectroscopy: A Tutorial Review</arttitle>
+          <title>Appl. Spectrosc. Rev.</title>
+          <year>2005</year>
+          <volumeno>40</volumeno>
+          <pages>
+            <fpage>103</fpage>
+            <lpage>145</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit50">
+        <journalcit>
+          <citauth>
+            <fname>M. N.</fname>
+            <surname>Shahid</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Tsoukanova</surname>
+          </citauth>
+          <arttitle>Effect of Saline on Transitions in Poly(ethylene glycol)-Grafted Succinyl-Phosphoethanolamine Monolayers Bearing C 16 Aliphatic Chains</arttitle>
+          <title>J. Phys. Chem. B</title>
+          <year>2011</year>
+          <volumeno>115</volumeno>
+          <pages>
+            <fpage>3303</fpage>
+            <lpage>3314</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit51">
+        <citation type="other">Protein data bank (PDB) entry <url url="http://xlink.rsc.org/?pdb=4F5S">4F5S</url>, <url url="http://www.rcsb.org">http://www.rcsb.org</url></citation>
+      </citgroup>
+      <citgroup id="cit52">
+        <citation type="book">
+          <citauth>
+            <fname>B. R.</fname>
+            <surname>Singh</surname>
+          </citauth>, <title>Infrared Analysis of Peptides and Proteins</title>, <citpub>American Chemical Society</citpub>, <pubplace>Washington, DC</pubplace>, <year>2000</year></citation>
+      </citgroup>
+      <citgroup id="cit53">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Stepniewski</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Pasenkiewicz-Gierula</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Róg</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Danne</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Orlowski</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Karttunen</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Urtti</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Yliperttula</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Vuorimaa</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Bunker</surname>
+          </citauth>
+          <arttitle>Study of PEGylated Lipid Layers as a Model for PEGylated Liposome Surfaces: Molecular Dynamics Simulation and Langmuir Monolayer Studies</arttitle>
+          <title>Langmuir</title>
+          <year>2011</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>7788</fpage>
+            <lpage>7798</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit54">
+        <citation type="other">Protein data bank (PDB) entry <url url="http://xlink.rsc.org/?pdb=3GHG">3GHG</url>, <url url="http://www.rcsb.org">http://www.rcsb.org</url></citation>
+      </citgroup>
+      <citgroup id="cit55">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Köhler</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Schmid</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Settanni</surname>
+          </citauth>
+          <arttitle>The Internal Dynamics of Fibrinogen and Its Implications for Coagulation and Adsorption</arttitle>
+          <title>PLoS Comput. Biol.</title>
+          <year>2015</year>
+          <volumeno>11</volumeno>
+          <pages>
+            <fpage>e1004346</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit56">
+        <journalcit>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Roeters</surname>
+          </citauth>
+          <citauth>
+            <fname>C. N.</fname>
+            <surname>Van Dijk</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Torres-Knoop</surname>
+          </citauth>
+          <citauth>
+            <fname>E. H. G.</fname>
+            <surname>Backus</surname>
+          </citauth>
+          <citauth>
+            <fname>R. K.</fname>
+            <surname>Campen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Woutersen</surname>
+          </citauth>
+          <arttitle>Determining in situ protein conformation and orientation from the amide-I sum-frequency generation spectrum: Theory and experiment</arttitle>
+          <title>J. Phys. Chem. A</title>
+          <year>2013</year>
+          <volumeno>117</volumeno>
+          <pages>
+            <fpage>6311</fpage>
+            <lpage>6322</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit57">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Hennig</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Heidrich</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Saur</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Schmüser</surname>
+          </citauth>
+          <citauth>
+            <fname>S. J.</fname>
+            <surname>Roeters</surname>
+          </citauth>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Hellmann</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Woutersen</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Bonn</surname>
+          </citauth>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Weidner</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Markl</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Schneider</surname>
+          </citauth>
+          <arttitle>IM30 triggers membrane fusion in cyanobacteria and chloroplasts</arttitle>
+          <title>Nat. Commun.</title>
+          <year>2015</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>7018</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit58">
+        <citation type="book">
+          <citauth>
+            <surname>Bundesärztekammer</surname>
+          </citauth>, <title>Cross-Sectional Guidelines for Therapy with Blood Components and Plasma Derivatives</title>, <citpub>S. Karger AG</citpub>, <pubplace>Freiburg</pubplace>, <year>2009</year></citation>
+      </citgroup>
+      <citgroup id="cit59">
+        <citation type="book">
+          <citauth>
+            <fname>J.</fname>
+            <surname>Weisel</surname>
+          </citauth>, <title>Advances in Protein Chemistry</title>, <citpub>Elsevier Academic Press</citpub>, <pubplace>San Diego, London</pubplace>, <year>2005</year></citation>
+      </citgroup>
+    </biblist>
+    <compoundgrp>
+    </compoundgrp>
+    <annotationgrp>
+    </annotationgrp>
+    <datagrp>
+    </datagrp>
+    <resourcegrp>
+    </resourcegrp>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000059574 0?>

@@ -1,0 +1,110 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Modelling of Dictyostelium discoideum movement in a linear gradient of chemoattractant",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Zahra",
+                "familyName" : "Eidi",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Physics, Institute for Advanced Studies in Basic Sciences (IASBS)",
+                    "address" : "Zanjan 45137-66731, Iran"
+                }],
+                "identifier" : [{
+                    "id" : "",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Farshid",
+                "familyName" : "Mohammad-Rafiee",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Physics, Institute for Advanced Studies in Basic Sciences (IASBS)",
+                    "address" : "Zanjan 45137-66731, Iran"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Mohammad",
+                "familyName" : "Khorrami",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Physics, Alzahra University",
+                    "address" : "Tehran, Iran"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Azam",
+                "familyName" : "Gholami",
+                "organizations" : [{
+                    "identifier" : "ou_2063285",
+                    "name" : "Max Planck Institute for Dynamics and Self-Organization",
+                    "address" : "Göttingen, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons173518",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-23",
+        "dateAccepted" : "2017-09-27",
+        "dateSubmitted" : "2017-08-04",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7sm01568b",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Soft Matter", 
+            "volume" : "13",
+            "issue" : "44", 
+            "startPage" : "8209", 
+            "endPage" : "8222",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1744-6848",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "We present a position-dependent advection–diffusion model that quantitatively describes the statistical features of the chemotactic motion of D. discoideum.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Chemotaxis is a ubiquitous biological phenomenon in which cells detect a spatial gradient of chemoattractant, and then move towards the source. Here we present a position-dependent advection–diffusion model that quantitatively describes the statistical features of the chemotactic motion of the social amoeba Dictyostelium discoideum in a linear gradient of cAMP (cyclic adenosine monophosphate). We fit the model to experimental trajectories that are recorded in a microfluidic setup with stationary cAMP gradients and extract the diffusion and drift coefficients in the gradient direction. Our analysis shows that for the majority of gradients, both coefficients decrease over time and become negative as the cells crawl up the gradient. The extracted model parameters also show that besides the expected drift in the direction of the chemoattractant gradient, we observe a nonlinear dependency of the corresponding variance on time, which can be explained by the model. Furthermore, the results of the model show that the non-linear term in the mean squared displacement of the cell trajectories can dominate the linear term on large time scales."
+        }],
+        "totalNumberOfPages" : "14"
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7SM01568B.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

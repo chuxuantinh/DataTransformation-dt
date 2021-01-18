@@ -1,0 +1,154 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Repelling and ordering: the influence of poly(ethylene glycol) on protein adsorption",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Christoph",
+                "familyName" : "Bernhard",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, D-55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons212609",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Steven J.",
+                "familyName" : "Roeters",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Department of Chemistry, Aarhus University",
+                    "address" : "8000 Aarhus C, Denmark"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Johannes",
+                "familyName" : "Franz",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, D-55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons147414",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Tobias",
+                "familyName" : "Weidner",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, D-55128 Mainz, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Department of Chemistry, Aarhus University",
+                    "address" : "8000 Aarhus C, Denmark"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons79137",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Mischa",
+                "familyName" : "Bonn",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, D-55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons47659",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Grazia",
+                "familyName" : "Gonella",
+                "organizations" : [{
+                    "identifier" : "ou_1309545",
+                    "name" : "Max Planck Institute for Polymer Research",
+                    "address" : "Ackermannweg 10, D-55128 Mainz, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "/persons/resource/persons146597",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-12",
+        "datePublishedInPrint" : "2017-10-25",
+        "dateAccepted" : "2017-10-03",
+        "dateSubmitted" : "2017-08-10",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7cp05445a",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Physical Chemistry Chemical Physics", 
+            "volume" : "19",
+            "issue" : "41", 
+            "startPage" : "28182", 
+            "endPage" : "28188",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1463-9076",
+                "type" : "ISSN"
+            },{
+                "id" : "1463-9084",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "Development of new materials for drug delivery and biosensing requires the fine-tuning of interfacial properties.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "Development of new materials for drug delivery and biosensing requires the fine-tuning of interfacial properties. We report here the influence of the poly(ethylene glycol) (PEG) grafting density in model phospholipid monolayers on the adsorption behavior of bovine serum albumin and human fibrinogen, not only with respect to the amount of adsorbed protein, but also its orientational ordering on the surface. As expected, with increasing interfacial PEG density, the amount of adsorbed protein decreases up to the point where complete protein repellency is reached. However, at intermediate concentrations, the net orientation of adsorbed fibrinogen is highest. The different proteins respond differently to PEG, not only in the amount of protein adsorbed, but also in the manner that proteins adsorb. The results show that for specific cases, tuning the interfacial PEG concentration allows to guide the protein adsorption configuration, a feature sought after in materials for both biosensing and biomedical applications."
+        }],
+        "totalNumberOfPages" : "7"
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7CP05445A.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}

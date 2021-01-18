@@ -1,0 +1,1440 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<article dtd="RSCART3.8" type="ART" xmlns="http://www.rsc.org/schema/rscart38" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rsc.org/schema/rscart38 http://www.rsc.org/schema/rscart38/rscart38.xsd" xmlns:tmp="http://www.rsc.org/editing" tmp:status="aaprep">
+  <art-admin>
+    <ms-id>c7sm01189j</ms-id>
+    <doi>10.1039/c7sm01189j</doi>
+    <received>
+      <date>
+        <year>2017</year>
+        <month>June</month>
+        <day>15</day>
+      </date>
+    </received>
+    <date role="accepted">
+      <year>2017</year>
+      <month>September</month>
+      <day>19</day>
+    </date>
+  </art-admin>
+  <published type="web">
+    <journalref>
+      <link>SM</link>
+    </journalref>
+    <volumeref>
+      <link>Unassigned</link>
+    </volumeref>
+    <issueref>
+      <link>Advance Articles</link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>October</month>
+        <day>4</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="print">
+    <journalref>
+      <link>SM</link>
+    </journalref>
+    <volumeref>
+      <link>13</link>
+    </volumeref>
+    <issueref>
+      <link>41</link>
+    </issueref>
+    <pubfront>
+      <fpage>7595</fpage>
+      <lpage>7608</lpage>
+      <no-of-pages>14</no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>10</month>
+        <day>25</day>
+      </date>
+    </pubfront>
+  </published>
+  <published type="subsyear">
+    <journalref>
+      <link>SM</link>
+    </journalref>
+    <volumeref>
+      <link>
+      </link>
+    </volumeref>
+    <issueref>
+      <link>
+      </link>
+    </issueref>
+    <pubfront>
+      <fpage>
+      </fpage>
+      <lpage>
+      </lpage>
+      <no-of-pages>
+      </no-of-pages>
+      <date>
+        <year>2017</year>
+        <month>Unassigned</month>
+        <day>Unassigned</day>
+      </date>
+    </pubfront>
+  </published>
+  <art-links>
+    <fundgrp>
+      <funder>
+        <funder-name>H2020 European Research Council</funder-name>
+        <funder-identifier>10.13039/100010663</funder-identifier>
+        <award-number>246939</award-number>
+      </funder>
+    </fundgrp>
+  </art-links>
+  <art-front>
+    <titlegrp>
+      <title>Yield prediction in parallel homogeneous assembly</title>
+    </titlegrp>
+    <authgrp>
+      <author aff="affa" role="corres">
+        <person orcid="0000-0001-7378-7332" resid="Q-2418-2016">
+          <persname>
+            <fname>Dhananjay</fname>
+            <surname>Ipparthi</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affb">
+        <person>
+          <persname>
+            <fname>Andrew</fname>
+            <surname>Winslow<fnoteref idrefs="fn1"></fnoteref><footnote id="fn1">Current address: College of Engineering and Computer Science, The University of Texas Rio Grande Valley, Edinburg, USA.</footnote></surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affc affd">
+        <person orcid="0000-0001-8249-3854">
+          <persname>
+            <fname>Metin</fname>
+            <surname>Sitti</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affa">
+        <person orcid="0000-0002-3971-0507" resid="B-5664-2013">
+          <persname>
+            <fname>Marco</fname>
+            <surname>Dorigo</surname>
+          </persname>
+        </person>
+      </author>
+      <author aff="affc affd" role="corres">
+        <person orcid="0000-0003-3265-5768">
+          <persname>
+            <fname>Massimo</fname>
+            <surname>Mastrangeli<fnoteref idrefs="fn2"></fnoteref><footnote id="fn2">Current address: Department of Microelectronics, Delft University of Technology, Delft, The Netherlands. E-mail: m.mastrangeli@tudelft.nl</footnote></surname>
+          </persname>
+        </person>
+      </author>
+      <aff id="affa">
+        <org>
+          <orgname>
+            <nameelt>IRIDIA</nameelt>
+            <nameelt>CoDE</nameelt>
+            <nameelt>Université libre de Bruxelles</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>Brussels</city>
+          <country>Belgium</country>
+        </address>
+        <email>dhananjay.ipparthi@ulb.ac.be</email>
+      </aff>
+      <aff id="affb">
+        <org>
+          <orgname>
+            <nameelt>Département d'Informatique</nameelt>
+            <nameelt>Université libre de Bruxelles</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>Brussels</city>
+          <country>Belgium</country>
+        </address>
+      </aff>
+      <aff id="affc">
+        <org>
+          <orgname>
+            <nameelt>Physical Intelligence Department</nameelt>
+            <nameelt>Max Planck Institute for Intelligent Systems</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>Stuttgart</city>
+          <country>Germany</country>
+        </address>
+      </aff>
+      <aff id="affd">
+        <org>
+          <orgname>
+            <nameelt>Max Planck ETH Center for Learning Systems</nameelt>
+          </orgname>
+        </org>
+        <address>
+          <city>Stuttgart</city>
+          <country>Germany</country>
+        </address>
+      </aff>
+    </authgrp>
+    <art-toc-entry>
+      <ictext>The parallel assembly of 2D target structures from homogeneous macroscopic components is studied experimentally and through a chemical reaction network-based model, highlighting the incompatible substructures problem.</ictext>
+      <icgraphic id="ga" xsrc="c7sm01189j-ga.tif" />
+    </art-toc-entry>
+    <abstract>
+      <p>We investigate the parallel assembly of two-dimensional, geometrically-closed modular target structures out of homogeneous sets of macroscopic components of varying anisotropy. The yield predicted by a chemical reaction network (CRN)-based model is quantitatively shown to reproduce experimental results over a large set of conditions. Scaling laws for parallel assembling systems are then derived from the model. By extending the validity of the CRN-based modelling, this work prompts analysis and solutions to the incompatible substructure problem.</p>
+    </abstract>
+  </art-front>
+  <art-body>
+    <section>
+      <no>1</no>
+      <title>Introduction</title>
+      <p>Large-scale manufacturing requires fast and efficient fabrication of many exact copies of desired objects. Robot assisted fabrication typically involves serial, deterministic procedures that are reliable but inefficient to assemble vast quantities of products, especially those of small size.<citref idrefs="cit1 cit2">1,2</citref> An alternative manufacturing strategy consists of components assembling with one another autonomously to form many equal copies of a target structure. Such a self-assembly approach<citref idrefs="cit3">3</citref> is massively parallel and inspired by natural systems that assemble autonomously, such as crystals<citref idrefs="cit4">4</citref> and viruses.<citref idrefs="cit5">5</citref></p>
+      <p>A set of mobile components capable of bonding with one another will tend to form assemblies in a bounded space. The formation of intercomponent bonds decreases the enthalpy of the system<citref idrefs="cit6">6</citref> and the number of accessible component configurations.<citref idrefs="cit7">7</citref> Under thermal conditions that make entropic contributions negligible, the assembly of components reduces the free energy of the system, as well as the number of further bonds that can be formed. However, modular assembling systems are characterised by a multitude of intermediate states, associated with local minima in the free energy landscape, besides a few degenerate target states that correspond to global minima.<citref idrefs="cit8">8</citref> Assembling systems able to break out of local energy minima, thanks to, <it>e.g.</it>, perturbing energy imparted to the system to compete with bond formation, are self-assembling systems.<citref idrefs="cit9 cit10">9,10</citref> Assembling systems incapable of escaping local energy minima in finite time are aggregating systems.<citref idrefs="cit11">11</citref> Irreversible intercomponent bonds arrest aggregating systems typically within one of their local energy minima. Once in a local minimum, aggregating systems are prevented from exploring further possible configurations to reach the target state(s). Self-assembly is often used in literature, albeit incorrectly, to describe aggregating systems as well.<citref idrefs="cit10">10</citref> In the following, we use assembly to describe systems that aggregate.</p>
+      <p>An assembling system is in a depletion trap when no more components are available to advance the assembly, as all components are already employed in existing (sub)structures.<citref idrefs="cit12">12</citref> In parallel assembling systems of homogeneous components, depletion traps are absorbing states of the dynamics and local energy minima corresponding to the formation of incompatible substructures, <it>i.e.</it>, partial target structures which cannot complete assembly due to steric incompatibility.<fnoteref idrefs="fn3"></fnoteref><footnote id="fn3">The parallel assembly of target structures composed of pairs of components is not affected by incompatible substructures, since in this case the only substructures are single components, and there is a single absorbing state associated to each number of components. This limit case has important technological applications, such as, <it>e.g.</it>, the sequential three-dimensional self-assembly and packaging of light emitting diodes<citref idrefs="cit13">13</citref> and the self-assembly of polymeric microcapsules.<citref idrefs="cit14 cit15">14,15</citref></footnote><figref idrefs="fig1">Fig. 1</figref> illustrates an instance of the issue. By preventing the assembly of target structures, the formation of incompatible substructures significantly reduces the assembly yield in parallel homogeneous assembly, and therefore wastes resources.<citref idrefs="cit16">16</citref> At the same time, the incompatible substructure problem is both a logical and a physical problem, and is thus amenable to both analytical and experimental study.</p>
+      <figure id="fig1" xsrc="c7sm01189j-f1.tif">
+        <title>An instance of the incompatible substructure problem in the assembly of a modular target structure. The circular target structure is composed of 4 equal sector-shaped components. In an aggregating system, each of the available components moves within a confined space and irreversibly bonds with two components. When exactly 4 components are used, a single target structure will always assemble. However, 5 components will not always form a single target structure and a spare component, <it>i.e.</it>, a {1,4} population. They could instead end in one of 2 absorbing states—the other one being {2,3}.</title>
+      </figure>
+      <p>In this paper, we present a comprehensive study of model-based prediction of assembly yield for parallel assembling systems. We consider the parallel assembly of two-dimensional (2D), geometrically-closed target structures composed of homogeneous sectors of varying anisotropy. The results of an extensive set of parametric assembly experiments are quantitatively shown to closely match in most cases the assembly yield predictions obtained by a corresponding chemical reaction network (CRN)-based model. Consequently, this work significantly extends the validity of CRN-based modelling of assembling systems, and the analysis of the incompatible substructure problem provides a foundation for the study of dynamical aspects of parallel (self)-assembly.</p>
+      <p>The paper is organised as follows. Section 2 gives an account of prior art. The physical system and the CRN-based model used in this study are described respectively in Sections 3 and 4. The experiments conducted to compare the physical system and analytical model are presented in Section 5. The results are reported in Section 6. Scaling of system properties is discussed in Section 7. Finally, Section 8 provides conclusions and outlook.</p>
+    </section>
+    <section>
+      <no>2</no>
+      <title>Background</title>
+      <p>The study of agents coming together to form autonomously ordered predictable and structures has been pioneered in the context of molecular chemistry,<citref idrefs="cit17 cit18">17,18</citref> biology,<citref idrefs="cit19">19</citref> material sciences<citref idrefs="cit17">17</citref> and soft matter.<citref idrefs="cit20">20</citref> A seminal paper by Penrose and Penrose<citref idrefs="cit21">21</citref> presented a macroscopic mechanical assembling system. In the early 1980's, a model of diffusion-limited aggregation was proposed by Witten Jr. and Sander.<citref idrefs="cit11">11</citref> By the early 2000's, self-assembly was acknowledged as a self-standing multidisciplinary field of study,<citref idrefs="cit3 cit9 cit10">3,9,10</citref> and several macroscopic analogues have been designed to elucidate or imitate microscopic assembly processes.<citref idrefs="cit22 cit23 cit24 cit25 cit26">22–26</citref></p>
+      <p>In the context of parallel assembly, Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> studied the assembly of triangular components into hexagonal target structures. Hosokawa <it>et al.</it> described the negative impact of incompatible substructures on assembly yield in their experiments, and first proposed to study their parallel assembly system using the formalism of chemical reaction networks.</p>
+      <p>Klavins<citref idrefs="cit28">28</citref> built a mechatronic version of the triangular components used by Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> Software embedded in their “programmable parts” defined rules, based on graph grammars, to guide the assembly of specified target structures. The programmability of the components was used to control the interactions, leading to coordinated behaviour of the system—an approach recently extended by Haghighat and Martinoli.<citref idrefs="cit29">29</citref></p>
+      <p>Miyashita <it>et al.</it><citref idrefs="cit30">30</citref> studied the influence of reversible reactions on the yield of an assembly system. Their latching self-propelled components floated on the surface of water and had similar shape to those of Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> Miyashita <it>et al.</it> conducted experiments to compare sequential aggregation, reversible assembly and random aggregation using these components. They used a CRN-based model to quantitatively describe their system.</p>
+      <p>Mermoud <it>et al.</it><citref idrefs="cit31">31</citref> and Haghighat <it>et al.</it><citref idrefs="cit32">32</citref> developed a magneto-fluidic system of passive, centimetre-sized components that self-assembled on water. The system was supported by a general, CRN-based, multi-level modelling framework for stochastic distributed systems of reactive agents. Using such framework, the authors were able to control the self-assembly of the water-floating components in real-time. Mastrangeli <it>et al.</it><citref idrefs="cit33">33</citref> developed a downscaled version of the system, tailored for the automated control of the acousto-fluidic self-assembly of microparticles.</p>
+      <p>Hacohen <it>et al</it>.<citref idrefs="cit34">34</citref> proposed an algorithm to program the mechanical self-assembly of 3D macroscale objects. Taking inspiration from the fully specified assembly of DNA-based structures, Hacohen <it>et al.</it> showed that an arbitrary 3D object, properly dissected into components, can be re-assembled by unsupervised mechanical shaking when appropriate rules are uniquely encoded on the faces of the components. In their experiments, Hacohen <it>et al.</it> introduced enough components to assemble 2 target structures of 18 components in parallel, and were able to assemble only 1 target structure with no erroneous bonds.</p>
+      <p>Murugan <it>et al.</it><citref idrefs="cit12">12</citref> studied the formation of incompatible substructures in chemical reaction-based systems. Using a theoretical model relevant to DNA, proteins and colloids, the authors suggested that the incidence of incompatible substructures can be reduced by appropriately tuning the reaction rates by the stoichiometry of the system.</p>
+      <p>Borrowing the concepts of intercomponent bond and structure formation from chemical reactions, CRN-based formalisms and approaches<citref idrefs="cit35">35</citref> are commonly used to model and simulate aggregating and self-assembling systems. However, experimental validation of CRN-based model predictions of assembly yield is, to date, mostly qualitative. For instance, Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> conducted a single experiment under 2 conditions (systems of 20 and 100 components) and 100 trials per condition, while Miyashita <it>et al.</it><citref idrefs="cit30">30</citref> conducted a single experiment under 2 conditions (systems of 6 and 7 components) with 10 trials per condition. While noteworthy demonstrations of the feasibility of CRN-based modeling, these contributions fall short of showing the details of the relationship between the CRN-based model and physical experiments. Such a lack of comprehensive and quantitative comparison motivates the work presented here.</p>
+    </section>
+    <section>
+      <no>3</no>
+      <title>Physical system</title>
+      <p>We study the assembly yield of a two-dimensional system of passive components designed to form geometrically-closed target structures. The components are agitated within a reactor that is a bounded horizontal container attached to an orbital shaker. The agitation enables components and substructures to move around the reactor, interact with one another, and form irreversible magnetic bonds. Substructures of the target structures assemble upon bond formation. Only geometrically compatible substructures can bond together, eventually forming full target structures. The target structures are by design inert and stop growing once formed.</p>
+      <subsect1>
+        <title>Components</title>
+        <p>All components are 3D-printed, 7 mm-thick polyhedra embedding magnets with opposite orientations in two of their faces to enforce the formation of the closed target structures (<figref idrefs="fig2">Fig. 2</figref>). NdFeB magnets (N48, Supermagnete (Webcraft GmbH), strength 210 g) assure intercomponent bonds that can withstand impacts with the container and among components.</p>
+        <figure id="fig2" xsrc="c7sm01189j-f2.tif">
+          <title>The 3D printed components with embedded magnets used in the experiments (dimensions overlaid). Positions and orientations of the magnets are marked.</title>
+        </figure>
+        <p>We designed target structures of equal area and three different shapes: circle, square and triangle. All component sets are homogeneous. Sectors of a circle with radius 25 mm compose the circular target structures. We use sets of sector-shaped components with 4 different sector angles: 45°, 60°, 72° and 90°. Magnets are embedded in the middle of the two straight faces. For square target structures, the components are 4 equal squares with side length of 22.2 mm, with magnets embedded in two adjacent lateral faces. For triangular target structures, the components are 3 identical isosceles triangles, the two equal sides and the base side measuring 38 mm and 67 mm, respectively. Magnets are embedded in the middle of the two equal sides.</p>
+      </subsect1>
+      <subsect1>
+        <title>Reactor</title>
+        <p>The experiments were carried out in a lid-covered circular container of inner radius of 125 mm, bounded by a 9 mm-thick rim (<figref idrefs="fig3">Fig. 3</figref>). The container and the lid, made from clear acrylic, were fastened to an orbital shaker (New Brunswick™ Innova® 2300). The reactor served two purposes: (1) to transfer kinetic energy from the shaker to the components, and (2) to constrain the component motion in 2D and avoid component flipping. We chose the components density in the reactor so that the components could frequently interact with one another while minimizing packing effects and avoiding jamming of the (sub)structures (<it>e.g.</it>, 5 target structures occupied 20% of the reactor surface). We set the shaker frequency depending on the experiment type to maximise interactions among substructures while avoiding disassembly events. Orbital shaking produced a qualitatively pseudo-random motion of the components. The experimental results are not expected to be significantly influenced by the shaking method.</p>
+        <figure id="fig3" xsrc="c7sm01189j-f3.tif">
+          <title>Absorbing states from four different physical assembly trials: (a) triangular, (b) square, (c) 72° sector and (d) 60° sector components. The exact number of components to form 5 target structures was provided in all samples.</title>
+        </figure>
+      </subsect1>
+    </section>
+    <section>
+      <no>4</no>
+      <title>Analytical model</title>
+      <p>We analyse our assembling system with the chemical reaction network-based model proposed by Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> In the model, the population of the system is represented as a multiset of integers, <it>x</it><inf><it>i</it></inf>. The integer <it>x</it><inf><it>i</it></inf> represents the number of substructures with <it>i</it>, 1 ≤ <it>i</it> ≤ <it>N</it>, components and <it>N</it> the number of components in a full target structure. X<inf><it>i</it></inf> represents a substructure with <it>i</it> components. Considering, for instance, a system with <it>N</it> = 8 equal components<fnoteref idrefs="fn4"></fnoteref><footnote id="fn4"><it>N</it> = 8 represents a more complex case than the <it>N</it> = 6 case presented by Hosokawa <it>et al.</it>,<citref idrefs="cit27">27</citref> Miyashita <it>et al.</it><citref idrefs="cit30">30</citref> and Klavins.<citref idrefs="cit28">28</citref> In our experiments, <it>N</it> was limited to 8 by fabrication constraints.</footnote> shaped as 45° sectors to form a circular target structure, the state vector is <bo>x</bo> = (<it>x</it><inf>1</inf>,…,<it>x</it><inf>8</inf>). As we are excluding reverse reactions through irreversible intercomponent bonds, the state of the 45°-sector system can undergo the following set of reactions:<equation id="eqn1"><no>1</no><ugraphic display="displayed" id="ugt1" xsrc="c7sm01189j-t1.tif" /></equation></p>
+      <p>Given a large enough population, we study the probabilistic evolution of the system using a system of difference equations:<eqntext display="displayed"><bo>x</bo>(<it>t</it> + 1) = <bo>x</bo>(<it>t</it>) + <bo>F</bo>(<bo>x</bo>(<it>t</it>))</eqntext>where <it>t</it> is the number of bond forming collisions between clusters, and the transition function is <bo>F</bo> = (<it>F</it><inf>1</inf>,…,<it>F</it><inf>8</inf>). The number <it>F</it><inf><it>i</it></inf> represents the expected value for each incremental step of <it>x</it><inf><it>i</it></inf>, and it is the summation of the stoichiometric coefficient <it>v</it><inf><it>ij</it></inf> times the probability <it>P</it><inf><it>j</it></inf> with which the <it>j</it>th reaction in <eqnref idrefs="eqn1">eqn (1)</eqnref> occurs, <it>i.e.</it>, <ugraphic display="inline" id="ugt2" xsrc="c7sm01189j-t2.tif" />. An example of the calculation is presented in Section 3.1 of Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> The probability <it>P</it><inf><it>j</it></inf> is the product of the collision probability and bonding probability, <it>P</it><inf><it>j</it></inf> = <it>P</it><stack><above>c</above><below><it>lm</it></below></stack><it>P</it><stack><above>b</above><below><it>lm</it></below></stack>. When <it>x</it> ≫ 1, the collision probability is defined as:<ugraphic display="displayed" id="ugt3" xsrc="c7sm01189j-t3.tif" />where <ugraphic display="inline" id="ugt4" xsrc="c7sm01189j-t4.tif" />, <it>i.e.</it>, the total number of clusters.</p>
+      <p>The geometry-specific values of <it>P</it><sup>b</sup> are calculated according to Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> We implement the calculation by placing the first substructure at the origin and the second substructure at infinity. The faces of the components form an angle of visibility. The number <it>P</it><sup>b</sup> is the probability that the angle of visibility of one substructure's face that includes the South polarity magnet (refer to <figref idrefs="fig2">Fig. 2</figref>) is within the angle of visibility of another substructure's face that includes the North polarity magnet. A more detailed explanation of the computation is available in Appendix A of Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> The values of <it>P</it><sup>b</sup> used in this work are presented in <tableref idrefs="tab1">Table 1</tableref>.</p>
+      <table-entry id="tab1">
+        <title>Assembly reactions and corresponding bonding probabilities <it>P</it><sup>b</sup> for chemical reaction network-based models of systems with circular sector-shaped components. The integers X<inf><it>i</it></inf> denote target structures of cardinality <it>i</it></title>
+        <table>
+          <tgroup cols="7">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <colspec colname="6" colnum="6" />
+            <colspec colname="7" colnum="7" />
+            <thead>
+              <row>
+                <entry>
+                </entry>
+                <entry>Chemical Reaction</entry>
+                <entry>X<inf>3</inf> target</entry>
+                <entry>X<inf>4</inf> target</entry>
+                <entry>X<inf>5</inf> target</entry>
+                <entry>X<inf>6</inf> target</entry>
+                <entry>X<inf>8</inf> target</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry>2X<inf>1</inf> → X<inf>2</inf></entry>
+                <entry>0.389</entry>
+                <entry>0.438</entry>
+                <entry>0.460</entry>
+                <entry>0.472</entry>
+                <entry align="char" char=".">0.484</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>X<inf>1</inf> + X<inf>2</inf> → X<inf>3</inf></entry>
+                <entry>0.222</entry>
+                <entry>0.375</entry>
+                <entry>0.420</entry>
+                <entry>0.444</entry>
+                <entry align="char" char=".">0.469</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>X<inf>1</inf> + X<inf>3</inf> → X<inf>4</inf></entry>
+                <entry>0</entry>
+                <entry>0.188</entry>
+                <entry>0.320</entry>
+                <entry>0.417</entry>
+                <entry align="char" char=".">0.453</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>2X<inf>2</inf> → X<inf>4</inf></entry>
+                <entry>0</entry>
+                <entry>0.250</entry>
+                <entry>0.340</entry>
+                <entry>0.389</entry>
+                <entry align="char" char=".">0.438</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>X<inf>1</inf> + X<inf>4</inf> → X<inf>5</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.160</entry>
+                <entry>0.278</entry>
+                <entry align="char" char=".">0.438</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>X<inf>2</inf> + X<inf>3</inf> → X<inf>5</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.240</entry>
+                <entry>0.334</entry>
+                <entry align="char" char=".">0.406</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>X<inf>1</inf> + X<inf>5</inf> → X<inf>6</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.139</entry>
+                <entry align="char" char=".">0.328</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>X<inf>2</inf> + X<inf>4</inf> → X<inf>6</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.222</entry>
+                <entry align="char" char=".">0.375</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>2X<inf>3</inf> → X<inf>6</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0.250</entry>
+                <entry align="char" char=".">0.359</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>X<inf>1</inf> + X<inf>6</inf> → X<inf>7</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.219</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>X<inf>2</inf> + X<inf>5</inf> → X<inf>7</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.281</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>X<inf>3</inf> + X<inf>4</inf> → X<inf>7</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.313</entry>
+              </row>
+              <row>
+                <entry nameend="7" namest="1">
+                </entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>X<inf>1</inf> + X<inf>7</inf> → X<inf>8</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.109</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>X<inf>2</inf> + X<inf>6</inf> → X<inf>8</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.188</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>X<inf>3</inf> + X<inf>5</inf> → X<inf>8</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.234</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>2X<inf>4</inf> → X<inf>8</inf></entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry align="char" char=".">0.250</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </table-entry>
+      <p>The <it>F</it><inf><it>i</it></inf> are generally expressed as:<equation id="eqn2"><no>2</no><ugraphic display="displayed" id="ugt5" xsrc="c7sm01189j-t5.tif" /></equation>with <it>P</it><stack><above>b</above><below><it>l</it>,<it>m</it></below></stack> = <it>P</it><stack><above>b</above><below><it>m</it>,<it>l</it></below></stack> and <it>P</it><stack><above>b</above><below><it>l</it>,<it>m</it></below></stack> = 0 for <it>l</it> + <it>m</it> &gt; <it>N</it>. The <it>F</it><inf><it>i</it></inf> for the case of <it>N</it> = 8 are explicited in Appendix A.</p>
+      <p>Using only the mean values of <it>x</it><inf><it>i</it></inf> in our analysis would prevent us from accurately predicting the yield of a system. This is especially true for smaller values of <it>x</it><inf><it>i</it></inf>. Therefore, we use the master equation, which uses the probability distributions of each <it>x</it><inf><it>i</it></inf> instead of their mean values. The master equation is:<ugraphic display="displayed" id="ugt6" xsrc="c7sm01189j-t6.tif" />where <it>w</it>(<bo>x</bo>,<bo>x</bo>′) is the probability of transition from <bo>x</bo>′ to <bo>x</bo>. For instance, the probability of the reaction 2X<inf>1</inf> → X<inf>2</inf> at state <bo>x</bo>′ is<ugraphic display="displayed" id="ugt7" xsrc="c7sm01189j-t7.tif" />which for <it>x</it> ≫ 1 becomes<ugraphic display="displayed" id="ugt8" xsrc="c7sm01189j-t8.tif" />Substituting <it>w</it>(<bo>x</bo>,<bo>x</bo>′) in the master equation, we obtain:<ugraphic display="displayed" id="ugt9" xsrc="c7sm01189j-t9.tif" /></p>
+      <p>The master equation was solved numerically. The equation was iterated over interaction steps until only absorbing states and their corresponding probabilities were left. This inherently allowed listing the number of possible absorbing states.</p>
+    </section>
+    <section>
+      <no>5</no>
+      <title>Experiments</title>
+      <p>We verified the assembly yield predictions of the CRN-based model by conducting an extensive set of physical assembly experiments. The aim of the experiments was to record experimental yield statistics, to be compared with the CRN-based predictions. The parameters of the experiments were number of components and component shape, and the variable was assembly yield.</p>
+      <p>We conducted 6 experiments. The experiment with 45°-sector shape components was conducted under 33 conditions parameterised by the number <it>n</it> of components, which varied from 8 (sufficient for 1 target structure) to 40 (sufficient for 5 target structures). 20 trials were conducted for each of the 33 conditions, and an additional 21 trials were conducted for 12 of the 33 conditions. Experiments for 60°, 72° and  90° circular sectors and for square and triangular components were conducted under 13 conditions each. The number of components used were: <it>N</it>, <it>N</it> + 1, 2<it>N</it> − 1, 2<it>N</it>, 2<it>N</it> + 1, 3<it>N</it> − 1, 3<it>N</it>, 3<it>N</it> + 1, 4<it>N</it> − 1, 4<it>N</it>, 4<it>N</it> + 1, 5<it>N</it> − 1 and 5<it>N</it>, respectively. 11 trials were conducted per condition.</p>
+      <p>We conducted each trial as follows. We manually placed the individually separated components at various initial positions and orientations in the reactor, ensuring that the polarities on the right edge of every component were the same and that intercomponent bonds were not to instantaneously form upon inception of shaking. The shaking frequency was then set to 350 rpm for all circular sector-shaped and square components. Using the same shaking frequency and type of magnets, we observed lever-caused breakage in substructures of triangular components; thus in this case we ran the experiments at 300 rpm to eliminate the problem.</p>
+      <p>After inception of shaking, each experiment was run until the system reached an absorbing state, composed only of target structures and incompatible substructures (<figref idrefs="fig3">Fig. 3</figref>). The final population of structures was then manually recorded.<fnoteref idrefs="fn5"></fnoteref><footnote id="fn5">A sample video of an assembly trial is available at <url url="http://iridia.ulb.ac.be/~dipparth/site/video/">http://iridia.ulb.ac.be/∼dipparth/site/video/</url>.</footnote></p>
+    </section>
+    <section>
+      <no>6</no>
+      <title>Results and discussion</title>
+      <p>The results of the experiments are presented in <figref idrefs="fig4 fig5 fig6 fig7 fig8 fig9 fig10 fig11">Fig. 4–11</figref> and in <figref idrefs="fig17 fig18 fig19 fig20">Fig. 17–20</figref> of Appendix D. They show, in all cases, a qualitative agreement respectively with model-based predictions of absolute assembly yield <it>Y</it>, defined as the mean number of fully formed target structures over a given number of trials, and relative assembly yield <it>T</it> ≡ <it>Y</it>·<it>N</it>/<it>n</it>, defined as the mean number of components that form target structures divided by the number <it>n</it> of available components. For the comparisons of absolute yield, <figref idrefs="fig4 fig5 fig6 fig7 fig8 fig9 fig10 fig11">Fig. 4–11</figref> (left) also report the 95% confidence error bound, <it>i.e.</it>, the 95% confidence maximum difference between the predicted and the experimental absolute yields. Statistically significant confidence intervals were computed by means of the bootstrapping procedure described in Appendix B. A complementary measure of waste <it>W</it>, capturing the relative fraction of components not used in complete target structures, is defined as <it>W</it> ≡ 1 − <it>Y</it>·<it>N</it>/<it>n</it> = 1 − <it>T</it> and reported in <figref idrefs="fig6">Fig. 6</figref> for the <it>N</it> = 8 case.</p>
+      <subsect1>
+        <title>Circular sector components</title>
+        <p>As shown in <figref idrefs="fig4">Fig. 4</figref>, the yield in both the physical system and the abstract model is 100% for the 8-component condition. This is expected, since in this condition 8 components necessarily assemble in only one way if correctly placed and constrained to move in 2D (<figref idrefs="fig5">Fig. 5</figref>). Then, <it>Y</it> drops sharply for the 9-component condition, the first where the formation of incompatible substructures is possible. In fact, the 9-component system can end in one of 4 possible absorbing states (<figref idrefs="fig5">Fig. 5</figref>), three of which consist of two incompatible substructures. The values of the error bound, expectedly null for the <it>n</it> = 8 condition, show a non-monotonic increasing trend (<figref idrefs="fig4">Fig. 4</figref>).<fnoteref idrefs="fn6"></fnoteref><footnote id="fn6">When computing the yield considering also the additional 21 trials (<it>i.e.</it>, on a total of 41 trials), the difference between the model prediction and the observed value becomes smaller; similarly, the corresponding bounds are reduced (see <figref idrefs="fig15">Fig. 15</figref> in Appendix C).</footnote> The relative assembly yield also drops sharply for the 9-component condition, and initially shows a non-monotonic trend that becomes approximately constant at ∼31% for larger <it>n</it> (<figref idrefs="fig17">Fig. 17</figref>). Correspondingly, the component waste fraction <it>W</it> in <figref idrefs="fig6">Fig. 6</figref> appears to converge asymptotically and non-monotonically to an approximately constant value of ∼69%.</p>
+        <figure id="fig4" xsrc="c7sm01189j-f4.tif">
+          <title>Results for the systems with <it>N</it> = 8 (45°) sectors per circular target structure: absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 20 trials per condition.</title>
+        </figure>
+        <figure id="fig5" xsrc="c7sm01189j-f5.tif">
+          <title>Number of possible and of observed absorbing states as a function of the number of components for the system of <figref idrefs="fig4">Fig. 4</figref>.</title>
+        </figure>
+        <figure id="fig6" xsrc="c7sm01189j-f6.tif">
+          <title>Waste, <it>i.e.</it>, relative fraction of components not assembled into target structures, for the system of <figref idrefs="fig4">Fig. 4</figref>.</title>
+        </figure>
+        <p>The relation between absolute assembly yield and possible number of absorbing states is explicited in <figref idrefs="fig16">Fig. 16</figref> of Appendix C. The curve is multi-valued since, as shown by <figref idrefs="fig5">Fig. 5</figref>, different values of <it>n</it> give rise to the same number of possible absorbing states. Nevertheless, a non-monotonic increase of <it>Y</it> with the number of possible states can generically be observed.</p>
+        <p>The absolute assembly yield data and error bounds for the 60°, 72°, and 90° sector conditions (<figref idrefs="fig7 fig8 fig9">Fig. 7–9</figref> (left)) show non-monotonically increasing trends similar to the 45° sector case. The corresponding comparison between possible and observed absorbing states are shown in <figref idrefs="fig7 fig8 fig9">Fig. 7–9</figref> (right). The relative yield data, presented in <figref idrefs="fig17 fig18 fig19 fig20">Fig. 17–20</figref> of Appendix D, show the convergence of <it>T</it> to an <it>N</it>-dependent asymptotic value already observed for <it>N</it> = 8.</p>
+        <figure id="fig7" xsrc="c7sm01189j-f7.tif">
+          <title>Results for the systems with <it>N</it> = 6 (60°) sectors per circular target structure: (left) absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 11 trials per condition. (right) Number of possible and of observed absorbing states as a function of the number of components.</title>
+        </figure>
+        <figure id="fig8" xsrc="c7sm01189j-f8.tif">
+          <title>Results for the systems with <it>N</it> = 5 (72°) sectors per circular target structure: (left) absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 11 trials per condition. (right) Number of possible and of observed absorbing states as a function of the number of components.</title>
+        </figure>
+        <figure id="fig9" xsrc="c7sm01189j-f9.tif">
+          <title>Results for systems with <it>N</it> = 4 (90°) sectors per circular target structure: (left) absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 11 trials per condition. (right) Number of possible and of observed absorbing states a function of the number of components.</title>
+        </figure>
+      </subsect1>
+      <subsect1>
+        <title>Square and triangular components</title>
+        <p>The absolute assembly yield curve derived from the CRN-based model for the square components (<figref idrefs="fig10">Fig. 10</figref> (left)) exactly matches that of the 90° sector components (<figref idrefs="fig9">Fig. 9</figref> (left)). The match is expected, since the model parameters describing both component shapes—namely, bonding probability <it>P</it><sup>b</sup> and collision probability <it>P</it><sup>c</sup>—are the same (see Section 4). For the same reason, the number of possible absorbing states is also the same in both cases (<figref idrefs="fig9 fig10">Fig. 9 and 10</figref> (right)). The data for relative assembly yield shown in <figref idrefs="fig21">Fig. 21</figref> are consistent with previous observations.</p>
+        <figure id="fig10" xsrc="c7sm01189j-f10.tif">
+          <title>Results for systems with <it>N</it> = 4 (square-shaped) components per square target structure: (left) absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 11 trials per condition. (right) Number of possible and of observed absorbing states a function of the number of components.</title>
+        </figure>
+        <p>Yield data and number of absorbing states for systems of triangular components are shown in <figref idrefs="fig11">Fig. 11</figref> (left), <figref idrefs="fig22">Fig. 22</figref> and <figref idrefs="fig11">Fig. 11</figref> (right), respectively. Also in this case, the absolute yield curves for experimental and model-based results have closely matching, non-monotonically increasing trends; not all possible absorbing states were observed; and <it>T</it> appears to saturate for large <it>n</it>.</p>
+        <figure id="fig11" xsrc="c7sm01189j-f11.tif">
+          <title>Results for systems with <it>N</it> = 3 (triangle-shaped) components per triangular target structure: (left) absolute assembly yield for experiments with physical system, absolute assembly yield for analytical model, and 95% error bound. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. Experimental data collected over 11 trials per condition. (right) Number of possible and of observed absorbing states as a function of the number of components.</title>
+        </figure>
+        <p>Though time is not a parameter of our experiments, it is worth noting that the trials with the triangular components took 15 minutes on average to reach the absorbing state, compared to an average of 5 minutes for square- and sector-shaped components. This can be only partially justified by the use of a lower shaking frequency in the former case (see Section 5). Visual observations suggested that the triangular components tended to mutually align and stack themselves against the edge of the container. This ordering and packing effect induced by local component density<citref idrefs="cit36">36</citref> sterically hindered the roto-translational motion of the components and significantly reduced the rate of interbond formation.</p>
+      </subsect1>
+      <subsect1>
+        <title>Discussion</title>
+        <p>Experimental and analytical assembly yield data (<figref idrefs="fig4">Fig. 4</figref>, and (<figref idrefs="fig7 fig8 fig9 fig10 fig11">Fig. 7–11</figref> (left))) show non-monotonically increasing, closely matching trends. Predicted and observed drops in assembly yield for specific <it>n</it> values can be justified by (1) the formation of the (<it>z</it> − 1)th target structure, and (2) the number of possible absorbing states.</p>
+      </subsect1>
+      <subsect1>
+        <title>Formation of the (<it>z</it> − 1)th target structure</title>
+        <p>Consider the experiment with 16 of the 45° circular sector components, which can form <it>z</it> = 2 target structures. If and when the first target structure is formed, the second target structure will also and always form. This is true since the residual components can assemble in only one way. This also implies that the probability of forming exactly one target structure is 0 in this condition. With one more component with respect to the previous condition, the second target structure is not guaranteed to form even if the first target structure is formed. This is true because the residual components could still form incompatible substructures. The expected drop in yield for the latter compared to the former condition was confirmed by the experimental data.</p>
+        <p>Beyond the third target structure, the formation of the (<it>z</it> − 1)th target structure does not seem to cause a significant drop in yield.</p>
+      </subsect1>
+      <subsect1>
+        <title>Number of possible absorbing states</title>
+        <p>The assembly yield is also influenced by the number of absorbing states a system can access (see <figref idrefs="fig16">Fig. 16</figref>) and the corresponding distribution of substructures. The number of possible absorbing states can be exactly computed for every set of components used in this work. Interestingly, for the conditions we studied, the number of possible absorbing states is not a monotonic function of the number of components in the system. This affects the assembly yield of the corresponding systems.</p>
+        <p>To improve the reliability of the experimental data, the absorbing state space of each assembly system should be completely explored, and a sufficient number of trials conducted to build a reliable empirical estimate of the distribution over the absorbing states.<citref idrefs="cit37">37</citref> Even with the non-negligible number of experimental trials we conducted (see Section 5), ultimately limited by time constraints, we were able to explore only a subspace of the possible absorbing states for all experimental conditions. In the experiment with <it>N</it> = 8 we did increase the number of trials per condition from 20 to 41 for selected values of <it>n</it>, as evidenced in <figref idrefs="fig15">Fig. 15</figref>. The additional trials did marginally help explore more of the absorbing state space (<figref idrefs="fig5">Fig. 5</figref>).</p>
+      </subsect1>
+    </section>
+    <section>
+      <no>7</no>
+      <title>Scaling</title>
+      <p>Having verified the capability of the CRN-based model to predict the outcome of assembly experiments, we can use the model to investigate further properties of assembling systems of interest. Here, we begin by numerically exploring the scaling of the number of absorbing states and of assembly yield for populations of relatively large numbers of homogeneous components. Such conditions can be of significant practical interest in large-scale manufacturing (see Introduction).</p>
+      <p>The parallel and combinatorial nature of the assembly process and the existence of incompatible substructures let expect the number of absorbing states to be a power law function of the number of components. <figref idrefs="fig12">Fig. 12</figref> plots the growth of the number of possible absorbing states with the number of components. It can be observed that different sets of components are associated with different scaling exponents; and that, in spite of the different geometry, pairs of sector-shaped components give rise to the same scaling exponent, respectively 1.00 in the case of 120° and 90° sector components and 1.92 for 72° and 60° ones. The origin of such subdivision remains to be investigated. A power law scaling of the absolute assembly yield with the number of components is derived from <figref idrefs="fig13">Fig. 13</figref>. In this case, all component types share a very similar scaling exponent (∼1.00). Scaling of the relative assembly yield with the number of components is shown in <figref idrefs="fig14">Fig. 14</figref>, which further evidences the convergence of <it>T</it> toward a fixed, <it>N</it>-dependent values for large values of <it>n</it>.</p>
+      <figure id="fig12" xsrc="c7sm01189j-f12.tif">
+        <title>Scaling of the number of possible absorbing states for large populations of homogeneous sector-shaped components of varying anisotropy.</title>
+      </figure>
+      <figure id="fig13" xsrc="c7sm01189j-f13.tif">
+        <title>Scaling of absolute assembly yield for large populations of homogeneous sector-shaped components of varying anisotropy.</title>
+      </figure>
+      <figure id="fig14" xsrc="c7sm01189j-f14.tif">
+        <title>Scaling of relative assembly yield for large populations of homogeneous sector-shaped components of varying anisotropy.</title>
+      </figure>
+    </section>
+    <section>
+      <no>8</no>
+      <title>Conclusions</title>
+      <p>We presented a comprehensive study of assembly yield in systems of passive homogeneous agents assembling into equal target structures in parallel. The yield predictions derived from a chemical reaction network-based model were quantitatively compared with physical experiments conducted on a magneto-mechanical system. Our results demonstrate that the CRN-based model is able to predict with fair accuracy the assembly yield for the extensive presented set of experimental conditions parameterised by number and shape of components. The results provide a quantitative grounding as well as a generalisation of the incomplete evidence first reported by Hosokawa <it>et al.</it><citref idrefs="cit27">27</citref> They evidence that the relative assembly yield for a given target structure tends to converge to a fixed value for populations with large number of components. Correspondingly, the average fraction of components ultimately not used in the assembly of complete target structures was shown to remain rather high (<it>e.g.</it>, above 69% for the <it>N</it> = 8 case) irrespective of the number of components available, which posits severe waste concerns for practical applications. Our results also support the theoretical observation by Miyashita <it>et al.</it>,<citref idrefs="cit30">30</citref> according to which assembly yield increases as the angle of the sector-shaped components increases (<it>i.e.</it>, <it>N</it> decreases). The CRN-based analysis clearly pinpointed the crucial role of incompatible substructures in the suboptimal yield in parallel assembly of geometrically-closed target structures, and was shown suitable to derive scaling laws for the assembly system. A similar analysis can be developed to model the 3D assembly of modular target structures—as reported <it>e.g.</it> by White <it>et al.</it>,<citref idrefs="cit38">38</citref> Hacohen <it>et al.</it><citref idrefs="cit34">34</citref> and Neubert <it>et al.</it><citref idrefs="cit39">39</citref>—provided that CRNs and bonding probabilities are appropriately defined.</p>
+      <p>This work preludes to future analyses of ways to avoid incompatible substructures. A trivial solution to the problem is the compartmentalisation of the assembly space in subregions, each bounding the exact number of components making up a target structure. An obvious approach is also to convert the assembling system into a self-assembling system, whereby intercomponent bonds are reversible and can be broken under specific conditions.<citref idrefs="cit24">24</citref> In a system designed so that only the target structures do not break up upon collisions, the components population would be able to escape local energy minima. Another approach consists in templating the assembly of the target structures, for instance by using (non-homogeneous) sets of geometrically complementary components<citref idrefs="cit16">16</citref> or addressable, uniquely-encoded intercomponent bonds.<citref idrefs="cit34 cit40 cit41">34,40,41</citref> In yet another approach, originally proposed but never realised by Hosokawa <it>et al.</it>,<citref idrefs="cit27">27</citref> mechanical conformational switching<citref idrefs="cit42">42</citref> would direct the assembly kinetics of passive components with binary internal states and limit the number of possible coexisting nucleation sites.<citref idrefs="cit20">20</citref></p>
+      <p>Finally, the abstract model we used takes into account the combinatorial entropy of the system and a limited information on the geometry of the components. Additional entropic considerations might improve the model by integrating complementary spatial information pertaining to, <it>e.g.</it>, component density in the assembly space.<citref idrefs="cit7 cit36">7,36</citref> Developing a model that takes into account spatial entropy will be part of our forthcoming work.</p>
+    </section>
+    <section>
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts to declare.</p>
+    </section>
+  </art-body>
+  <appmat>
+    <appendix>
+      <section>
+        <title>Appendix A: CRN model for the <it>N</it> = 8 circular sector system</title>
+        <p>According to <eqnref idrefs="eqn2">eqn (2)</eqnref>, the <it>F</it><inf><it>i</it></inf> can then be expressed as:<ugraphic display="displayed" id="ugt10" xsrc="c7sm01189j-t10.tif" /></p>
+      </section>
+      <section>
+        <title>Appendix B: Calculation of error bounds</title>
+        <p>Since gathering experimental data sufficient to compute 95% confidence intervals (CI 95%) is extremely time consuming for our assembling systems, we recurred to bootstrapping.<citref idrefs="cit37">37</citref> In this method, several independent samples are repeatedly drawn (with replacement) from an observed population in order to infer statistical information about the underlying distribution. The required statistics are computed for each independent sample, and a corresponding resampled distribution is built. As the observed population is assumed to contain all the necessary information of the underlying distribution, the resampled distribution represents the spread of the required statistic for the underlying distribution.<citref idrefs="cit37">37</citref></p>
+        <p>In our study, we bootstrap the physical experiment outcomes in order to obtain a confidence interval for the mean yield (<it>μ</it><inf>Y</inf>) of the physical experiments. Using the obtained confidence interval, the error bound, <it>i.e.</it>, maximum difference between the model prediction and experimental mean, is calculated according to Algorithm 2. The experimental results (<it>experimentalResults</it>) are in the form of a matrix with <it>numOfConditions</it> rows and <it>numOfTrials</it> columns. We iterate through all the experiment conditions using the index <it>i</it>. A vector (<it>μ</it><inf>Y</inf>) of null values is initialised; this vector stores the yield values of the resampled data. For each condition, represented as a row in <it>experimentalResults</it>, we randomly choose (with replacement, <it>i.e.</it>, resampled) values <it>numOfTrials</it> times. The yield of the resampled data is computed and stored in <it>μ</it><inf>Y</inf>. The process of resampling is repeated a given number of times (<it>numOfBootstrapSamples</it>).</p>
+        <p>The vector <it>μ</it><inf>Y</inf> is sorted in ascending order. As <it>numOfBootstrapSamples</it> = 200 in our work, the lower bound (<it>lowerBound</it>) is the 6th element, and the upper bound (<it>upperBound</it>) is the 195th element respectively. The error bound is the maximum difference between the model yield and one of the bounds.</p>
+        <p>The code and data employed to estimate the confidence intervals are available to download.<fnoteref idrefs="fn7"></fnoteref><footnote id="fn7"><url url="http://iridia.ulb.ac.be/~dipparth/site/">http://iridia.ulb.ac.be/∼dipparth/site/</url>.</footnote><ugraphic display="displayed" id="ugr1" xsrc="c7sm01189j-u1.tif" /></p>
+      </section>
+      <section>
+        <title>Appendix C: Additional data for the assembly system with <it>N</it> = 8</title>
+        <p>For the case of target structures formed by 8 sector-shaped components, we hereby report the comparison of absolute assembly yield data and the 95% error bounds computed out of 20 and 41 trials (<figref idrefs="fig15">Fig. 15</figref>), and the relationship between absolute experimental assembly yield (for 20 trials) and number of possible absorbing states (<figref idrefs="fig16">Fig. 16</figref>).</p>
+        <figure id="fig15" xsrc="c7sm01189j-f15.tif">
+          <title>Results for the systems with <it>N</it> = 8 (45°) sectors per circular target structure: comparison of model-predicted and experimental absolute assembly yield, including error bounds for 20 and 41 trials. Vertical dotted lines extend the markers on the <it>x</it>-axis for the fully formed target structures. See also <figref idrefs="fig4">Fig. 4</figref>.</title>
+        </figure>
+        <figure id="fig16" xsrc="c7sm01189j-f16.tif">
+          <title>Scatter plot of absolute assembly yield as a function of possible absorbing states for the system with <it>N</it> = 8 (45°) sectors per circular target structure. Experimental yield values are from 20 trials (refer to <figref idrefs="fig4 fig5">Fig. 4 and 5</figref>).</title>
+        </figure>
+      </section>
+      <section>
+        <title>Appendix D: Relative assembly yield</title>
+        <p>The plots of the relative assembly yield <it>T</it> = <it>Y</it>·<it>N</it>/<it>n</it> for the sector-, square- and triangle-shaped components are given in <figref idrefs="fig17 fig18 fig19 fig20 fig21 fig22">Fig. 17–22</figref>. Unless specified otherwise, 20 trials were performed for each experiment condition.</p>
+        <figure id="fig17" xsrc="c7sm01189j-f17.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig4">Fig. 4</figref> (<it>N</it> = 8).</title>
+        </figure>
+        <figure id="fig18" xsrc="c7sm01189j-f18.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig7">Fig. 7</figref> (<it>N</it> = 6).</title>
+        </figure>
+        <figure id="fig19" xsrc="c7sm01189j-f19.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig8">Fig. 8</figref> (<it>N</it> = 5).</title>
+        </figure>
+        <figure id="fig20" xsrc="c7sm01189j-f20.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig9">Fig. 9</figref> (<it>N</it> = 4, sector-shaped components).</title>
+        </figure>
+        <figure id="fig21" xsrc="c7sm01189j-f21.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig10">Fig. 10</figref> (<it>N</it> = 4, square-shaped components).</title>
+        </figure>
+        <figure id="fig22" xsrc="c7sm01189j-f22.tif">
+          <title>Relative assembly yield for the system of <figref idrefs="fig11">Fig. 11</figref> (<it>N</it> = 3, triangle-shaped components).</title>
+        </figure>
+      </section>
+    </appendix>
+  </appmat>
+  <art-back>
+    <ack>
+      <p>The work presented in this paper received funding from the European Research Council under the European Union Seventh Framework Programme (FP7/2007-2013)/ERC grant agreement no. 246939. Additionally, the authors would like to express their gratitude to: Joel Minsky for assisting in the fabrication of the components; Dr. Paolo Malgaretti for useful criticism and suggestions; Prof. Mauro Birattari, Alberto Franzin, Prof. Thomas Stützle, and Prof. Tom Wenseleers for giving critical insight into our data; and the Direct Manufacturing Research Center at the University of Paderborn for 3D printing the components used in the initial experiments.</p>
+    </ack>
+    <biblist>
+      <citgroup id="cit1">
+        <journalcit>
+          <citauth>
+            <fname>C. J.</fname>
+            <surname>Morris</surname>
+          </citauth>
+          <citauth>
+            <fname>S. A.</fname>
+            <surname>Stauth</surname>
+          </citauth>
+          <citauth>
+            <fname>B. A.</fname>
+            <surname>Parviz</surname>
+          </citauth>
+          <title>IEEE Trans. Adv. Packag.</title>
+          <year>2005</year>
+          <volumeno>28</volumeno>
+          <pages>
+            <fpage>600</fpage>
+            <lpage>611</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit2">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>
+          <citauth>
+            <fname>Q.</fname>
+            <surname>Zhou</surname>
+          </citauth>
+          <citauth>
+            <fname>V.</fname>
+            <surname>Sariola</surname>
+          </citauth>
+          <citauth>
+            <fname>P.</fname>
+            <surname>Lambert</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2017</year>
+          <volumeno>13</volumeno>
+          <pages>
+            <fpage>304</fpage>
+            <lpage>327</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit3">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Grzybowski</surname>
+          </citauth>
+          <citauth>
+            <fname>C. E.</fname>
+            <surname>Wilmer</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Kim</surname>
+          </citauth>
+          <citauth>
+            <fname>K. P.</fname>
+            <surname>Browne</surname>
+          </citauth>
+          <citauth>
+            <fname>K. J. M.</fname>
+            <surname>Bishop</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2009</year>
+          <volumeno>5</volumeno>
+          <pages>
+            <fpage>1110</fpage>
+            <lpage>1128</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit4">
+        <citation type="book">
+          <citauth>
+            <fname>G. R.</fname>
+            <surname>Desiraju</surname>
+          </citauth>, <title>Crystal engineering: the design of organic solids</title>, <citpub>Elsevier</citpub>, <year>1989</year></citation>
+      </citgroup>
+      <citgroup id="cit5">
+        <journalcit>
+          <citauth>
+            <fname>A. J.</fname>
+            <surname>Olson</surname>
+          </citauth>
+          <citauth>
+            <fname>Y. H. E.</fname>
+            <surname>Hu</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Keinan</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2007</year>
+          <volumeno>104</volumeno>
+          <pages>
+            <fpage>20731</fpage>
+            <lpage>20736</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit6">
+        <journalcit>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Madge</surname>
+          </citauth>
+          <citauth>
+            <fname>M. A.</fname>
+            <surname>Miller</surname>
+          </citauth>
+          <title>J. Chem. Phys.</title>
+          <year>2015</year>
+          <volumeno>143</volumeno>
+          <pages>
+            <fpage>044905</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit7">
+        <journalcit>
+          <citauth>
+            <fname>F. A.</fname>
+            <surname>Escobedo</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2014</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>8388</fpage>
+            <lpage>8400</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit8">
+        <journalcit>
+          <citauth>
+            <fname>T.</fname>
+            <surname>Hogg</surname>
+          </citauth>
+          <title>Nanotechnology</title>
+          <year>1999</year>
+          <volumeno>10</volumeno>
+          <pages>
+            <fpage>300</fpage>
+            <lpage>307</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit9">
+        <journalcit>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Boncheva</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2002</year>
+          <volumeno>99</volumeno>
+          <pages>
+            <fpage>4769</fpage>
+            <lpage>4774</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit10">
+        <journalcit>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Grzybowski</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2002</year>
+          <volumeno>295</volumeno>
+          <pages>
+            <fpage>2418</fpage>
+            <lpage>2421</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit11">
+        <journalcit>
+          <citauth>
+            <fname>T. A.</fname>
+            <surname>Witten Jr.</surname>
+          </citauth>
+          <citauth>
+            <fname>L. M.</fname>
+            <surname>Sander</surname>
+          </citauth>
+          <title>Phys. Rev. Lett.</title>
+          <year>1981</year>
+          <volumeno>47</volumeno>
+          <pages>
+            <fpage>1400</fpage>
+            <lpage>1403</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit12">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Murugan</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Zou</surname>
+          </citauth>
+          <citauth>
+            <fname>M. P.</fname>
+            <surname>Brenner</surname>
+          </citauth>
+          <title>Nat. Commun.</title>
+          <year>2015</year>
+          <volumeno>6</volumeno>
+          <pages>
+            <fpage>6203</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit13">
+        <journalcit>
+          <citauth>
+            <fname>W.</fname>
+            <surname>Zheng</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Jacobs</surname>
+          </citauth>
+          <title>Adv. Funct. Mater.</title>
+          <year>2005</year>
+          <volumeno>15</volumeno>
+          <pages>
+            <fpage>732</fpage>
+            <lpage>738</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit14">
+        <journalcit>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Jacot-Descombes</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Martin-Olmos</surname>
+          </citauth>
+          <citauth>
+            <fname>M. R.</fname>
+            <surname>Gullo</surname>
+          </citauth>
+          <citauth>
+            <fname>V. J.</fname>
+            <surname>Cadarso</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Mermoud</surname>
+          </citauth>
+          <citauth>
+            <fname>L. G.</fname>
+            <surname>Villanueva</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Martinoli</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Brugger</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2013</year>
+          <volumeno>9</volumeno>
+          <pages>
+            <fpage>9931</fpage>
+            <lpage>9938</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit15">
+        <citation type="other">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>, <citauth><fname>L.</fname><surname>Jacot-Descombes</surname></citauth>, <citauth><fname>M. R.</fname><surname>Gullo</surname></citauth> and <citauth><fname>J.</fname><surname>Brugger</surname></citauth>, Proc. 2014 IEEE 27th International Conference on Micro Electro Mechanical Systems (MEMS), 2014, pp. 56–59</citation>
+      </citgroup>
+      <citgroup id="cit16">
+        <citation type="book">
+          <citauth>
+            <fname>N.</fname>
+            <surname>Bhalla</surname>
+          </citauth>, <citauth><fname>D.</fname><surname>Ipparthi</surname></citauth>, <citauth><fname>E.</fname><surname>Klemp</surname></citauth> and <citauth><fname>M.</fname><surname>Dorigo</surname></citauth>, <title>Parallel Problem Solving from Nature XIII</title>, <citpub>Springer</citpub>, <year>2014</year>, <biblscope>pp. 751–760</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit17">
+        <journalcit>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>J. P.</fname>
+            <surname>Mathias</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Seto</surname>
+          </citauth>
+          <title>Science</title>
+          <year>1991</year>
+          <volumeno>254</volumeno>
+          <pages>
+            <fpage>1312</fpage>
+            <lpage>1319</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit18">
+        <journalcit>
+          <citauth>
+            <fname>K. E.</fname>
+            <surname>Schwiebert</surname>
+          </citauth>
+          <citauth>
+            <fname>D. N.</fname>
+            <surname>Chin</surname>
+          </citauth>
+          <citauth>
+            <fname>J. C.</fname>
+            <surname>MacDonald</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>1996</year>
+          <volumeno>118</volumeno>
+          <pages>
+            <fpage>4018</fpage>
+            <lpage>4029</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit19">
+        <citation type="book">
+          <citauth>
+            <fname>B.</fname>
+            <surname>Alberts</surname>
+          </citauth>, <citauth><fname>D.</fname><surname>Bray</surname></citauth>, <citauth><fname>J.</fname><surname>Lewis</surname></citauth>, <citauth><fname>M.</fname><surname>Raff</surname></citauth>, <citauth><fname>K.</fname><surname>Roberts</surname></citauth> and <citauth><fname>J. D.</fname><surname>Watson</surname></citauth>, <title>Molecular biology of the cell</title>, <citpub>Garland Publishing, Inc.</citpub>, <year>1994</year></citation>
+      </citgroup>
+      <citgroup id="cit20">
+        <journalcit>
+          <citauth>
+            <fname>R. P.</fname>
+            <surname>Sear</surname>
+          </citauth>
+          <title>J. Phys.: Condens. Matter</title>
+          <year>2007</year>
+          <volumeno>19</volumeno>
+          <pages>
+            <fpage>033101</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit21">
+        <journalcit>
+          <citauth>
+            <fname>L. S.</fname>
+            <surname>Penrose</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Penrose</surname>
+          </citauth>
+          <title>Nature</title>
+          <year>1957</year>
+          <volumeno>179</volumeno>
+          <pages>
+            <fpage>1183</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit22">
+        <journalcit>
+          <citauth>
+            <fname>N.</fname>
+            <surname>Bowden</surname>
+          </citauth>
+          <citauth>
+            <fname>I. S.</fname>
+            <surname>Choi</surname>
+          </citauth>
+          <citauth>
+            <fname>B. A.</fname>
+            <surname>Grzybowski</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <title>J. Am. Chem. Soc.</title>
+          <year>1999</year>
+          <volumeno>121</volumeno>
+          <pages>
+            <fpage>5373</fpage>
+            <lpage>5391</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit23">
+        <journalcit>
+          <citauth>
+            <fname>D. H.</fname>
+            <surname>Gracias</surname>
+          </citauth>
+          <citauth>
+            <fname>J.</fname>
+            <surname>Tien</surname>
+          </citauth>
+          <citauth>
+            <fname>T. L.</fname>
+            <surname>Breen</surname>
+          </citauth>
+          <citauth>
+            <fname>C.</fname>
+            <surname>Hsu</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <title>Science</title>
+          <year>2000</year>
+          <volumeno>289</volumeno>
+          <pages>
+            <fpage>1170</fpage>
+            <lpage>1172</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit24">
+        <journalcit>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Ilievski</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mani</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>M. P.</fname>
+            <surname>Brenner</surname>
+          </citauth>
+          <title>Phys. Rev. E: Stat., Nonlinear, Soft Matter Phys.</title>
+          <year>2011</year>
+          <volumeno>83</volumeno>
+          <pages>
+            <fpage>017301</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit25">
+        <journalcit>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Cademartiri</surname>
+          </citauth>
+          <citauth>
+            <fname>C. A.</fname>
+            <surname>Stan</surname>
+          </citauth>
+          <citauth>
+            <fname>V. M.</fname>
+            <surname>Tran</surname>
+          </citauth>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Wu</surname>
+          </citauth>
+          <citauth>
+            <fname>L.</fname>
+            <surname>Friar</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Vulis</surname>
+          </citauth>
+          <citauth>
+            <fname>L. W.</fname>
+            <surname>Clark</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Tricard</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2012</year>
+          <volumeno>8</volumeno>
+          <pages>
+            <fpage>9771</fpage>
+            <lpage>9791</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit26">
+        <journalcit>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Grünwald</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Tricard</surname>
+          </citauth>
+          <citauth>
+            <fname>G. M.</fname>
+            <surname>Whitesides</surname>
+          </citauth>
+          <citauth>
+            <fname>P. L.</fname>
+            <surname>Geissler</surname>
+          </citauth>
+          <title>Soft Matter</title>
+          <year>2016</year>
+          <volumeno>12</volumeno>
+          <pages>
+            <fpage>1517</fpage>
+            <lpage>1524</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit27">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Hosokawa</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Shimoyama</surname>
+          </citauth>
+          <citauth>
+            <fname>H.</fname>
+            <surname>Miura</surname>
+          </citauth>
+          <title>Artif. Life</title>
+          <year>1994</year>
+          <volumeno>1</volumeno>
+          <pages>
+            <fpage>413</fpage>
+            <lpage>427</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit28">
+        <journalcit>
+          <citauth>
+            <fname>E.</fname>
+            <surname>Klavins</surname>
+          </citauth>
+          <title>IEEE Contr. Syst. Mag.</title>
+          <year>2007</year>
+          <volumeno>27</volumeno>
+          <pages>
+            <fpage>43</fpage>
+            <lpage>56</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit29">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Haghighat</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Martinoli</surname>
+          </citauth>
+          <title>Swarm Intell.</title>
+          <year>2017</year>
+          <volumeno>11</volumeno>
+          <link type="doi">10.1007/s11721-017-0139-4</link>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit30">
+        <journalcit>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Miyashita</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Göldi</surname>
+          </citauth>
+          <citauth>
+            <fname>R.</fname>
+            <surname>Pfeifer</surname>
+          </citauth>
+          <title>Int. J. Rob. Res.</title>
+          <year>2011</year>
+          <volumeno>30</volumeno>
+          <pages>
+            <fpage>627</fpage>
+            <lpage>641</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit31">
+        <citation type="other">
+          <citauth>
+            <fname>G.</fname>
+            <surname>Mermoud</surname>
+          </citauth>, <citauth><fname>M.</fname><surname>Mastrangeli</surname></citauth>, <citauth><fname>U.</fname><surname>Upadhyay</surname></citauth> and <citauth><fname>A.</fname><surname>Martinoli</surname></citauth>, Proc. 2012 IEEE International Conference on Robotics and Automation (ICRA), 2012, pp. 4266–4273</citation>
+      </citgroup>
+      <citgroup id="cit32">
+        <journalcit>
+          <citauth>
+            <fname>B.</fname>
+            <surname>Haghighat</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>
+          <citauth>
+            <fname>G.</fname>
+            <surname>Mermoud</surname>
+          </citauth>
+          <citauth>
+            <fname>F.</fname>
+            <surname>Schill</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Martinoli</surname>
+          </citauth>
+          <title>Micromachines</title>
+          <year>2016</year>
+          <volumeno>7</volumeno>
+          <pages>
+            <fpage>138</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit33">
+        <citation type="other">
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>, <citauth><fname>F.</fname><surname>Schill</surname></citauth>, <citauth><fname>J.</fname><surname>Goldowsky</surname></citauth>, <citauth><fname>H.</fname><surname>Knapp</surname></citauth>, <citauth><fname>J.</fname><surname>Brugger</surname></citauth> and <citauth><fname>A.</fname><surname>Martinoli</surname></citauth>, Proc. 2014 IEEE International Conference on Robotics and Automation (ICRA), 2014, pp. 5860–5865</citation>
+      </citgroup>
+      <citgroup id="cit34">
+        <journalcit>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Hacohen</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Hanniel</surname>
+          </citauth>
+          <citauth>
+            <fname>Y.</fname>
+            <surname>Nikulshin</surname>
+          </citauth>
+          <citauth>
+            <fname>S.</fname>
+            <surname>Wolfus</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Abu-Horowitz</surname>
+          </citauth>
+          <citauth>
+            <fname>I.</fname>
+            <surname>Bachelet</surname>
+          </citauth>
+          <title>Sci. Rep.</title>
+          <year>2015</year>
+          <volumeno>5</volumeno>
+          <pages>
+            <fpage>12257</fpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit35">
+        <journalcit>
+          <citauth>
+            <fname>D. T.</fname>
+            <surname>Gillespie</surname>
+          </citauth>
+          <title>Annu. Rev. Phys. Chem.</title>
+          <year>2007</year>
+          <volumeno>58</volumeno>
+          <pages>
+            <fpage>35</fpage>
+            <lpage>55</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit36">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Frenkel</surname>
+          </citauth>
+          <title>Nat. Mater.</title>
+          <year>2015</year>
+          <volumeno>14</volumeno>
+          <pages>
+            <fpage>9</fpage>
+            <lpage>12</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit37">
+        <citation type="book">
+          <citauth>
+            <fname>B.</fname>
+            <surname>Efron</surname>
+          </citauth> and <citauth><fname>R. J.</fname><surname>Tibshirani</surname></citauth>, <title>An introduction to the bootstrap</title>, <citpub>CRC Press</citpub>, <year>1994</year></citation>
+      </citgroup>
+      <citgroup id="cit38">
+        <citation type="book">
+          <citauth>
+            <fname>P.</fname>
+            <surname>White</surname>
+          </citauth>, <citauth><fname>V.</fname><surname>Zykov</surname></citauth>, <citauth><fname>J. C.</fname><surname>Bongard</surname></citauth> and <citauth><fname>H.</fname><surname>Lipson</surname></citauth>, <title>Robotics: Science and Systems</title>, <year>2005</year>, <biblscope>pp. 161–168</biblscope></citation>
+      </citgroup>
+      <citgroup id="cit39">
+        <citation type="other">
+          <citauth>
+            <fname>J.</fname>
+            <surname>Neubert</surname>
+          </citauth>, <citauth><fname>A. P.</fname><surname>Cantwell</surname></citauth>, <citauth><fname>S.</fname><surname>Constantin</surname></citauth>, <citauth><fname>M.</fname><surname>Kalontarov</surname></citauth>, <citauth><fname>D.</fname><surname>Erickson</surname></citauth> and <citauth><fname>H.</fname><surname>Lipson</surname></citauth>, IEEE International Conference on Robotics and Automation (ICRA), 2010, pp. 2479–2484</citation>
+      </citgroup>
+      <citgroup id="cit40">
+        <journalcit>
+          <citauth>
+            <fname>W. M.</fname>
+            <surname>Jacobs</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Reinhardt</surname>
+          </citauth>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Frenkel</surname>
+          </citauth>
+          <title>Proc. Natl. Acad. Sci. U. S. A.</title>
+          <year>2015</year>
+          <volumeno>112</volumeno>
+          <pages>
+            <fpage>6313</fpage>
+            <lpage>6318</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit41">
+        <journalcit>
+          <citauth>
+            <fname>D.</fname>
+            <surname>Ipparthi</surname>
+          </citauth>
+          <citauth>
+            <fname>M.</fname>
+            <surname>Mastrangeli</surname>
+          </citauth>
+          <citauth>
+            <fname>A.</fname>
+            <surname>Winslow</surname>
+          </citauth>
+          <title>Theor. Comput. Sci.</title>
+          <year>2017</year>
+          <volumeno>671</volumeno>
+          <pages>
+            <fpage>19</fpage>
+            <lpage>25</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+      <citgroup id="cit42">
+        <journalcit>
+          <citauth>
+            <fname>K.</fname>
+            <surname>Saitou</surname>
+          </citauth>
+          <title>IEEE Trans. Rob. Autom.</title>
+          <year>1999</year>
+          <volumeno>15</volumeno>
+          <pages>
+            <fpage>510</fpage>
+            <lpage>520</lpage>
+          </pages>
+        </journalcit>
+      </citgroup>
+    </biblist>
+    <compoundgrp>
+    </compoundgrp>
+    <annotationgrp>
+    </annotationgrp>
+    <datagrp>
+    </datagrp>
+    <resourcegrp>
+    </resourcegrp>
+  </art-back>
+</article>
+<?Pub Caret -2?>
+<?Pub *0000074429 0?>

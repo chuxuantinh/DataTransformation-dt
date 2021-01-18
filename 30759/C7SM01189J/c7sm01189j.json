@@ -1,0 +1,143 @@
+{
+    "context" : {
+        "objectId" : "ctx_persistent3"
+    },
+    "localtags" : [ ],
+    "metadata" : {
+        "title" : "Yield prediction in parallel homogeneous assembly",
+        "creators" : [{
+            "person" : {
+                "givenName" : "Dhananjay",
+                "familyName" : "Ipparthi",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "IRIDIA, CoDE, Université libre de Bruxelles",
+                    "address" : "Brussels, Belgium"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Andrew",
+                "familyName" : "Winslow",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "Département d'Informatique, Université libre de Bruxelles",
+                    "address" : "Brussels, Belgium"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Metin",
+                "familyName" : "Sitti",
+                "organizations" : [{
+                    "identifier" : "ou_1497638",
+                    "name" : "Physical Intelligence Department, Max Planck Institute for Intelligent Systems",
+                    "address" : "Stuttgart, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Max Planck ETH Center for Learning Systems",
+                    "address" : "Stuttgart, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons140424",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Marco",
+                "familyName" : "Dorigo",
+                "organizations" : [{
+                    "identifier" : "",
+                    "name" : "IRIDIA, CoDE, Université libre de Bruxelles",
+                    "address" : "Brussels, Belgium"
+                }]
+            },
+            "role" : "AUTHOR",
+            "type" : "PERSON"
+        },{
+            "person" : {
+                "givenName" : "Massimo",
+                "familyName" : "Mastrangeli",
+                "organizations" : [{
+                    "identifier" : "ou_1497638",
+                    "name" : "Physical Intelligence Department, Max Planck Institute for Intelligent Systems",
+                    "address" : "Stuttgart, Germany"
+                },{
+                    "identifier" : "",
+                    "name" : "Max Planck ETH Center for Learning Systems",
+                    "address" : "Stuttgart, Germany"
+                }],
+                "identifier" : [{
+                    "id" : "persons/resource/persons182794",
+                    "type" : "CONE"
+                }]
+            },
+            "role" : "CORRES?AUTHOR",
+            "type" : "PERSON"
+        }],
+        "datePublishedOnline" : "2017-10-04",
+        "datePublishedInPrint" : "2017-10-25",
+        "dateAccepted" : "2017-09-19",
+        "dateSubmitted" : "2017-06-15",
+        "genre" : "ARTICLE",
+        "identifiers" : [{
+            "id" : "10.1039/c7sm01189j",
+            "type" : "DOI"
+        }],
+        "languages" : ["eng"],
+        "sources" : [{
+            "title" : "Soft Matter", 
+            "volume" : "13",
+            "issue" : "41", 
+            "startPage" : "7595", 
+            "endPage" : "7608",
+            "sequenceNumber" : " ",
+            "publishingInfo" : {
+                "publisher" : "The Royal Society of Chemistry"
+            },
+            "identifiers" : [{
+                "id" : "1744-6848",
+                "type" : "ISSN"
+            }],
+            "genre" : "JOURNAL"
+        }],
+        "freeKeywords" : "The parallel assembly of 2D target structures from homogeneous macroscopic components is studied experimentally and through a chemical reaction network-based model, highlighting the incompatible substructures problem.",
+        "abstracts" : [{
+            "languages" : ["eng"],
+            "value" : "We investigate the parallel assembly of two-dimensional, geometrically-closed modular target structures out of homogeneous sets of macroscopic components of varying anisotropy. The yield predicted by a chemical reaction network (CRN)-based model is quantitatively shown to reproduce experimental results over a large set of conditions. Scaling laws for parallel assembling systems are then derived from the model. By extending the validity of the CRN-based modelling, this work prompts analysis and solutions to the incompatible substructure problem."
+        }],
+        "totalNumberOfPages" : "14",
+        "projectInfo" : [{
+            "title" :" ",
+            "grantIdentifier" : {
+                "id" : "246939",
+                "type" : "GRANT_ID"
+            },
+            "fundingInfo" : {
+                "fundingOrganization" : {
+                    "title" :"H2020 European Research Council"
+                }
+            }
+        }]
+    },
+    "files" : [ {
+
+      "visibility" : "PUBLIC",
+      
+      "content" : "returned by staging",
+      "storage" : "INTERNAL_MANAGED",
+      
+      "metadata" : {
+        "title" : "C7SM01189J.pdf",
+        "contentCategory" : "any-fulltext"
+        
+      }
+    } ]
+}
